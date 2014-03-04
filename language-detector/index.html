@@ -1,0 +1,57 @@
+<HTML>
+
+<HEAD>
+<TITLE>TLD: The Language Detector</TITLE>
+</HEAD>
+
+<BODY>
+ <a href=https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=1BFo47ydDU1j0EsbnCdxq3BSzW60Ssn4CsCzclxxKVEJxFSYJ-AAPg01_HZ3d&hl=en_US>Project report</a> for <a href=http://www.uib.no/course/DASP303>DASP303</a> course, makes an attempt to descibes the implementation, however the <a href=http://code.google.com/p/the-language-detector/source/browse/MM.pl>source code</a> is probably better :) <p> Web interface is provided below; to detect the languagei, you need to provide the 'text' and 'links' to the language it might belong, and the interface will provide you back the probable answer to which language the 'text' might belong.
+
+<P>Fill in the text and submit it</P>
+
+<FORM ACTION="markov_model.cgi" METHOD="POST">
+
+<TABLE>
+<TR>
+<TD ALIGN="right"><STRONG>Text</STRONG></TD>
+<TD>
+<TEXTAREA NAME="Text" ROWS=5 COLS=20 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right"><STRONG>MainLanguage</STRONG></TD>
+<TD>
+<TEXTAREA NAME="MainLanguage" ROWS=1 COLS=50 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right"><STRONG>OtherLanguage</STRONG></TD>
+<TD>
+<TEXTAREA NAME="OtherLanguage" ROWS=1 COLS=50 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right"><STRONG>model_number</STRONG></TD>
+<TD>
+<TEXTAREA NAME="model" ROWS=1 COLS=20 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2> </TD></TR>
+<TR>
+<TD> </TD>
+<TD><INPUT TYPE="submit"> <INPUT TYPE="reset">
+
+</TD>
+</TR>
+</TABLE>
+
+</FORM>
+</BODY>
+</HTML>
+
+

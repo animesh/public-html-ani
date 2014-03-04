@@ -1,0 +1,128 @@
+<HTML>
+
+<HEAD>
+<TITLE>Support Vector Machine (SVM): Introduction and Usage</TITLE>
+</HEAD>
+
+<BODY>
+
+<strong>Lets classify :)</strong>
+
+<P><a href=https://docs.google.com/present/edit?id=0ARbjZeVL8S4EZGRqOGc1MnhfMzk4ZG5uYm5nZjc&hl=en&authkey=CKvKvdAH>Presentation</a></P>
+<p><a href=http://code.google.com/p/svm-demo/source/browse/trunk/svm_demo.m>
+Matlab demo source code</a></P>
+<p><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.3829&rep=rep1&type=pdf">
+Chris Burgess's nicely written article about SVM</a></P>
+
+
+
+<strong>SVM Test: Fill in the data links and submit it</strong>
+
+
+<FORM ACTION="svm.cgi" METHOD="POST">
+
+<TABLE>
+<TR>
+<TD ALIGN="right"><STRONG>Training Data (hyperlink)</STRONG></TD>
+<TD>
+<TEXTAREA NAME="TrainingData" ROWS=1 COLS=50 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right"><STRONG>Test Data (hyperlink)</STRONG></TD>
+<TD>
+<TEXTAREA NAME="TestData" ROWS=1 COLS=50 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="right"><STRONG>Polynomial Kernel Parameter (d)</STRONG></TD>
+<TD>
+<TEXTAREA NAME="model_parameter" ROWS=1 COLS=50 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2> </TD></TR>
+<TR>
+<TD> </TD>
+<TD><INPUT TYPE="submit"> <INPUT TYPE="reset">
+
+</TD>
+</TR>
+</TABLE>
+
+</FORM>
+
+The program demonstrated in above web-application and also mentioned in presentation is <a href=http://svmlight.joachims.org/svm_multiclass.html> SVM-light </a>
+<p>I would give you a
+brief example on how to use it, it is amazingly simple and powerful
+:):
+<p>
+1. download and compile
+on Linux (I will assume that you are using Linux for giving the
+example commands) this can be done using following commands:
+<p>
+wget http://download.joachims.org/svm_multiclass/current/svm_multiclass.tar.gz
+tar xvzf svm_multiclass.tar.gz
+<p>
+make
+<p>
+Binaries will be generate inside the directory where you initiated the
+'make' command.
+<p>
+2. format the input files (training and test files separately)
+I am not sure how much machine-learning you have been doing, but a
+short crash course is that you have a training data over which a model
+is build. This model is later tested on the test data. So for example,
+I have attached a training example from my gene-expression paper. This
+has 5 gene expression values and a class label '0 1' or '1 0'. Lets
+look at the first line of this file:
+<p>
+1124    298     1057    177     543     1       0
+<p>
+so the first five columns represents the normalised expression values
+for the five genes and last two columns represent a class label to
+which this pattern belongs to. Now this file needs to be converted to
+something the svm program can use. For this you can use the perl
+script I wrote <a href="http://www.ii.uib.no/~animesh/svm/ofs2svm.pl">ofs2svm.pl</a>. So given an input file, say the <a href="http://www.ii.uib.no/~animesh/svm/top5_tr.txt">top5_tr.txt</a> for training and  <a href="http://www.ii.uib.no/~animesh/svm/top5_te.txt">top5_te.txt</a>  for test and the
+knowledge that it is 2 class problem, one can covert the give files
+using command:
+<p>
+perl ofs2svm.pl top5_tr.txt 2
+<p>
+perl ofs2svm.pl top5_te.txt 2
+<p>
+this will generate 2 files 'top5_te.txt.svm.out' and
+'top5_te.txt.svm.out' respectively.
+<p>
+3. building the model
+<p>
+Generally I use polynomial kernel with default error tolerance. For linear problem one can simply use
+<p>
+./svm_multiclass_learn -c 0.01 -t 1 -d 1 top5_tr.txt.svm.out model
+<p>
+and for non-linear following works, for example over <a href="http://www.ii.uib.no/~animesh/svm/xor.txt">xor.txt</a> 
+<p>
+./svm_multiclass_learn -c 0.01 -t 1 -d 2 xor.txt model
+<p>
+4. prediction
+now we have to use this model to predict the class labels in the given
+test examples, which can be done using command:
+./svm_multiclass_classify top5_te.txt.svm.out  model predictions
+<p>
+5. performance calculation
+if you look at the first column of the svm formatted test files, you
+will see the actual class label and the file 'predictions' gives you
+the predicted class for that example. So the first row of file
+'top5_te.txt.svm.out' and 'predictions' are same, thus the model works
+well. The  misclassified examples are in the rows 3,5,15,17,18,30 and
+31. So overall performance of this model is about ~80%.
+Hope this gives you a little idea on how about using this SVM program.
+<p>
+
+</BODY>
+</HTML>
+
+
