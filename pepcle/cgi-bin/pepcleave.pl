@@ -1,7 +1,9 @@
+#!/usr/bin/perl
 use strict;
 my $file=shift;chomp $file;
-my $pep=shift;chomp $pep;$pep=uc($pep);
 my $id=0;
+my $pep=shift;chomp $pep;$pep=uc($pep);
+#$pep="qewewewewrqr";
 my $s=3;
 my $e=10;
 open(F,$file);
