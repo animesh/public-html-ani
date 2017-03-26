@@ -1,0 +1,41 @@
+<HTML>
+
+<HEAD>
+<TITLE>Map to KEGG pathway</TITLE>
+</HEAD>
+<P>Map to KEGG pathway</P>
+
+<BODY>
+
+<P>Copy-Paste tab separated values for Gene, columns as sample and rows starting with Gene symbol</P>
+
+<FORM ACTION="map2kegg.cgi" METHOD="POST">
+
+<TABLE>
+<TD ALIGN="right"><STRONG>KEGG pathway code</STRONG></TD>
+<TD>
+<TEXTAREA NAME="KEGG" ROWS=1 COLS=20 WRAP="virtual">
+</TEXTAREA>
+</TD>
+<TR>
+<TD ALIGN="right"><STRONG>Gene Exp Values</STRONG></TD>
+<TD>
+<TEXTAREA NAME="GV" ROWS=5 COLS=80 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
+<TR><TD COLSPAN=2> </TD></TR>
+<TR>
+<TD> </TD>
+<TD><INPUT TYPE="submit"> <INPUT TYPE="reset">
+
+</TD>
+</TR>
+</TABLE>
+<p>
+CITE: <a href="https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt285">Luo, Weijun, Brouwer and Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), pp. 1830-1831. doi: 10.1093/bioinformatics/btt285.</a>
+</FORM>
+</BODY>
+</HTML>
+
+
