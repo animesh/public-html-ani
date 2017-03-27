@@ -7,16 +7,23 @@
 
 <BODY>
 
-<P>Copy-Paste tab separated values for Gene, columns as sample and rows starting with Gene symbol</P>
+<P>Copy-Paste tab separated values for Protein (e.g. from Excel table, make sure decimal is not represented as a comma), column header as sample-name, first column for protein-name so that each rows startd with respective <strong>Uniprot</strong> code for the protein</P>
 
 <FORM ACTION="map2kegg.cgi" METHOD="POST">
 
 <TABLE>
-<TD ALIGN="right"><STRONG>KEGG pathway code</STRONG></TD>
+<TD ALIGN="left"><STRONG>KEGG pathway Species (e.g., hsa for Human)</STRONG></TD>
 <TD>
-<TEXTAREA NAME="KEGG" ROWS=1 COLS=20 WRAP="virtual">
+<TEXTAREA NAME="SPECIES" ROWS=1 COLS=20 WRAP="virtual">
 </TEXTAREA>
 </TD>
+<TR>
+<TD ALIGN="left"><STRONG>KEGG pathway Code (e.g., 00020 for TCA)</STRONG></TD>
+<TD>
+<TEXTAREA NAME="CODE" ROWS=1 COLS=20 WRAP="virtual">
+</TEXTAREA>
+</TD>
+</TR>
 <TR>
 <TD ALIGN="right"><STRONG>Gene Exp Values</STRONG></TD>
 <TD>
@@ -32,6 +39,7 @@
 </TD>
 </TR>
 </TABLE>
+<p>
 <p>
 CITE: <a href="https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btt285">Luo, Weijun, Brouwer and Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), pp. 1830-1831. doi: 10.1093/bioinformatics/btt285.</a>
 </FORM>
