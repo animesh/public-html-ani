@@ -34,7 +34,7 @@ $c=0;
                 elseif($verse>26  &&  $verse<29){
                         $verse="27-28";
                 }
-        }       
+        }
 	elseif($chapter==6){
 		$verse=rand(1,47);
                 if($chapter>10&&$chapter<13){
@@ -141,7 +141,7 @@ $c=0;
                 }
         }
 	if($verse == ""){$verse = 20;}
-	$url="http://vedabase.com/bg/$chapter/$verse/en";
+	$url="http://vedabase.com/bg/$chapter/$verse";
 	echo '<a href=';
 	echo $url;
 	echo " > Bhagwat Gita $chapter.$verse </a> <br> <br> ";
@@ -149,7 +149,7 @@ $c=0;
 #}
 
 
-$html = file_get_contents("http://vedabase.com/bg/$chapter/$verse/en");
+$html = file_get_contents("http://vedabase.com/bg/$chapter/$verse");
 #$rs='HREF=\"http://vedabase.com/\"';
 /*
 $html_rep =  preg_replace(
@@ -163,4 +163,3 @@ $html_rep=preg_replace('~HREF="*"~', 'href="http://vedabase.com/bg"', $html);
 echo $html_rep;
 
 ?>
-
