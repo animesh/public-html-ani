@@ -1,5 +1,8 @@
 <?php
-header("Refresh:5");
+header("Refresh:10");
+#<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/2cc7456b41212f1238193052f/d5c765ef353e428a0661f948a.js");</script>
+echo "<meta name=\"wot-verification\" content=\"cc2aef46e21ddd6a0cec\"\/>";
+echo "<body style='background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Notable_mutations.svg/1000px-Notable_mutations.svg.png) no-repeat center center;'>";
 echo "<div style=\"float:left; width:50%;\">";
 $response = file_get_contents('https://en.wikipedia.org/wiki/Special:RandomInCategory/Proteins');
 echo "<div style='text-align:center'>". $response .  "</div>";
@@ -13,7 +16,6 @@ echo "<div style=\"float:left; width:50%;\">";
 #echo str_pad((date("l") . date("Y/m/d") . date("h:i:sa") . "<br>"), 10, "-=", STR_PAD_LEFT);
 #$response = file_get_contents('http://www.weddslist.com/ms/tables.html#tm4');
 #echo "<div style='text-align:center'>". $response .  "</div>";
-#echo "<body style='background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Notable_mutations.svg/1000px-Notable_mutations.svg.png) no-repeat center center;'>";
 echo "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Notable_mutations.svg/500px-Notable_mutations.svg.png'>";
 echo "<img src='foo.png')";
 #echo "<img src='https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/1da4b201861591b0ac3707f3971614ae02d76e87/49-Table2-1.png')";
