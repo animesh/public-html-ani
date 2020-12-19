@@ -142,9 +142,11 @@ $c=0;
         }
 	if($verse == ""){$verse = 20;}
 	$url="http://vedabase.com/bg/$chapter/$verse";
-	echo '<a href=';
-	echo $url;
-	echo " > Bhagwat Gita $chapter.$verse </a> <br> <br> ";
+	header("Location: $url");
+	#exit();
+	#echo '<a href=';
+	#echo $url;
+	#echo " > Bhagwat Gita $chapter.$verse </a> <br> <br> ";
 	$c++;
 #}
 
@@ -160,6 +162,16 @@ $html_rep =  preg_replace(
 */
 #$html_rep=preg_replace('~HREF="*"~', 'href="http://vedabase.com/bg/"', $html);
 $html_rep=preg_replace('~HREF="*"~', 'href="http://vedabase.com/bg"', $html);
+list($a, $b) = explode('Bg', $html_rep);
+#echo $b;
 echo $html_rep;
-
+#$im = imagecreate(150, 20); // image size 150x20px
+#imagecolorallocate($im, 255, 255, 255); // background white
+#$text_color = imagecolorallocate($im, 0, 0, 0); // text color black
+#imagestring($im, 3, 5, 5, $html_rep, $text_color); // append string to image
+#header('Content-type: image/png'); // filetype
+#imagepng($im, 'image.png'); // save as image.png
+#$im = imagecreatefromstring($html_rep);
+#imagepng($im, 'img.png'); // save as image.png
+#imagedestroy($im); // free up memory
 ?>
