@@ -142,12 +142,12 @@ $c=0;
         }
 	if($verse == ""){$verse = 20;}
 	$url="http://vedabase.com/bg/$chapter/$verse";
-	#header("Location: $url");
+	header("Location: $url");
 	#exit();
 	#echo '<a href=';
 	#echo $url;
 	#echo " > Bhagwat Gita $chapter.$verse </a> <br> <br> ";
-	#$c++;
+	$c++;
 #}
 
 
@@ -162,25 +162,9 @@ $html_rep =  preg_replace(
 */
 #$html_rep=preg_replace('~HREF="*"~', 'href="http://vedabase.com/bg/"', $html);
 $html_rep=preg_replace('~HREF="*"~', 'href="http://vedabase.com/bg"', $html);
-#https://stackoverflow.com/a/12111268/1137129
-$dom = new DOMDocument();
-$dom->loadHTML($html_rep);
-$xpath = new DOMXPath($dom);
-$div = $xpath->query('//div[@class="col-12"]');#class="col-12"
-$div = $div->item(0);
-#echo $dom->saveXML($div);
-$line = $dom->saveXML($div);
-$linetxt = htmlspecialchars(trim(strip_tags($line)));
-echo $linetxt;
-echo '<a href=';
-echo $url;
-echo " > Bhagwat Gita $chapter.$verse </a> <br> <br> ";
-file_put_contents("/tmp/index.html", serialize($linetxt));
-$content = unserialize(file_get_contents("/tmp/index.html"));
-echo $content;
-#list($a, $b) = explode('Bg', $html_rep);
+list($a, $b) = explode('Bg', $html_rep);
 #echo $b;
-#echo $html_rep;
+echo $html_rep;
 #$im = imagecreate(150, 20); // image size 150x20px
 #imagecolorallocate($im, 255, 255, 255); // background white
 #$text_color = imagecolorallocate($im, 0, 0, 0); // text color black
