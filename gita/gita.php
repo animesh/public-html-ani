@@ -142,7 +142,7 @@ $c=0;
         }
 	if($verse == ""){$verse = 20;}
 	$url="http://vedabase.com/bg/$chapter/$verse";
-	#header("Location: $url");
+	header("Location: $url");
 	#exit();
 	#echo '<a href=';
 	#echo $url;
@@ -171,12 +171,15 @@ $div = $div->item(0);
 #echo $dom->saveXML($div);
 $line = $dom->saveXML($div);
 $linetxt = htmlspecialchars(trim(strip_tags($line)));
-echo $linetxt;
+#echo $linetxt;
 echo '<a href=';
 echo $url;
 echo " > Bhagwat Gita $chapter.$verse </a> <br> <br> ";
-file_put_contents("/tmp/index.html", serialize($linetxt));
-$content = unserialize(file_get_contents("/tmp/index.html"));
+#https://www.php.net/manual/en/language.constants.predefined.php
+$tmpdir = ".";#dirname(__FILE__);
+$tmpfile=$tmpdir."/data.txt";
+file_put_contents($tmpfile, serialize($linetxt));
+$content = unserialize(file_get_contents($tmpfile));
 echo $content;
 #list($a, $b) = explode('Bg', $html_rep);
 #echo $b;
