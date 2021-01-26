@@ -1,0 +1,14 @@
+secrets/
+*cache*/
+.Rproj.user
+.RDataTmp
+.RData
+.Rhistory
+*.RDS
+*.csv
+*.tsv
+*.json
+*.xml
+*.xlsx
+.DS_Store
+docker-compose.yml

@@ -1,6 +1,0 @@
-Reading model...done.
-Reading test examples... (34 examples) done.
-Classifying test examples...done
-Runtime (without IO) in cpu-seconds: 0.00
-Average loss on test set: 47.0588
-Zero/one-error on test set: 47.06% (18 correct, 16 incorrect, 34 total)

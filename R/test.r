@@ -1,0 +1,16 @@
+install.packages("webshot")
+webshot::install_phantomjs()
+URL<-"http://www.ii.uib.no/~animesh/verseAday/"
+webshot::webshot(URL)
+y<-make.names(Sys.time())
+x<-read.csv(url(URL))
+#assign(y,x)
+cn<-strsplit(colnames(x),"\\.")
+ssX<-paste(sapply(cn, "[", 10),sapply(cn, "[", 11))
+print(ssX)
+write.csv(as.data.frame(x),paste0("data_",y, "uib.Rda"))
+ssX<-"https://www.yugalsarkar.com/bhagwad-gita-chapter-"
+URL<-paste0(ssX,sapply(cn, "[", 10),"-shlok-",sapply(cn, "[", 11),"-english")
+write.csv(as.data.frame(read.csv(url(URL))),paste0("data_ys",y, ".Rda"))
+URL<-paste0(ssX,sapply(cn, "[", 10),"-shlok-",sapply(cn, "[", 11),"-english.png")
+write.csv(as.data.frame(read.csv(url(URL))),paste0("data_ys",y, ".png"))

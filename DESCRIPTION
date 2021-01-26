@@ -1,0 +1,25 @@
+Package: gita
+Title: Random Verse from URL<-"http://www.ii.uib.no/~animesh/verseAday/"
+Version: 0.0.0
+Authors@R: 
+    person(given = "ani",
+           role = c("aut", "cre"),
+           email = "sharma.animesh@gmail.com",
+           comment = c(ORCID = "0000-0002-8791-4635"))
+Description: batch analysis, deployed via GH actions to heroku. 
+License: `use_gpl3_license()`
+Depends:
+    R (>= 4.0.2)
+Imports:
+    rlang (>= 0.4.0),
+    workflows (>= 0.1.0),
+    recipes (>= 0.1.15),
+    jsonlite
+	webshot
+Suggests: 
+    modeldata,
+    rmarkdown
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
