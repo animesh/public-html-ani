@@ -1,12 +1,19 @@
 URL<-"http://www.ii.uib.no/~animesh/verseAday/"
-x<-read.csv(url(URL))
+download.file(URL,paste0("data.html"), mode = 'wb')
+x<-read.csv("data.html")
 cn<-strsplit(colnames(x),"\\.")
 ssX<-paste(sapply(cn, "[", 10),sapply(cn, "[", 11))
 print(ssX)
-write.csv(as.data.frame(x),paste0("data_uib.csv"))
-ssX<-"https://www.yugalsarkar.com/bhagwad-gita-chapter-"
-URL<-paste0(ssX,sapply(cn, "[", 10),"-shlok-",sapply(cn, "[", 11),"-english")
-download.file(URL,paste0("data_ys.html"), mode = 'wb')
-URL<-paste0(ssX,sapply(cn, "[", 10),"-shlok-",sapply(cn, "[", 11),"-english.png")
-download.file(URL,paste0("data_ys.png"), mode = 'wb')
-
+write.csv(as.data.frame(x),paste0("data.csv"))
+URL<-paste0("Chapter-",sapply(cn, "[", 10),"-Verse-",sapply(cn, "[", 11))
+png("data.png")
+par(mar = c(0,0,0,0))
+plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
+text(x = 0.5, y = 0.5, paste(URL,"\n",shlokaClean),cex = 2, col = "orange")
+dev.off()
+rawHTML <- paste(readLines("data.html"))#, collapse="\n")
+write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
+shloka<-rawHTML[grep("r r-devanagari",rawHTML)]
+shlokaClean<-gsub(".*r-devanagari(.+)div.*", "\\1", shloka)
+shlokaClean<-gsub("<br/>", "\n", shlokaClean)
+writeLines(shlokaClean,paste0("data_html.txt"))
