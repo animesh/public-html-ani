@@ -30,6 +30,6 @@ URL<-paste0("Chapter-",sapply(cn, "[", 10),"-Verse-",sapply(cn, "[", 11))
 png("data.png")
 par(mar = c(0,0,0,0))
 plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
-text(x = 0.5, y = 0.75, paste(URL,"\n",shlokaClean),cex = 1, col = "orange")#,vfont=c("serif", "plain"))
+text(x = 0.5, y = 0.75, paste(URL,"\n",shlokaClean),cex = 1.5, col = "orange")#,vfont=c("serif", "plain"))
 dev.off()
 

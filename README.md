@@ -1,18 +1,16 @@
-# Accessing a random verse from "http://www.ii.uib.no/~animesh/verseAday/" and mapping to yugalsarkar base
-<br><br>
-app: http://www.ii.uib.no/~animesh/verseAday/ 
-<br><br>
-source: https://github.com/animesh/scripts/blob/master/diffExprPlots.rmd 
-mailto: sharma.animesh@gmail.com?subject=%Bhagwat%20Gita%22
+
+# Accessing a random verse from [Bhagavad-gītā As It Is](https://vedabase.io/en/library/bg)
+app:			[verseAday](http://www.ii.uib.no/~animesh/verseAday/)
+source:	[GitHub](https://github.com/animesh/public-html-ani/blob/gita)
+email: 		[ani](mailto:sharma.animesh@gmail.com?subject=BhagwatGita)
+
 ```bash
 git clone https://github.com/animesh/public-html-ani/
 git checkout -b gita
 ```
-base: https://github.com/animesh/public-html-ani/tree/master/gita
+# base: https://github.com/animesh/public-html-ani/blob/gita/gita.Rproj
 
-# deps
-library(curl)
-library(webshot)
-
-# run
-cron: "0 * * * *"
+# schedule
+```
+cron: "30 06 * * *"
+```
