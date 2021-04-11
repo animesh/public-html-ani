@@ -1,12 +1,13 @@
-URL<-"http://www.ii.uib.no/~animesh/verseAday/"
+URL<-"http://fuzzylife.org/"
 download.file(URL,paste0("data.html"), mode = 'wb')
-x<-read.csv("data.html")
-cn<-strsplit(colnames(x),"\\.")
-ssX<-paste(sapply(cn, "[", 10),sapply(cn, "[", 11))
-print(ssX)
-write.csv(as.data.frame(x),paste0("data.csv"))
+getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
+cn<-rawHTML[grep("<title>",rawHTML)]
+cn<-gsub("</title>","",cn)
+cn<-gsub("<title>Bg. ","",cn)
+cn<-gsub(" ","",fixed=T,cn)
+print(cn)
 shloka<-rawHTML[grep("r r-lang-en r-translation",rawHTML)]
 shlokaClean<-gsub(".*r r-lang-en r-translation(.+)div.*", "\\1", shloka)
 shlokaClean<-gsub(" ><p><strong>", "\n", shlokaClean)
@@ -28,10 +29,9 @@ shlokaClean<-gsub("â€“","-",shlokaClean)
 #shlokaClean<-iconv(shlokaClean, "latin1", "ASCII//TRANSLIT")
 shlokaClean<-paste(strwrap(shlokaClean,width=50),collapse="\n")
 writeLines(shlokaClean,paste0("data_html.txt"))
-URL<-paste0("Chapter-",sapply(cn, "[", 10),"-Verse-",sapply(cn, "[", 11))
+URL<-paste0("Chapter.Verse-",cn)
 png("data.png")
 par(mar = c(0,0,0,0),bg = "chocolate",family = 'mono')
 plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
 text(x = 0.5, y = 0.75, paste(URL,"\n",shlokaClean),cex = 1.2, col = "white")
 dev.off()
-
