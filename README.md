@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/animesh/public-html-ani)
+
 
 # Accessing a random verse from [Bhagavad-gītā As It Is](https://vedabase.io/en/library/bg)
 app:			[verseAday](http://www.ii.uib.no/~animesh/verseAday/)
