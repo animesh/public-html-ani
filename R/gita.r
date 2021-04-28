@@ -146,7 +146,7 @@ if(verse == ""){verse = 20;}
 #$c++;
 #}
 URL = paste0("https://vedabase.io/en/library/bg/",chapter,"/",verse,"/");
-download.file(URL,paste0("data.html"), mode = 'wb')
+download.file(URL,paste0("data.html"), mode = 'wb',headers = c("User-Agent" = "R/github"))
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
