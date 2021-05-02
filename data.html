@@ -1,136 +1,1203 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
+<!DOCTYPE html>
+
+<html lang="en" class="no-js">
 <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-  <meta name="robots" content="noindex, nofollow" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Just a moment...</title>
-  <style type="text/css">
-    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
-    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
-    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
-    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
-    p, .attribution, {text-align: center;}
-    #spinner {margin: 0 auto 30px auto; display: block;}
-    .attribution {margin-top: 32px;}
-    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
-    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
-    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
-    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
-    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
-    a:hover{color: #f4a15d}
-    .attribution{font-size: 16px; line-height: 1.5;}
-    .ray_id{display: block; margin-top: 8px;}
-    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
-    #cf-hcaptcha-container { text-align:center;}
-    #cf-hcaptcha-container iframe { display: inline-block;}
-  </style>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-      <meta http-equiv="refresh" content="12">
-  <script type="text/javascript">
-    //<![CDATA[
-    (function(){
-      
-      window._cf_chl_opt={
-        cvId: "2",
-        cType: "non-interactive",
-        cNounce: "99512",
-        cRay: "649206166920fef2",
-        cHash: "72bbc114cc36726",
-        cFPWv: "b",
-        cTTimeMs: "4000",
-        cRq: {
-          ru: "aHR0cHM6Ly92ZWRhYmFzZS5pby9lbi9saWJyYXJ5L2JnLzExLzQv",
-          ra: "Y3VybC83LjU4LjA=",
-          rm: "R0VU",
-          d: "BQ5OxKmFaXZom8lZZpqMgEiJz+s2Nl3nwQGk0G33Td38M3Dw6/LmZmM5Xs+uDWZjk/aVHsvBD6+Dj3WAusJ+1rHbsnxB32yNnOa1kvmwzRJqegH0MtQr+vMhHP7BgxZBfRBCb041wTLXCQ+GubmEMcyrG1Xvae+iqKi4tmdKcRKyyQ7a71gpIsZ3rT3JryyN2g1TmIAsMDSQsByZkQh41hOKVKlQTucLbL+9tN5c0Gwcva+aHh7IKO2pb/H/7dmgFJOfWk/fDTOY5AFoTe2u8g7TpMRiJdVJB6wtv+FoOpLHFlyvU70Eoff3tUad2bDKwgmRe+n1mCU35yS0d+pwnomWuwtaprdGdVaVmiY4pts7ePhK70o4eku8qK8daTgIaCurunyyVuzzy5hdv/UCE+AMn3hP1uBulP+XyKhfqYCf/lyFIkstEElKjiWDcf4M9ZmydurB/TjfW63NCHclJXzuORtvwLCfyiNyVrWRnDE9vCTCvZ16XjZvu67AGkyFMlKn6foYN57TmyWIcU3wH5xsBd3s3Xy5PfvfeBjOQrczD6w39Tt+zOnnY8Zx4A3XLdUlUlY580d4JCrvesXGNOKs627Ebz/tCeehfDXlBUpx9RPcfm9ZCJkdTb0aNcAi6UxvpXM8MMQkf9ZD5O9ts4H3aWECzfmJh2LkQktEQPkQ6vieBwNxbdHIaV+P8B0M",
-          t: "MTYxOTk2NjYyNi4zMjEwMDA=",
-          m: "V/P6gdbgMSHZbzBwOFxRSeCSt4RqyS8oZxX7onmZSjA=",
-          i1: "EMdDLgIqfCMy7ujN8V3RaA==",
-          i2: "drWl86pze5eQtAKORXaNJQ==",
-          zh: "/7MueO002rolCOkwnlfRHID78UWjYmKMx5ndzdEogV8=",
-          uh: "3eCW9wmHFxRdeO8XVCuzIxmX/hZFk4VAcqHhoWaSI4Q=",
-          hh: "4GYTTBXVPQmWyzQtc+aKQ2j89N4pq9NL5ABbVI30gO8=",
-        }
-      }
-      window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
-      
-    })();
-    //]]>
-  </script>
-  
+    <title>Bg. 11.49</title>
+    <meta name="description" content="" />
+    <meta property="og:image" content="/static/img/vedabase-banner.jpg" />
 
-</head>
-<body>
-  <table width="100%" height="100%" cellpadding="20">
-    <tr>
-      <td align="center" valign="middle">
-          <div class="cf-browser-verification cf-im-under-attack">
-  <noscript>
-    <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
-  </noscript>
-  <div id="cf-content" style="display:none">
+    <link rel="icon" href="/static/icons/favicon.ico">
+    <link rel="shortcut icon" href="/static/icons/favicon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/static/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/static/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/static/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/static/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/static/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/icons/favicon-16x16.png">
+    <link rel="manifest" href="/static/icons/manifest.json">
+    <meta name="msapplication-TileColor" content="#f1c43d">
+    <meta name="msapplication-TileImage" content="/static/icons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#f1c43d">
+
+
     
-    <div id="cf-bubbles">
-      <div class="bubbles"></div>
-      <div class="bubbles"></div>
-      <div class="bubbles"></div>
-    </div>
-    <h1><span data-translate="checking_browser">Checking your browser before accessing</span> vedabase.io.</h1>
     
-    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
-      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
-    </div>
-    <p data-translate="process_is_automatic">This process is automatic. Your browser will redirect to your requested content shortly.</p>
-    <p data-translate="allow_5_secs" id="cf-spinner-allow-5-secs" >Please allow up to 5 seconds&hellip;</p>
-    <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting&hellip;</p>
-  </div>
-   
-  <form class="challenge-form" id="challenge-form" action="/en/library/bg/11/4/?__cf_chl_jschl_tk__=b1c61e1bae7af812e8084ddb99891528fa2b1288-1619966626-0-AUG1tlQcywMFVbogisI3OJbu3ODjUHIqr5ZPygtenGfe25N_V6QRzY09gHIHOigdjjoW7gyKZNMvxFeAkH0Wr0fIx4r_p8RNeAfp6olyStr0Gc_dJzkNBVgW5msU4NaYJrwfLTAwwNA_Q8hyibB-Ox9HTaHDrts8mO2YMLf3ROIJk2DQmXBuStSCW4vPEI_Cn4qlR_LGKGyKqv8bDuiyjqgwG55IAT6rr2Ub1U3Q9sOePkicBgWLmd_t6-eudbYeQ_95CK9Hf2OPLBUx5fWE0mgDDWA_Az6q2k01oazBV9qTxuCcGnCq5GmuqXv6_e-0WGuBZRc1O_WtTdZmIVYGdUIlpw5zlXE3lbMQA9Uzb1wf3wZH5mYA9ybuItM06QsHo7rYNZKvSo9aM0fHQLq41cdTm86fGiJlTWVpslWh9FL-m47BwMfjKUI6MMkALGAavg" method="POST" enctype="application/x-www-form-urlencoded">
-    <input type="hidden" name="r" value="d3b1d1f8f039994cb28b307531d31e3ffc7c783c-1619966626-0-AS+ayB+bCwKn2L0VAE1N/g3kkxBzU3cpUEspiDVt8yCpE06XdEHoGaxLA4YfgDSnIbkdqk9/XZ/zQASXDAzbzSuXhF3uq5G7zbWWIq8ZDy3jYqoAoopwdD53PAhntzLB/Mu15cAfGEiraHPkoyviEC5gdQX5iA8kXi4w3LcueNRSuEa2zD8DCSvo0hTaV9HcA+k/0ee7YczLboR08CWzQHb3kh/ub+AG/38emxwnceXxPB9cjVOhW/6W7GNCq8k50UmZmiMzYYW/YdOo54b/Df42OzjRHUiUMLCk4GVlVve89KqEY9XrQGMFpGYzkTQdh4Jr8VysOgoRWQ1pmtB2M68E7427YShtqczVmF8MI29EUHbwygIimcMS0sfG4fwFH7pyO8ZsuMo9j23ibYJ2TOmJg/1aCtNi+9mKuWPt6W0kmpOTNBG3CjD2COnulPAip3hSFuNpo5cZ4k4mUGOiwBQQjJudSRKjNTlj0I9uYUkVz//1awkixdGDDqq6Q3rj7laq6JfrwQiv0KWMaGk8Oenpc4N2ja87euSYmu1IA7ctuWr+EZ4ygKA4Wu8hEyW4uoG3y//DZ006NtNQmGpwidvjiqw0ayCqlzz4sTOWe2izAvkpZDWyHPkWnXD1xU13lBBY+xh8pdlXGlywdXiDgQ5a8KJUDsFpBCVIl+05NpA/YNryWXy1f0pNfmj7HSmw/z1wB+fNZasJLeHdsSJjWBgeLCQom0xMeZxw9ETvSWIpnMbuj+dFXbuFHRUqCWIrVBPU55if1USzJ8OoVUBfHaAhKL8LLtY0/95+U4CTs1FKKCKWJWsweRTjDkOITVepVOdEwo93dULlNLrdEe4nuw/gmyMv7lV2h/5iOjH+W5mFuekjh5LGKoLday/Ko9+H4bb9u1VflSeL9+HhY6KCRaXHvOELCp43g0mAGNtSsFf4EzwK4pEwJPRSM1G05lkPYGxpHNA6NEtAvLRmFWPUYUwL8NTicmSa0uadHWsuJASJcx+UpThvnsxrT6WxT0YgeVWPKxESlH4W+b1cWkGnD6GepeQ8B1dK4Tfg+0jVE0T8I1/x0uxIYE8WwRpHzM060E+Dh35rWHnHsxWxUmLyfeJkD9fAhWBg7ml7+Y+64GRmDPgXg7yJdJd3jAqNIAgmJUSaYltFS2KLP7ynRDtq8pxUHVGcqDxhRaHipEJo/G8qRSnlOuF08xu3BvNYSvLRiMlliXqFhtvm89+iJUiR9Yb03cclUFZ6+a0lmVYIyyGMpfomamwu4N8i8G0uaMgTS7kQ/4L5yJN8GWIWldAkSwtF0+1lH6bC/5ur5RxJEo57Axu7JEUVc+X5fruf86gzqLQ231l5pTHATCHtbCY2cLHR8OvDxq0AWGblQQl8mA5eKZ/SNDMVoj7vBmuXDt+iaTytge61n6uEDv645m+dMr+FlnIUsytldKDAUR3UmUV0JpUweEY4eFmI6AUWHnY94LdpKynrfaWf+9vxL1nP+aTZ3UjB0p6DEtDUhWViBzkTNeG+H3RsCtTD4YJ28mt9J6zGpi4eoJq6uNQ82gaW3azsCPEbvpwsr1C8t8TOU2HQQBQnX9n6sk8NT79fgkSJ2kr/anfuR3gy6u1kXXPiQsMzswr9KBTxMuhl3tas3QckwH6UhQIsHh8VcdhpwzKg75jGPoaE17rGBbPdnhtPL8RSvFUstSpj84jULqcRQJ3rE+Z6biUx1MlCIzoUVYOSYFsaeLcVCC4+1XVZkg11N0Xm5YYdYgZwoVKbKLFXC+9PgprTlT3uatosWDXiPLH14w=="/>
-    <input type="hidden" value="cde89ea9fd0f32d38cc12e41921a9b2a" id="jschl-vc" name="jschl_vc"/>
-    <!-- <input type="hidden" value="" id="jschl-vc" name="jschl_vc"/> -->
-    <input type="hidden" name="pass" value="1619966630.321-wTE2XNiQPY"/>
-    <input type="hidden" id="jschl-answer" name="jschl_answer"/>
-  </form>
-     
-    <script type="text/javascript">
-      //<![CDATA[
-      (function(){
-          var a = document.getElementById('cf-content');
-          a.style.display = 'block';
-          var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
-          var trkjs = isIE ? new Image() : document.createElement('img');
-          trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=649206166920fef2");
-          trkjs.id = "trk_jschal_js";
-          trkjs.setAttribute("alt", "");
-          document.body.appendChild(trkjs);
-          var cpo=document.createElement('script');
-          cpo.type='text/javascript';
-          cpo.src="/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=649206166920fef2";
-          document.getElementsByTagName('head')[0].appendChild(cpo);
-        }());
-      //]]>
+    
+    
+    <script>
+        !function(e){var n=!1;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var o=window.Cookies,t=window.Cookies=e();t.noConflict=function(){return window.Cookies=o,t}}}(function(){function e(){for(var e=0,n={};e<arguments.length;e++){var o=arguments[e];for(var t in o)n[t]=o[t]}return n}function n(o){function t(n,r,i){var c;if("undefined"!=typeof document){if(arguments.length>1){if(i=e({path:"/"},t.defaults,i),"number"==typeof i.expires){var a=new Date;a.setMilliseconds(a.getMilliseconds()+864e5*i.expires),i.expires=a}try{c=JSON.stringify(r),/^[\{\[]/.test(c)&&(r=c)}catch(e){}return r=o.write?o.write(r,n):encodeURIComponent(String(r)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),n=encodeURIComponent(String(n)),n=n.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent),n=n.replace(/[\(\)]/g,escape),document.cookie=[n,"=",r,i.expires?"; expires="+i.expires.toUTCString():"",i.path?"; path="+i.path:"",i.domain?"; domain="+i.domain:"",i.secure?"; secure":""].join("")}n||(c={});for(var p=document.cookie?document.cookie.split("; "):[],s=/(%[0-9A-Z]{2})+/g,d=0;d<p.length;d++){var f=p[d].split("="),u=f.slice(1).join("=");'"'===u.charAt(0)&&(u=u.slice(1,-1));try{var l=f[0].replace(s,decodeURIComponent);if(u=o.read?o.read(u,l):o(u,l)||u.replace(s,decodeURIComponent),this.json)try{u=JSON.parse(u)}catch(e){}if(n===l){c=u;break}n||(c[l]=u)}catch(e){}}return c}}return t.set=t,t.get=function(e){return t.call(t,e)},t.getJSON=function(){return t.apply({json:!0},[].slice.call(arguments))},t.defaults={},t.remove=function(n,o){t(n,"",e(o,{expires:-1}))},t.withConverter=n,t}return n(function(){})});
+
     </script>
-  
+    
 
-  
-  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=649206166920fef2')"> </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+
+    <script>
+        var csrf_token = 'rKiOSQYY3nOPUGTBdrjEbnIB4cG6jmz2guBTQUkOqC1xbroTPNVffOsBkMGipzpb';
+    </script>
+
+
+    
+    
+    
+    
+    
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/jquery.mmenu.all.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/dropdown/jquery.mmenu.dropdown.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/autoheight/jquery.mmenu.autoheight.css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/jquery.mmenu.all.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/dropdown/jquery.mmenu.dropdown.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/autoheight/jquery.mmenu.autoheight.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.0/rangeslider.min.js"></script>
+
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.0/rangeslider.min.css">
+
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css?20210218-1">
+
+    <link href="https://fonts.maateen.me/adorsho-lipi/font.css" rel="stylesheet">
+
+
+    <style>
+        @font-face {
+            font-family: 'Noto Serif vedabaseio';
+            font-display: swap;
+            src: url(/static/fonts/noto/NotoSerif-Regular.woff2);
+        }
+        @font-face {
+            font-family: 'Noto Serif vedabaseio';
+            font-style: italic;
+            font-weight: normal;
+            font-display: swap;
+            src: url(/static/fonts/noto/NotoSerif-Italic.woff2);
+        }
+        @font-face {
+            font-family: 'Noto Serif vedabaseio';
+            font-weight: bold;
+            font-display: swap;
+            src: url(/static/fonts/noto/NotoSerif-Bold.woff2);
+        }
+
+        @font-face {
+            font-family: 'Noto Sans vedabaseio';
+            font-display: swap;
+            src: url(/static/fonts/noto/NotoSans-Regular.woff2);
+        }
+        @font-face {
+            font-family: 'Noto Sans vedabaseio';
+            font-style: italic;
+            font-weight: normal;
+            font-display: swap;
+            src: url(/static/fonts/noto/NotoSans-Italic.woff2);
+        }
+        @font-face {
+            font-family: 'Noto Sans vedabaseio';
+            font-weight: bold;
+            font-display: swap;
+            src: url(/static/fonts/noto/NotoSans-Bold.woff2);
+        }
+    </style>
+
+    <script>
+        WebFont.load({
+            
+            
+            
+            
+            
+            custom: {
+                families: ['Noto Sans Devanagari'],
+                urls: ['//fonts.googleapis.com/earlyaccess/notosansdevanagari.css'],
+            }
+        });
+    </script>
+
+    
+
+    
+
+    
+    
+        
+    
+
+<style>
+    .mm-menu {
+        display: none;
+    }
+</style>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="has-floating-menu template-verse use-serif justify-text" font-size="3">
+    <script>
+        
+        var uid = 'None';
+        var font_size = Cookies.get('VEDABASE_SETTING-font-size-' + uid);
+
+if (font_size) {
+    document.body.setAttribute('font-size', font_size);
+} else {
+    font_size = 3;
+    document.body.setAttribute('font-size', font_size);
+}
+
+if (Cookies.get('VEDABASE_SETTING-use-serif-' + uid) == 0) {
+    document.body.className = document.body.className.replace(/(?:^|\s)use-serif(?!\S)/,'');
+}
+
+if (Cookies.get('VEDABASE_SETTING-justify-text-' + uid) == 0) {
+    document.body.className = document.body.className.replace(/(?:^|\s)justify-text(?!\S)/,'');
+}
+
+    </script>
+
+    <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+    
+
+    
+
+
+
+
+
+
+
+<div id="header">
+    <div class="main-navigation-wrapper">
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand col-12">
+                    <a class="navbar-brand mr-auto" href="/en/"><span>Bhaktivedanta </span>Vedabase</a>
+
+                        <ul class="navbar-nav ml-auto">
+                            
+                                <li class="nav-item">
+                                    
+
+<a class="mmenu-dropdown-link" href="#main-menu">
+    <i class="fa fa-bars"></i>&nbsp; <span>Menu</span>
+</a>
+<nav id="main-menu" class="mm-menu">
+    
+
+    <ul>
+        
+        <li class="">
+            <a href="/en/library/">Library</a>
+            
+                 
+
+	<ul>
+	
+	    <li class="">
+	        <a href="/en/library/">Books</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/library/transcripts/">Transcripts</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/library/letters/">Letters</a>
+	        
+	    </li>
+	
+	</ul>
+
+
+            
+        </li>
+        
+        <li class="">
+            <a href="/en/features/">Feature Tour</a>
+            
+                 
+
+	<ul>
+	
+	    <li class="">
+	        <a href="/en/features/">Overview</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/library/">Library</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/settings/">Settings</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/reading-history/">Reading History</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/advanced-chapter-view/">Advanced Chapter View</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/dual-language-view/">Dual Language View</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/user-account/">User Account</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/bookmarks/">Bookmarks</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/keyboard-shortcuts/">Keyboard shortcuts</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/categorization/">Categorization</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/features/search/">Search</a>
+	        
+	    </li>
+	
+	</ul>
+
+
+            
+        </li>
+        
+        <li class="">
+            <a href="/en/contact/">Contact Us</a>
+            
+        </li>
+        
+        <li class="">
+            <a href="/en/donate/">Donate</a>
+            
+        </li>
+        
+        <li class="">
+            <a href="/en/search/">Search</a>
+            
+        </li>
+        
+        <li class="">
+            <a href="/en/tools/">Tools</a>
+            
+                 
+
+	<ul>
+	
+	    <li class="">
+	        <a href="/en/tools/convert-balarama-to-utf8/">Convert from Balarama to UTF8</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/tools/convert-tamal-to-utf8/">Convert Tamal to UTF8</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/tools/convert-russian-vedabase-to-utf8/">Convert Russian Vedabase to UTF8</a>
+	        
+	    </li>
+	
+	    <li class="">
+	        <a href="/en/tools/remove-diacritics/">Remove diacritics</a>
+	        
+	    </li>
+	
+	</ul>
+
+
+            
+        </li>
+        
+    </ul>
+
+</nav>
+
+                                </li>
+                                
+                                
+                                <li class="nav-item settings-menu">
+                                    
+<a class="mmenu-dropdown-link" href="#settings-menu">
+    <i class="fa fa-cog"></i>&nbsp; <span>Settings</span> <i class="fa fa-angle-down"></i>
+</a>
+<script>
+    function settings_by_value(el, name) {
+        Cookies.set('VEDABASE_SETTING-'+ name +'-' + uid, el.val());
+        $('body').attr('font-size', el.val());
+    }
+    function settings_by_class(el, name) {
+        if (el.is(':checked')) {
+            Cookies.set('VEDABASE_SETTING-'+ name +'-' + uid, 1);
+            $('body').addClass(name);
+        }
+        else {
+            Cookies.set('VEDABASE_SETTING-'+ name +'-' + uid, 0);
+            $('body').removeClass(name);
+        }
+    }
+</script>
+<nav id="settings-menu" class="mm-menu">
+    <div>
+        <div class="form-check mmenu-row">
+            <label>Font size</label>
+
+            <input type="range" min="1" max="8" data-rangeslider
+                   id="settings-font-size"
+                   oninput="settings_by_value($(this), 'font-size');"
+            >
+
+        </div>
+
+        <div class="form-check mmenu-row">
+            <label class="form-check-label">
+                <input checked id="settings-use-serif" type="checkbox" class="form-check-input" onchange="settings_by_class($(this), 'use-serif')">
+                Use Serif Font
+            </label>
+        </div>
+        <div class="form-check mmenu-row">
+            <label class="form-check-label">
+                <input checked id="settings-justify-text" type="checkbox" class="form-check-input" onchange="settings_by_class($(this), 'justify-text')">
+                Justify Text
+            </label>
+        </div>
+
+       
+    </div>
+</nav>
+<script>
+    if (font_size) {
+       document.getElementById("settings-font-size").value = font_size;
+    }
+    if (Cookies.get('VEDABASE_SETTING-use-serif-' + uid) == 0) {
+        document.getElementById("settings-use-serif").checked = false;
+    }
+    if (Cookies.get('VEDABASE_SETTING-keep-gaura-times-' + uid) == "1") {
+        document.getElementById("settings-keep-gaura-times").checked = true;
+    }
+    if (Cookies.get('VEDABASE_SETTING-justify-text-' + uid) == 0) {
+        document.getElementById("settings-justify-text").checked = false;
+    }
+</script>
+
+                                </li>
+                                
+                            
+                            <li class="nav-item language-menu">
+                                
+
+
+
+
+
+
+
+
+<a class="mmenu-dropdown-link" href="#language-menu">
+    <i class="fa fa-globe"></i>&nbsp; <span>English</span> <i class="fa fa-angle-down"></i>
+</a>
+
+
+
+
+<nav id="language-menu" class="mm-menu">
+    <ul>
+        
+        <li><a href="/en/library/bg/11/49/">English</a></li>
+        
+        <li><a href="/nl/library/bg/11/49/">Nederlands (Dutch)</a></li>
+        
+        <li><a href="/ru/library/bg/11/49/">Русский (Russian)</a></li>
+        
+        <li><a href="/da/library/bg/11/49/">Dansk (Danish)</a></li>
+        
+        <li><a href="/et/library/bg/11/49/">Eesti keel (Estonian)</a></li>
+        
+        <li><a href="/sk/library/bg/11/49/">Slovenčina (Slovak)</a></li>
+        
+        <li><a href="/es/library/bg/11/49/">Español (Spanish)</a></li>
+        
+        <li><a href="/de/library/bg/11/49/">Deutsch (German)</a></li>
+        
+        <li><a href="/uk/library/bg/11/49/">українська мова (Ukrainian)</a></li>
+        
+        <li><a href="/lt/library/bg/11/49/">Lietuvių kalba (Lithuanian)</a></li>
+        
+        <li><a href="/sl/" class="not-translated">Slovenščina (Slovenian)</a></li>
+        
+        <li><a href="/fi/" class="not-translated">Suomen kieli (Finnish)</a></li>
+        
+        <li><a href="/cs/library/bg/11/49/">Čeština (Czech)</a></li>
+        
+        <li><a href="/hu/library/bg/11/49/">Magyar (Hungarian)</a></li>
+        
+        <li><a href="/fr/library/bg/11/49/">Français (French)</a></li>
+        
+        <li><a href="/ko/library/bg/11/49/">한국어 (Korean)</a></li>
+        
+        <li><a href="/pt-br/library/bg/11/49/">Português (Portuguese)</a></li>
+        
+        <li><a href="/bg/library/bg/11/49/">Български (Bulgarian)</a></li>
+        
+        <li><a href="/ja/library/bg/11/49/">日本語 (Japanese)</a></li>
+        
+        <li><a href="/zu/" class="not-translated">isiZulu (Zulu)</a></li>
+        
+    </ul>
+</nav>
+
+
+                            </li>
+                            <li class="nav-item user-menu">
+                                
+
+
+    <a class="mmenu-dropdown-link" href="/en/accounts/login/?next=/en/library/bg/11/49/">
+        <i class="fa fa-user"></i>&nbsp; <span>Sign In</span>
+    </a>
+
+
+
+                            </li>
+                        </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="second-navigation-wrapper">
+        <div class="container">
+            <div class="record-controls ml-auto">
+                <div id="advanced-view-wrapper" class="float-right"></div>
+                
+                    
+
+
+
+
+
+
+
+
+    
+
+<a href="#view-switcher" class="record-toggle">Default View <i class="fa fa-angle-down"></i></a>
+<nav id="view-switcher" class="mm-menu">
+    <ul>
+        
+
+        
+
+        
+
+        
+            
+                <li><a href="/en/library/bg/11/advanced-view/#bb3001">Show in Advanced View</a></li>
+            
+        
+
+        
+            
+                <li><span>Dual Language View</span>
+                    <ul>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/hu/">
+                                    Magyar (Hungarian)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/sk/">
+                                    Slovenčina (Slovak)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/ru/">
+                                    Русский (Russian)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/et/">
+                                    Eesti keel (Estonian)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/da/">
+                                    Dansk (Danish)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/cs/">
+                                    Čeština (Czech)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/nl/">
+                                    Nederlands (Dutch)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/de/">
+                                    Deutsch (German)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/es/">
+                                    Español (Spanish)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/uk/">
+                                    українська мова (Ukrainian)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/lt/">
+                                    Lietuvių kalba (Lithuanian)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/ja/">
+                                    日本語 (Japanese)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/pt-br/">
+                                    Português (Portuguese)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/fr/">
+                                    Français (French)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/bg/">
+                                    Български (Bulgarian)
+                                </a>
+                            </li>
+                        
+                            <li>
+                            
+                                <a href="/en/library/bg/11/49/side-by-side/ko/">
+                                    한국어 (Korean)
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </li>
+            
+        
+    </ul>
+</nav>
+
+
+<a href="#page-info-menu" class="record-toggle ml-1 page-info-button">
+    <i class="fa fa-info-circle"></i> Page Info <i class="fa fa-angle-down"></i>
+</a>
+
+<nav id="page-info-menu" class="mm-menu rich-menu">
+    <div id="panel">
+        <h1 class="pt-title">Page Info</h1>
+
+        
+
+        
+        
+
+        <div class="basic-item">
+            <a class="toggle-bookmark"
+               data-csrf-token="rKiOSQYY3nOPUGTBdrjEbnIB4cG6jmz2guBTQUkOqC1xbroTPNVffOsBkMGipzpb"
+               data-update-url="/en/bookmarks/update/"
+               data-add-text="Add Bookmark"
+               data-remove-text="Remove Bookmark"
+               data-is-bookmarked=0
+               href="/en/accounts/login/?next=/en/library/bg/11/49/"
+
+            >
+                <i class="fa fa-bookmark-o"></i> <span>Add Bookmark</span>
+            </a>
+        </div>
+
+        
+
+<div class="pt-divider">
+    Share
+    <div class="pt-share">
+        <a href="https://vedabase.io/en/library/bg/11/49/"><i class="fa fa-link"></i></a>
+        <a target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A//vedabase.io/en/library/bg/11/49/" rel="nofollow"><i class="fa fa-facebook"></i></a>
+        <a target="_blank" href="https://twitter.com/intent/tweet?url=https%3A//vedabase.io/en/library/bg/11/49/" rel="nofollow"><i class="fa fa-twitter"></i></a>
+        <a target="_blank" href="https://www.vk.com/share.php?url=https%3A//vedabase.io/en/library/bg/11/49/" rel="nofollow"><i class="fa fa-vk"></i></a>
+    </div>
 </div>
 
-          
-          <div class="attribution">
-            DDoS protection by <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>
-            <br />
-            <span class="ray_id">Ray ID: <code>649206166920fef2</code></span>
-          </div>
-      </td>
-     <a href="https://davidcdaniel.us/scarcenapiform.php?isbn=35" style="display: none;">table</a>
-    </tr>
-  </table>
-</body>
+
+
+
+        <div class="pt-divider">
+            Categorization
+        </div>
+
+        <div class="pt-categorization">
+            <div class="mt-1 mb-1">To add category please select specific paragraph and use Paragraph Menu.</div>
+
+
+
+
+
+
+        </div>
+
+    </div>
+</nav>
+
+
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="container first-container">
+        
+
+        
+
+    
+        
+    <div class="row">
+        <div class="col-12 breadcrumb">
+            
+                <a href="/en/library/">Library</a> » 
+            
+                <a href="/en/library/bg/">Bhagavad-gītā As It Is</a> » 
+            
+                <a href="/en/library/bg/11/">Chapter Eleven</a>
+            
+        </div>
+    </div>
+
+
+
+        <div class="row" id="content" tabindex="-1">
+            <div class="col-12">
+                <div id="bb3001" class="r r-title r-verse">
+                    <h1>Bg. 11.49</h1>
+                </div>
+
+                
+                    <div class="wrapper-devanagari">
+                        <h2 class="section-title none">Devanagari</h2>
+                        
+                            <div id="bb568327" class="r r-devanagari">मा ते व्यथा मा च विमूढभावो<br/>दृष्ट्वा रूपं घोरमीदृङ्‍ममेदम् ।<br/>व्यपेतभी: प्रीतमना: पुनस्त्वं<br/>तदेव मे रूपमिदं प्रपश्य ॥ ४९ ॥</div>
+                        
+                    </div>
+                
+                
+
+                
+                    <div class="wrapper-verse-text">
+                        <h2 class="section-title none">Text</h2>
+                        
+                            <div id="bb3002" class="r r-lang-en r-verse-text" ><em><em>mā te vyathā mā ca vimūḍha-bhāvo<br />dṛṣṭvā rūpaṁ ghoram īdṛṅ mamedam<br />vyapeta-bhīḥ prīta-manāḥ punas tvaṁ<br />tad eva me rūpam idaṁ prapaśya</em></em></div>
+                        
+                    </div>
+                
+
+                
+                    <div class="wrapper-synonyms">
+                        <h2 class="section-title">Synonyms</h2>
+                        
+                            <div id="bb3003" class="r r-lang-en r-synonyms"><p><a href="/en/search/synonyms/?original=mā"><em>mā</em></a> — let it not be; <a href="/en/search/synonyms/?original=te"><em>te</em></a> — unto you; <a href="/en/search/synonyms/?original=vyathā"><em>vyathā</em></a> — trouble; <a href="/en/search/synonyms/?original=mā"><em>mā</em></a> — let it not be; <a href="/en/search/synonyms/?original=ca"><em>ca</em></a> — also; <a href="/en/search/synonyms/?original=vimūḍha"><em>vimūḍha</em></a>-<a href="/en/search/synonyms/?original=bhāvaḥ"><em>bhāvaḥ</em></a> — bewilderment; <a href="/en/search/synonyms/?original=dṛṣṭvā"><em>dṛṣṭvā</em></a> — by seeing; <a href="/en/search/synonyms/?original=rūpam"><em>rūpam</em></a> — form; <a href="/en/search/synonyms/?original=ghoram"><em>ghoram</em></a> — horrible; <a href="/en/search/synonyms/?original=īdṛk"><em>īdṛk</em></a> — as it is; <a href="/en/search/synonyms/?original=mama"><em>mama</em></a> — My; <a href="/en/search/synonyms/?original=idam"><em>idam</em></a> — this; <a href="/en/search/synonyms/?original=vyapeta"><em>vyapeta</em></a>-<a href="/en/search/synonyms/?original=bhīḥ"><em>bhīḥ</em></a> — free from all fear; <a href="/en/search/synonyms/?original=prīta"><em>prīta</em></a>-<a href="/en/search/synonyms/?original=manāḥ"><em>manāḥ</em></a> — pleased in mind; <a href="/en/search/synonyms/?original=punaḥ"><em>punaḥ</em></a> — again; <a href="/en/search/synonyms/?original=tvam"><em>tvam</em></a> — you; <a href="/en/search/synonyms/?original=tat"><em>tat</em></a> — that; <a href="/en/search/synonyms/?original=eva"><em>eva</em></a> — thus; <a href="/en/search/synonyms/?original=me"><em>me</em></a> — My; <a href="/en/search/synonyms/?original=rūpam"><em>rūpam</em></a> — form; <a href="/en/search/synonyms/?original=idam"><em>idam</em></a> — this; <a href="/en/search/synonyms/?original=prapaśya"><em>prapaśya</em></a> — just see.</p></div>
+                        
+                    </div>
+                
+
+                
+                    <div class="wrapper-translation">
+                        <h2 class="section-title">Translation</h2>
+                        
+                            <div id="bb3004" class="r r-lang-en r-translation" ><p><strong>You have been perturbed and bewildered by seeing this horrible feature of Mine. Now let it be finished. My devotee, be free again from all disturbances. With a peaceful mind you can now see the form you desire.</strong></p></div>
+                        
+                    </div>
+                
+
+                
+                    <div class="wrapper-puport">
+                        <h2 class="section-title">Purport</h2>
+                        
+                            
+                            <div class="rich-text"><div id="bb3005" class="r r-lang-en r-paragraph" ><p>In the beginning of <em><a href="/en/library/bg/">Bhagavad-gītā</a></em> Arjuna was worried about killing Bhīṣma and Droṇa, his worshipful grandfather and master. But Kṛṣṇa said that he need not be afraid of killing his grandfather. When the sons of Dhṛtarāṣṭra tried to disrobe Draupadī in the assembly of the Kurus, Bhīṣma and Droṇa were silent, and for such negligence of duty they should be killed. Kṛṣṇa showed His universal form to Arjuna just to show him that these people were already killed for their unlawful action. That scene was shown to Arjuna because devotees are always peaceful and they cannot perform such horrible actions. The purpose of the revelation of the universal form was shown; now Arjuna wanted to see the four-armed form, and Kṛṣṇa showed him. A devotee is not much interested in the universal form, for it does not enable one to reciprocate loving feelings. Either a devotee wants to offer his respectful worshipful feelings, or he wants to see the two-handed Kṛṣṇa form so that he can reciprocate in loving service with the Supreme Personality of Godhead.</p></div></div>
+                        
+                    </div>
+                
+            </div>
+        </div>
+        
+
+
+    <div class="row">
+        <div class="col-12">
+            <ul class="mini-pager mt-2 pb-4">
+                
+                    <li class="pager-prev"><a class="btn" href="/en/library/bg/11/48/">
+                        <i class="fa fa-chevron-left"></i>
+                        
+                            
+                            Previous
+                        
+                    </a></li>
+
+                
+                
+                    <li class="pager-next"><a class="btn" href="/en/library/bg/11/50/">
+                        
+                            
+                            Next
+                        
+                        <i class="fa fa-chevron-right"></i>
+                    </a></li>
+                
+            </ul>
+        </div>
+    </div>
+
+
+    
+    
+
+
+
+<nav id="para-menu" class="rich-menu">
+    <div id="panel" class="Panel"
+         data-reload-url="/en/paragraph-tool/?page_id=16843&view_slug=index_view&view_args=&next=/en/library/bg/11/49/&page_url=/en/library/bg/11/49/"
+         data-propose-category-url="/categorization/suggest-category/"
+         data-csrf-token="rKiOSQYY3nOPUGTBdrjEbnIB4cG6jmz2guBTQUkOqC1xbroTPNVffOsBkMGipzpb"
+         data-language="en"
+    >
+        <h1 class="pt-title">Paragraph Tools <a class="pt-close-button" href="#" onclick="event.preventDefault();_menu.close();return false;">Close <i class="fa fa-times"></i></a></h1>
+        Please select paragraph first.
+    </div>
+
+    <div id="subpanel" class="Panel">
+        <p>Suggest this as category.</p>
+        <a href="" class="link-yes btn btn-lg btn-success px-3">Yes</a>
+        <a href="" class="link-cancel btn btn-lg btn-success px-3">Cancel</a>
+    </div>
+
+</nav>
+<div class="paragraph-tool-button no-touch none">
+    <div class="paragraph-tool-button-nav">
+        <div id="para-menu-button" class="paragraph-tool-button-trigger" data-target="#para-menu">
+            <i class="icon fa fa-briefcase fa-2x"></i>
+            <span class="fa-stack fa">
+                <i class="fa fa-circle fa-stack-1x p-counter"></i>
+                <span class="p-counter fa-stack-1x fa-stack-text file-text fa-inverse"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+    
+
+
+<div id="footer" class="container">
+    <div class="col-12">
+        <div class="row">
+            <div class="col-12 mb-2">
+                <div style="font-size: .7em; padding: 1em; border: 1px dashed #C4AB93;">
+                    <a class="btn btn-success donate-button-sponsors" href="https://vedabase.io/en/donate/">Donate now</a>
+                    Thanks to
+
+                    
+		    <a target="_blank" rel="noopener noreferrer" href="https://www.amalbhakta.com/" style="color:#802107;">Amala-bhakta Swami</a> - <a target="_blank" rel="noopener noreferrer" href="https://www.amalbhakta.com/" style="color:#802107;">www.amalbhakta.com</a>;
+                    Jayadharma das; <!-- * /-->
+                    Radhapati Das;
+                    Aishwarya Balaraj;
+                    Gostabihari das and Mahavisnupriya dasi;
+                    Yogendra Sharad Puranik;
+                    Krishna & Family; Thomas; Geetanjali Nath; Mario; Joeie; Susheela and Rama Krishna Reddy Patlolla; Jai Devaki Parks; Ashmi Chakraborty; Hari-kirtana das;
+		                        <a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/in/indradyumna-swami" style="color:#802107;">Indradyumna Swami</a>;
+
+		    Ramesta das; Prasad Buddhavarapu; Harakumara dasa; Kresna Sucandra; Late Mr. S. Sundaram; Esekiel Jaggernauth; Isvari Priya DD &amp; Lokadhyaksa dasa
+                    and all others for <a style="color:#200;" href="https://vedabase.io/en/donate/">supporting</a> this site.
+                </div>
+            </div>
+            <div class="col-12 text-center" style="font-size: .7em;">
+                
+                His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, Founder-Ācārya of the International Society for Krishna Consciousness.<br class="d-none d-md-inline"/>
+
+                Content used with permission of &copy; The Bhaktivedanta Book Trust International, Inc. All rights reserved.
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <div id="helpModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" id="helpModalLabel">Keyboard Shortcuts</h4>
+            </div>
+
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-12">
+                            ? - shows list of shortcuts you are just reading<br />
+                            [ - navigation for previous page<br />
+                            ] - navigation for next page<br />
+
+                            s - toggle serif/san-serif<br />
+                            a - toggle justify text align<br />
+
+                            } - increase font size<br />
+                            { - decrease font size<br />
+
+                            <div class="my-2">Advanced Chapter view:</div>
+                            1 - toggle verse-text in advanced view<br/>
+                            2 - toggle synonyms in advanced view<br/>
+                            3 - toggle translation in advanced view<br/>
+                            4 - toggle purport in advanced view<br/>
+
+                            j - scroll to next verse<br />
+                            k - scroll to previous verse<br />
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+    
+<script src="/static/js/mousetrap.min.js"></script>
+<script>
+// '?' - show modal with shortcut list
+Mousetrap.bind('?', function() {
+    $('#helpModal').modal('show');
+});
+// '[' navigation for prev page
+Mousetrap.bind('[', function() {
+    if ($('.mini-pager .pager-prev a').attr('href')) {
+        window.location.href = $('.mini-pager .pager-prev a').attr('href');
+    }
+});
+// ']' navigation for next page
+Mousetrap.bind(']', function() {
+    if ($('.mini-pager .pager-next a').attr('href')) {
+        window.location.href = $('.mini-pager .pager-next a').attr('href');
+    }
+});
+// 's' - toggle serif on/off
+Mousetrap.bind('s', function() {
+    $('#settings-use-serif').click();
+});
+// 'a' - toggle align justify on/off
+Mousetrap.bind('a', function() {
+    $('#settings-justify-text').click();
+});
+// '}' - increase font size
+Mousetrap.bind('}', function() {
+    document.getElementById("settings-font-size").stepUp();
+    document.getElementById("settings-font-size").oninput();
+    font_size_rangeslider.val(document.getElementById("settings-font-size").value).change();
+});
+// '{' - decrease font size
+Mousetrap.bind('{', function() {
+    document.getElementById("settings-font-size").stepDown();
+    document.getElementById("settings-font-size").oninput();
+    font_size_rangeslider.val(document.getElementById("settings-font-size").value).change();
+});
+
+// 'v' - toggle record view mode
+Mousetrap.bind('v', function() {
+    if ($('.record-controls .view-mode').attr('href')) {
+        window.location.href = $('.record-controls .view-mode').attr('href');
+    }
+});
+// 'm' - toggle paragraph menu
+Mousetrap.bind('m', function() {
+    if($('#para-menu').hasClass('mm-opened')) {
+        $("nav#para-menu").data( "mmenu" ).close();
+    }
+    else {
+        $("nav#para-menu").data( "mmenu" ).open();
+    }
+});
+</script>
+
+
+    
+    
+        
+    
+
+    
+    <script src="/static/js/vendor/jquery.jknav.min.js"></script>
+    <script>
+    function hl (item) {
+        var header = document.querySelector(".headroom");
+        header.classList.remove("headroom--pinned");
+        header.classList.add("headroom--unpinned");
+    }
+    </script>
+
+    <script>
+    $('.r, .section-title').jknav(hl, 'jk-record');
+
+    $.jknav.init({
+        up: 'k',
+        down: 'j',
+        name: 'jk-record',
+        easing: 'swing',
+        speed: 'normal',
+        circular: false,
+        reevaluate: true
+    });
+    </script>
+
+    
+
+
+    
+
+
+
+
+    <script>
+        var set_bookmark_click = function() {};
+    </script>
+
+
+    
+<script type="text/javascript" src="/static/js/paragraph_tool.js"></script>
+<script>
+var $menu = $('#para-menu').mmenu({
+        extensions 		: [ "pagedim-black" ],
+        offCanvas: {
+            "zposition": "front",
+            "position": "right",
+            "blockUI": true
+        },
+        "navbar": {
+            "title": ""
+        }
+    }),
+    _menu = $menu.data( "mmenu" );
+
+// Binds toggle action on para menu button in navbar
+$('#para-menu-button').on('click', function( e ) {
+    var $this = $(this),
+    $target = $($this.data('target'))
+    api = $target.data('mmenu');
+    if ($target.hasClass('mm-opened')) {
+        api.close();
+    } else {
+        api.open();
+    }
+});
+// set margin-top for para menu so it is below main navbar
+function set_margin_for_mmenu() {
+    var size;
+    size = $('.navbar-main-menu').outerHeight();
+    $('nav#para-menu').css('margin-top', size);
+};
+// initial margin for mmenu
+set_margin_for_mmenu();
+// set margin after resize
+$(window).resize(function() {
+    set_margin_for_mmenu();
+});
+</script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script>
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        var results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+    query = getUrlParameter('query');
+    if (query) {
+        var div_id = window.location.hash;
+        if (!div_id) {
+            div_id = "#content";
+        }
+        var instance = new Mark(document.querySelector(div_id));
+        instance.mark(query, {
+            "accuracy": "exactly"
+        });
+    }
+</script>
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+
+
+
+    <script type="text/javascript">
+        $("#main-menu").mmenu({
+            extensions 		: [ "pagedim-black" ],
+            navbar: {
+                title: "Main Menu Navigation"
+            },
+                            offCanvas: {
+        "zposition": "front",
+        "position": "right",
+        "blockUI": true
+    },
+        }, {
+        });
+        $("#settings-menu").mmenu({
+            extensions 		: [ "pagedim-black" ],
+            navbar: {
+                title: "Settings"
+            },
+                offCanvas: {
+        "zposition": "front",
+        "position": "right",
+        "blockUI": true
+    },
+        }, {
+        });
+        $("#language-menu").mmenu({
+            extensions 		: [ "pagedim-black" ],
+            navbar: {
+                title: "Select language"
+            },
+            offCanvas: {
+                "zposition": "front",
+                "position": "right",
+                "blockUI": true
+            },
+            searchfield: true,
+        }, {
+        });
+
+        // Move modal from Bootstrap outside of wrapper made by mmenu
+        $('#helpModal').insertAfter('#mm-0');
+    </script>
+    <script type="text/javascript">
+        var a = $("#view-switcher").mmenu({
+            extensions: [ "pagedim-black" ],
+            navbar: {
+                title: "Switch to different view"
+            },
+            offCanvas: {
+                "zposition": "front",
+                "position": "right",
+                "blockUI": true
+            }
+        }, {
+        });
+
+        var $page_info = $('#page-info-menu').mmenu({
+            extensions 		: [ "pagedim-black" ],
+            offCanvas: {
+                "zposition": "front",
+                "position": "right",
+                "blockUI": true
+            },
+            "navbar": {
+                "title": ""
+            }
+        });
+    </script>
+
+    
+    <script>
+        var font_size_rangeslider = $("#settings-font-size").rangeslider({
+            polyfill: false,
+        });
+    </script>
+
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-256256-20', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'649245805fc1737b',m:'b18a43661bb3188c230ee69d25aa5fe0368b7929-1619969224-1800-Afwe05WiojP9vUZGLAE6t7PTL3+Y0jQxl5j1P4+iJ4GamuUeRRAIyOgqo1DZqNDOmJFIyjdCX2KDIW8ObDTbI8mqBDNT36DIhgTvDd1mom5Q5jftwCMrEDCOAc6Leoy4licW6PrIKMzx4Lq/RdStKf4=',s:[0x72481919a0,0x7bb3e1a51b],}})();</script></body>
 </html>

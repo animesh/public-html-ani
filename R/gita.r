@@ -145,8 +145,7 @@ if(verse == ""){verse = 20;}
 #echo " > Bhagwat Gita chapter.verse </a> <br> <br> ";
 #$c++;
 #}
-wURL = paste0("https://vedabase.io/en/library/bg/",chapter,"/",verse,"/");
-download.file(wURL,paste0("data.html"), mode = 'wb',headers = c("User-Agent" = "R"),method="curl")
+download.file(paste0("https://vedabase.io/en/library/bg/",chapter,"/",verse,"/"),"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
