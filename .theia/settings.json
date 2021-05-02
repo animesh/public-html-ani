@@ -1,0 +1,31 @@
+{
+   "go.useLanguageServer": true,
+   "go.useGoProxyToCheckForToolUpdates": false,
+   "editor.autoSave": "on",
+   "preview.openByDefault": true,
+   "python.autoUpdateLanguageServer": false,
+   "workbench.colorTheme": "Monokai Dimmed",
+   "workbench.iconTheme": "theia-file-icons",
+   "workspace.preserveWindow": true,
+   "files.watcherExclude": {
+      "**/.cache/**": true,
+      "**/.git/**": true,
+      "**/node_modules/**": true
+},
+"csharp.suppressDotnetRestoreNotification": true,
+"editor.wordWrap": "on",
+"python.testing.nosetestArgs": [
+    "."
+],
+"python.testing.pytestEnabled": false,
+"python.testing.unittestEnabled": false,
+"python.testing.nosetestsEnabled": false,
+"python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    ".",
+    "-p",
+    "*test.py"
+],
+"python.testing.promptToConfigure": false
+}
