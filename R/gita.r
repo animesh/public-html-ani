@@ -137,15 +137,17 @@ if(chapter == 18){
   }
 }
 if(verse == ""){verse = 20;}
-#url="http://vedabase.com/bg/chapter/verse";
-#header("Location: $url",1)
+#gURL="http://vedabase.com/bg/chapter/verse";
+#header("Location: $gURL",1)
 #exit(,1)
 #echo '<a href=';
-#echo $url;
+#echo $gURL;
 #echo " > Bhagwat Gita chapter.verse </a> <br> <br> ";
 #$c++;
 #}
-download.file(paste0("https://vedabase.io/en/library/bg/",chapter,"/",verse,"/"),"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
+gURL<-paste0("http://vedabase.io/en/library/bg/",chapter,"/",verse,"/")
+#download.file(gURL,"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="curl")
+system(paste("curl ",gURL," -o data.html"))
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
@@ -175,9 +177,9 @@ shlokaClean<-gsub("â€“","-",shlokaClean)
 #shlokaClean<-iconv(shlokaClean, "latin1", "ASCII//TRANSLIT")
 shlokaClean<-paste(strwrap(shlokaClean,width=50),collapse="\n")
 writeLines(shlokaClean,paste0("data_html.txt"))
-URL<-paste0("Chapter.Verse-",cn)
+gURL<-paste0("Chapter.Verse-",cn)
 png("data.png")
 par(mar = c(0,0,0,0),bg = "chocolate",family = 'mono')
 plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
-text(x = 0.5, y = 0.75, paste(URL,"\n",shlokaClean),cex = 1.2, col = "white")
+text(x = 0.5, y = 0.75, paste(gURL,"\n",shlokaClean),cex = 1.2, col = "white")
 dev.off()
