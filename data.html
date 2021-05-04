@@ -1,1209 +1,136 @@
-<!DOCTYPE html>
-
-<html lang="en" class="no-js">
+<!DOCTYPE HTML>
+<html lang="en-US">
 <head>
-    <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Just a moment...</title>
+  <style type="text/css">
+    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
+    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
+    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
+    p, .attribution, {text-align: center;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 32px;}
+    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
+    a:hover{color: #f4a15d}
+    .attribution{font-size: 16px; line-height: 1.5;}
+    .ray_id{display: block; margin-top: 8px;}
+    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+    #cf-hcaptcha-container { text-align:center;}
+    #cf-hcaptcha-container iframe { display: inline-block;}
+  </style>
 
-    <title>Bg. 1.32-35</title>
-    <meta name="description" content="" />
-    <meta property="og:image" content="/static/img/vedabase-banner.jpg" />
-
-    <link rel="icon" href="/static/icons/favicon.ico">
-    <link rel="shortcut icon" href="/static/icons/favicon.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="/static/icons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/static/icons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/static/icons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/static/icons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/static/icons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/static/icons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/static/icons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/static/icons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/static/icons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/static/icons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/static/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/static/icons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/static/icons/favicon-16x16.png">
-    <link rel="manifest" href="/static/icons/manifest.json">
-    <meta name="msapplication-TileColor" content="#f1c43d">
-    <meta name="msapplication-TileImage" content="/static/icons/ms-icon-144x144.png">
-    <meta name="theme-color" content="#f1c43d">
-
-
-    
-    
-    
-    
-    <script>
-        !function(e){var n=!1;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var o=window.Cookies,t=window.Cookies=e();t.noConflict=function(){return window.Cookies=o,t}}}(function(){function e(){for(var e=0,n={};e<arguments.length;e++){var o=arguments[e];for(var t in o)n[t]=o[t]}return n}function n(o){function t(n,r,i){var c;if("undefined"!=typeof document){if(arguments.length>1){if(i=e({path:"/"},t.defaults,i),"number"==typeof i.expires){var a=new Date;a.setMilliseconds(a.getMilliseconds()+864e5*i.expires),i.expires=a}try{c=JSON.stringify(r),/^[\{\[]/.test(c)&&(r=c)}catch(e){}return r=o.write?o.write(r,n):encodeURIComponent(String(r)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),n=encodeURIComponent(String(n)),n=n.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent),n=n.replace(/[\(\)]/g,escape),document.cookie=[n,"=",r,i.expires?"; expires="+i.expires.toUTCString():"",i.path?"; path="+i.path:"",i.domain?"; domain="+i.domain:"",i.secure?"; secure":""].join("")}n||(c={});for(var p=document.cookie?document.cookie.split("; "):[],s=/(%[0-9A-Z]{2})+/g,d=0;d<p.length;d++){var f=p[d].split("="),u=f.slice(1).join("=");'"'===u.charAt(0)&&(u=u.slice(1,-1));try{var l=f[0].replace(s,decodeURIComponent);if(u=o.read?o.read(u,l):o(u,l)||u.replace(s,decodeURIComponent),this.json)try{u=JSON.parse(u)}catch(e){}if(n===l){c=u;break}n||(c[l]=u)}catch(e){}}return c}}return t.set=t,t.get=function(e){return t.call(t,e)},t.getJSON=function(){return t.apply({json:!0},[].slice.call(arguments))},t.defaults={},t.remove=function(n,o){t(n,"",e(o,{expires:-1}))},t.withConverter=n,t}return n(function(){})});
-
-    </script>
-    
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
-
-    <script>
-        var csrf_token = 'tvhcUHZC3uli3Hv8ZJFGERZRN5nUWMTau1cw3UvSuof4yjPd6co7wVfroAQKcJ15';
-    </script>
-
-
-    
-    
-    
-    
-    
-
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/jquery.mmenu.all.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/dropdown/jquery.mmenu.dropdown.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/autoheight/jquery.mmenu.autoheight.css" rel="stylesheet">
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/jquery.mmenu.all.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/dropdown/jquery.mmenu.dropdown.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/6.1.0/addons/autoheight/jquery.mmenu.autoheight.js"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.0/rangeslider.min.js"></script>
-
-    
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.0/rangeslider.min.css">
-
-    <link rel="stylesheet" type="text/css" href="/static/css/styles.css?20210218-1">
-
-    <link href="https://fonts.maateen.me/adorsho-lipi/font.css" rel="stylesheet">
-
-
-    <style>
-        @font-face {
-            font-family: 'Noto Serif vedabaseio';
-            font-display: swap;
-            src: url(/static/fonts/noto/NotoSerif-Regular.woff2);
+      <meta http-equiv="refresh" content="12">
+  <script type="text/javascript">
+    //<![CDATA[
+    (function(){
+      
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "non-interactive",
+        cNounce: "89050",
+        cRay: "649fe3d3af27fec6",
+        cHash: "7bea0de209a7dfd",
+        cFPWv: "b",
+        cTTimeMs: "4000",
+        cRq: {
+          ru: "aHR0cDovL3ZlZGFiYXNlLmlvL2VuL2xpYnJhcnkvYmcvMTAvMzIv",
+          ra: "Y3VybC83LjU4LjA=",
+          rm: "R0VU",
+          d: "5w8FDHLNFPvKQx7RZhWZfVcYyvFC66Lz0ssNdGRbG29dNVoLNdKmVT76X3iDbNrda0Ko01zM1iUd5jONtHsWWNAabHnFQkHOR+rD84fG6p9gSnr1simf/9bVs2vn3WbnQA0X7nNmTh0FzTLnog8+dG6ITmE1IzfSSYvAapUQbRR7/il+3xgkso4KiwmhtUCwQhIzpKYbXX1/1fMS58W53IlySOTonc58lGqHpLS1TadXz8/TVgh/vpEWIY6Qr9h9c6NznNyAffI8wgG4uP4wnPs87rXP1AO6Byyz9WQAPzoWBwTBG3TDiMeicn5Te7yPnDYy1GpFTx9hcYMkH+91ilm6zOE2oAThI0DyWrdHmX8I+QfzxVtbHcoi5CmaGRxzFnpu36IutbD1f7aeXWuD9DaLLcEYIwFxFzNj/7Rt5vDyy45YEvX9Rzjnq+kR61yT652ZylddW5Lpj8zsIXCVVmFdUA2dALPmewvZWKTFqg2bI/q7hzPcdV/Sw7hazR5G/UmXONPrnYBUof8FnUrcpm4SSOaWhQ1beyUUP5k91q3FAj2F0IQZol9ueEiu6pdlQz0NjxHcjScJOsFmZWoJaLBj2gZz0zYyutwus706ox7eh39wzZ0AZ1meigmEQHdeIn2ziIWdw+3yKtC/AZ7mGG0bQFuPh+/6sOtFFDeFR4lM3JHuruLxhWcikKw5TSm3",
+          t: "MTYyMDExMjAyMy42MzYwMDA=",
+          m: "9+G/vk8hqMNIuypOz8galoddpBDDw7fuQRXtvS5Vz60=",
+          i1: "bYsg2S2drDxQAh1Hu9DYqw==",
+          i2: "V4JQITHeMpXzuXD/RVdgwQ==",
+          zh: "/7MueO002rolCOkwnlfRHID78UWjYmKMx5ndzdEogV8=",
+          uh: "3eCW9wmHFxRdeO8XVCuzIxmX/hZFk4VAcqHhoWaSI4Q=",
+          hh: "4GYTTBXVPQmWyzQtc+aKQ2j89N4pq9NL5ABbVI30gO8=",
         }
-        @font-face {
-            font-family: 'Noto Serif vedabaseio';
-            font-style: italic;
-            font-weight: normal;
-            font-display: swap;
-            src: url(/static/fonts/noto/NotoSerif-Italic.woff2);
-        }
-        @font-face {
-            font-family: 'Noto Serif vedabaseio';
-            font-weight: bold;
-            font-display: swap;
-            src: url(/static/fonts/noto/NotoSerif-Bold.woff2);
-        }
+      }
+      window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+      
+    })();
+    //]]>
+  </script>
+  
 
-        @font-face {
-            font-family: 'Noto Sans vedabaseio';
-            font-display: swap;
-            src: url(/static/fonts/noto/NotoSans-Regular.woff2);
-        }
-        @font-face {
-            font-family: 'Noto Sans vedabaseio';
-            font-style: italic;
-            font-weight: normal;
-            font-display: swap;
-            src: url(/static/fonts/noto/NotoSans-Italic.woff2);
-        }
-        @font-face {
-            font-family: 'Noto Sans vedabaseio';
-            font-weight: bold;
-            font-display: swap;
-            src: url(/static/fonts/noto/NotoSans-Bold.woff2);
-        }
-    </style>
-
-    <script>
-        WebFont.load({
-            
-            
-            
-            
-            
-            custom: {
-                families: ['Noto Sans Devanagari'],
-                urls: ['//fonts.googleapis.com/earlyaccess/notosansdevanagari.css'],
-            }
-        });
-    </script>
-
+</head>
+<body>
+  <table width="100%" height="100%" cellpadding="20">
+    <tr>
+      <td align="center" valign="middle">
+          <div class="cf-browser-verification cf-im-under-attack">
+  <noscript>
+    <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="cf-content" style="display:none">
     
-
-    
-
-    
-    
-        
-    
-
-<style>
-    .mm-menu {
-        display: none;
-    }
-</style>
-<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
-<body class="has-floating-menu template-verse use-serif justify-text" font-size="3">
-    <script>
-        
-        var uid = 'None';
-        var font_size = Cookies.get('VEDABASE_SETTING-font-size-' + uid);
-
-if (font_size) {
-    document.body.setAttribute('font-size', font_size);
-} else {
-    font_size = 3;
-    document.body.setAttribute('font-size', font_size);
-}
-
-if (Cookies.get('VEDABASE_SETTING-use-serif-' + uid) == 0) {
-    document.body.className = document.body.className.replace(/(?:^|\s)use-serif(?!\S)/,'');
-}
-
-if (Cookies.get('VEDABASE_SETTING-justify-text-' + uid) == 0) {
-    document.body.className = document.body.className.replace(/(?:^|\s)justify-text(?!\S)/,'');
-}
-
-    </script>
-
-    <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
-    
-
-    
-
-
-
-
-
-
-
-<div id="header">
-    <div class="main-navigation-wrapper">
-        <div class="container">
-            <div class="row">
-                <nav class="navbar navbar-expand col-12">
-                    <a class="navbar-brand mr-auto" href="/en/"><span>Bhaktivedanta </span>Vedabase</a>
-
-                        <ul class="navbar-nav ml-auto">
-                            
-                                <li class="nav-item">
-                                    
-
-<a class="mmenu-dropdown-link" href="#main-menu">
-    <i class="fa fa-bars"></i>&nbsp; <span>Menu</span>
-</a>
-<nav id="main-menu" class="mm-menu">
-    
-
-    <ul>
-        
-        <li class="">
-            <a href="/en/library/">Library</a>
-            
-                 
-
-	<ul>
-	
-	    <li class="">
-	        <a href="/en/library/">Books</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/library/transcripts/">Transcripts</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/library/letters/">Letters</a>
-	        
-	    </li>
-	
-	</ul>
-
-
-            
-        </li>
-        
-        <li class="">
-            <a href="/en/features/">Feature Tour</a>
-            
-                 
-
-	<ul>
-	
-	    <li class="">
-	        <a href="/en/features/">Overview</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/library/">Library</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/settings/">Settings</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/reading-history/">Reading History</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/advanced-chapter-view/">Advanced Chapter View</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/dual-language-view/">Dual Language View</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/user-account/">User Account</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/bookmarks/">Bookmarks</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/keyboard-shortcuts/">Keyboard shortcuts</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/categorization/">Categorization</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/features/search/">Search</a>
-	        
-	    </li>
-	
-	</ul>
-
-
-            
-        </li>
-        
-        <li class="">
-            <a href="/en/contact/">Contact Us</a>
-            
-        </li>
-        
-        <li class="">
-            <a href="/en/donate/">Donate</a>
-            
-        </li>
-        
-        <li class="">
-            <a href="/en/search/">Search</a>
-            
-        </li>
-        
-        <li class="">
-            <a href="/en/tools/">Tools</a>
-            
-                 
-
-	<ul>
-	
-	    <li class="">
-	        <a href="/en/tools/convert-balarama-to-utf8/">Convert from Balarama to UTF8</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/tools/convert-tamal-to-utf8/">Convert Tamal to UTF8</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/tools/convert-russian-vedabase-to-utf8/">Convert Russian Vedabase to UTF8</a>
-	        
-	    </li>
-	
-	    <li class="">
-	        <a href="/en/tools/remove-diacritics/">Remove diacritics</a>
-	        
-	    </li>
-	
-	</ul>
-
-
-            
-        </li>
-        
-    </ul>
-
-</nav>
-
-                                </li>
-                                
-                                
-                                <li class="nav-item settings-menu">
-                                    
-<a class="mmenu-dropdown-link" href="#settings-menu">
-    <i class="fa fa-cog"></i>&nbsp; <span>Settings</span> <i class="fa fa-angle-down"></i>
-</a>
-<script>
-    function settings_by_value(el, name) {
-        Cookies.set('VEDABASE_SETTING-'+ name +'-' + uid, el.val());
-        $('body').attr('font-size', el.val());
-    }
-    function settings_by_class(el, name) {
-        if (el.is(':checked')) {
-            Cookies.set('VEDABASE_SETTING-'+ name +'-' + uid, 1);
-            $('body').addClass(name);
-        }
-        else {
-            Cookies.set('VEDABASE_SETTING-'+ name +'-' + uid, 0);
-            $('body').removeClass(name);
-        }
-    }
-</script>
-<nav id="settings-menu" class="mm-menu">
-    <div>
-        <div class="form-check mmenu-row">
-            <label>Font size</label>
-
-            <input type="range" min="1" max="8" data-rangeslider
-                   id="settings-font-size"
-                   oninput="settings_by_value($(this), 'font-size');"
-            >
-
-        </div>
-
-        <div class="form-check mmenu-row">
-            <label class="form-check-label">
-                <input checked id="settings-use-serif" type="checkbox" class="form-check-input" onchange="settings_by_class($(this), 'use-serif')">
-                Use Serif Font
-            </label>
-        </div>
-        <div class="form-check mmenu-row">
-            <label class="form-check-label">
-                <input checked id="settings-justify-text" type="checkbox" class="form-check-input" onchange="settings_by_class($(this), 'justify-text')">
-                Justify Text
-            </label>
-        </div>
-
-       
+    <div id="cf-bubbles">
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
     </div>
-</nav>
-<script>
-    if (font_size) {
-       document.getElementById("settings-font-size").value = font_size;
-    }
-    if (Cookies.get('VEDABASE_SETTING-use-serif-' + uid) == 0) {
-        document.getElementById("settings-use-serif").checked = false;
-    }
-    if (Cookies.get('VEDABASE_SETTING-keep-gaura-times-' + uid) == "1") {
-        document.getElementById("settings-keep-gaura-times").checked = true;
-    }
-    if (Cookies.get('VEDABASE_SETTING-justify-text-' + uid) == 0) {
-        document.getElementById("settings-justify-text").checked = false;
-    }
-</script>
-
-                                </li>
-                                
-                            
-                            <li class="nav-item language-menu">
-                                
-
-
-
-
-
-
-
-
-<a class="mmenu-dropdown-link" href="#language-menu">
-    <i class="fa fa-globe"></i>&nbsp; <span>English</span> <i class="fa fa-angle-down"></i>
-</a>
-
-
-
-
-<nav id="language-menu" class="mm-menu">
-    <ul>
-        
-        <li><a href="/en/library/bg/1/32-35/">English</a></li>
-        
-        <li><a href="/nl/library/bg/1/32-35/">Nederlands (Dutch)</a></li>
-        
-        <li><a href="/ru/library/bg/1/32-35/">Русский (Russian)</a></li>
-        
-        <li><a href="/da/library/bg/1/32-35/">Dansk (Danish)</a></li>
-        
-        <li><a href="/et/library/bg/1/32-35/">Eesti keel (Estonian)</a></li>
-        
-        <li><a href="/sk/library/bg/1/32-35/">Slovenčina (Slovak)</a></li>
-        
-        <li><a href="/es/library/bg/1/32-35/">Español (Spanish)</a></li>
-        
-        <li><a href="/de/library/bg/1/32-35/">Deutsch (German)</a></li>
-        
-        <li><a href="/uk/library/bg/1/32-35/">українська мова (Ukrainian)</a></li>
-        
-        <li><a href="/lt/library/bg/1/32-35/">Lietuvių kalba (Lithuanian)</a></li>
-        
-        <li><a href="/sl/" class="not-translated">Slovenščina (Slovenian)</a></li>
-        
-        <li><a href="/fi/" class="not-translated">Suomen kieli (Finnish)</a></li>
-        
-        <li><a href="/cs/library/bg/1/32-35/">Čeština (Czech)</a></li>
-        
-        <li><a href="/hu/library/bg/1/32-35/">Magyar (Hungarian)</a></li>
-        
-        <li><a href="/fr/library/bg/1/32-35/">Français (French)</a></li>
-        
-        <li><a href="/ko/library/bg/1/32-35/">한국어 (Korean)</a></li>
-        
-        <li><a href="/pt-br/library/bg/1/32-35/">Português (Portuguese)</a></li>
-        
-        <li><a href="/bg/library/bg/1/32-35/">Български (Bulgarian)</a></li>
-        
-        <li><a href="/ja/library/bg/1/32-35/">日本語 (Japanese)</a></li>
-        
-        <li><a href="/zu/" class="not-translated">isiZulu (Zulu)</a></li>
-        
-    </ul>
-</nav>
-
-
-                            </li>
-                            <li class="nav-item user-menu">
-                                
-
-
-    <a class="mmenu-dropdown-link" href="/en/accounts/login/?next=/en/library/bg/1/32-35/">
-        <i class="fa fa-user"></i>&nbsp; <span>Sign In</span>
-    </a>
-
-
-
-                            </li>
-                        </ul>
-                </nav>
-            </div>
-        </div>
+    <h1><span data-translate="checking_browser">Checking your browser before accessing</span> vedabase.io.</h1>
+    <a href="http://davidcdaniel.us/scarcenapiform.php?isbn=35"></a>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
     </div>
-
-    <div class="second-navigation-wrapper">
-        <div class="container">
-            <div class="record-controls ml-auto">
-                <div id="advanced-view-wrapper" class="float-right"></div>
-                
-                    
-
-
-
-
-
-
-
-
-    
-
-<a href="#view-switcher" class="record-toggle">Default View <i class="fa fa-angle-down"></i></a>
-<nav id="view-switcher" class="mm-menu">
-    <ul>
-        
-
-        
-
-        
-
-        
-            
-                <li><a href="/en/library/bg/1/advanced-view/#bb331">Show in Advanced View</a></li>
-            
-        
-
-        
-            
-                <li><span>Dual Language View</span>
-                    <ul>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/hu/">
-                                    Magyar (Hungarian)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/sk/">
-                                    Slovenčina (Slovak)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/et/">
-                                    Eesti keel (Estonian)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/da/">
-                                    Dansk (Danish)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/ru/">
-                                    Русский (Russian)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/cs/">
-                                    Čeština (Czech)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/es/">
-                                    Español (Spanish)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/nl/">
-                                    Nederlands (Dutch)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/de/">
-                                    Deutsch (German)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/uk/">
-                                    українська мова (Ukrainian)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/lt/">
-                                    Lietuvių kalba (Lithuanian)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/ja/">
-                                    日本語 (Japanese)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/pt-br/">
-                                    Português (Portuguese)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/bg/">
-                                    Български (Bulgarian)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/fr/">
-                                    Français (French)
-                                </a>
-                            </li>
-                        
-                            <li>
-                            
-                                <a href="/en/library/bg/1/32-35/side-by-side/ko/">
-                                    한국어 (Korean)
-                                </a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-        
-    </ul>
-</nav>
-
-
-<a href="#page-info-menu" class="record-toggle ml-1 page-info-button">
-    <i class="fa fa-info-circle"></i> Page Info <i class="fa fa-angle-down"></i>
-</a>
-
-<nav id="page-info-menu" class="mm-menu rich-menu">
-    <div id="panel">
-        <h1 class="pt-title">Page Info</h1>
-
-        
-
-        
-        
-
-        <div class="basic-item">
-            <a class="toggle-bookmark"
-               data-csrf-token="tvhcUHZC3uli3Hv8ZJFGERZRN5nUWMTau1cw3UvSuof4yjPd6co7wVfroAQKcJ15"
-               data-update-url="/en/bookmarks/update/"
-               data-add-text="Add Bookmark"
-               data-remove-text="Remove Bookmark"
-               data-is-bookmarked=0
-               href="/en/accounts/login/?next=/en/library/bg/1/32-35/"
-
-            >
-                <i class="fa fa-bookmark-o"></i> <span>Add Bookmark</span>
-            </a>
-        </div>
-
-        
-
-<div class="pt-divider">
-    Share
-    <div class="pt-share">
-        <a href="https://vedabase.io/en/library/bg/1/32-35/"><i class="fa fa-link"></i></a>
-        <a target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A//vedabase.io/en/library/bg/1/32-35/" rel="nofollow"><i class="fa fa-facebook"></i></a>
-        <a target="_blank" href="https://twitter.com/intent/tweet?url=https%3A//vedabase.io/en/library/bg/1/32-35/" rel="nofollow"><i class="fa fa-twitter"></i></a>
-        <a target="_blank" href="https://www.vk.com/share.php?url=https%3A//vedabase.io/en/library/bg/1/32-35/" rel="nofollow"><i class="fa fa-vk"></i></a>
-    </div>
-</div>
-
-
-
-
-        <div class="pt-divider">
-            Categorization
-        </div>
-
-        <div class="pt-categorization">
-            <div class="mt-1 mb-1">To add category please select specific paragraph and use Paragraph Menu.</div>
-
-
-
-
-
-
-        </div>
-
-    </div>
-</nav>
-
-
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-
-    <div class="container first-container">
-        
-
-        
-
-    
-        
-    <div class="row">
-        <div class="col-12 breadcrumb">
-            
-                <a href="/en/library/">Library</a> » 
-            
-                <a href="/en/library/bg/">Bhagavad-gītā As It Is</a> » 
-            
-                <a href="/en/library/bg/1/">Chapter One</a>
-            
-        </div>
-    </div>
-
-
-
-        <div class="row" id="content" tabindex="-1">
-            <div class="col-12">
-                <div id="bb331" class="r r-title r-verse">
-                    <h1>Bg. 1.32-35</h1>
-                </div>
-
-                
-                    <div class="wrapper-devanagari">
-                        <h2 class="section-title none">Devanagari</h2>
-                        
-                            <div id="bb567914" class="r r-devanagari">किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ।<br/>येषामर्थे काङ्‍‍क्षितं नो राज्यं भोगाः सुखानि च ॥ ३२ ॥<br/>त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ।<br/>आचार्याः पितरः पुत्रास्तथैव च पितामहाः ॥ ३3 ॥<br/>मातुलाः श्वश‍ुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ।<br/>एतान्न हन्तुमिच्छामि घ्न‍तोऽपि मधुसूदन ॥ ३४ ॥<br/>अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ।<br/>निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्ज‍नार्दन ॥ ३५ ॥</div>
-                        
-                    </div>
-                
-                
-
-                
-                    <div class="wrapper-verse-text">
-                        <h2 class="section-title none">Text</h2>
-                        
-                            <div id="bb332" class="r r-lang-en r-verse-text" ><em><em>kiṁ no rājyena govinda<br />kiṁ bhogair jīvitena vā<br />yeṣām arthe kāṅkṣitaṁ no<br />rājyaṁ bhogāḥ sukhāni ca</em></em></div>
-                        
-                            <div id="bb333" class="r r-lang-en r-verse-text" ><em><em>ta ime ’vasthitā yuddhe<br />prāṇāṁs tyaktvā dhanāni ca<br />ācāryāḥ pitaraḥ putrās<br />tathaiva ca pitāmahāḥ</em></em></div>
-                        
-                            <div id="bb334" class="r r-lang-en r-verse-text" ><em><em>mātulāḥ śvaśurāḥ pautrāḥ<br />śyālāḥ sambandhinas tathā<br />etān na hantum icchāmi<br />ghnato ’pi madhusūdana</em></em></div>
-                        
-                            <div id="bb335" class="r r-lang-en r-verse-text" ><em><em>api trailokya-rājyasya<br />hetoḥ kiṁ nu mahī-kṛte<br />nihatya dhārtarāṣṭrān naḥ<br />kā prītiḥ syāj janārdana</em></em></div>
-                        
-                    </div>
-                
-
-                
-                    <div class="wrapper-synonyms">
-                        <h2 class="section-title">Synonyms</h2>
-                        
-                            <div id="bb336" class="r r-lang-en r-synonyms"><p><a href="/en/search/synonyms/?original=kim"><em>kim</em></a> — what use; <a href="/en/search/synonyms/?original=naḥ"><em>naḥ</em></a> — to us; <a href="/en/search/synonyms/?original=rājyena"><em>rājyena</em></a> — is the kingdom; <a href="/en/search/synonyms/?original=govinda"><em>govinda</em></a> — O Kṛṣṇa; <a href="/en/search/synonyms/?original=kim"><em>kim</em></a> — what; <a href="/en/search/synonyms/?original=bhogaiḥ"><em>bhogaiḥ</em></a> — enjoyment; <a href="/en/search/synonyms/?original=jīvitena"><em>jīvitena</em></a> — living; <a href="/en/search/synonyms/?original=vā"><em>vā</em></a> — either; <a href="/en/search/synonyms/?original=yeṣām"><em>yeṣām</em></a> — of whom; <a href="/en/search/synonyms/?original=arthe"><em>arthe</em></a> — for the sake; <a href="/en/search/synonyms/?original=kāṅkṣitam"><em>kāṅkṣitam</em></a> — is desired; <a href="/en/search/synonyms/?original=naḥ"><em>naḥ</em></a> — by us; <a href="/en/search/synonyms/?original=rājyam"><em>rājyam</em></a> — kingdom; <a href="/en/search/synonyms/?original=bhogāḥ"><em>bhogāḥ</em></a> — material enjoyment; <a href="/en/search/synonyms/?original=sukhāni"><em>sukhāni</em></a> — all happiness; <a href="/en/search/synonyms/?original=ca"><em>ca</em></a> — also; <a href="/en/search/synonyms/?original=te"><em>te</em></a> — all of them; <a href="/en/search/synonyms/?original=ime"><em>ime</em></a> — these; <a href="/en/search/synonyms/?original=avasthitāḥ"><em>avasthitāḥ</em></a> — situated; <a href="/en/search/synonyms/?original=yuddhe"><em>yuddhe</em></a> — on this battlefield; <a href="/en/search/synonyms/?original=prāṇān"><em>prāṇān</em></a> — lives; <a href="/en/search/synonyms/?original=tyaktvā"><em>tyaktvā</em></a> — giving up; <a href="/en/search/synonyms/?original=dhanāni"><em>dhanāni</em></a> — riches; <a href="/en/search/synonyms/?original=ca"><em>ca</em></a> — also; <a href="/en/search/synonyms/?original=ācāryāḥ"><em>ācāryāḥ</em></a> — teachers; <a href="/en/search/synonyms/?original=pitaraḥ"><em>pitaraḥ</em></a> — fathers; <a href="/en/search/synonyms/?original=putrāḥ"><em>putrāḥ</em></a> — sons; <a href="/en/search/synonyms/?original=tathā"><em>tathā</em></a> — as well as; <a href="/en/search/synonyms/?original=eva"><em>eva</em></a> — certainly; <a href="/en/search/synonyms/?original=ca"><em>ca</em></a> — also; <a href="/en/search/synonyms/?original=pitāmahāḥ"><em>pitāmahāḥ</em></a> — grandfathers; <a href="/en/search/synonyms/?original=mātulāḥ"><em>mātulāḥ</em></a> — maternal uncles; <a href="/en/search/synonyms/?original=śvaśurāḥ"><em>śvaśurāḥ</em></a> — fathers-in-law; <a href="/en/search/synonyms/?original=pautrāḥ"><em>pautrāḥ</em></a> — grandsons; <a href="/en/search/synonyms/?original=śyālāḥ"><em>śyālāḥ</em></a> — brothers-in-law; <a href="/en/search/synonyms/?original=sambandhinaḥ"><em>sambandhinaḥ</em></a> — relatives; <a href="/en/search/synonyms/?original=tathā"><em>tathā</em></a> — as well as; <a href="/en/search/synonyms/?original=etān"><em>etān</em></a> — all these; <a href="/en/search/synonyms/?original=na"><em>na</em></a> — never; <a href="/en/search/synonyms/?original=hantum"><em>hantum</em></a> — to kill; <a href="/en/search/synonyms/?original=icchāmi"><em>icchāmi</em></a> — do I wish; <a href="/en/search/synonyms/?original=ghnataḥ"><em>ghnataḥ</em></a> — being killed; <a href="/en/search/synonyms/?original=api"><em>api</em></a> — even; <a href="/en/search/synonyms/?original=madhusūdana"><em>madhusūdana</em></a> — O killer of the demon Madhu (Kṛṣṇa); <a href="/en/search/synonyms/?original=api"><em>api</em></a> — even if; <a href="/en/search/synonyms/?original=trai"><em>trai</em></a>-<a href="/en/search/synonyms/?original=lokya"><em>lokya</em></a> — of the three worlds; <a href="/en/search/synonyms/?original=rājyasya"><em>rājyasya</em></a> — for the kingdom; <a href="/en/search/synonyms/?original=hetoḥ"><em>hetoḥ</em></a> — in exchange; <a href="/en/search/synonyms/?original=kim"><em>kim</em></a> <a href="/en/search/synonyms/?original=nu"><em>nu</em></a> — what to speak of; <a href="/en/search/synonyms/?original=mahī"><em>mahī</em></a>-<a href="/en/search/synonyms/?original=kṛte"><em>kṛte</em></a> — for the sake of the earth; <a href="/en/search/synonyms/?original=nihatya"><em>nihatya</em></a> — by killing; <a href="/en/search/synonyms/?original=dhārtarāṣṭrān"><em>dhārtarāṣṭrān</em></a> — the sons of Dhṛtarāṣṭra; <a href="/en/search/synonyms/?original=naḥ"><em>naḥ</em></a> — our; <a href="/en/search/synonyms/?original=kā"><em>kā</em></a> — what; <a href="/en/search/synonyms/?original=prītiḥ"><em>prītiḥ</em></a> — pleasure; <a href="/en/search/synonyms/?original=syāt"><em>syāt</em></a> — will there be; <a href="/en/search/synonyms/?original=janārdana"><em>janārdana</em></a> — O maintainer of all living entities.</p></div>
-                        
-                    </div>
-                
-
-                
-                    <div class="wrapper-translation">
-                        <h2 class="section-title">Translation</h2>
-                        
-                            <div id="bb337" class="r r-lang-en r-translation" ><p><strong>O Govinda, of what avail to us are a kingdom, happiness or even life itself when all those for whom we may desire them are now arrayed on this battlefield? O Madhusūdana, when teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law and other relatives are ready to give up their lives and properties and are standing before me, why should I wish to kill them, even though they might otherwise kill me? O maintainer of all living entities, I am not prepared to fight with them even in exchange for the three worlds, let alone this earth. What pleasure will we derive from killing the sons of Dhṛtarāṣṭra?</strong></p></div>
-                        
-                    </div>
-                
-
-                
-                    <div class="wrapper-puport">
-                        <h2 class="section-title">Purport</h2>
-                        
-                            
-                            <div class="rich-text"><div id="bb338" class="r r-lang-en r-paragraph" ><p>Arjuna has addressed Lord Kṛṣṇa as Govinda because Kṛṣṇa is the object of all pleasures for cows and the senses. By using this significant word, Arjuna indicates that Kṛṣṇa should understand what will satisfy Arjuna’s senses. But Govinda is not meant for satisfying our senses. If we try to satisfy the senses of Govinda, however, then automatically our own senses are satisfied. Materially, everyone wants to satisfy his senses, and he wants God to be the order supplier for such satisfaction. The Lord will satisfy the senses of the living entities as much as they deserve, but not to the extent that they may covet. But when one takes the opposite way – namely, when one tries to satisfy the senses of Govinda without desiring to satisfy one’s own senses – then by the grace of Govinda all desires of the living entity are satisfied. Arjuna’s deep affection for community and family members is exhibited here partly due to his natural compassion for them. He is therefore not prepared to fight. Everyone wants to show his opulence to friends and relatives, but Arjuna fears that all his relatives and friends will be killed on the battlefield and he will be unable to share his opulence after victory. This is a typical calculation of material life. The transcendental life, however, is different. Since a devotee wants to satisfy the desires of the Lord, he can, Lord willing, accept all kinds of opulence for the service of the Lord, and if the Lord is not willing, he should not accept a farthing. Arjuna did not want to kill his relatives, and if there were any need to kill them, he desired that Kṛṣṇa kill them personally. At this point he did not know that Kṛṣṇa had already killed them before their coming into the battlefield and that he was only to become an instrument for Kṛṣṇa. This fact is disclosed in following chapters. As a natural devotee of the Lord, Arjuna did not like to retaliate against his miscreant cousins and brothers, but it was the Lord’s plan that they should all be killed. The devotee of the Lord does not retaliate against the wrongdoer, but the Lord does not tolerate any mischief done to the devotee by the miscreants. The Lord can excuse a person on His own account, but He excuses no one who has done harm to His devotees. Therefore the Lord was determined to kill the miscreants, although Arjuna wanted to excuse them.</p></div></div>
-                        
-                    </div>
-                
-            </div>
-        </div>
-        
-
-
-    <div class="row">
-        <div class="col-12">
-            <ul class="mini-pager mt-2 pb-4">
-                
-                    <li class="pager-prev"><a class="btn" href="/en/library/bg/1/31/">
-                        <i class="fa fa-chevron-left"></i>
-                        
-                            
-                            Previous
-                        
-                    </a></li>
-
-                
-                
-                    <li class="pager-next"><a class="btn" href="/en/library/bg/1/36/">
-                        
-                            
-                            Next
-                        
-                        <i class="fa fa-chevron-right"></i>
-                    </a></li>
-                
-            </ul>
-        </div>
-    </div>
-
-
-    
-    
-
-
-
-<nav id="para-menu" class="rich-menu">
-    <div id="panel" class="Panel"
-         data-reload-url="/en/paragraph-tool/?page_id=14199&view_slug=index_view&view_args=&next=/en/library/bg/1/32-35/&page_url=/en/library/bg/1/32-35/"
-         data-propose-category-url="/categorization/suggest-category/"
-         data-csrf-token="tvhcUHZC3uli3Hv8ZJFGERZRN5nUWMTau1cw3UvSuof4yjPd6co7wVfroAQKcJ15"
-         data-language="en"
-    >
-        <h1 class="pt-title">Paragraph Tools <a class="pt-close-button" href="#" onclick="event.preventDefault();_menu.close();return false;">Close <i class="fa fa-times"></i></a></h1>
-        Please select paragraph first.
-    </div>
-
-    <div id="subpanel" class="Panel">
-        <p>Suggest this as category.</p>
-        <a href="" class="link-yes btn btn-lg btn-success px-3">Yes</a>
-        <a href="" class="link-cancel btn btn-lg btn-success px-3">Cancel</a>
-    </div>
-
-</nav>
-<div class="paragraph-tool-button no-touch none">
-    <div class="paragraph-tool-button-nav">
-        <div id="para-menu-button" class="paragraph-tool-button-trigger" data-target="#para-menu">
-            <i class="icon fa fa-briefcase fa-2x"></i>
-            <span class="fa-stack fa">
-                <i class="fa fa-circle fa-stack-1x p-counter"></i>
-                <span class="p-counter fa-stack-1x fa-stack-text file-text fa-inverse"></span>
-            </span>
-        </div>
-    </div>
-</div>
-
-
-    </div>
-    
-
-
-<div id="footer" class="container">
-    <div class="col-12">
-        <div class="row">
-            <div class="col-12 mb-2">
-                <div style="font-size: .7em; padding: 1em; border: 1px dashed #C4AB93;">
-                    <a class="btn btn-success donate-button-sponsors" href="https://vedabase.io/en/donate/">Donate now</a>
-                    Thanks to
-
-                    
-		    <a target="_blank" rel="noopener noreferrer" href="https://www.amalbhakta.com/" style="color:#802107;">Amala-bhakta Swami</a> - <a target="_blank" rel="noopener noreferrer" href="https://www.amalbhakta.com/" style="color:#802107;">www.amalbhakta.com</a>;
-                    Jayadharma das; <!-- * /-->
-                    Radhapati Das;
-                    Aishwarya Balaraj;
-                    Gostabihari das and Mahavisnupriya dasi;
-                    Yogendra Sharad Puranik;
-                    Krishna & Family; Thomas; Geetanjali Nath; Mario; Joeie; Susheela and Rama Krishna Reddy Patlolla; Jai Devaki Parks; Ashmi Chakraborty; Hari-kirtana das;
-		                        <a target="_blank" rel="noopener noreferrer" href="https://in.linkedin.com/in/indradyumna-swami" style="color:#802107;">Indradyumna Swami</a>;
-
-		    Ramesta das; Prasad Buddhavarapu; Harakumara dasa; Kresna Sucandra; Late Mr. S. Sundaram; Esekiel Jaggernauth; Isvari Priya DD &amp; Lokadhyaksa dasa
-                    and all others for <a style="color:#200;" href="https://vedabase.io/en/donate/">supporting</a> this site.
-                </div>
-            </div>
-            <div class="col-12 text-center" style="font-size: .7em;">
-                
-                His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, Founder-Ācārya of the International Society for Krishna Consciousness.<br class="d-none d-md-inline"/>
-
-                Content used with permission of &copy; The Bhaktivedanta Book Trust International, Inc. All rights reserved.
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-    <div id="helpModal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-                <h4 class="modal-title" id="helpModalLabel">Keyboard Shortcuts</h4>
-            </div>
-
-            <div class="modal-body">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-12">
-                            ? - shows list of shortcuts you are just reading<br />
-                            [ - navigation for previous page<br />
-                            ] - navigation for next page<br />
-
-                            s - toggle serif/san-serif<br />
-                            a - toggle justify text align<br />
-
-                            } - increase font size<br />
-                            { - decrease font size<br />
-
-                            <div class="my-2">Advanced Chapter view:</div>
-                            1 - toggle verse-text in advanced view<br/>
-                            2 - toggle synonyms in advanced view<br/>
-                            3 - toggle translation in advanced view<br/>
-                            4 - toggle purport in advanced view<br/>
-
-                            j - scroll to next verse<br />
-                            k - scroll to previous verse<br />
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-    
-<script src="/static/js/mousetrap.min.js"></script>
-<script>
-// '?' - show modal with shortcut list
-Mousetrap.bind('?', function() {
-    $('#helpModal').modal('show');
-});
-// '[' navigation for prev page
-Mousetrap.bind('[', function() {
-    if ($('.mini-pager .pager-prev a').attr('href')) {
-        window.location.href = $('.mini-pager .pager-prev a').attr('href');
-    }
-});
-// ']' navigation for next page
-Mousetrap.bind(']', function() {
-    if ($('.mini-pager .pager-next a').attr('href')) {
-        window.location.href = $('.mini-pager .pager-next a').attr('href');
-    }
-});
-// 's' - toggle serif on/off
-Mousetrap.bind('s', function() {
-    $('#settings-use-serif').click();
-});
-// 'a' - toggle align justify on/off
-Mousetrap.bind('a', function() {
-    $('#settings-justify-text').click();
-});
-// '}' - increase font size
-Mousetrap.bind('}', function() {
-    document.getElementById("settings-font-size").stepUp();
-    document.getElementById("settings-font-size").oninput();
-    font_size_rangeslider.val(document.getElementById("settings-font-size").value).change();
-});
-// '{' - decrease font size
-Mousetrap.bind('{', function() {
-    document.getElementById("settings-font-size").stepDown();
-    document.getElementById("settings-font-size").oninput();
-    font_size_rangeslider.val(document.getElementById("settings-font-size").value).change();
-});
-
-// 'v' - toggle record view mode
-Mousetrap.bind('v', function() {
-    if ($('.record-controls .view-mode').attr('href')) {
-        window.location.href = $('.record-controls .view-mode').attr('href');
-    }
-});
-// 'm' - toggle paragraph menu
-Mousetrap.bind('m', function() {
-    if($('#para-menu').hasClass('mm-opened')) {
-        $("nav#para-menu").data( "mmenu" ).close();
-    }
-    else {
-        $("nav#para-menu").data( "mmenu" ).open();
-    }
-});
-</script>
-
-
-    
-    
-        
-    
-
-    
-    <script src="/static/js/vendor/jquery.jknav.min.js"></script>
-    <script>
-    function hl (item) {
-        var header = document.querySelector(".headroom");
-        header.classList.remove("headroom--pinned");
-        header.classList.add("headroom--unpinned");
-    }
-    </script>
-
-    <script>
-    $('.r, .section-title').jknav(hl, 'jk-record');
-
-    $.jknav.init({
-        up: 'k',
-        down: 'j',
-        name: 'jk-record',
-        easing: 'swing',
-        speed: 'normal',
-        circular: false,
-        reevaluate: true
-    });
-    </script>
-
-    
-
-
-    
-
-
-
-
-    <script>
-        var set_bookmark_click = function() {};
-    </script>
-
-
-    
-<script type="text/javascript" src="/static/js/paragraph_tool.js"></script>
-<script>
-var $menu = $('#para-menu').mmenu({
-        extensions 		: [ "pagedim-black" ],
-        offCanvas: {
-            "zposition": "front",
-            "position": "right",
-            "blockUI": true
-        },
-        "navbar": {
-            "title": ""
-        }
-    }),
-    _menu = $menu.data( "mmenu" );
-
-// Binds toggle action on para menu button in navbar
-$('#para-menu-button').on('click', function( e ) {
-    var $this = $(this),
-    $target = $($this.data('target'))
-    api = $target.data('mmenu');
-    if ($target.hasClass('mm-opened')) {
-        api.close();
-    } else {
-        api.open();
-    }
-});
-// set margin-top for para menu so it is below main navbar
-function set_margin_for_mmenu() {
-    var size;
-    size = $('.navbar-main-menu').outerHeight();
-    $('nav#para-menu').css('margin-top', size);
-};
-// initial margin for mmenu
-set_margin_for_mmenu();
-// set margin after resize
-$(window).resize(function() {
-    set_margin_for_mmenu();
-});
-</script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
-<script>
-    function getUrlParameter(name) {
-        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
-        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
-        var results = regex.exec(location.search);
-        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
-    };
-    query = getUrlParameter('query');
-    if (query) {
-        var div_id = window.location.hash;
-        if (!div_id) {
-            div_id = "#content";
-        }
-        var instance = new Mark(document.querySelector(div_id));
-        instance.mark(query, {
-            "accuracy": "exactly"
-        });
-    }
-</script>
-
-
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
-
-
-
+    <p data-translate="process_is_automatic">This process is automatic. Your browser will redirect to your requested content shortly.</p>
+    <p data-translate="allow_5_secs" id="cf-spinner-allow-5-secs" >Please allow up to 5 seconds&hellip;</p>
+    <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting&hellip;</p>
+  </div>
+   
+  <form class="challenge-form" id="challenge-form" action="/en/library/bg/10/32/?__cf_chl_jschl_tk__=380a23458bc9664264337f0840758793b8117f3b-1620112023-0-ATJ77aWFHfN30tsZS3YG4V8o3u4N8x7QBtE88diCZE20JKTsCpXIirMWHEjRSSY9b2eW-nURlE07ftEUrIUkae_FQ-lUBasVbrVvynELU_XUO7NV4AuS1QPhGLZ53lK6EZLpob6Fug83awnuWfgZQ1UwX-QyvrU54bxFkABWk7FceXRr7vWcPTOtpP2OsfK-7GPqxlr_ywbuGaHzH8AsgFHybLkHnZRfhzUoLdxbznRMmI0LE3yvNT0Kok9inaInp1Y_KTfl1mCkep2SYWS7w0D8bQrVam7NRNGMR_y83as139P_JUs8eIkwlPvXJ4mujbr_zzvC54OL2GpnZNOR6mdodRoJTLcjjVrEoGvrm_yKVSOw-JO6EESFsQUS3-2S6pD-qFlrW-Uh8HDK6lS7k7qs8he4NEU95buavlzjf8ya9-Pf__bZGAqnCObtRgWKoQ" method="POST" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="r" value="aead542c2443bc5f6154c4c024971fa9a1252595-1620112023-0-AXRtdE9CVjOnfoi/eDnX6KhMA5GRFzQX4DVfhQUQvO7v5WcYG+KpHcmTxuL8MfOEbiXiHM7Dj+dBqSXny9AcnLWfKMI1QaBpsWklrgEJ/cBF0DUKXyV12bNSTvlK4d6a0C3w6HkRl8GM85IZ9r4862ZXf8JT3S3cJ01YmQOjl7NR2iURb9GymK9G6IY8thePsNkXWdJFfW5BdzdVm8Z1V7EehX8nuhq6bm7NuExIZQRQGaz2SEHOtwoIPwZhiD3uRhIUmKhNoybVlFwZbEGkQ2gY1bqOe3r4+lYsFc5BVKg3nn5iuGfqAV+Q1jtgUn0dUHaXHi4MoeDFTUw+Y1kOYylnxhpmVgRPOo6QLVanDYnR4Q18V9UxQv0abW8iehmkztYmJrbtoDbv6TLDiHH4AnJbZSy0th6IGqGEceMqIKd84gfkrrbsVcAsDGXwttReJZEFe+i/A9rFbORkliwnhfQbSbilgLFBmSaGWeCAdM397MliyKF8zGQ2/aU/l9TyqA=="/>
+    <input type="hidden" value="948994cca850e24be541a49304af40e8" id="jschl-vc" name="jschl_vc"/>
+    <!-- <input type="hidden" value="" id="jschl-vc" name="jschl_vc"/> -->
+    <input type="hidden" name="pass" value="1620112027.636-xBEbnN2Hg9"/>
+    <input type="hidden" id="jschl-answer" name="jschl_answer"/>
+  </form>
+     
     <script type="text/javascript">
-        $("#main-menu").mmenu({
-            extensions 		: [ "pagedim-black" ],
-            navbar: {
-                title: "Main Menu Navigation"
-            },
-                            offCanvas: {
-        "zposition": "front",
-        "position": "right",
-        "blockUI": true
-    },
-        }, {
-        });
-        $("#settings-menu").mmenu({
-            extensions 		: [ "pagedim-black" ],
-            navbar: {
-                title: "Settings"
-            },
-                offCanvas: {
-        "zposition": "front",
-        "position": "right",
-        "blockUI": true
-    },
-        }, {
-        });
-        $("#language-menu").mmenu({
-            extensions 		: [ "pagedim-black" ],
-            navbar: {
-                title: "Select language"
-            },
-            offCanvas: {
-                "zposition": "front",
-                "position": "right",
-                "blockUI": true
-            },
-            searchfield: true,
-        }, {
-        });
-
-        // Move modal from Bootstrap outside of wrapper made by mmenu
-        $('#helpModal').insertAfter('#mm-0');
+      //<![CDATA[
+      (function(){
+          var a = document.getElementById('cf-content');
+          a.style.display = 'block';
+          var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+          var trkjs = isIE ? new Image() : document.createElement('img');
+          trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=649fe3d3af27fec6");
+          trkjs.id = "trk_jschal_js";
+          trkjs.setAttribute("alt", "");
+          document.body.appendChild(trkjs);
+          var cpo=document.createElement('script');
+          cpo.type='text/javascript';
+          cpo.src="/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=649fe3d3af27fec6";
+          document.getElementsByTagName('head')[0].appendChild(cpo);
+        }());
+      //]]>
     </script>
-    <script type="text/javascript">
-        var a = $("#view-switcher").mmenu({
-            extensions: [ "pagedim-black" ],
-            navbar: {
-                title: "Switch to different view"
-            },
-            offCanvas: {
-                "zposition": "front",
-                "position": "right",
-                "blockUI": true
-            }
-        }, {
-        });
+  
 
-        var $page_info = $('#page-info-menu').mmenu({
-            extensions 		: [ "pagedim-black" ],
-            offCanvas: {
-                "zposition": "front",
-                "position": "right",
-                "blockUI": true
-            },
-            "navbar": {
-                "title": ""
-            }
-        });
-    </script>
+  
+  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=649fe3d3af27fec6')"> </div>
+</div>
 
-    
-    <script>
-        var font_size_rangeslider = $("#settings-font-size").rangeslider({
-            polyfill: false,
-        });
-    </script>
-
-    
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-256256-20', 'auto');
-        ga('send', 'pageview');
-
-    </script>
-
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'64985188bc4b10c1',m:'91df7c68294e7df6c2be61a1558c6ce3ec8e4cb9-1620032631-1800-AXjrVrDWILhHuBkZjT/bNANTw3YriCmT6qG4mRD5AduADcTf4Vvqo6ddIJRxmfVroTbpc/OGNigXpsKCzSFLaCHjHUVArE0+s4l16wrpMkszetsOZw2Slbu6/xI7ehxZ3FPVAQEehAVheimzmo1c8g8=',s:[0x883b3379f0,0xaac8c1a2a1],}})();</script></body>
+          
+          <div class="attribution">
+            DDoS protection by <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>
+            <br />
+            <span class="ray_id">Ray ID: <code>649fe3d3af27fec6</code></span>
+          </div>
+      </td>
+     
+    </tr>
+  </table>
+</body>
 </html>
