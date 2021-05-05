@@ -146,8 +146,9 @@ if(verse == ""){verse = 20;}
 #$c++;
 #}
 gURL<-paste0("http://vedabase.io/en/library/bg/",chapter,"/",verse,"/")
-#download.file(gURL,"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="curl")
-system(paste("curl ",gURL," -o data.html"))
+#download.file(gURL,"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
+#system(paste("curl",gURL,"-x 140.227.61.25:58888 -o data.html"))
+system(paste("wget",gURL,"-O data.html"))
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
