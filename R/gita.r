@@ -148,7 +148,7 @@ if(verse == ""){verse = 20;}
 gURL<-paste0("http://vedabase.io/en/library/bg/",chapter,"/",verse,"/")
 #download.file(gURL,"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
 #system(paste("curl",gURL,"-x 140.227.61.25:58888 -o data.html"))
-system(paste("wget -U \"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0\" --header=\"Accept: text/html\" --header=\"Cookie: __cfduid=xpzezr54v5qnaoet5v2dx1ias5xx8m4faj7d5mfg4og; cf_clearance=0n01f6dkcd31en6v4b234a6d1jhoaqgxa7lklwbj-1438079290-3600\" -np ",gURL,"-O data.html"))
+system(paste("wget use_proxy=yes http_proxy=159.8.114.37:80 ",gURL," -O data.html"))
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
