@@ -1,154 +1,63 @@
 chapter<-sample.int(18, 1, replace = TRUE)
 if(chapter == 1){
-  verse=sample.int(46,1)
-  if(verse>15 && verse<19){
-    verse="16-18";
-  }
-  else if(verse>20 && verse<23){
-    verse="21-22";
-  }
-  else if(verse>31 && verse<36){
-    verse="32-35";
-  }
-  else if(verse>36 && verse<39){
-    verse="37-38";
-  }
+  verse=sample.int(39,1)
 }
 if(chapter == 2){
-  verse=sample.int(72,1)
-  if(chapter>41 && chapter<44){
-    verse="42-43";
-  }
+  verse=sample.int(71,1)
 }
 if(chapter == 3){verse=sample.int(43,1)}
 if(chapter == 4){verse=sample.int(42,1)}
 if(chapter == 5){
-  verse=sample.int(29,1)
-  if(verse>7  &&  verse<10){
-    verse="8-9";
-  }
-  else if(verse>26  &&  verse<29){
-    verse="27-28";
-  }
+  verse=sample.int(27,1)
 }
 if(chapter==6){
-  verse=sample.int(47,1)
-  if(chapter>10&&chapter<13){
-    verse="11-12";
-  }
-  else if(chapter>12&&chapter<15){
-    verse="13-14";
-  }
-  else if(chapter>19&&chapter<24){
-    verse="20-23";
-  }
-  else if(chapter>36&&chapter<39){
-    verse="37-38";
-  }
+  verse=sample.int(42,1)
 }
 if(chapter == 7){verse=sample.int(30,1)}
 if(chapter == 8){verse=sample.int(28,1)}
 if(chapter == 9){verse=sample.int(34,1)}
 if(chapter == 10){
-  verse=sample.int(42,1)
-  if(verse>3 && verse<6){
-    verse="4-5";
-  }
-  else if(verse>11 && verse<14){
-    verse="12-13";
-  }
+  verse=sample.int(40,1)
 }
 if(chapter == 11){
-  verse=sample.int(55,1)
-  if(verse>9 && verse<12){
-    verse="10-11";
-  }
-  else if(verse>25 && verse<28){
-    verse="26-27";
-  }
-  else if(verse>40 && verse<43){
-    verse="41-42";
-  }
+  verse=sample.int(52,1)
 }
 if(chapter == 12){
-  verse=sample.int(20,1)
-  if(verse>2 && verse<5){
-    verse="3-4";
-  }
-  else if(verse>5 && verse<8){
-    verse="6-7";
-  }
-  else if(verse>12 && verse<15){
-    verse="13-14";
-  }
-  else if(verse>17 && verse<20){
-    verse="18-19";
-  }
+  verse=sample.int(16,1)
 }
 if(chapter == 13){
-  verse=sample.int(35,1)
-  if(verse>0 && verse<3){
-    verse="1-2";
-  }
-  else if(verse>5 && verse<8){
-    verse="6-7";
-  }
-  else if(verse>9 && verse<13){
-    verse="8-12";
-  }
+  verse=sample.int(29,1)
 }
 if(chapter == 14){
-  verse=sample.int(27,1)
-  if(verse>21 && verse<26){
-    verse="22-25";
-  }
+  verse=sample.int(24,1)
 }
 if(chapter == 15){
-  verse=sample.int(20,1)
-  if(verse>2 && verse<5){
-    verse="3-4";
-  }
+  verse=sample.int(19,1)
 }
 if(chapter == 16){
-  verse=sample.int(24,1)
-  if(verse>0 && verse<4){
-    verse="1-3";
-  }
-  else if(verse>10 && verse<13){
-    verse="11-12";
-  }
-  else if(verse>12 && verse<16){
-    verse="13-15";
-  }
+  verse=sample.int(19,1)
 }
 if(chapter == 17){
-  verse=sample.int(28,1)
-  if(verse>4 && verse<7){
-    verse="5-6";
-  }
-  else if(verse>25 && verse<28){
-    verse="26-27";
-  }
+  verse=sample.int(24,1)
 }
 if(chapter == 18){
-  verse=sample.int(78,1)
-  if(verse>50 && verse<54){
-    verse="51-53";
-  }
+  verse=sample.int(74,1)
 }
-if(verse == ""){verse = 20;}
-#gURL="http://vedabase.com/bg/chapter/verse";
-#header("Location: $gURL",1)
-#exit(,1)
-#echo '<a href=';
-#echo $gURL;
-#echo " > Bhagwat Gita chapter.verse </a> <br> <br> ";
-#$c++;
-#}
-gURL<-paste0("http://vedabase.io/en/library/bg/",chapter,"/",verse,"/")
+if(verse == ""){verse = 1;}
+chapter<-sprintf("%02d", chapter)
+verse<-sprintf("%02d", verse)
+gURL<-paste0("https://bhagavad-gita.org/Gita/verse-",chapter,"-",verse,".html")
 #download.file(gURL,"data.html", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
-#system(paste("curl",gURL,"-x 140.227.61.25:58888 -o data.html"))
-system(paste("wget use_proxy=yes http_proxy=52.151.15.4:807:80 ",gURL," -O data.html"))
+#system(paste("wget -e use_proxy=yes -e http_proxy=13.212.253.139:80  --header="Accept: text/html" --header="Cookie: __cfduid=xpzezr54v5qnaoet5v2dx1ias5xx8m4faj7d5mfg4og; cf_clearance=0n01f6dkcd31en6v4b234a6d1jhoaqgxa7lklwbj-1438079290-3600" -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36\" -O data.html",gURL," -O data.html"))
+shlokaClean<-paste0("<head>
+  <meta http-equiv=\"refresh\" content=\"0; URL=",gURL,"\"/>
+  </head>
+  <body>
+  <p>If you are not redirected, click source: <a href=",gURL,">",gURL,"</a>.</p>
+  </body>")
+writeLines(shlokaClean,paste0("data.html"))
+gURLpng<-paste0("https://bhagavad-gita.org/Gita/png/verse-",chapter,"-",verse,"-4.png")
+download.file(gURLpng,"data.png", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
@@ -179,7 +88,7 @@ shlokaClean<-gsub("â€“","-",shlokaClean)
 shlokaClean<-paste(strwrap(shlokaClean,width=50),collapse="\n")
 writeLines(shlokaClean,paste0("data_html.txt"))
 gURL<-paste0("Chapter.Verse-",cn)
-png("data.png")
+#png("data.png")
 par(mar = c(0,0,0,0),bg = "chocolate",family = 'mono')
 plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
 text(x = 0.5, y = 0.75, paste(gURL,"\n",shlokaClean),cex = 1.2, col = "white")
