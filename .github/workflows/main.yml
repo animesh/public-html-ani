@@ -2,7 +2,7 @@ name: chk1hr
 
 on:
   schedule:
-    - cron: "45 6 * * *"
+    - cron: "30 4 * * *"
 
 jobs:
   generate-data:
