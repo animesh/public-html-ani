@@ -2,10 +2,15 @@ name: Gita
 on:
   schedule:
     - cron: "30 * * * *"
+permissions:
+  contents: write
 jobs:
-  generate-data:
+  build:
     runs-on:  ubuntu-18.04
-    run: |
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+         run: |
           sudo apt install -y --no-install-recommends software-properties-common dirmngr
           wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
           sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
