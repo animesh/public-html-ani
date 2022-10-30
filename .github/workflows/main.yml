@@ -7,14 +7,17 @@ permissions:
 jobs:
   build:
     runs-on:  ubuntu-18.04
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-         - run: |
+      - uses: r-lib/actions/setup-r@v1
+      - uses: actions/checkout@v2
+      - run: |
             sudo apt install -y --no-install-recommends software-properties-common dirmngr
             wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
             sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
             sudo apt -y update
             sudo apt -y upgrade 
-            sudo apt install -y --no-install-recommends r-base
             Rscript R/gita.r 
             git config --local user.email "actions@github.com"
             git config --local user.name "GitHub Actions"
