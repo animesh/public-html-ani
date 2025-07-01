@@ -89,7 +89,34 @@ shlokaClean<-paste(strwrap(shlokaClean,width=50),collapse="\n")
 writeLines(shlokaClean,paste0("data_html.txt"))
 gURL<-paste0("Chapter.Verse-",cn)
 #png("data.png")
-par(mar = c(0,0,0,0),bg = "chocolate",family = 'mono')
+par(mar = c(0,0,0,0),bg = "white",family = 'mono')
 plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
-text(x = 0.5, y = 0.75, paste(gURL,"\n",shlokaClean),cex = 1.2, col = "white")
+text(x = 0.5, y = 0.75, paste(gURL,"\n",shlokaClean),cex = 1.2, col = "chocolate")
 dev.off()
+
+orange_on_white_png <- function(input_file = "data.png", output_file = "data_orange_on_white.png") {
+  if (!requireNamespace("png", quietly = TRUE)) install.packages("png", repos = "https://cloud.r-project.org")
+  library(png)
+  data_img <- readPNG(input_file)
+  if (length(dim(data_img)) == 3 && dim(data_img)[3] == 4) {
+    rgb <- data_img[,,1:3]
+    alpha <- data_img[,,4]
+    for (i in 1:3) {
+      rgb[,,i] <- rgb[,,i] * alpha + 1 * (1 - alpha)
+    }
+  } else {
+    rgb <- data_img
+  }
+  gray <- 0.299 * rgb[,,1] + 0.587 * rgb[,,2] + 0.114 * rgb[,,3]
+  mask <- 1 - (gray - min(gray)) / (max(gray) - min(gray) + 1e-8)
+  gamma <- 6
+  mask <- mask ^ gamma
+  out_img <- array(1, dim = c(dim(rgb)[1], dim(rgb)[2], 4))
+  out_img[,,1] <- mask * 1 + (1 - mask) * 1     # Red: orange=1, white=1
+  out_img[,,2] <- mask * 0.5 + (1 - mask) * 1   # Green: orange=0.5, white=1
+  out_img[,,3] <- mask * 0 + (1 - mask) * 1     # Blue: orange=0, white=1
+  out_img[,,4] <- 1                             # Opaque
+  writePNG(out_img, output_file)
+}
+
+
