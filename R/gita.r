@@ -58,6 +58,78 @@ shlokaClean<-paste0("<head>
 writeLines(shlokaClean,paste0("data.html"))
 gURLpng<-paste0("https://bhagavad-gita.org/Gita/png/verse-",chapter,"-",verse,"-4.png")
 download.file(gURLpng,"data.png", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
+
+# Inline orange-on-white image processing
+if (!requireNamespace("png", quietly = TRUE)) install.packages("png", repos = "https://cloud.r-project.org")
+library(png)
+data_img <- readPNG("data.png")
+if (length(dim(data_img)) == 3 && dim(data_img)[3] == 4) {
+  rgb <- data_img[,,1:3]
+  alpha <- data_img[,,4]
+  for (i in 1:3) {
+    rgb[,,i] <- rgb[,,i] * alpha + 1 * (1 - alpha)
+  }
+} else {
+  rgb <- data_img
+}
+gray <- 0.299 * rgb[,,1] + 0.587 * rgb[,,2] + 0.114 * rgb[,,3]
+mask <- 1 - (gray - min(gray)) / (max(gray) - min(gray) + 1e-8)
+gamma <- 1.25
+mask <- mask ^ gamma
+out_img <- array(1, dim = c(dim(rgb)[1], dim(rgb)[2], 4))
+out_img[,,1] <- mask * 1 + (1 - mask) * 1     # Red: orange=1, white=1
+out_img[,,2] <- mask * 0.5 + (1 - mask) * 1   # Green: orange=0.5, white=1
+out_img[,,3] <- mask * 0 + (1 - mask) * 1     # Blue: orange=0, white=1
+out_img[,,4] <- 1                             # Opaque
+
+# Pad image to 1200x630 (tweet-friendly 16:9 aspect ratio) with minimum 50px margin
+library(png)
+target_width <- 1200
+target_height <- 630
+min_margin <- 50
+content_width <- target_width - 2 * min_margin
+content_height <- target_height - 2 * min_margin
+img_height <- dim(out_img)[1]
+img_width <- dim(out_img)[2]
+
+# Scale down if image is larger than content area
+if (img_width > content_width || img_height > content_height) {
+  scale_factor <- min(content_width / img_width, content_height / img_height)
+  new_width <- as.integer(img_width * scale_factor)
+  new_height <- as.integer(img_height * scale_factor)
+  # Use simple nearest-neighbor resizing
+  out_img <- out_img[round(seq(1, img_height, length.out = new_height)),
+                     round(seq(1, img_width, length.out = new_width)), , drop=FALSE]
+  img_width <- new_width
+  img_height <- new_height
+}
+
+# Center the image with at least 50px margin
+pad_top <- min_margin + floor((content_height - img_height) / 2)
+pad_left <- min_margin + floor((content_width - img_width) / 2)
+y_start <- pad_top + 1
+y_end <- pad_top + img_height
+x_start <- pad_left + 1
+x_end <- pad_left + img_width
+padded_img <- array(1, dim = c(target_height, target_width, 4)) # white background
+padded_img[y_start:y_end, x_start:x_end, ] <- out_img
+out_img <- padded_img
+
+writePNG(out_img, "data_orange_on_white.png")
+
+# Write HTML with the orange image and a link to the source
+link_text <- paste0("Chapter ", chapter, ", Verse ", verse)
+html_content <- paste0(
+  '<html>\n',
+  '<head><title>Bhagavad Gita Verse</title></head>\n',
+  '<body style="text-align:center;">\n',
+  '<img src="data_orange_on_white.png" alt="Verse Image" style="max-width:100%;height:auto;" />\n',
+  '<br/><br/>\n',
+  '<a href="', gURL, '" target="_blank">', link_text, '</a>\n',
+  '</body>\n',
+  '</html>'
+)
+writeLines(html_content, "data.html")
 getwd()
 rawHTML <- paste(readLines("data.html"))#, collapse="\n")
 write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
@@ -93,30 +165,5 @@ par(mar = c(0,0,0,0),bg = "white",family = 'mono')
 plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
 text(x = 0.5, y = 0.75, paste(gURL,"\n",shlokaClean),cex = 1.2, col = "chocolate")
 dev.off()
-
-orange_on_white_png <- function(input_file = "data.png", output_file = "data_orange_on_white.png") {
-  if (!requireNamespace("png", quietly = TRUE)) install.packages("png", repos = "https://cloud.r-project.org")
-  library(png)
-  data_img <- readPNG(input_file)
-  if (length(dim(data_img)) == 3 && dim(data_img)[3] == 4) {
-    rgb <- data_img[,,1:3]
-    alpha <- data_img[,,4]
-    for (i in 1:3) {
-      rgb[,,i] <- rgb[,,i] * alpha + 1 * (1 - alpha)
-    }
-  } else {
-    rgb <- data_img
-  }
-  gray <- 0.299 * rgb[,,1] + 0.587 * rgb[,,2] + 0.114 * rgb[,,3]
-  mask <- 1 - (gray - min(gray)) / (max(gray) - min(gray) + 1e-8)
-  gamma <- 6
-  mask <- mask ^ gamma
-  out_img <- array(1, dim = c(dim(rgb)[1], dim(rgb)[2], 4))
-  out_img[,,1] <- mask * 1 + (1 - mask) * 1     # Red: orange=1, white=1
-  out_img[,,2] <- mask * 0.5 + (1 - mask) * 1   # Green: orange=0.5, white=1
-  out_img[,,3] <- mask * 0 + (1 - mask) * 1     # Blue: orange=0, white=1
-  out_img[,,4] <- 1                             # Opaque
-  writePNG(out_img, output_file)
-}
 
 
