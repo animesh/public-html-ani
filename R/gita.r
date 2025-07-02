@@ -84,7 +84,6 @@ out_img[,,3] <- mask * 0 + (1 - mask) * 1     # Blue: orange=0, white=1
 out_img[,,4] <- 1                             # Opaque
 
 # Pad image to 1200x630 (tweet-friendly 16:9 aspect ratio) with minimum 50px margin
-library(png)
 target_width <- 1200
 target_height <- 630
 min_margin <- 50
@@ -132,39 +131,33 @@ html_content <- paste0(
 )
 writeLines(html_content, "data.html")
 getwd()
-rawHTML <- paste(readLines("data.html"))#, collapse="\n")
-write.csv(as.data.frame(rawHTML),paste0("data_html.csv"))
-cn<-rawHTML[grep("<title>",rawHTML)]
-cn<-gsub("</title>","",cn)
-cn<-gsub("<title>Bg. ","",cn)
-cn<-gsub(" ","",fixed=T,cn)
-print(cn)
-shloka<-rawHTML[grep("r r-lang-en r-translation",rawHTML)]
-shlokaClean<-gsub(".*r r-lang-en r-translation(.+)div.*", "\\1", shloka)
-shlokaClean<-gsub(" ><p><strong>", "\n", shlokaClean)
-shlokaClean<-gsub(" ><p><strong>", "\n", shlokaClean)
-shlokaClean<-gsub("</strong></p></", "\"\n", shlokaClean)
-shlokaClean<-gsub("\\s*\\[[^\\)]+\\]","",shlokaClean)
-shlokaClean<-gsub("â€“","-",shlokaClean)
-#https://rstudio-pubs-static.s3.amazonaws.com/279354_f552c4c41852439f910ad620763960b6.html
-#Encoding(shlokaClean)
-#Encoding('ʘ')
-#print(Sys.info()[1:6])
-#getOption("encoding")
-#Sys.getlocale("LC_ALL")
-#length(unique(iconvlist()))
-#results <-  sapply(iconvlist(),         function(to)           try(iconv(x, from = Encoding(x), to = to), silent = TRUE))
-#sum(isErrors <- grepl("^Error in", results))
-#errors <- results[isErrors]
-#names(errors)
-#shlokaClean<-iconv(shlokaClean, "latin1", "ASCII//TRANSLIT")
-shlokaClean<-paste(strwrap(shlokaClean,width=50),collapse="\n")
-writeLines(shlokaClean,paste0("data_html.txt"))
-gURL<-paste0("Chapter.Verse-",cn)
-#png("data.png")
-par(mar = c(0,0,0,0),bg = "white",family = 'mono')
-plot(c(0, 1), c(0, 1), ann = F, bty = 'n', type = 'n', xaxt = 'n', yaxt = 'n')
-text(x = 0.5, y = 0.75, paste(gURL,"\n",shlokaClean),cex = 1.2, col = "chocolate")
-dev.off()
+download.file(gURL,"data_html.txt", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
+file.copy("data_html.txt", "data_html_raw.txt", overwrite = TRUE)
+rawHTML <- readLines("data_html.txt")
+htmlString <- paste(rawHTML, collapse = " ")
+# Extract all text between tags
+matches <- gregexpr(">([^<]+)<", htmlString, perl=TRUE)
+plainText <- regmatches(htmlString, matches)[[1]]
+plainText <- gsub(">|<", "", plainText)
+plainText <- gsub("&nbsp;", " ", plainText)
+plainText <- gsub("&amp;", "&", plainText)
+plainText <- gsub("&lt;", "<", plainText)
+plainText <- gsub("&gt;", ">", plainText)
+plainText <- gsub("&quot;", '"', plainText)
+plainText <- gsub("&#39;", "'", plainText)
+plainText <- gsub("[ ]+", " ", plainText)
+plainText <- trimws(plainText)
+plainText <- plainText[plainText != ""]
+# Remove unwanted lines
+unwanted <- c(
+  'Chapters', 'Sanskrit Vocal', 'Your browser does not support audio element',
+  'Transliteration', 'Anvaya', 'Translation', 'Audio',
+  'Hindi', 'Bengali', 'English', 'Dutch', 'German', 'Greek', 'Chinese',
+  'Japanese', 'French', 'Spanish', 'Italian', 'Portuguese', 'Hebrew',
+  'Arabic', 'Serbian', 'Russian'
+)
+plainText <- plainText[!plainText %in% unwanted]
+writeLines(plainText, "debug_plain_text.txt")
+writeLines(plainText, "data_html.txt")
 
 
