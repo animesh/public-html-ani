@@ -59,9 +59,9 @@ writeLines(shlokaClean,paste0("data.html"))
 gURLpng<-paste0("https://bhagavad-gita.org/Gita/png/verse-",chapter,"-",verse,"-4.png")
 download.file(gURLpng,"data.png", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
 # libpath fix
-.libPaths(c(.libPaths(), "~/R/library"))
+#.libPaths(c(.libPaths(), "~/R/library"))
 # Inline orange-on-white image processing
-if (!requireNamespace("png", quietly = TRUE)) install.packages("png", repos = "https://cloud.r-project.org", lib = "~/R/library")
+#if (!requireNamespace("png", quietly = TRUE)) install.packages("png", repos = "https://cloud.r-project.org", lib = "~/R/library")
 library(png)
 data_img <- readPNG("data.png")
 if (length(dim(data_img)) == 3 && dim(data_img)[3] == 4) {
