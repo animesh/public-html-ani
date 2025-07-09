@@ -117,19 +117,6 @@ out_img <- padded_img
 
 writePNG(out_img, "data_orange_on_white.png")
 
-# Write HTML with the orange image and a link to the source
-link_text <- paste0("Chapter ", chapter, ", Verse ", verse)
-html_content <- paste0(
-  '<html>\n',
-  '<head><title>Bhagavad Gita Verse</title></head>\n',
-  '<body style="text-align:center;">\n',
-  '<img src="data_orange_on_white.png" alt="Verse Image" style="max-width:100%;height:auto;" />\n',
-  '<br/><br/>\n',
-  '<a href="', gURL, '" target="_blank">', link_text, '</a>\n',
-  '</body>\n',
-  '</html>'
-)
-writeLines(html_content, "data.html")
 getwd()
 download.file(gURL,"data_html.txt", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
 file.copy("data_html.txt", "data_html_raw.txt", overwrite = TRUE)
@@ -160,4 +147,17 @@ plainText <- plainText[!plainText %in% unwanted]
 writeLines(plainText, "debug_plain_text.txt")
 writeLines(plainText, "data_html.txt")
 
+# Write HTML with the orange image and a link to the source
+link_text <- plainText[1]
+html_content <- paste0(
+  '<html>\n',
+  '<head><title>Bhagavad Gita Verse</title></head>\n',
+  '<body style="text-align:center;">\n',
+  '<img src="data_orange_on_white.png" alt="Verse Image" style="max-width:100%;height:auto;" />\n',
+  '<br/><br/>\n',
+  '<a href="', gURL, '" target="_blank">', link_text, '</a>\n',
+  '</body>\n',
+  '</html>'
+)
+writeLines(html_content, "data.html")
 
