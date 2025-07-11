@@ -1,89 +1,98 @@
-<html><head><title>Bhagavad-Gita: Chapter 15, Verse 10</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 18, Verse 11</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 10</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-09-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 11</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-11-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-09.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-15-09-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-11.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-18-11-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-15-09-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-18-11-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-15-09-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-18-11-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-15-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-09.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-18-10.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-12.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-11.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-One may wonder do not all humans recognise the <i>atma</i> or immortal soul  within
-as  distinct  and  different  from  the  physical  body?  Lord  Krishna   is
-addressing such a query here. The bewilderd and  deluded  do  not  recognise
-the <i>atma</i> residing within the etheric heart of their  own  physical  body  is
-experiencing <i>prakriti,</i> the material substratum pervading physical  existence
-through the <i>gunas,</i> the three modes  of  material  nature  by  utilising  the
-senses. Hence they are incapable of perceiving the <i>atma</i> departing  from  the
-physical body and likewise cannot perceive that the <i>atma</i>  exists equally  in
-all <i>jivas</i> as  well.  But  Lord  Krishna  confirms  that  those  realised  in
-spiritual intelligence can perceive the <i>atma.</i>
-<p>
+It may be postulated  that  better  than  renunciation  of  the  rewards  of
+actions, it is better to simply renounce all actions; for then there  is  no
+distraction from meditation and contemplation and one can unhindered  attain
+the joy of a stable, steadfast state of consciousness.  In  anticipation  of
+this Lord Krishna explains the reality that no living entity can  completely
+stop all actions entirely. No one ever remains inactive even  for  a  moment
+as the heart is beating, the lungs are breathing, the pulse is pulsing,  the
+eyes are blinking, the mind is reflecting, etc.  etc.  Therefore  renouncing
+the desire for rewards is true renunciation.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-How one does not perceive and how one is able to  perceive  is  examined  by
-Lord Krishna.
-<p>
+Lord Krishna explains that since it is impossible for any living  entity  to
+completely renounce actions entirely it is clear that  renunciation  of  the
+desire for rewards of actions and all ego sense as the doer  of  actions  is
+actual renunciation and not the mere cessation of activities.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The word <i>vimudha</i> used by Lord Krishna means the ignorant, the  fools,  those
-who misconceive the outer, corporeal body to be the <i>atma</i>  or  immortal  soul
-and who do not perceive that the <i>atma</i> is conjoined  with  matter,  bound  to
-limited conditions of space and time in various forms of existence as  <i>jivas</i>
-or embodied beings exist. Such bewildered <i>jivas</i> never can detemine  how  the
-<i>atma</i> enters or how it  departs  with  an  embodied  being.  Neither  can  it
-ascertain how although abiding within it is distinctly  different  from  the
-<i>jiva</i> nor understand how  the  <i>atma</i>  is  experiencing  that  which  the  <i>jiva</i>
-enjoys. Yet those who are <i>jnana-caksusah</i> or endowed  with  spiritual  wisdom
-and  enlightened  realisation  can  perceive  the  <i>atma</i>  existing   in   its
-essential nature within their own  etheric  heart  and  within  the  etheric
-heart of every <i>jiva.</i>
+It should be clearly understood that whether confined to a physical body  or
+a subtle body it is virtually impossible to  entirely  give  up  all  action
+completely.  In the physical body  the  heart  is  beating,  the  lungs  are
+breathing, water must be drunk, some form of nourishment must  be  ingested.
+If it is a subtle body then sunshine must be absorbed  or  <i>prana</i>  or  energy
+must be assimilated. These things are indispensable for life in  a  physical
+or subtle body. Thus while residing in a physical  body  the  observance  of
+prescribed Vedic activities are essential and must be performed. It  is  the
+renouncing  of  desires  for  the  rewards  of  actions  that   is   factual
+renunciation and not the mere abandoning of  activities.  Such  renunciation
+also includes idea of authorship and the  bane  of  attachment.  It  may  be
+argued  that  prescribed  Vedic  activities   have   rewards   automatically
+associated with them such as entry to <i>Svarga</i>  the  heavenly  planets  so  by
+such inseparable relationships they  are  clear  incentives.  This  is  also
+applicable to the merits accrued from <i>nitya</i> or daily duties  and  <i>naimittika</i>
+or occasional duties as well. These actions can be compared  to  planting  a
+mango tree and the  fruits  can  be  considered  the  rewards  thereof.  But
+motivation for the rewards of actions opposed to <i>bhakti</i> or exclusive  loving
+devotion to Lord Krishna  and  is  inimical  to  <i>moksa</i>  or  liberation  from
+material existence. Verily this is true. So  all  rewards  whether   or  not
+desirable or undesirable must be renounced  as  only   activities  performed
+without motive and hankering for rewards are  to  be  enacted  and  this  is
+actual renunciation.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Those who are ignorant and unevolved are not able  to  discriminate  between
-the <i>atma</i>  or  immortal  soul  and  the  physical  body.  Hence  lacking  the
-spiritual intelligence they are completely oblivious  of  the  reality  that
-the <i>atma</i> is distinctly different from the body and the  senses  even  though
-it is experiencing the  senses  when  dwelling  within  the  body,  or  when
-transmigrating from the body or when entering a new body as  human,  demigod
-or animal due to the influence of the  <i>gunas</i>  or  three  modes  of  material
-nature and the resultant tribulation of <i>karma</i> or reactions to  actions.  But
-those with spiritual intelligence, possessing the  eye  of  wisdom  acquired
-through devotion and knowledge of the Vedic  scriptures  as  taught  by  the
-Vaisnava spiritual preceptor will naturally realise both  the  eternal  <i>atma</i>
-and the transcendental  Supreme  Lord  in  reality  as  having  no  material
-qualities in any respect.
+Some may conclude that if those imbued with  <i>sattva  guna</i>  or  the  mode  of
+goodness neither welcomes nor  avoids  actions  conducive  to  happiness  or
+unhappiness, then they should not indulge in any activities at  all  because
+anyway  they  are  not  desirous  of  rewards.  Contrarily  the  very   same
+activities if they are motivated by desire for rewards keep one enslaved  in
+<i>samsara</i> or the perpetual cycle of birth and death. So to be  safe  it  would
+be better to abandon all actions. Lord Krishna resolves this predicament  in
+this verse by confirming that it is impossible  for  any  <i>jiva</i>  or  embodied
+being in a gross or subtle body to completely  stop  all  actions  entirely.
+This  is  because  there  is  always  some  activitiy  operating   for   the
+maintenance of the subtle and  physical  body  even  if  it  is  beyond  the
+threshold of comsciousness. So in conclusion one who  has  relinquished  the
+desire for rewards for their actions performing prescribed Vedic  activities
+with <i>bhakti</i> or exclusive loving devotion or performing them as a  matter  of
+duty is designated as situated in  actual  renunciation  and  not  the  mere
+abstainer of actions.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 10 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 10<br><dt><center><dt><a href="verse-15-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 11 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 11<br><dt><center><dt><a href="verse-18-10.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-12.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
