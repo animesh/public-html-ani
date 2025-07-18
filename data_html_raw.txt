@@ -1,74 +1,116 @@
-<html><head><title>Bhagavad-Gita: Chapter 16, Verse 5</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 3, Verse 13</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 5</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-03-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 13</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-13-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-03.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-16-03-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-13.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-03-13-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-16-03-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-03-13-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-16-03-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-03-13-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-16-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-03.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-03-12.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-14.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-13.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-13.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
 <p>
-Lord Krishna now discloses the results of  first  the  divine  nature  which
-qualifies for higher spiritual knowledge  leading  to  <i>moksa</i>  or  liberation
-from material existence and secondly He discloses the demoniac nature  which
-disqualifies  one  from  <i>moksa</i>  and  insures  enslavement  in  <i>samsara</i>   the
-perpetual cycle of  birth  and  death.  Lord  Krishna  perceiving  that  His
-devotee was distraught by the idea that he may not be  a  fit  aspirant  for
-<i>moksa</i> and hence subject to <i>samsara</i>, the Supreme Lord consoles him  with  the
-words <i>ma sucah</i> meaning not to worry, assuring him that he is  definitely  of
-the divine nature.
+<p>
+Therefore it can be understood  that  those  humans  who  perform  <i>yagna</i>  or
+worship to the Supreme Lord Krishna are pre-eminent among the human  species
+and not others. This is shown by the word <i>santah</i> meaning  they  are  saintly
+and virtuous. Those who accept food after first offering it to  the  Supreme
+Lord are freed from the sins acquired  from  the  five  areas  in  the  home
+causing harm to any living entity. They are: the  mortar  and  pestle  where
+sometimes extremely small  bugs  are  accidentally  killed,  the  grindstone
+where microscopic amoebas inside of the  seeds  are  ground  to  death,  the
+fireplace where sometimes crawling things come into when  the  fire  is  out
+only to be burned  to  death  when  the  fire  is  lt,  the  waterpot  where
+sometimes insects fly into and drown and  the  broom  which  while  sweeping
+dirt and dust from the house might also sweep ants and such in  such  a  way
+as to cause their demise. These are the five  areas  of  harm  in  the  home
+causing accidental death to harmless creatures  as  confirmed  in  the  Manu
+Samhita III. 68.  Those sinful wretches who do not  first  offer  what  they
+eat to the Supreme Lord are not freed from any of these sins  but  they  are
+punished for them and verily day by day they eat only  sin.  On  account  of
+these sins multiplying daily they have no opportunity to attain heaven.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
+In a very rational way Lord Krishna is praising the  saintly  performers  of
+<i>yagna</i> by means of worship and offerings and  censoring  those  who  fail  to
+perform such <i>yagna.</i> In the previous three verses and this one  Lord  Krishna
+has elucidated the science of <i>yagna.</i> The Purusha Sukta in the  Rig  Veda  we
+see that Brahma the first born is the Purusha offering  himself  as  worship
+and  oblations  for  the  benefit  and  welfare  of  creation.   By   Brahma
+inaugurating the act of <i>yagna,</i> the  perennial  principles  of  existence  or
+<i>dharma</i> were established for all the worlds. Thus  by  ordaining  <i>dharma</i>  the
+Supreme Lord Krishna through his representative  Brahma  has  given  mankind
+the purpose, the objective and the  methodology  of  <i>yagna.</i>  One  in  wisdom
+should follow in the footsteps of  Brahma and  offer  to  the  Supreme  Lord
+there very self and essence as an act of worship in <i>yagna.</i>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Lord Krishna encourages His devotee to grieve not or be  despondent  at  the
-thought that he may not be qualified enough, for without a doubt he is  born
-of the divine nature.
+Those who prepare food from funds honestly acquired with the sole  objective
+of worshipping the Supreme Lord Krishna  who  resides  as  the  soul  within
+themselves as well as within all the demi-gods and every living entity;  and
+those who only partake of such duly consecrated food become absolved of  all
+sins  accumulated  over  iniquity  subatomic  and   atomic   impending   the
+completion and fulfilment of self realisation  of  the  <i>atma</i>  or  soul.  But
+those sinful wretches who do not first offer to the Supreme  Lord  what  was
+gifted to  them  and  instead  prepare  and  eat  it  appropriating  it  for
+theirselves verily eat only sin. The word <i>agham</i> meaning  sin  denotes  their
+will be grave consequences for such sins. Ignorant  of  the  path  to  <i>atma-</i>
+<i>tattva</i> or self realisation of the soul, such  degraded  persons  perpetually
+eat sinful food insuring a  hellish  destination  in  their  next  life.  It
+should be understood that everything is connected to  <i>yagna</i>  or  worship  in
+this world and the next, from both the point of  view  of  <i>sastra</i>  or  Vedic
+scripture and from inference. It should also be clearly understood that  the
+observance of <i>yagna</i> is essential for benefit and welfare of all mankind  and
+that its omission purposefully or accidental is counter productive  for  the
+entire human race and is fraught with sinfulness and dire consequences.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Lord Krishna explains the opposing results of  the  divine  nature  and  the
-demoniac  nature.  The  divine  nature  which  follows  the  ordinances  and
-injunctions of the Vedic scriptures has been regarded from  time  immemorial
-by self-realised sages and rishis as conducive to <i>moksa</i> or  liberation  from
-material existence due to spiritual knowledge and attaining  communion  with
-the Supreme Lord. The demoniac nature leads one to  act  contrarily  to  the
-ordinances and injunctions of the Vedic scriptures and hence  are  conducive
-to enslavement in <i>samsara</i>  the  perpetual  cycle  of  birth  and  death  and
-bondage in material existence taking birth  each  time  in  lower  and  more
-degraded life forms. Seeing despondency on His devotees face,  Lord  Krishna
-assures him not to worry for he is  without  a  doubt  born  of  the  divine
-nature.
+Therfore those that only eat food that  has  been  offered  in
+yagna or worship are faultless and no other. This Lord Krishna
+is  confirming  with  the  word  santah  meaning  saintly  and
+virtuous. Those who perform yagna become absolved of all  sins
+produced from the daily use of the five utensils in  the  home
+used by householders in the cooking and  preparing  of  foods.
+Such  sins  are  produced  from  the  non-performance  of  the
+injunction of yagna and from the performance of the prohibited
+action. These are serious hindrances in attaining heaven.  The
+five acts if piety performed by the twice  born  brahmins  are
+mandatory,  beginning  with  Brahma  Yagna  or  Vedic   study,
+offering worship to God, homage to the anscestors, feeding  of
+animals and welcoming and feeding chance  guests.  These  five
+acts of piety neutralise all sins contracted by the five areas
+of destuction in the home being the  pestle,  the  grindstone,
+the fireplace, the waterpot and the broom. Manu  Samhita  III.
+69-71 confirms all sins  from  these  five  actions  are  duly
+nullified by the five previous acts of piety.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 5 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 5<br><dt><center><dt><a href="verse-16-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 13 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 13<br><dt><center><dt><a href="verse-03-12.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-14.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
