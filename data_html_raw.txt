@@ -1,78 +1,104 @@
-<html><head><title>Bhagavad-Gita: Chapter 6, Verse 46</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 4, Verse 34</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 6</font></b></td><td valign=middle align=center><b><font size=5>The Science of Self Realization</font></b></td><td valign=middle align=center><b><font size=5>Verse 46</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06-sel.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-06-41-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 4</font></b></td><td valign=middle align=center><b><font size=5>Approaching the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 34</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04-sel.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-04-34-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/06-41.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-06-41-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/04-34.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-04-34-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-06-41-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-04-34-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-06-41-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-04-34-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-06-40.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-06-42.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/06-41.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/06-41.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-04-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-35.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/04-34.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The result of <i>yoga</i> or the science of the individual consciousness  attaining
-communion with the ultimate consciousness verifies that the <i>yogi</i> is  greater
-than the ascetics who perform  ritualistic  penance's  like  <i>Chandrayana</i>  or
-fasting with the cycles of  the  moon,  the  <i>jnani's</i>  or  knowers  of  Vedic
-scripture without the requisite realisation and the  <i>karmi's</i>  or  those  who
-perform prescribed Vedic activities for fruitive results  and  rewards  such
-as <i>Ishta's</i> or rites and rituals for attaining material gains in the  present
-life or in <i>svarga loka</i> the heavenly spheres in the afterlife  and  <i>Purta</i>  or
-acts of charity such as well digging for public use, giving food in  charity
-etc. Therefore Lord Krishna is encouraging Arjuna to be a yogi.
+<i>The means to acquire atma tattva or soul realisation is being stated here:</i>
+<i>How is this knowledge to be acquired? Lord Krishna reveals it is by</i>
+<i>inquiry. Inquire from a self-realised being by falling submissively at his</i>
+<i>feet just like a stick before him. Questions should be asked like. What is</i>
+<i>the goal of human existence and how is it possible to attain it? One should</i>
+<i>render humble and sincere service to this self-realised being because this</i>
+<i>person has realised the ultimate truth, fully steeped in the knowledge of</i>
+<i>the Vedic scriptures, of the Brahman or the spiritual substratum pervading</i>
+<i>all existence and the intuitive potency which manifests along with it. Such</i>
+<i>a person will magnanimously instruct one in attaining the ultimate truth.</i>
 <p>
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+Although Arjuna is considered a man of wisdom properly raised  and  educated
+in the Vedic culture, still illusion has  entered  his  consciousness.  This
+was highlighted in verse sixteen where the words yat jnatva  meaning  having
+understood were used to instruct Arjuna.
 <p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
-</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+Now begins the summation.
 <p>
-As <i>yoga</i> or the science of the individual consciousness  attaining  communion
-with the ultimate consciouness leads to  the  highest  aspiration  of  human
-existence. It is known that <i>yoga</i> is greater what is attainable  by  ascetics
-living austerities, greater than what is attainable by Vedic knowledge  that
-is bereft of knowledge of the soul and greater than what is attained by  the
-performance of ritualistic ceremonies prescribed  in  the  Vedas  concerning
-fruitive rewards. Hence the  <i>yogi</i>  is  superior  to  all  these.  Thus  Lord
-Krishna encourages Arjuna to become a  <i>yogi.</i>  This  verse  is  a  eulogy  on
-higher theosophy and it  relates  to  the  acquisition  of  <i>atma  tattva</i>  or
-realisation of the soul as the preliminary step to God realisation.
+Since spiritual wisdom will be revealed in detail in later chapters Lord
+Krishna now begins speaking briefly about the nature of it here.
 <p>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+One should know that this spiritual knowledge relative to the atma or soul
+propounded by Lord Krishna to be imperishable. One should learn this well
+and advance themselves along the path by diligently acquiring wisdom and
+more by submissively approaching realised beings who have realised the
+ultimate truth. One should render sincere, dedicated service to them with
+veneration and humility asking relevant questions about the ultimate truth.
+These being so advanced in atma tattva or soul realisation have experienced
+the ultimate reality and being pleased by one's humble demeanour and
+reverent questions will bless one with divine knowledge which they possess
+and will impart the transcendental knowledge one is so eager and
+enthusiastic to learn. If one has not practically realised there atma which
+is an act of actual perception and situates one in their true nature then
+such talk about it is merely a hypothesis.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Therefore a person sincerely seeking their eternal well  being  should  rely
-on <i>yoga</i> more than any other means for accomplishing the fundamental  purpose
-of  human  existence.  The  <i>yogi</i>  or  one  perfecting  the  science  of  the
-individual consciousness with the ultimate consciousness is superior to  the
-ascetics who practice ritualistic austerities like the  fasting  vows  which
-follow the cycle of the moon. The <i>yogi</i> is regarded to be superior  to  those
-who are well versed and knowledgeable of the Vedic scriptures and a <i>yogi</i>  is
-also superior to those who perform prescribed Vedic activities for  fruitive
-results like an <i>Agnihotra</i> or  fire  sacrifice.  Therefore  Lord  Krishna  is
-encouraging Arjuna to be a <i>yogi.</i>
+As to the answer to the question by what means is this  spiritual  knowledge
+available Lord Krishna is revealing how to attain this  knowledge  which  is
+altogether  different  from  actions  that  bestow  material   rewards.   He
+instructs everyone to fall at the feet of a self-realised  beings  rendering
+service to them with faith and devotion and inquire from them  with  a  pure
+heart about the purpose of life, the true nature of a living being  and  how
+to revive one's relationship with the Supreme Being? By these questions  and
+by being pleased by one's sincere service such a  self-realised  being  will
+guide and instruct one on matters related  to  the  ultimate  truth  because
+they have direct experience and wisdom of this  and  thus  will  remove  all
+doubts about: Who am I? Why was I born? What is  my  purpose  in  life?  The
+self-realised being will dispel all these questions by proper reasoning  and
+evidences from the Vedic scriptures and practical experience and reveal  the
+nature of  the  individual  consciousness  and  its  relationship  with  the
+ultimate consciousness which is the  goal  of  all  existence.  All  actions
+culminate in knowledge when instructed by a self-realised  being  but  never
+when instructed by those who  are  not  self-realised.  By  this  verse  the
+ancient scriptural adage of : Let one humbly seek a spiritual master who  is
+well learned in the Vedic scriptures and established  in  the  knowledge  of
+the <i>Brahman</i> or the spiritual substratum pervading all existence. The  plural
+sense of the words <i>jnaninah</i> meaning those expert  in  the  Vedic  scriptures
+and <i>darsinah</i> meaning those who realised the ultimate truth denotes that  all
+self realised being will possess this spiritual knowledge.  It  also  infers
+that if one approaches a person for enquiry and discovers that  this  person
+is not self-realised and cannot give this  spiritual knowledge then one  may
+approach a spiritual master who is self-realised to attain this knowledge.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 6, verse 46 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 46<br><dt><center><dt><a href="verse-06-40.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-06-42.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 4, verse 34 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 34<br><dt><center><dt><a href="verse-04-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-35.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
