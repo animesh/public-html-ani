@@ -1,151 +1,74 @@
-<html><head><title>Bhagavad-Gita: Chapter 2, Verse 46</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 16, Verse 5</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 2</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Reality of the Soul's Immortality</font></b></td><td valign=middle align=center><b><font size=5>Verse 46</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02-sel.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-02-45-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 5</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-03-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/02-45.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-02-45-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-03.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-16-03-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-02-45-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-16-03-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-02-45-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-16-03-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-02-44.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-02-46.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/02-45.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/02-45.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-16-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-03.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-It may be questioned that fixed determination which  seeks  service  of  the
-Supreme Lord in  a  disinterested  way  by  renouncing  the  various  fruits
-described in revealed scriptures  is  indeed  a  contradictory  resolve.  To
-answer this the Supreme Lord speaks this verse. As a small pot
-of water all the needs of a person drinking and bathing cannot be  satisfied
-at one place; but all these purposes can be satisfied in a  great  reservoir
-of water. Similarly a person who has realised the  nature  of  the  Ultimate
-Truth verily has indeed all  the  results  of  all  the  various  prescribed
-rituals prescribed throughout the Vedic scriptures; for  the  bliss  of  the
-Ultimate Truth contains all finite joys. As  is  confirmed  in  the  Brihad-
-aranyaka Upanisad 4.3.32 states: On a fraction of the basis of the  Ultimate
-truth do all living entities exist.  Therefore the  fixed  determination  of
-surrendering in righteousness all ones actions unto the Supreme  Lord  alone
-is the correct resolve.
+<p>
+Lord Krishna now discloses the results of  first  the  divine  nature  which
+qualifies for higher spiritual knowledge  leading  to  <i>moksa</i>  or  liberation
+from material existence and secondly He discloses the demoniac nature  which
+disqualifies  one  from  <i>moksa</i>  and  insures  enslavement  in  <i>samsara</i>   the
+perpetual cycle of  birth  and  death.  Lord  Krishna  perceiving  that  His
+devotee was distraught by the idea that he may not be  a  fit  aspirant  for
+<i>moksa</i> and hence subject to <i>samsara</i>, the Supreme Lord consoles him  with  the
+words <i>ma sucah</i> meaning not to worry, assuring him that he is  definitely  of
+the divine nature.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-Therefore  the  rewards  available  to  those   who   act   with   spiritual
-intelligence are not  accessible  to  those  who  are  seekers  of  fruitive
-desires. But even still there is some  similarity,  therefore  Lord  Krishna
-states in this verse that all the purposes which can be served by a well  of
-water are easily served by a large reservoir of water as well. So  similarly
-whatever rewards are given in the Vedic scriptures are easily  available  to
-one established in spiritual intelligence of brahman or the  Ultimate  Truth
-because in such  a  state  of  consciousness  all  benefits  are  inclusive.
-Therefore one who knows the science of brahman is known as a  brahmana.  The
-word vijanatah meaning one who is complete in knowledge receives the  reward
-of knowing the Ultimate Truth.
 <p>
-Now begins the summation.
 <p>
-Being the source of all creation without the assistance  of  anything  else,
-complete in all attributes,  the  Supreme  Lord  Krishna  is  known  as  the
-reservoir or shelter of all. Reservoir can also mean body of  water  and  at
-the time of universal dissolution the Supreme Lord assumes the  very  nature
-of water on all sides enveloping all.
 <p>
-Whatever benefit is  there  by  the  Supreme  Lord  being  pleased  with  an
-aspirant, the same benefit is available to one who is knowledgeable  of  the
-Vedic scriptures; yet all the meanings of the  Vedic  scriptures  have  been
-understood by one who has realised devotion to the Supreme Lord Krishna.  By
-such enlightened understanding,  the  Supreme  Lord,  who  is  the  Ultimate
-dispenser of all rewards becomes pleased.
 <p>
-During the course of universal dissolution whatever rewards are ordained  by
-the Supreme Lord Krishna, who is full of all  attributes,  independent  from
-any support and transcendental to time; the same fruits  are  available  for
-one who has knowledge of the confidential meanings in the Vedic scriptures.
-<p>
-At the time of universal dissolution nothing else  exists  in  the  material
-worlds excepting the Supreme Lord. Those who  by  dint  of  their  spiritual
-intelligence who have become self-realised and have  discovered  their  soul
-will not be without shelter being  under  the  complete  protection  of  the
-Supreme Lord. These delivered souls will not be subject to the  vagaries  of
-time but insulated by the transcendental energy of the Supreme Lord will  be
-delivered to the spiritual worlds.
-<p>
-Without  the  essential  assistance  of   His   primal   breath   which   is
-indispensable and is  originating  from  His  inherent  impulse  that  alone
-existed when nothing else other than Him existed. Darkness was enveloped  by
-darkness and in the beginning all  was  enveloped  by  water  on  all  sides
-enveloping all.
-<p>
-In the beginning of creation water alone existed itself  solely  as  impulse
-and within this impulse generated by the Supreme Lord Himself,  the  Supreme
-Lord reclined in  all  His  undivided  oneness  as  revealed  in  the  Vedic
-scriptures.
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><i>Ramanuja.</i>
-<p>
-<i>Bhagavad-Gita: c</i><i>hapter 2, verse 47</i>
-<p>
-Lord Krishna instructs Arjuna that for one who is fixed in  goodness,  whose
-sole aim  is  for  liberation;  the  routine  of  performing  daily  duties,
-occasional  duties  and   fruit   bearing   duties   should   be   performed
-automatically and whatever recompense assigned to each of them   should  not
-be hankered for desiring rewards and benefits or else it  becomes  fruitive.
-The desire for reward and benefits has a binding effect  keeping  one  bound
-in the material existence. But free from these impediments the  same  action
-performed as worship to the Supreme Lord  becomes  the  veritable  means  to
-secure liberation. Therefore be devoid of motive for actions nor  desire  to
-reap the reward from actions. Though all living entities  are  acting  their
-part in this  world,  those  who  are  situated  in  goodness  aspiring  for
-liberation are considered not to be entangled as so. It  can  be  understood
-that when one eats the  hunger  one  had  is  appeased  and  the  desire  is
-satisfied as well; yet one would not consider theirself as the cause of  the
-appeasal and satisfaction.
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+Lord Krishna encourages His devotee to grieve not or be  despondent  at  the
+thought that he may not be qualified enough, for without a doubt he is  born
+of the divine nature.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Now the three modes that were dealt with in the Vedas  has  been  set  aside
-for there is not a single thing within the material existence that is  apart
-from the three modes. So in lieu of this one may question  that  in  seeking
-liberation from material existence one would  have  to  abandon  everything,
-even that which is required for the performance of worship  and  thus  there
-would be no motivation. To this Lord Krishna instructs this verse that  just
-as different wells for drinking, bathing, washing animals etc. can  be  used
-all their uses can be satisfied by a large reservoir of water.  Thinking  in
-this way one desiring liberation who is enlightened by the  reality  of  the
-Vedas realises and follows the conclusion of the Vedas.  One  should  follow
-that portion of the Vedas to perform activities that are  most  pleasing  to
-Lord Krishna which is in the best interests of all beings. It  is  not  that
-one must just adopt everything that is said in the Vedas. One  should  never
-do activities against the injunctions of the Vedic scriptures but  according
-to qualification and circumstances one must follow  what  is  prescribed  in
-the Vedas. For example certain rituals such as the agnihotra are  prescribed
-to  be  performed  in  the  Vedas;  but  they  are  prescribed  for  married
-householders. They are not to be performed by sannyasis.  Also  celibacy  is
-prescribed in the Vedic scriptures but it is prescribed for brahmacaris  and
-sannyasis. It is not prescribed for married  householders.   So  it  is  not
-that everything in the Vedas is to be followed by everyone although all  the
-four orders must certainly follow the Vedas but according  to  ones  ashram.
-This is the discrimination regarding this matter.
+Lord Krishna explains the opposing results of  the  divine  nature  and  the
+demoniac  nature.  The  divine  nature  which  follows  the  ordinances  and
+injunctions of the Vedic scriptures has been regarded from  time  immemorial
+by self-realised sages and rishis as conducive to <i>moksa</i> or  liberation  from
+material existence due to spiritual knowledge and attaining  communion  with
+the Supreme Lord. The demoniac nature leads one to  act  contrarily  to  the
+ordinances and injunctions of the Vedic scriptures and hence  are  conducive
+to enslavement in <i>samsara</i>  the  perpetual  cycle  of  birth  and  death  and
+bondage in material existence taking birth  each  time  in  lower  and  more
+degraded life forms. Seeing despondency on His devotees face,  Lord  Krishna
+assures him not to worry for he is  without  a  doubt  born  of  the  divine
+nature.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 2, verse 46 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 46<br><dt><center><dt><a href="verse-02-44.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-02-46.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 5 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 5<br><dt><center><dt><a href="verse-16-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
