@@ -1,82 +1,93 @@
-<html><head><title>Bhagavad-Gita: Chapter 14, Verse 9</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 11, Verse 21</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 14</font></b></td><td valign=middle align=center><b><font size=5>The Three Qualities of Material Nature</font></b></td><td valign=middle align=center><b><font size=5>Verse 9</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14-sel.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-14-09-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 11</font></b></td><td valign=middle align=center><b><font size=5>The Vision of the Universal Form</font></b></td><td valign=middle align=center><b><font size=5>Verse 21</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11-sel.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-11-20-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/14-09.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-14-09-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/11-20.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-11-20-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-14-09-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-11-20-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-14-09-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-11-20-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-14-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/14-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/14-09.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-11-19.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-21.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/11-20.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/11-20.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The predominating effect of <i>sattva guna</i> or  mode  of  goodness  is  that  it
-instils in the <i>jiva</i> or embodied being  the  attraction  for  happiness  even
-though the seeds of misery and sorrow are also inherent. So <i>sattva  guna</i>  by
-such natural but strong attraction for happiness binds the <i>jiva</i> to  material
-existence and <i>raja guna</i> the mode of  passion  binds  one  by  the  work  and
-effort constantly undertaken to achieve such  happiness  and  <i>tama  guna</i>  or
-mode of ignorance binds one to material  existence  by  distorted  delusions
-and perverted perceptions of knowledge even if heard from liberated  beings.
-<i>Tamas</i>  also manifests as neglecting the teachings of great liberated  beings
-or by acting contrary to these   teachings  because  such  teachings  differ
-from ones personal understanding. The  word  <i>uta</i>  means  and  so  forth  and
-indicates that  <i>tamas</i>  binds  one  as  well  to  lethargy  listlessness  and
-laziness.
 <p>
 <p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
-</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The cardinal features of  three  <i>gunas</i>  or  modes  of  <i>sattva</i>  or  goodness<i>,</i>
-<i>rajas</i> or passion and <i>tamas</i> or nescience are now  being  delineated  by  Lord
-Krishna. The main quality of <i>sattva</i> is its ability  to  confer  blessedness.
-The main proponent of <i>rajas</i> is that it impels  vigourous  activity  and  the
-dominant  factor  in  <i>tamas</i>  is  that  it  obscures  intelligence  giving  a
-perverted  view  of  reality  which  results  in  the  tendency  to  perform
-unnatural activities. The three <i>gunas</i> are the natural  effects  of  <i>prakriti</i>
-or the material substratum pervading physical existence and  constitute  the
-qualities of all matter which manifests into physical bodies both gross  and
-subtle. How they each give rise to consequences so radically  different  and
-conflicting with each other is answered in the next verse.
+<p>
+<p>
+Verily the hosts of demigods feeling aggrieved are entering  Lord  Krishna's
+<i>visvarupa</i> taking refuge.  The  liberated  sages  and  perfected  beings  are
+offering superb prayers praising the Supreme Lords glories with  <i>svasti  iti</i>
+<i>uktva</i> meaning all auspiciousness throughout creation.
+<p>
+<p>
+<p>
+<p>
+<p>
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+<p>
+<p>
+<p>
+<p>
+The demigods being exclusively from <i>sattva-guna</i> or the  nature  of  goodness
+rejoice upon seeing Lord Krishna's <i>visvarupa</i> or divine  universal  form  and
+are awe inspired and enraptured. Some among  them  were  frightened  by  the
+<i>visvarupa</i> terrifying aspect which was also wonderful and bowed  down  to  it
+with folded hands offering eulogies of praise and  prayers  of  supplication
+each  according  to  their  perceptions.  Other  great  souls  such  as  the
+<i>Siddhas</i> or perfected beings who have realised the higher  and  lower  truths
+utter the benediction <i>svastity</i> meaning my there be all  auspiciousness.  The
+<i>maharishis</i> or liberated sages upon beholding the  <i>visvarupa</i>  loudly  resound
+the words <i>Jaya Jaya</i> meaning all glory, all glory and  spontaneously  compose
+wonderful Sankrit hymns in glorification of it while   performing  <i>sankirtan</i>
+or congregational singing of the Supreme  Lords  Krishna's  <i>visvarupa</i>  along
+with His transcendental names, forms, qualities and pastimes.
+<p>
+<p>
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Here Lord Krishna describes in brief the functional capacity  of  the  three
-<i>gunas</i> which are  <i>sattva guna</i> or the mode of goodness, <i>raja guna</i> or the  mode
-of passion and <i>tama guna</i> or the mode of ignorance.  The  quality  of  <i>sattva</i>
-impels the mind  to  be  attracted  to  happiness.  Although  there  may  be
-situations of pain and discomfort the overall tendency of  the  mind  is  to
-seek knowledge and experience joy. The quality of <i>rajas</i> activates  the  mind
-to be attracted to action. Although there may be situations  of  tranquility
-and calm the overall tendency is constant activity. The quality of <i>tamas</i>  is
-obscuring and distorting knowledge  even  if  instructed  by  the  spiritual
-master. Such  perversion  causes  the  <i>jiva</i>  or  embodied  being  to  commit
-degenerative activities that hinder it's well  being  and  blocks  it's  own
-best interests.
+The descriptions of the afflictions which were experienced  is  iterated  in
+this verse and the next two. All creation was greatly alarmed by  the  fiery
+all pervading aspect of Lord Krishna's <i>visvarupa</i> or  divine  universal  form
+which  appeared  terrifying  and  frightening.  The  demigods  being  direct
+servitors of the Supreme Lord  functioning  in  the  capacity  of  universal
+management approached Him for shelter while others of them being  frightened
+stayed  a  far  distance  and  with  folded   palms   offered   prayers   of
+supplication. Hosts of exalted sages and perfected  beings  could  be  heard
+shouting <i>Jaya! Jaya!</i> All glory! All glory! Observing the unlimited faces  of
+the <i>visvarupa</i> with their mouths emitting blazing fire like  the  devastating
+inferno  at  the  time  of   universal   destruction.   Benevolently   these
+enlightened  and  liberated  sages  chanted  <i>svastity</i>  meaning  may  all  be
+auspicious and extolled the Supreme Lord  with  excellent  hymns  describing
+His greatness and choice prayers praising  His  glories  entreating  Him  to
+protect all creation.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 14, verse 9 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 9<br><dt><center><dt><a href="verse-14-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 11, verse 21 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 21<br><dt><center><dt><a href="verse-11-19.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-21.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
