@@ -1,103 +1,235 @@
-<html><head><title>Bhagavad-Gita: Chapter 13, Verse 4</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 17, Verse 7</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 13</font></b></td><td valign=middle align=center><b><font size=5>The Individual Consciousness and The Ultimate Consciousness</font></b></td><td valign=middle align=center><b><font size=5>Verse 4</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13-sel.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-13-03-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 7</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-06-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/13-03.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-13-03-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-06.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-17-06-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-13-03-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-17-06-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-13-03-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-17-06-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-13-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/13-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/13-03.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-17-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-06.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-Here <i>prakriti</i> or the material substratum pervading physical existence  which
-has 24 categories consisting of the mind, ego, five  organs  of  perception,
-the five senses, etc.is specifically meant by the word <i>ksetra</i> or  the  field
-of activity. Yet since the non-distinctiveness of matter as I  and  mine  is
-evolved as such only in the physical body, in order  to  differentiate  from
-it this body is called  the  <i>ksetra.</i>  To  clarify  in  further  detail  Lord
-Krishna proposes to explain what the <i>ksetra</i> referred to by Him is in  itself
-such as inert, of the nature of its object, etc. What is  it  like  such  as
-possessed  of  qualities  such  as  desire  and  aversion.  What   are   its
-modifications such as which senses is it endowed with.  How  does  it  arise
-meaning how is it in conjunction with <i>prakriti</i> and the <i>brahman.</i> What is  its
-form and how is it directed to be either sentient or insentient in just  one
-of innumerably unlimited varieties of species. Also what  is  the  <i>ksetrajna</i>
-or knower of the <i>ksetra</i> in reality and what power does it have by virtue  of
-its transcendental and inconceivable majesty by the potency  it  is  endowed
-with. All these things Lord Krishna will now explain in brief.
-<p>
+To illustrate the distinction between <i>jivas</i> or embodied beings in the  three
+<i>gunas</i> or modes of material nature, Lord Krishna  will  explain  in  thirteen
+verses beginning with the threefold types of food that one is  attracted  to
+eat. Foods such as milk, fruits, rice, and vegetables  are  of  <i>sattva  guna</i>
+the mode of goodness. Foods such as garlic, onions, chillies  and  mushrooms
+are in <i>raja guna</i> the mode of passion. Foods such as  meat,  fish,  fowl  and
+eggs are in <i>tama guna</i> the mode of ignorance. Likewise rituals,  charity  and
+austerity are also threefold. Lord Krishna is revealing these facts so  that
+people will give up foods in <i>raja guna</i> and <i>tama guna</i> as well as charity  and
+austerity in such and instead fully embrace <i>sattva guna</i> in all activities.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-What the <i>yad viktri</i> of the <i>ksetra</i> means what are its transformations and  by
-what modifications is it affected. <i>Yatas ca yat</i> means  by  Him  the  Supreme
-Lord the <i>ksetra</i> has  originated and that it is He alone  who  energized  it.
-The words <i>sa ca ya</i> specifies the Supreme Lord also and indicates His form.
+<p>
+<p>
+<p>
+<p>
+Lord Krishna now delineates that the  attributes  of  the  three  <i>gunas</i>  are
+commensurate with the three types of <i>jivas</i> or  embodied  beings.  Those  are
+the best who are <i>sura</i> or possess the light of consciousness  are  in  <i>sattva</i>
+<i>guna</i> the mode of goodness. Those are the worst who are <i>asura</i> or without  the
+light of consciousness and are in <i>tama guna</i> the  mode  of  ignorance.  Those
+who are intermediate are mixed with <i>raja guna</i> the mode of passion  and  <i>tama</i>
+<i>guna.</i> These forms continue even after achieving  <i>moksa</i>  or  liberation  from
+material existence as  well  as  those  who  are  forced  to  enter  hellish
+existences. Quite distinct from both of these is <i>paramatma</i>  the  omnipresent
+Supreme Soul existing collectively with  the  <i>atma</i>  or  individual  immortal
+soul which exists in all <i>jivas</i> and  whose  state  of  consciousness  is  far
+superior to even the mind. At least once in every human life this  state  of
+consciousness manifests and in rare circumstances is  perceived  within  the
+etheric heart  along  with  its  transcendental  form.  This  form  projects
+luminosity  and  receives  light  from  its  continuous  interactions   with
+<i>paramatma.</i> This spiritual form should be  meditated  on  with  devotion  and
+embraced.
+<p>
+<p>
+<p>
+<p>
+<p>
+Those who are of purified senses and spiritually evolved perceive that  Lord
+Krishna is the ultimate reality and the Supreme Lord of all other lords  are
+exclusively in <i>sattva guna.</i> These and only these can be considered  devotees
+of the Supreme Lord Krishna and His authorised <i>avatars</i> or incarnations  such
+as Rama, Vamana, Buddha, Narasingha and His  expansions  such  as  Narayana,
+Vasudeva and Vishnu as revealed  in  Vedic  scriptures.  Those  who  perform
+<i>bhakti</i> or exclusive loving devotional service to the  Supreme Lord  and  His
+incarnations pleases Him very much and delights all  who  are  endowed  also
+with the divine nature such as Brahma, Shiva and others. Being blest by  the
+presiding deity of knowledge Sri Laksmi-devi who is the eternal consort  and
+feminine <i>shakti</i> or potency of the supreme lord one stays firmly situated  in
+<i>sattva guma</i> and engage in pure worship. They will  achieve  <i>moksa</i>  in  their
+lifetime.
+<p>
+<p>
+<p>
+<p>
+<p>
+Those who are in doubt about the Supremacy of Lord Krishna and are wary  of
+surrendering to Him and do not understand thet He is the Supreme Lord,  find
+themselves  gullible  to  follow  inferior  doctrines   and   receptive   to
+worshipping  perishable   gods  without  ever   understanding   the   actual
+<i>taratamya</i> or gradations involved, are rooted in  <i>raja  guna</i>  and  engage  in
+worship of demoniac entities accepting  them  as  their  supreme  being.  In
+their next life they must suffer interminably in the foulest of hells.
+<p>
+<p>
+<p>
+<p>
+<p>
+Those who are indifferent and consider Lord Krishna as equal to  other  gods
+of other faiths, without using their  intelligence  to  determine  that  the
+doctrines of all other faiths are missing knowledge of the <i>atma</i> or  immortal
+soul,  knowledge  of  <i>karma,</i>  knowledge  of  reincarnation,   knowledge   of
+liberation and is beyond compare are  drowning  in  <i>tama  guna</i>  and  worship
+ghosts and spirits, abstract conceptions along  with  illusory  beliefs.  In
+the next life they will take birth as animals.
+<p>
+<p>
+<p>
+<p>
+<p>
+Those who consider the omnipresent Supreme Lord who pervades  all  existence
+and resides within the etheric heart of all living  entities  as  less  than
+other gods will go to obscure worlds of  darkness.  They  will  be  born  as
+<i>pischasas</i> or goblins and <i>raksasas</i> or demons.
+<p>
+<p>
+<p>
+<p>
+<p>
+Those who engage in extreme austerities according to  the  Vedic  scriptures
+out of pride and arrogance for the  desire  of  obtaining  material  rewards
+such as power, wealth, fame, etc. petition the demigods for various  rewards
+and Sri Laksmi for wealth as if they were independently awarding  the  boons
+desired. Such ones fail to realise that whatever they have received has  had
+to be sanctioned by the Supreme Lord.
+<p>
+<p>
+<p>
+<p>
+<p>
+Those who refrain from performing worship according to  the  ordinances  and
+injunctions of the Vedic scriptures and yet do not engage in any  activities
+prohibited by the Vedic scriptures will  have  the  opportunity  to  achieve
+<i>moksa</i> if by the mercy of a devotee they happen  to  propitiate  the  Supreme
+Lord Krishna or any of His incarnations and expansions. By  this  they  will
+free themselves from the illusory energy and eventually attain  the  Supreme
+Lord. Thus it is clear and not  necessary  to  elaborate  that  one  who  is
+worshipping the Supreme Lord in accordance with the  Vedic  scriptures  will
+definitely attain Lord Krishna without a doubt.
+<p>
+<p>
+<p>
+<p>
 <p>
 Now begins the summation.
 <p>
-The words <i>yatas ca yat</i> indicates that solely by the energy  of  the  Supreme
-Lord all creation is energized. He is  the  sole  energizer.  <i>Prerana</i>  means
-having similarity in thoughts. Sometimes  even  dialogue  is  called  <i>samvad</i>
-similar talk. Since Lord Krishna energizes all creation  He  also  energizes
-the thoughts of all and sometimes such thoughts manifest which  are  similar
-to His own. This is natural. So He is known as <i>anusarini</i>  or  <i>anusmanta</i>  the
-ordainer of thoughts which have divine origins in Him. The <i>ksetrajna</i> is  the
-<i>atma</i> or eternal soul and is <i>upadrishta</i> or  the  witness  with  supra-natural
-connecting abilities for thoughts and things divine which emanate  from  the
-Supreme Lord and induces this in those  who  seek  self-realisation  of  the
-<i>atma</i> and attainment of the ultimate consciousness. Lord Krishna infers  that
-this can be known is by its effect.
+<p>
+<p>
+<p>
+<p>
+From observation of the food that one eats it can determined  which  of  the
+three <i>gunas a jiva</i> is situated in. The same observation holds true  for  the
+type of worship one engages in and for all activities one's position can  be
+established. Those in <i>sattva guna</i> are observed  humbly  performing  luminous
+activities in the  mode  of  goodness.  Those  in  <i>raja  guna</i>  can  be  seen
+ostentatiously engaging in fruitive  activities  for  gain  and  profit  and
+those in <i>tama guna</i> are noticed drearily enacting pagan  rituals  merely  out
+of habit.
+<p>
+<p>
+<p>
+<p>
+<p>
+The Supreme Lord Krishna is known by the threefold symbols <i>OM Tat  Sat</i>.  His
+personal sound manifestation vibrates as the transcendental sound of <i>OM</i>.  As
+He is omnipresent in every letter and syllable of the Vedas,  <i>OM</i>  is  always
+chanted at the commencement of every Vedic ceremony  and  ritual.  Therefore
+with the pronouncement of the word <i>OM</i> by the Vaisnavas and the brahmanas  in
+salutation  and  glorification  of  Him,   all   rituals,   ceremonies   and
+propitiation proceed. The Vedic ordinances  and  injunctions  are  eternally
+established by  Lord  Krishna  and  are  known  as  <i>Sat</i>  denoting  unlimited
+consciousness. Activities that do not  propitiate  Lord  Krishna  and  begin
+with <i>OM</i> are practiced by the <i>a-suras</i> meaning  those  without  the  light  of
+consciousness. All their efforts however prodigious are merely  mundane  and
+are known as <i>a-sat</i> having limited  consciousness.   Anyone  pronouncing  the
+word <i>OM</i> without initiation, without faith and without  knowing  the  meaning
+thereof is also situated as  an  <i>asura.</i>  Since  the  results  of  all  Vedic
+rituals and ceremonies are allotted wholly to the Supreme Lord and <i>moksa</i>  is
+awarded exclusively by the grace of His sanction, He is  known  as  <i>Tat</i>  and
+because He pervades everywhere internally and externally and  possesses  all
+auspiciousness, he is also know as <i>Tat</i>.
+<p>
+<p>
+<p>
+<p>
+<p>
+Absence of the Vedic ordinances and injunctions and avoiding recognition  of
+the Supreme  Lord  have  been  determined  to  be  similar.  That  which  is
+practiced  without  recognition  to  the  Supreme  Lord  is  that  which  is
+practiced  without  following  the  Vedic  scriptures  and  that  which   is
+practiced without  following  the  Vedic  scriptures  is  practiced  without
+recognition of the Supreme Lord. The  Shabda  Nirnaya  states:  Making  Lord
+Krishna the primal focus by which  all  activities  revolve  around  is  the
+method and the goal. The Paingi  scripture  confirms:  Authentic  scriptures
+are those that are established for the sole purpose of glorifying  knowledge
+of the Supreme Lord Krishna and establishing communion with Him.
+<p>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Now Lord Krishna  is  more  explicitly  explaining  details  about  the  <i>tat</i>
-<i>ksetram</i> or field of activity.  Its  <i>yadrik  ca</i>  or  its  substantial  nature
-regarding its use and function and its  purpose.  Also  its  <i>yad  vikari</i>  or
-transformations and modifications along with its <i>yatas</i>  or  from  whence  it
-came meaning its origin and how it  was  created  and  for  whose  use.  Yat
-refers to its attributes and qualities. Also He is inferring that  knowledge
-about the intrinsic nature of the <i>ksetra-jna</i>  as the knower  of  the  <i>ksetra</i>
-which is the <i>atma</i> or eternal soil will be revealed as well  along  with  its
-inherent potencies which is confirmed  by  the  word  <i>prabhavas  ca</i>  meaning
-virtues, potency and powers. Lord Krishna will give a summary of  all  these
-things.
+Food the support of life is also of three types by food's relationship  with
+the  three  <i>gunas</i>  or  modes  of  material  nature.  Similarly   <i>yagnas</i>   or
+propitiation and worship by rituals is also of three types corresponding  to
+the  three  <i>gunas;</i>  as  well  as  austerities  and  charity.  The   distinct
+gradations and variances found in the quality of  each  and  every  activity
+commences next.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Now Lord Krishna explains in brief the true nature of the <i>ksetra</i>  the  field
-of activity and the <i>ksetra-jna</i> the knower of  the  field.  The  relationship
-the  <i>ksetra</i>  has  with  the  <i>ksetra-jna</i>  and  the  consciousness  which   is
-established in Him. Knowledge of  the  <i>ksetra</i>  means  what  type  entity  is
-embodied and the qualities are what modifications restricts it and  what  is
-its means of evolving itself  through the interrelationship  of  matter  and
-spirit. And of the <i>ksetra-jna</i> exactly what is the <i>atma</i> or eternal soul,  who
-is the knower of the <i>ksetra</i> and what is its powers and potencies.
+Having clearly described the demoniac characteristics  to  be  rejected  and
+avoided,  Lord  Krishna  establishes  the  quality   based   gradations   of
+activities performed in  the  three  <i>gunas</i>  or  modes  of  material  nature.
+Activities such as rituals, penance and charity if  characterised  with  the
+quality of <i>sattva guna</i> are  to  be  embraced  but  if  they  are  contrarily
+characterised by the quality of <i>raja guna</i> the mode of passion or  <i>tama  guna</i>
+the mode of ignorance they are to be avoided. Lord  Krishna  commences  with
+the gradations of food as food is the support of all life and the purity  of
+the mentality is dependent upon the purity of the food.  This  is  confirmed
+in Chandogya Upanisad VI.VI.III beginning  <i>apam  somya  piyam  ananam</i>  which
+states: The essence of whatever food is  eaten  rises  up  and  becomes  the
+mind. From  pure  nourishment  manifests  a  pure  nature;  for  the  mental
+disposition determines the quality  of  propitiation  by  rituals  which  is
+influenced by the <i>guna</i> one is situated in. The food of every human being  is
+eaten according to circumstances  regarding  likes  and  dislikes  which  is
+governed  by  their  innate  nature   corroborated   by   their   particular
+preponderance to one of the three <i>gunas</i> only. There is no fourth  choice  or
+other alternative.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 13, verse 4 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 4<br><dt><center><dt><a href="verse-13-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 7 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 7<br><dt><center><dt><a href="verse-17-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
