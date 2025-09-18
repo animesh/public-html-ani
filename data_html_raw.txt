@@ -1,32 +1,32 @@
-<html><head><title>Bhagavad-Gita: Chapter 7, Verse 24</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 17, Verse 8,9,10</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 7</font></b></td><td valign=middle align=center><b><font size=5>Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 24</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07-sel.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-07-24-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 8,9,10</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-07-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/07-24.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-07-24-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-07.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-17-07-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-07-24-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-17-07-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-07-24-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-17-07-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-07-23.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-25.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/07-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/07-24.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-17-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-07.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
@@ -35,103 +35,134 @@
 <p>
 <p>
 <p>
+Foods that bequeath longevity,  full  of  energy,  bestow  good  health  and
+vigour with happiness and satisfaction are relished by those in <i>sattva  guna</i>
+the mode of goodness. Such foods in <i>sattva guna</i> particularly  increase  life
+and are juicy, savoury, rich and nourishing, like invigorating  serum  which
+remains long in the body and are  agreeable  and  pleasing  to  the  palate.
+Foods of this type which are chewed, licked, sucked and drunk  are  relished
+by those situated in <i>sattva guna.</i>
 <p>
-One may wonder if the concerted effort to ingratiate  oneself  to  a  lesser
-god or demigod of one's choice is the  same  concerted  effort  as  offering
-one's devotion  to the Supreme Lord; yet the result is so obviously  a  vast
-difference in rewards;  then  why  doesn't  everyone  worship  Lord  Krishna
-exclusively and abandon  the  worship  of  all  other  inferior  gods.  This
-question is answered by the  word  <i>ajanantah</i>  meaning  oblivious.  They  are
-unaware of  Lord  Krishna  being  totally  transcendental  to  the  material
-existence and beyond the phenomena of this phenomenal  creation  and  regard
-His different <i>avatars</i> or incarnations as manifestations of <i>prakriti</i>  or  the
-material  substratum  comprising  all  existence.  His  Supreme  Nature   is
-eternal, immutable and unsurpassed. Therefore those  who  view  the  Supreme
-Lord whose form is made of  pure  spiritual  energy  and  who  by  His  will
-assumes various forms according to schedule for the protection  of  all  the
-worlds and the devotees to be the  same and equal to the material bodies  of
-demigods which are acquired and fashioned as  a  result  of  reactions  from
-previous activities is completely in ignorance and such  dull-witted  beings
-are incapable of  worshipping  the  Supreme  Lord  Krishna  or  any  of  His
-authorised incarnations. Instead they worship lesser gods for quick  results
-which are temporary and perishable and thus they stay bound in  <i>samsara</i>  the
-endless cycle of birth and death perpetually.
+Foods that are excessively bitter,  sour,  pungent,  salty,  spicy,  dry  or
+burning are very much liked by those situated  in  <i>raja  guna</i>  the  mode  of
+passion. Such foods cause  pain  even  while  eating  them  which  leads  to
+distress  of  the  body,  misery,  depression  and  subsequent  disease  and
+sickness all produced by these foods.
 <p>
+Food cooked more than three hours before, that is cold,  tasteless,  without
+aroma, stale, decomposed and  foods  that  are  <i>amedhyam</i>  or  forbidden  for
+offering to the Supreme Lord such as meat, fish, fowl, eggs, wine,  alcohol,
+garlic, onions and mushrooms which come  from  fungus  and  are  impure  are
+preferred by those in <i>tama guna</i> the mode of ignorance.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
+Eating foods that are of <i>sattva guna</i> the mode of goodness  are  pleasurable.
+Joyfulness is the immediate result. Whatever continues to be pleasurable  is
+joyous to <i>hrdya</i> the heart. Even if all foods are cooked they all do not  get
+digested the same. Ghee and honey  are  absorbed  into  the  body  directly,
+fruits take an hour to digest and vegetables and grains  up  to  six  hours.
+Some foods although bitter are agreeable to health such as <i>kerala</i> or  bitter
+melon and some foods although sour like yoghurt are agreeable to  health  if
+not taken at night. Both of these are of <i>sattva</i> or  goodness<i>.</i>  Such  is  the
+nature of the pious and the saintly and that nature  is  maintained  by  the
+intake of foods that are <i>sattva.</i> The Shabda Niranya states: <i>Hridyam</i> is  that
+which is pleasing to the heart and makes one desire for  more.  Pleasure  is
+what is  pleasing  for  the  moment.  <i>Sukham</i>  or  happiness  is  that  which
+continues to keep one joyous long after the activity has  ended.  That  food
+which retains its agreeability even after  consuming  repeatedly  is  <i>rasyam</i>
+which is delicious and nutritious.
 <p>
-<p>
-<p>
-What is so special that differentiates Lord Krishna from all other gods?  He
-clarifies this by the word <i>avyaktam</i> meaning transcendent explaining  by  the
-words  <i>vyaktim  apannam</i>  accepting  a  human  like  form  for  His  <i>lila</i>  or
-phenomenal  pastimes.  Superior  and  transcendental  to  <i>prakriti</i>  or   the
-material substratum pervading physical existence, He has never  any  actions
-to perform. The Supreme Lord who is  eternally  blissful  is  considered  as
-having  a  spiritual  body  with  personality,  qualities  and   attributes.
-Therefore  the  Vedic  scriptures  have  stated  that  without  knowing  the
-ultimate truth of the Supreme Lord's existence everyone remains deluded.
-<p>
-<p>
-<p>
-<p>
-<p>
-Now begins the summation.
-<p>
-<p>
-<p>
-<p>
-<p>
-The Supreme Lord is transcendental to <i>prakriti</i> whereas the <i>jiva</i> or  embodied
-living entity is not. Those who believe that there is equality between  them
-or that there is a dependency  shared between them surely in the  next  life
-go to the dark worlds of ignorance in obscurity.
-<p>
+But when foods are excessively bitter, spicy,  salty.  sour,  pungent,  etc.
+and result in discomfort and misery  culminating  in  sickness  and  disease
+they are of <i>raja guna</i> the mode of passion. The  food  which  is  eaten  more
+than three hours after it is cooked is known as <i>yatama.</i>  When  the  food  is
+tasteless it is also called <i>yatayama.</i> Food  that  once  was  flavourful  but
+later becomes later has no taste is known as  <i>gatarasyam.</i>  The  Suddhasastra
+states that one devoted to serving the Supreme Lord Krishna or  any  of  His
+authorised incarnations should thoroughly understand the nature and  quality
+of food.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Lord Krishna's supreme, infinite and exalted nature is that He is the
-adorable by all acts of worship He is to be adored. Lord Krishna is the God
-of the gods, the Supreme Lord of all, whose essence and attributes are
-inexpressible by speech and unfathomable by thought. Although Lord Krishna
-appears as the son of King Vasudeva and is actuated by activities of
-affection to family members and compassion for all beings in order to be
-accessible to all, He never relinquishes His transcendental divine nature
-always maintaining His eternal spiritual presence. Foolish people oblivious
-to this reality look upon Him as any other son born in royalty to a king,
-awarded such position by the destiny of karma or reaction to past actions
-brought into patency from an antecedent state of latency. Such living
-entities do not seek the Supreme Lord as their shelter neither do they
-worship Him by their actions. The reason why this is so for them is
-explained in the next verse.
+To those who are situated in <i>sattva guna</i> the mode of  goodness,  foods  that
+are of the nature of <i>sattva</i> or goodness such as  milk,  fruits,  grains  and
+vegetables are very dear. Such foods promote  long  life,  invigorating  the
+body and elevating  the  mind  in  its  function  of  intelligence.  As  was
+confirmed earlier in chapter XIV verse XVII:  From  the  quality  of  <i>sattva</i>
+<i>guna</i> knowledge arises<i>.</i>  <i>Sattva  guna</i>  facilitates  spiritual  knowledge  and
+likewise food that is <i>sattva</i>  also  facilitates  spiritual  intelligence  as
+well as good health, strength, happiness and relish. The word <i>sukla</i>  meaning
+happiness refers to the pleasure experienced while ingesting  the  food  and
+afterwards when it is digesting and assimilating within the body.  The  word
+<i>priti</i> means satisfaction that is derived  from  the  intake  of  pure  foods
+inspiring congenial interest  in  spiritual  activities.  The  word  <i>rasayam</i>
+means succulent, delectable. <i>Snigdhah</i> means  oleaginous,  unctuous.  <i>Sthirah</i>
+means nourishing, sustaining. <i>Hrydha</i> means agreeable,  pleasing.  These  are
+the qualities of <i>sattva</i> foods which are very much appreciated  by  those  in
+<i>sattva guna.</i>  
+<p>
+Foods that are acidic, bitter, salty, sour, spicy,  pungent,  dry,  hard  or
+burning are the foods that those in <i>raja guna</i> are very  much  attracted  to.
+The word <i>tiksna</i> refers to food of no value because they are either  to  cold
+or to hot. <i>Raksa</i> are foods which are to dry and hard. <i>Vidhahinah</i>  are  those
+foods that cause a burning sensation in the body. These foods produce  pain,
+distress, sickness and misery and decreases longevity of life  and  increase
+desires for more and more <i>rajas</i> or passion.
+<p>
+The foods liked by those in <i>tama guna</i> the mode of ignorance  are  <i>yata-yaman</i>
+meaning stale, foods that are old from the previous day, foods  cooked  more
+than a <i>yama</i> which is literally three hours before.  <i>Gata-rasam</i>  means  those
+foods which have lost their original  flavour  and  have  become  tasteless.
+<i>Puti</i> means putrid, possessing a foul  smell.  <i>Paryusitam</i>  means  decomposed,
+unrecognisable. <i>Ucchistam</i> means eating the  remains  of  others  food  after
+they  have  eaten.  This  does  not  apply  to  honouring  the  remnants  of
+<i>mahaprasadam</i> or sanctified food first  offered  to  Lord  Krishna  and  then
+eaten by the spiritual preceptors  who  mercifully  leaves  some  for  their
+devotees which is then glorified by  them  as  <i>maha  mahaprasadam</i>.  <i>Amedhyam</i>
+means unsanctified foods  due  to  not  having  been  consecrated  by  first
+offering it to the Supreme Lord and thus impure. Partaking of foods in  <i>tama</i>
+<i>guna</i> such as meat,  fish,  fowl,  eggs,  wine,  alcohol,  etc.  breeds  dark
+nescience and great ignorance.
+<p>
+So in conclusion those fortunate <i>jivas</i> or  embodied  beings  with  spiritual
+insight should absolve themselves from the intake  of  foods  in  <i>raja  guna</i>
+and <i>tama guna</i> and resort exclusively to foods in <i>sattva guna.</i>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-The question might be posed that if Lord Krishna is the only means for
-moksa or liberation from material existence and the best means for ultimate
-happiness then why does not everyone abandon the demigods and other lesser
-gods and with full faith worship Him alone, who is the Supreme Lord of all
-gods and the bountiful bestower of boundless blessings. Lord Krishna is
-beyond the perception of the physical mind and senses. The ignorant unaware
-of His Supreme, immutable, eternal transcendental nature are not qualified
-to percieve the Supreme Lord because they have not been graced by first
-approaching and then being accepted by the bonafide spiritual master in one
-of the four authorised Vedic lines of disciplic succession known as
-sampradayas as revealed in Vedic scriptures. The Supreme Lord Krishna or
-any of His Vedically authorised incarnations and expansions manifest
-themselves fully endowed with eternal transcendental qualities and
-attributes and are always the sole object of adoration from Brahma, Shiva
-and all the 33 million demigods. The Supreme Lord manifests Himself out of
-extreme affection and compassion for His devotees: but the ignorant unaware
-of the possibility for humans to have an actual relationship with Him,
-never worship Him wholeheartedly with love and devotion because they
-believe He has a human form, never realising He possesses a purely
-spiritual body which is immutable and eternal and transcendental to
-material existence. But the ignorant simply look at Him as a human being
-with exceptional powers  who took birth as a ksatriya prince as the son of
-King Vasudeva of the lunar dynasty.
+Lord Krishna commences with the  three-fold  divisions  of  foods  with  the
+words <i>ayuh-sattva</i> meaning promoting longevity. Food that promotes  spiritual
+knowledge which  is  the  quality  of  intelligence  has  been  corroborated
+previously in chapter XIV.XVII stating that: Wisdom  verily  arises  out  of
+<i>sattva guna</i> the mode  of  goodness.  Whereas  greed  and  lust  are  the  by
+products of <i>raja guna</i> the mode of passion  and  lethargy  and  nescience  is
+produced by those in <i>tama guna</i> the mode of ignorance. The word <i>bala</i>  meaning
+strength and refers to food that gives the  power  to  perform  one's  duty.
+Foods that are pleasant to eat, that bestow mental  tranquillity,  that  are
+sustaining and easily digestible, that  are  nourishing  and  their  essence
+remains invigorating the body even after digested are the  foods  which  are
+dear to those endowed with the qualities of <i>sattva guna.</i> 
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 7, verse 24 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 24<br><dt><center><dt><a href="verse-07-23.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-25.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+Foods which are extremely acidic, salty, spicy, pungent and bitter  such  as
+<i>azadirachta indica</i> or burning such as chillies which burn the mouth,  throat
+and stomach simply bring about distress and misery which leads  to  sickness
+and disease. The prefix <i>aty</i>  meaning  extremely  at  the  end  of  the  word
+<i>lavanaty</i> meaning extremely bitter applies to  all  the  descriptions  up  to
+<i>vidadhinah</i> which means burning. Such foods are dear to  those  characterised
+with <i>raja guna</i>.
+<p>
+Foods  which  are  half  cooked,  insipid,  stale,   tasteless,   polluting,
+contaminated or leftovers from someone  and  foods  that  are  forbidden  to
+offer to the Supreme Lord such as meat, fish, fowl,  eggs,  onions,  garlic,
+mushrooms, wine, alcohol, etc. are the foods of choice  for  those  situated
+in <i>tama guna.</i>
+<p>
+The obvious conclusion is that  those  who  are  spiritually  motivated  and
+desire their best self interests  should  conscientiously  avoid  all  foods
+characterised by <i>raja guna</i> and <i>tama guna</i> and  resort  exclusively  to  foods
+that are of <i>sattva guna.</i>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 8,9,10 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 8,9,10<br><dt><center><dt><a href="verse-17-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
