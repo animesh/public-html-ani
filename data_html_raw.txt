@@ -1,86 +1,90 @@
-<html><head><title>Bhagavad-Gita: Chapter 5, Verse 10</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 16, Verse 21</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 5</font></b></td><td valign=middle align=center><b><font size=5>Action and Renunciation</font></b></td><td valign=middle align=center><b><font size=5>Verse 10</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05-sel.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-05-09-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 21</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-16-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/05-09.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-05-09-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-16.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-16-16-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-05-09-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-16-16-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-05-09-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-16-16-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-05-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/05-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/05-09.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-16-15.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-17.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-16.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-One who has yoked themselves to the  consciousness  of  being  the  doer  of
-their actions cannot help  being  contaminated  by  the  reactions  to  such
-actions and on account of this their mind remains impure and hence they  are
-far adrift from renunciation and are in a  grave  predicament.  Apprehending
-such  a  situation  Lord  Krishna  explains  that  one  who  dedicates   and
-consummates all actions as offerings to the Supreme Lord without  attachment
-to rewards is not affected by sinful reactions which are most abominable  on
-account of their binding power to material nature
-<p>
-<p>
-<p>
+Lord Krishna concisely enunciates that lust, greed and anger are  the  three
+gates leading straight to hell. All the demoniac vices  and  characteristics
+iterated previously are the symptoms of lust, greed and anger which are  the
+root cause and basis of all the others. These  three  are  very  destructive
+and degenerative for a human being completely obscuring  discrimination  and
+the consciousness of the <i>atma</i> or immortal soul and  hence    to  be  shunned
+and avoided by all means, for their  influence  propels  one  directly  into
+lower, debased life forms  and  reincarnations  in  hellish  existences.  So
+lust, greed and anger must be  renounced,  abandoned  and  rejected  if  one
+wants to avoid residing in hell.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-Whosoever is properly situated in the state of equanimity  is  not  affected
-by reactions due  to  <i>karma  yoga</i>  or  the  prescribed  Vedic  actions  they
-perform. This means one does not desire the rewards  of  their  actions  but
-instead dutifully offers the results of all their actions unto  the  Supreme
-Lord.  For  the  purpose  of  emphasising  the  method  of  performing  this
-spiritual  practice  and  for  the  sake  of  removing  any  impression   of
-casualness the subject  of  renouncing  the  rewards  of  one's  actions  is
-reiterated again and again by Lord Krishna.
+<p>
+<p>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The word <i>brahmany</i> used here is referring to the  Supreme  Lord  who  is  the
-antithesis to material matter. One who performs  all  activities  reflecting
-that they relate to the  functions  of  the  body  and  senses  and  pertain
-exclusively to material matter and who knows that in reality the  individual
-consciousness  has  nothing  to  do   with   it   remains   unaffected   and
-uncontaminated from sinful reactions  arising  from  misconceptions  of  the
-physical body being the <i>atma</i> or soul and the subsequent erroneous  mentality
-that causes bondage to <i>samsara</i> or the endless cycle of birth  and  death  in
-the material existence.
-<p>
+Lord Krishna confirms that the  demoniac  nature  is  in  itself  a  hellish
+condition of life perpetuating more and more  degraded  hellish  existences.
+The three portals to hellish existence  are  lust,  greed  and  anger  which
+completely destroy and ruin all opportunities  for  advancing  in  spiritual
+consciousness. Lust, greed and anger are the foundations for all  the  other
+vices and sinfulness  described  previously  which  run  rampant  among  the
+demoniac. The word <i>dvaram</i> means portal and gate  inferring  the  cause.  The
+words <i>nasanam atmanah</i>  means  destructive  or  even  suicidal  denoting  how
+utterly negative lust, greed and anger are in evolving the consciousness  to
+commune with the immortal  soul.  Therefore  Lord  Krishna  emphasizes  that
+lust, greed and anger must be permanently abandoned, fully relinquished  and
+completely neutralised since these three voracious vices comprise the  cause
+that leads a <i>jiva</i> or embodied  being  directly  to  dreaded  <i>naraka</i>  or  the
+hellish planets.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-The question may arise that a person possessing the characteristics  of  the
-previous verse with a pure heart and controlled senses may be unaffected  by
-reactions to actions; but how can those without such characteristics  become
-unattached to desire for the rewards of actions. Lord Krishna  answers  this
-by instructing everyone to offer and dedicate all  actions  to  the  Supreme
-Lord. The desire for rewards of actions is the fundamental  reason  for  all
-ego conceptions of being the physical body and the root cause of <i>samsara</i>  or
-bondage in the cycle of birth and death which so viciously  apprehends  one.
-So desire for rewards should  be immediately be given up so one will not  be
-contaminated by sinful reactions.
+Lord Krishna has now ended descriptions of the basic details of  the  nature
+and characteristics of the demoniac. Now He strongly advises  by  any  means
+to avoid the triple threat of lust, greed and anger which is the  underlying
+root cause of all demoniac vices and evils.  As  soon  as  lust,  greed  and
+anger are abandoned all other vices and evils dissolve and dissapate.  Birth
+in hellish existences has three doors in the form of the door of  lust,  the
+door of greed and the door of anger. As soon as anyone enters into  any  one
+of these three doors they become  void  of  discrimination  and  their  mind
+becomes apprehended and controlled  by  the  senses.  This  causes  complete
+chaos and utter ruin to any human being, blocking  access  to  their  higher
+nature and totally obscuring the consciousness of the <i>atma</i> or immortal  soul
+which leads to <i>moksa</i>  or  liberation  from  material  existence.  The  three
+doorways of lust, greed and anger causes one  to  perform  such  sinful  and
+abominable activities that damnation is the only result and  leads  a  human
+being directly to hell to suffer  immensely  for  their  sinful  inequities.
+Hence one should be extremely vigilant to avoid these three doors  and  keep
+them far away at a safe distance.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 5, verse 10 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 10<br><dt><center><dt><a href="verse-05-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 21 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 21<br><dt><center><dt><a href="verse-16-15.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-17.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
