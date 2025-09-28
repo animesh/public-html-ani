@@ -1,84 +1,128 @@
-<html><head><title>Bhagavad-Gita: Chapter 17, Verse 25</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 8, Verse 11</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 25</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-22-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 8</font></b></td><td valign=middle align=center><b><font size=5>Attainment of Salvation</font></b></td><td valign=middle align=center><b><font size=5>Verse 11</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08-sel.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-08-11-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-22.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-17-22-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/08-11.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-08-11-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-17-22-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-08-11-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-17-22-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-08-11-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-17-21.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-23.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-22.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-22.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-08-10.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-12.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/08-11.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/08-11.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
-<br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify>Now  Lord  Krishna  glorifies  the  auspicious  sound  vibration  TAT.   The
-performance of  <i>yagna</i> or propitiation, <i>tapah</i> or  austerities  and  <i>danam</i>  or
-charity by the pure minded aspirants in <i>sattva guna</i>  the  mode  of  goodness
-are performed without any desire for rewards. Therefore  the  recitation  of
-TAT is auspicious because through the  purification  of  the  mind  and  the
-subsequent renunciation of desire for recompense one becomes  motivated  for
-spiritual goals such as <i>moksa</i> or liberation from  material  existence,  <i>atma</i>
-<i>tattva</i> or realisation of the immortal soul and communion  with  the  Supreme
-Lord.
+<br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
+<p>
+<p>
+Lord Krishna speaks this verse with a view to  instruct  how  the  preceding
+practice is  based  on  the  sacred  syllable  <i>OM</i>  which  is  the  personal,
+transcendental sound vibration of the Supreme Lord. The utilisation  of  the
+sacred <i>OM</i> mantra is a more direct means than the mere practice of  directing
+the life force to the proper place in the physical body.  The  word  <i>aksaram</i>
+means  imperishable.  The  imperishable  condition  that  adepts  of   Vedic
+scriptures describe  as  in  the  Brihadaranya  Upanisad  III.VIII.IX  which
+states: Under the mighty control of this imperishable the sun and  the  moon
+are held coursing in  their  positions.  Which  aspirants  is  Lord  Krishna
+referring to? Those aspirants who are  striving,  who  have  eradicated  all
+desires, who have dedicated themselves to celibacy and  the  abstinent  life
+with their spiritual preceptor. These aspirants are qualified to attain  the
+ultimate goal. Lord  Krishna  speaks  the  word  <i>sangrahena</i>  or  in  summary
+meaning He will explain these things in brief revealing how to attain them.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+<p>
+<p>
+<p>
+<p>
+The ultimate goal to be attained  is  explained  by  Lord  Krishna  in  this
+verse. Since the aspirants attain that consciousness it is  known  as  <i>padam</i>
+or state and once that state  is  reached  it  is  designated  by  the  word
+<i>visanti</i> meaning to enter. The Narada Purana states: That the  ultimate  goal
+to be attained is Lord Krishna is confirmed in the Vedic  scriptures.  Since
+that consciousness is achieved by the ascetics, it is known as <i>padam.</i>
+<p>
+<p>
+<p>
+<p>
+<p>
+Now begins the summation.
+<p>
+<p>
+<p>
+<p>
+<p>
+<i>Brahmacarya</i> or voluntary celibacy for spiritual  purposes  denotes  attuning
+one's  consciousness  in  full  devotion  to  the  Supreme  Lord   excluding
+everything else.
+<p>
+<p>
+<p>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
 <p>
 <p>
 <p>
-Whatever  prescribed  Vedic  activities  performed  by  the  Vaisnavas   and
-brahmanas such as study of the Vedic scriptures and  <i>yagna</i>  or  propitiation
-and worship by ritual to the Supreme  Lord,  <i>tapah</i>  or  austerities  by  the
-<i>ksatriyas</i> or royal warrior class and <i>danam</i> or  charity  by  the  <i>vaisyas</i>  or
-merchant class are all done out of devotion and  dedicated  to  the  Supreme
-Lord Krishna or  any  of  His  authorised  incarnations  and  expansions  as
-revealed in Vedic scriptures  without  the  slightest  desire  for  material
-rewards. Such activities  devoid  of  motivation  for  mundane  results  are
-designated as  TAT  signifying  that  such  acts  are  for  <i>atma  tattva</i>  or
-realisation of the immortal soul, perception of  the  <i>brahman</i>  or  spiritual
-substratum pervading all existence and attaining communion with the  Supreme
-Lord. The Vishnu Sahasrasa confirms that:  <i>sah,  vah,  kah,  klim,</i>  and  <i>tat</i>
-denote  the  Supreme  absolute.  Hence  the  ontology  of   TAT   has   been
-demonstrated  to  signify  its  connection  to  transcendental  and  eternal
-activities  which  independently  bestow  <i>moksa</i>  or  freedom  from  material
-existence and promotion to the eternal spiritual realms.
-<p>
-<p>
+Now Lord Krishna explains the other  <i>padam</i>  or  state  which  is  for  those
+aspirants who wish for <i>atma-tattva</i>  or  realisation  of  the  soul  and  the
+secure and permanent  destination  of  <i>moksa</i>  or  liberation  from  material
+existence. This state  is  <i>aksaram</i>  or  imperishable.  In  the  Brihadaranya
+Upanisad V.VIII.VIII beginning <i>sahovacha-itad vai  tad</i>  explains  that  this
+state is not material. It is that which the ascetics of the  worlds  attempt
+to gain access to. It is that ardent longing for which men  strictly  follow
+the vow of  <i>brahmacaryam</i> or voluntary celibacy.  <i>Padam</i>  is  that  which  one
+mentally proceeds to achieve the goal of their endeavours. <i>Padyate</i>  is  non-
+different from <i>gamyate</i> meaning that  which  is  followed  being  the  method
+adopted by the mind. The purport is that Lord  Krishna  is  giving  a  brief
+description of the methodology by which  an  aspirant  for  <i>atma-tattva</i>  and
+<i>moksa</i>  must  meditate  on  Him  to  achieve  the  ultimate  goal  they  have
+envisioned. Meditation upon  Lord  Krishna  in  His  aspect  of  <i>aksaram</i>  or
+imperishable is described in the Brihadaranya Upanisad V.VIII.VIII-XI.
 <p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-The auspiciousness of resonating TAT also  as  a  name  of  the  <i>brahman</i>  or
-spiritual substratum pervading all existence which  is  a  potency  of  Lord
-Krishna signifying that everything is under  the  complete  control  of  the
-Supreme Lord. To perform prescribed Vedic activities without any desire  for
-rewards is known as TAT. Such followers of the Vedic scriptures perform  all
-activities for the Supreme Lord out of devotion or as a matter of duty  with
-no expectation of anything in return. This is also known as TAT.
+After presenting the normal practice of meditation Lord  Krishna  introduces
+the topmost method designated  by  the  word  <i>aksaram</i>  meaning  imperishable
+which He promises to reveal in summary  how  to  attain  this  imperishable,
+ultimate goal and  that  once  it  is  attained  the  Supreme  Lord  who  is
+<i>saccidananda</i> or the embodiment of eternal truth, knowledge and  bliss  which
+the Vaisnavas and Brahmins who are knowers of the Vedic scriptures  describe
+as imperishable and indestructible. The Brhadaranyaka III.IX.VIII  states:To
+this state the Brahmins attribute the term indestructible to that  which  is
+not material and that  which  is  not  subtle,  etc.  This  state  is  where
+determined ascetics free from passion and desire for  sense  objects  strive
+to enter. This is the state where  the  enlightened  ascetics  perceive  the
+experience of  the  <i>atma</i>  or  soul  as  omnipresent  and  omniscient.  Their
+consciousness resides in the highest  substratum  and  they  become  totally
+detached from  contact  with  three  dimensional  material  nature  and  are
+incapable as such of performing any action that is in  separation  from  the
+Supreme Lord. They becoming His own, remain in this state adhering  to  Him,
+taking  full  shelter  in  Him,  desiring  to  know  that  for   which   the
+<i>brahmacarya's</i> or voluntary celibates remain firm in their vow.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 25 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 25<br><dt><center><dt><a href="verse-17-21.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-23.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 8, verse 11 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 11<br><dt><center><dt><a href="verse-08-10.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-12.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
