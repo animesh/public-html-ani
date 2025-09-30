@@ -1,143 +1,291 @@
-<html><head><title>Bhagavad-Gita: Chapter 16, Verse 13, 14, 15</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 12, Verse 1</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 13, 14, 15</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-10-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 12</font></b></td><td valign=middle align=center><b><font size=5>The Path of Devotion</font></b></td><td valign=middle align=center><b><font size=5>Verse 1</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12-sel.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-12-01-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-10.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-16-10-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/12-01.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-12-01-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-16-10-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-12-01-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-16-10-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-12-01-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-16-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-10.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="chapter-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-12-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/12-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/12-01.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-By describing the parameters by  which  the  demoniac  mentality  functions,
-Lord Krishna illustrates  the  hellish  and  degraded  path  they  traverse.
-Ignoring  all  morality  the  demoniac  think  that   whatever   they   find
-pleasurable is for their enjoyment without restriction and they will  scheme
-to obtain it by any means. The demoniac only respect power and might.  Their
-conception is that might is right and hence they will  destroy  whatever  is
-an obstacle to fulfilling their ambitions and  desires,  not  hesitating  to
-injure or even kill others.  The  demoniac  think  that  their  ideology  is
-superior and they resort to deception, hypocrisy, intimidation and force  to
-coerce others to believe  and  accept  such  a  fallacy.  The  demoniac  are
-captivated by lust, greed and false ego.  They  make  concerted  efforts  to
-orchestrate events to  try  to  influence  others  to  acknowledge  them  as
-superior and  in  the  process  immerse  themselves  deeper  and  deeper  in
-illusion. Hence  although  the  demoniac  exercise  considerable  power  and
-various areas of control because they are so completely deluded  as  defined
-by their own degraded mentalities  they keep themselves enslaved in  bondage
-by incessantly pursuing materialistic desires   and  mundane  goals  due  to
-following false ideologies and belief in erroneous concepts.
+The twelfth chapter conclusively  determines  which  of  the  following  two
+paths is superior. The worship of the abstract impersonal  and  imperishable
+<i>brahman</i>  which  is  the  spritual  substratum  pervading  all  existence  or
+personal devotion to the Supreme Lord Krishna in  His  original,  two  armed
+form with personality,  qualities  and  attributes.  At  the  conclusion  of
+chapter eleven Lord Krishna declared  that  one  who  performs  all  actions
+dedicated to Him and has only Him as the  ultimate  goal  being  exclusively
+devoted to Him attains Him. In various verses such as chapter  9,  verse  31
+Lord Krishna has ordered Arjuna with  <i>kaunteya  pratijanihi  na  me  bhaktah</i>
+<i>pranasyati</i>  which  means  declare  it  boldly  that  My  devotee  is   never
+vanquished. This shows the inherent superiority  of  the  devotees  of  Lord
+Krishna. Similarly the superiority of one who is devoted  to  knowledge  has
+been given in chapter 7, verse 17 with <i>tesam jnani  nitya-yukty  eka-bhaktir</i>
+meaning  one  in  knowledge  of  exclusive  loving  devotion  is  always  in
+communion with Him. Such men of knowledge excel all  others.  Thus  although
+both paths are exemplary Arjuna is requesting  to  know  which  of  the  two
+paths is superior being better  suited  for  <i>yoga</i>  or  the  science  of  the
+individual   consciousness   attaining   communion   with    the    ultimate
+consciousness.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-There is no commentary to Chapter <i>16, verse 16 by Madhvacarya.</i>
+Hari OM! This  chapter  confirms  that  propitiation  to  the  Supreme  Lord
+Krishna is superior to the unmanifest, impersonal and  imperishable  <i>brahman</i>
+or the spiritual substratum  pervading  all  existence.  Here  Lord  Krishna
+outlines the procedure of performing it. The procedure  itself  becomes  the
+means for <i>moksa</i> or liberation from material existence.  All  who  propitiate
+the  <i>brahman</i>  will  also  achieve  <i>moksa</i>  after  having  all  their  desires
+fulfilled. In the Agni section of the  Sama  Veda  it  states:  Propitiating
+that which  is  superior  to  the  eternal  and  beginningless  <i>brahman</i>  one
+achieves <i>moksa</i> from <i>samsara</i> or the endless cycle of  birth  and  death.  The
+words <i>aksaram avyaktam</i>  refer  to  the  indestructible,  unmanifest  supreme
+absolute or <i>brahman</i> whose <i>s</i>teadfast worship  eventually  releases  one  from
+all constraints. So great is the result  of  propitiation  in  reference  to
+this as revealed in the Vedas. Those who  worship  the  goddess  Sri  Laksmi
+with four arms and hands, ever  young,  ever  content,  resplendent  as  the
+eternal consort of the Supreme Lord in the spiritual worlds being His  <i>sakti</i>
+or spiritual feminine potency in  the  material  worlds,  endowed  with  the
+wealth of wisdom; such a being is  blessed  by  the  two-fold  form  of  the
+Supreme Lord which manifest themselves both externally as an experience  and
+internally within one's heart.
 <p>
-There is no commentary to Chapter <i>16, verse 17 by Madhvacarya.</i>
+This has been documented in other Vedic scriptures as well in  the  Puranas.
+Having started with the declaration in Rig  Veda  X.CXXV  that:  Sri  Laksmi
+wanders wherever the different <i>vibhuti</i> or  divine,  transcendental  opulence
+of the Supreme Lord appear such as the Rudras, the Vasus, the  Adityas,  the
+Visva-devas etc. She is the gatherer of treasures and the  empress  of  Lord
+Krishna's direct expansion Narayana the Lord of all <i>Vaikuntha</i>,  the  eternal
+spiritual worlds and being the personal <i>sakti</i> of the Supreme Lord  she  also
+expands herself as the consort of each and every incarnation  and  expansion
+of Lord Krishna and  thus  also  merits  worship.   Thus  the  demigods  and
+elevated beings have established her worship in many  places  and  homes  to
+abide in, on the left side of the Supreme Lord. Through her  alone  all  eat
+the food that feeds them as well as sees, breathes and hears  the  sound  of
+the word outspoken, although they know it not and are unaware. Hear now  one
+and all the truth as she declared it:  The  one  who  she  benedicts  excels
+above others and is most powerful  becoming a sage, yogi or brahmana. It  is
+by her energy that the bow of Rudra is bent and his arrows are propelled  to
+strike and slay those who disrespect, despise and  offend  the  devotees  of
+the Supreme Lord. On the worlds summits she  designates  the  powerful.  Her
+home is in the waters of the casual  ocean  far,  far  beyond  the  material
+worlds and far beyond even the heavenly planets. Sri  Laksmi  the  universal
+mother is majestic in her grandeur. One who pleases her is blest  to  become
+a Brahmin, opulent and wise. Because the Vedic scriptures  state  like  this
+there may be some doubt as to whether Sri Laksmi has the capacity to   grant
+<i>moksa</i> or liberation by the power  of  the  Supreme  Lord.  To  discern  this
+subtle truth and for the  sake  of  knowledge  Arjuna  uses  the  word  <i>evam</i>
+meaning in which way.
+<p>
+Arjuna is requesting reassurance since  experiencing  the  reality  of  Lord
+Krishna's <i>visvarupa</i> or divine universal form, he was puzzled and  unsure  if
+<i>avaktya</i>  or  the  unmanifest  being  the  <i>brahman</i>  or  spiritual  substratum
+pervading all existence should be meditated on  or  should  he  meditate  on
+<i>prakriti</i> the material substratum underlying physical existence which is  the
+source of the three  <i>gunas</i>  or  modes  of  material  nature  being  <i>tama</i>  or
+ignorance, <i>raja guna</i> or mode of passion and <i>sattva guna</i> or mode of  goodness
+The word <i>aksaram</i> means eternal, absolute and Sri Laksmi is also eternal  and
+absolute and <i>prakriti</i> arises completely out of her but the Supreme  Lord  is
+superior to all that. Then he is wondering should he not  worship  the  <i>atma</i>
+or eternal soul within or should he just directly worship the  Supreme  Lord
+Krishna with  loving  devotion?  The  indestructible  <i>brahman</i>  is  a  direct
+reflection of the  Supreme  Lord  and  none  other  then  He.  Always  being
+blissful He appears as Vasudeva and is all pervading. He is  also  <i>paramatma</i>
+the Supreme Soul within the etheric heart of all sentient beings.  This  has
+been given in chapter two.  His  form  and  qualities  have  been  given  in
+chapter  three  and  meditation  has  subsequently  been  advised   as   the
+consequent activity.
+<p>
+Knowledge of  the  prodigious  manifold  forms  of  the  Supreme  Lord,  His
+manifold expansions, His manifold  incarnations,  His  <i>visvarupa</i>  or  divine
+universal form and the unlimited <i>lilas</i> or pastimes of them  all  begins  the
+revelation that Lord Krishna is the immortal, eternal  Lord  of  all  lords,
+from whom everything emanates in existence and  to  whom  all  paths  return
+back to Him. In the Sama Veda, Saukarayana section we find  that  Rudra  the
+mind born son of Brahma approaches him and asks to know who  is  verily  the
+ultimate goal of all existence, the eternally established,  creator  of  all
+beings who bestows <i>moksa</i> or liberation upon  the  aspirants,  the  righteous
+and the noble. How does one meditate upon such a Supreme Being and  how  can
+one meditate upon a Supreme Being who is completely  spiritual  without  any
+material qualities or attributes? Brahma replied it is  verily  the  Supreme
+Lord Krishna who is the ultimate goal as well as the  object  of  meditation
+by the  aspirants  and  the  granter  of  <i>moksa.</i>  Of  unlimited  <i>avatars</i>  or
+incarnations, expansions  and  manifestations,  appearing  in  many  colours
+surrounded by a golden hue. He verily is shining like the sun and should  be
+meditated upon within the heart as a  personality  resembling  a  human  the
+colour of a radiant dark blue sapphire with gentle smile  and  hands  giving
+blessing surrounded by a golden hue. He is camouflaged by  the  <i>brahman</i>  the
+spiritual  substratum  pervading  all  existence  and  which   emanates   an
+impenetrable  dazzling  light  throughout  all  creation  which  effectively
+covers His all pervading form. It  is  for  this  reason  that  He  is  also
+propitiates as <i>avyaktam</i> or immutable and <i>aksaram</i> or  unmanifest  because  He
+cannot be perceived by material vision.
+<p>
+Now begins the summation.
+<p>
+Hari OM! Here is explained the means of achieving spiritual practice.
+<p>
+The immutable, unmanifest known as the <i>brahman</i> although without form by  the
+will of the Supreme Lord  arises  from  His  <i>sakti</i>  or  spiritual,  feminine
+potency known as Sri or Laksmi. For her propitiation an aspirant must  leave
+home and for being initiated in <i>tattva</i>  or  knowledge  about  her  one  must
+approach and accept a spiritual master in her  line.  Whomsoever  learns  to
+propitiate her attains <i>moksa.</i> Thus the objective of both  the  aspirant  and
+the guru are fulfilled. Those who propitiate Sri Laksmi, the consort of  the
+Supreme Lord is His <i>sakti</i> which controls the material existence and is  also
+known as Ambika, Agrya, Aupala, Hri and Sivdya are granted   <i>moksa,</i>  If  Sri
+Laksm is pleased then the Supreme Lord becomes pleased  also and if  she  is
+not pleased then the Supreme Lord remains unpleased as well.
+<p>
+The Brahmanda Prurana states: Sri Laksmi is known as <i>avyaktam</i> or  unmanifest
+because <i>prakriti</i> or the material substratum  underlying  physical  existence
+arises from her. She is also known as  <i>aksaram</i>  or  immutable,  the  Supreme
+consciousness, the primal source, the refuge for all and  the  abiding  one;
+but the Supreme Lord who empowers her is verily superior  to  her.  So  such
+propitiation to the <i>avaktam</i> is synonymous with propitiation  to  Sri  Laksmi
+and the Supreme Lord. This has been asked by  Arjuna  for  clarification  of
+which path is more meritorious for attaining <i>moksa.</i> That  which  is  abiding
+within is known as  the  immutable  and  never  changing.  This  is  clearly
+determined by such statements in the Vedic scriptures such  as:  That  which
+who abides within, eternally, unlimited, all pervading,  etc.  These  things
+clearly refer to  the  unmanifest  consciousness.  Otherwise  such  distinct
+queries such as who is to be propitiated and the method of propitiating  Him
+and between the two which is superior would not have been asked.  Those  who
+consider  propitiation  to  the   abstract,   indistinct,   impersonal   and
+imperishable <i>brahman</i> to be superior  to  direct  loving  devotion  unto  the
+Supreme Lord are verily deluded and far  away  from  the  actual  <i>tattva</i>  or
+conclusive truth.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+In the previous chapter the Supreme  Lord  Krishna,  the  possessor  of  all
+divine attributes as well as countless exalted qualities such  as  an  ocean
+of mercy, compassion, affability, omniscience etc. and  the  source  of  all
+<i>avatars</i> or  incarnations  and  expansions,  being  the  ultimate  object  of
+worship to all who aspire  for  the  path  of  <i>bhakti</i>  or  exclusive  loving
+devotion unto the Supreme Lord Krishna;  revealed  His  unlimited  sovereign
+power of  universal  dominion  in  the  form  of  His  <i>visvarupa</i>  or  divine
+universal form after being requested by His  devotee  Arjuna.  It  has  also
+been established that uninterrupted profound, sublime <i>bhakti</i>  alone  without
+cessation is the only possible way  to  realise  the  Supreme  Lord  in  His
+ultimate nature and experience communion with Him. Now in this  chapter  the
+following three realities will be examined.
+1) The inherent superiority  of  an  aspirant  performing  <i>bhakti</i>  involving
+meditation  directly  upon  the  Supreme  Lord  Himself  as  compared  to
+meditation upon the <i>atma</i> or the eternal soul which  only  leads  to  <i>atma</i>
+<i>tattva</i> or realisation of the soul in order to attain the ultimate goal of
+all existence. This  superiority  of  <i>bhakti</i>  is  measured  in  terms  of
+absolute fulfilment of the ultimate goal and in the sublime felicity  and
+bliss of performance. <i>Bhakti</i> or love  of  God  is  considered  the  fifth
+<i>purusharthas</i> above the other four ambitions of humans beings which are 1.
+<i>Dharma</i> or righteousness which consists  of  two  parts  first  being  the
+regular performance of Vedic activities and the second  being  performing
+actions which benefit all living entities such as freely providing  fresh
+water and salt to all and  protecting  against  all  demoniac  influences
+whenever they appear. 2. <i>Artha</i> or the  righteous  acquirement  of  wealth
+according to the Vedic scriptures without usury or deception. 3. <i>Kama</i>  or
+enjoyment and pleasure in the  material  existence  following  the  Vedic
+scriptures without perversion or degradation. 4. <i>Moksa</i> or liberation from
+material existence by <i>atma tattva</i> or liberation from  material  existence
+by <i>bhakti</i> realising the Supreme Lord direct. It should be noted that <i>atma</i>
+<i>tattva</i> is automatically an inherent part of <i>bhakti</i> and thus those blessed
+living entities who perform <i>bhakti</i> to the Supreme Lord Krishna or any  of
+His authorised <i>avatars</i> do not have to make any separate or special effort
+to achieve this.
+2) The method of realising the Supreme Lord will be given in verse two.
+3) The <i>aksaram</i> or abstract, impersonal unmanifest path  examined  in  verses
+3,4,5 is applicable  for  those  who  are  inept  and  unqualified.  This
+ineptitude and lack of qualification is due  to  the  absence  of  humbly
+approaching a spiritual master from one of the four  authorised  Vaisnava
+<i>sampradaya's</i> or empowerd lines of disciplic succession  and  after  being
+accepted by him and initiated being taught the fundamentals of <i>bhakti.</i>
 <p>
+The superiority of <i>bhakti</i> or exclusive loving devotion to the  Supreme  Lord
+Krishna is made manifest by the superiority of He, Himself being the  object
+of such loving devotion. This maxim of superiority  was  briefly  stated  by
+Lord Krishna in chapter six verse 47 where  He  states  :  Those  with  firm
+faith in the Vedic scriptures describing  super-excellent  devotion  to  Him
+and with hearts  full  of  love  dedicate  all  their  actions  to  Him  are
+<i>yuktatamah</i> the most superior of all.
 <p>
+The words <i>satata-yuktah</i> meaning always engaged denotes ever  devout  towards
+the  Supreme  Lord  being  ever  intent  on  communion  with  Him  which  is
+continuing the sentiments of the last verse in chapter 11.  The  words  <i>tvam</i>
+<i>paryupasate</i> means direct worship of Lord Krishna and refers to  deeming  the
+Supreme Lord as the complete fulfilment of one's every ambition and  desire.
+The Supreme Lord, the perfect, infallible one, the  Sovereign  Lord  of  all
+creation  and  the  refuge  of  all  cosmic  glories,  possessing  unlimited
+attributes of exalted qualities such as divinity,  omniscience,  compassion,
+omnipotence, etc.  Such  ones  are  thy  eternal  adorers  and  always  your
+beloved.
 <p>
+Those other votaries  are  the  worshippers  of  the  abstract,  impersonal,
+<i>avyaktam</i> or unmanifest and imperceptible. which is <i>aksaram</i> or  imperishable.
+Such also reflect and contemplate upon the  nature  of  the  <i>pratyagatma</i>  or
+individual soul which is imperishable also as well as  being  unmanifest  in
+as much as it is indiscernible by the mind and imperceptible to any  of  the
+senses such as the eye or ear, etc.
 <p>
-Lord Krishna uses the word <i>idam</i> meaning this. The <i>idam</i> He is  talking  about
-refers to possessions such as wealth, property, family,  etc.  The  demoniac
-mentality is that all my possessions have been acquired by me alone,  by  my
-own efforts and exertions. They believe there is no other  power  or  subtle
-unseen cause involved.  The  word  <i>manoratham</i>  means  desirable  object  and
-whatever is  desirable  the  demoniac  feel  it  is  their  right  to  enjoy
-regardless of morality. The wealth that they gain by  any  means  lawful  or
-unlawful, or by cheating and stealing they see as moral and rightful  as  it
-was gained by their own brain and brawn over others  brain  and  brawn.  The
-demoniac follow the idea that might is right  and  do  not  believe  in  any
-subjective force or higher power. They forcefully take whatever they  desire
-and are totally unconcerned of  any  consequences,  oblivious  to  even  the
-possibility that a god or supreme force sanctioning their  endeavours  could
-exist. The demoniac feel that they are so powerful that they themselves  are
-gods because they can destroy their enemies as a whim and consider  everyone
-except themselves to be of unimportance.
-<p>
-<p>
-<p>
-<p>
-<p>
-The demoniac think like the following examples illustrate.  I  am  the  most
-powerful. I was born into a dynasty of aristocracy and wealth. Who  else  in
-this world is equal to  me?  Who  else  by  dint  of  their  exertions  have
-acquired every pleasure there is to enjoy and secured so much happiness  and
-stability? I will eat, drink and be merry, enjoying sense  gratification  to
-the maximum without restraint. There is no need for me  to  believe  in  any
-god or supreme power; but anyway I will  perform  some  pseudo  rituals  and
-imitate some pious activities by ostentatious donations for charity to  gain
-renown so others will think that I am also a great religious personality  as
-well. This is how the demoniac think.
-<p>
-<p>
-<p>
-<p>
-<p>
-The demoniac see themselves  as  the  enjoyers,  the  manipulators  and  the
-controllers, The demoniac believe that they are all  powerful,  independent,
-masters of their own destines and independent  of  any  supreme  and  unseen
-power; but so deluded are they that they completely ignore the reality  that
-death  will  come  and  indiscriminately  abduct   them   from   all   their
-possessions. This is mysteriously completely imperceptible to them.
-<p>
+Of these two classes of aspirants which one is superior  and  most  suitable
+for  performing  <i>yoga</i>  or  the  science  of  the  individual   consciousness
+attaining communion with the ultimate  consciousness.  Inferring  which  one
+would achieve their respective  goals most expediently. In verse seven  Lord
+Krishna gives the definitive reply in answer to  this  query  by  succinctly
+revealing the most expeditious way to attain the ultimate goal.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Lord Krishna  explicitly  emphasises  that  the  demoniac  are  consumed  by
-incessantly hankering for the fulfilment of their  insatiable  desires.  The
-demoniac are always thinking about what they have gained and enjoyed  today,
-what they will gain and enjoy tomorrow and what they will gain and enjoy  in
-the future. The demoniac do not believe in destiny and fate but only in  the
-capabilities of  their  own  efforts,  intelligence  and  power.  Destroying
-anything that  obstructs  their  desires  and  gets  in  the  way  of  their
-ambitions, the demoniac think today I have destroyed a formidable  enemy  by
-my power and might, tomorrow I shall destroy more enemies because I  am  all
-powerful. I am master of my own destiny, invincible and independent. All  is
-for my enjoyment. Everyone is inferior to me. I  am  wealthy,  highborn  and
-thus superior. I am the enjoyer. None is my equal.
+In the last verse of chapter 11 the prerequisite  method  of  attaining  the
+Supreme Lord Krishna is revealed as <i>bhakti</i> or exclusive loving devotion.  In
+verse 20 of the eighth chapter Lord Krishna refers  to  the  innermost  self
+the <i>atma</i> or eternal soul which is <i>avyaktah</i> or unmanifest  and  imperceptible
+to eyes and other senses and any external  means  of  proof  except  by  the
+Vedic scriptures. This <i>avyaktah</i> is of  a  superior  nature  far  beyond  the
+<i>aksaram</i> or indestructible <i>brahman</i>  or  spiritual  substratum  pervading  all
+existence. Continuing in verse 21 of chapter eight Lord Krishna states  that
+the Vedic scriptures proclaim the <i>brahman</i> to be <i>paramam  gatim</i>  meaning  the
+supreme destination.
 <p>
-Observing that those  endowed  with  the  divine  nature  sometimes  achieve
-phenomenal  fame  and  extraordinary  acclaim  by   performing   ritualistic
-activities of  righteous  nature  for  the  benefit  of  all  creation;  the
-demoniac spitefully concoct their  own  ritualistic  activities  based  upon
-evil and clandestinely engage in fiendish activities such as offering  blood
-sacrifices  and  vampirism  to  disincarnate  spirits,  ghosts  and   demons
-channelling in ghastly  and  horrendous  non-human  energies  to  whom  they
-sacrifice infants and humans in exchange for material  power.  This  is  how
-they covertly operate in secret.
+Thus what can gained by achieving either of  the  two  goals  and  which  is
+more appropriate is what is being  asked.  Of  the  two  ways  described  in
+chapter 8 and  chapter  11  which  is  better?  Which  is  the  most  easily
+achieved? What practitioners of which path are the best? With  a  desire  to
+understand these things Arjuna requests Lord Krishna for clarification.  The
+Supreme Lord's devotees have their  minds  constantly  fixed  on  Him.  They
+adore His form, pastimes, attributes  and  qualities  such  as  omniscience,
+omnipotence, infinite prowess, etc. Then there are those who  adore  as  the
+supreme destination  the  abstract,  impersonal,  unmanifest  <i>brahman</i>  which
+cannot be perceived by anything material such as the mind and senses.  Which
+of the two practitioners following different paths are the most elevated  in
+<i>yoga</i> or the science of  the  individual  consciousness  attaining  communion
+with the ultimate consciousness? They are called the most  elevated  because
+they are <i>yoga-vittamah</i> meaning the best knowers of  <i>yoga</i>  and  because  they
+know the best means for attaining the Supreme Lord they have achieved  <i>moksa</i>
+or liberation from <i>samsara</i> or the perpetual cycle of birth and death.
 <p>
-The demoniac also diabolically and deceptively imitate those of  the  divine
-nature by pretending  to  be  compassionate  philanthropists  and  establish
-institutions  bearing  their  name  that  give  ostentatious  donations  for
-hospitals and charitable organisations for  feeding  the  poor  as  well  as
-contributing to religious societies where they can  showcase  themselves  as
-appearing pious. This is how they openly operate in public.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 13, 14, 15 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 13, 14, 15<br><dt><center><dt><a href="verse-16-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 12, verse 1 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 1<br><dt><center><dt><a href="chapter-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-12-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
