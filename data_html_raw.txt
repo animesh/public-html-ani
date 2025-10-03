@@ -1,223 +1,275 @@
-<html><head><title>Bhagavad-Gita: Chapter 15, Verse 3, 4</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 9, Verse 34</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 3, 4</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-03-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 9</font></b></td><td valign=middle align=center><b><font size=5>Confidential Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 34</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09-sel.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-09-34-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-03.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-15-03-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/09-34.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-09-34-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-15-03-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-09-34-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-15-03-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-09-34-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-15-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-03.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-09-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="chapter-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/09-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/09-34.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-The reality of this <i>asvattha</i> or ancient banyan tree having its  roots  above
-and  branches  below  is  not  perceivable  by  <i>jivas</i>  or  embodied   beings
-habitating material existence in <i>samsara</i> or the  perpetual  cycle  of  birth
-and death for 43,200,000 lifetimes that transpire for a human in one day  of
-Brahma. Neither can its end be discerned or its beginning determined. It  is
-unlimited and its continuity and how it exists is unknown. Since  this  tree
-is extremely difficult to uproot and surmount and is also the  actual  cause
-of all suffering, a spiritually knowledegable  living  entity  should  sever
-all ties from this tree by the weapons of nonattachment and  dispassion  and
-strive for attaining <i>atma tattva</i> or  realisation  of  their  immortal  soul.
-Enunciated clearly having severed all ties  to  this  deep  rooted  and  all
-encompassing tree with the powerful discriminative  weapon  of  renunciation
-which consists of relinquishing all concepts of ego such as I and  mine  and
-instead see oneself as belonging  fully  to  the  Supreme  Lord  Krishna  in
-complete communion with Him, who is the  ultimate  source  from  where  this
-tree has arisen. Upon realising the  Supreme  Lord  one  achieves  <i>moksa</i>  or
-liberation from material existence and is no longer subject to  <i>samsara</i>  the
-perpetual cycle of birth and death. In conclusion  one  must  wholeheartedly
-seek communion with the Supreme Lord and take full shelter of Him by  <i>bhakti</i>
-or exclusive loving devotion.
+This chapter concludes by revealing the pure, simplistic way of  worshipping
+the Supreme Lord Krishna by the words <i>man-manah</i>  focus  one's  consciousness
+on Lord Krishna, <i>mad  bhakto</i>  be  Lord  Krishna's  devotee,  <i>mad  yaji</i>  give
+propitiation and  worship  to  Lord  Krishna,  <i>mam  namaskuru</i>  offer  humble
+obeisances to Lord Krishna exclusively. By these direct and easy to  perform
+activities, having Lord Krishna as the Supreme goal one will attain  eternal
+life in the spiritual worlds in association with Him. Thus in  this  chapter
+entitled Confidential Knowledge of the  Ultimate  Truth,  Lord  Krishna  has
+compassionately  revealed  some  of  His   transcendental  glories  and  the
+phenomenal greatness of <i>bhakti</i> or exclusive loving devotion.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+How it is possible for the righteous to directly worship the Supreme Lord
+Krishna is given here. But this applies only to those who are imbued with
+the divine presence of the atma or eternal soul. It has been said in the
+Sandilya text that: One who does not abandon evil ways, one who has no
+devotion to the Supreme Lord and one who has not equipoise cannot become a
+devotee of Lord Krishna. But the demigods and sages although sometimes
+overpowered by their own intentions become in due course of time the pure
+devotees never forgetting Him and always remembering Him because they are
+aware of His all encompassing supremacy. Therefore others unaware of this
+who fraudulently strive to prove their devotion should be known as
+charlatans. Those with slight demerits may attain devotion due to
+association with those devoted to Lord Krishna. Still others may offer
+simple devotion increasing gradually. But those addicted to sense
+gratification who pretend to be great devotees externally but internally
+are always thinking of pleasure and recognition are truly the worst
+deceivers. The Vishnu Purana has mentioned that for those  engaged in
+abominable behaviour and act contrary to the ordinances and injunctions of
+the Vedic scriptures, bhakti or loving devotion will never manifest within
+their hearts. Those who are receptive to bhakti have great faith in the
+Vedic scriptures and there devotion to Lord Krishna keeps on increasing and
+their desires for other things keeps on decreasing.
 <p>
+The Moksa Dharma states: O Lord! Having studied the Vedas I am always
+engaged in austerities. I have dedicatedly served my spiritual master and
+have never spoken an untruth in the past and I chant my sacred mantras
+secretly. The four truths revealed in the Vedic scriptures are enshrined
+within my heart. I am always equal to both friend and enemy alike. Fully
+surrendering to the Supreme Lord I have been propitiating Him with unabated
+and unadulterated devotion. How is it that I am unable to perceive His
+eternal form which is pure and blissful within my heart?
 <p>
+Thus righteous behaviour is considered as one of the means of acquiring
+spiritual intelligence. Without spiritual wisdom true devotion is not
+possible to understand. The Gautama text states that: Without spiritual
+wisdom how can there ever be devotion and without devotion how can there
+ever be atma tattva or realisation of the soul. The Bhagavat Purana has
+declared: That devotion to the Supreme Lord, spiritual wisdom and aversion
+to all other things, all these three go together.
 <p>
-This ancient <i>asvattha</i> or banyan tree represents material  existence  but  it
-is not perceivable yet it  is  seen  to  have  been  established.  The  word
-<i>adi</i> means beginning and <i>anta</i> means the end which refer to the Supreme  Lord.
-The Bhagavad Purana states: The Supreme Lord is the beginning, the  end  and
-the middle as well. The Moksa Dharma states: The Supreme  Lord  has  neither
-beginning nor ending, more the demigods  and  seers  cannot  penetrate.  The
-compound word <i>asanga-sastrena</i> means the  wisdom  of  non-attachment  arising
-from association with Vaisnava devotees of the Supreme Lord. With the  sword
-of detachment sharpened by meditation on the  wisdom  of  renunciation.   By
-this method the world does not become a place of bondage.  By  knowledge  of
-the Vedic scriptures and practice the knowledge of the <i>brahman</i> or  spiritual
-substratum  pervading  all  existence  will  be  revealed  to  one.   It  is
-confirmed in the Vedic scriptures that: Meditation verily  is  the  way  and
-the means for discrnment and detachment.  Such  a  one  will  not  be  bound
-although others will.
+Now begins the summation.
 <p>
-The purport is that with the weapon of  detachment  one  should  sever  ties
-with everything except the Supreme Lord Krishna and His  authorised  <i>avatars</i>
-or divine incarnations and expansions. The  Moksa  Dharma  states:  When  on
-surrenders unto the Supreme Lord one does not suffer or grieve.  Neither  is
-one born, nor does one die. Such a one is verily situated  in  the  <i>brahman</i>.
-Only one who has been graced by the blessing of  the  Supreme  Lord  can  be
-elligible to become qualified to attain this. The describibng of  the  means
-of severing  attachment  have  been  given  for  the  sake  of  an  aspirant
-receiving the Supreme Lord grace. No other shelter or refuge exists  in  all
-creation  other  than  the  Supeme   Lord   Krishna  and  this   fundamental
-understanding must be realised. Since this  material  existence  is  like  a
-horse with an unstable gait it is known as unsteady. That  it  is  immutable
-is because <i>samsara</i> or the perpetual cycle of  birth  and  death  is  like  a
-stream and endless until one achieves  <i>moksa</i>  or  liberation  from  material
-existence.   This  liberation  is  determined  by   detachment.   The   firm
-conviction that the Supreme Lord is  transcendental  to  everything  in  the
-physical existence is the knowledge gained  from  the  destruction  of  this
-ancien banyan tree. The Vedic aphorism <i>neti neti</i> meaning it is not this,  it
-is not that clarifies what is the unmanifest.  Realising  that  the  Supreme
-Lord Krishna is the seperate and distinct from all else is  what  makes  Him
-clearly superior and paramount. He is the  primal  Supreme  Lord,  the  only
-progenitor. All created beings including Brahma, Shiva, Indra  and  all  the
-300 million demigods are  nothing  but  emantions  from  Him  like  rays  of
-sunlight from the sun.
+The Padma Purana states: Who is devoted to the Supreme Lord can never by
+inimical to the Supreme Lord and who is inimical to the Supreme Lord can
+never be a devotee of the Supreme Lord. Yet the Supreme Lord is always
+equitable in bestowing the rewards according to one's devotion.
+<p>
+The devotees are dear to the Supreme Lord. The karma or reactions to
+actions leading to merits and demerits are according to each one's
+attributes. The stage of Brahmin and others are also normal for them
+according to their attributes and so is their moksa or liberation. A male
+human being is next born as a female because of desires or some demerit. A
+female human being is never born as a male because of attributes but they
+reside within the male body alongside the male form in a spiritual female
+form. These spiritual female forms are unlimitedly superior to those who
+have taken female forms due to the demerit of desires.
+<p>
+All jivas or embodied beings accept the body of skin, flesh and species
+according to their attributes. Even after dissolving the residue of prior
+karmas and attaining moksa each jiva experiences even their spiritual
+existence according to their inherent attributes that manifested in their
+atma or eternal soul when they first entered material existence from the
+spiritual worlds. So from this declaration revealed in the Bhavishya Purana
+the concept of merits and demerits for even those born under evil
+circumstances can be accepted.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The <i>jivas</i> or embodied beings immersed in <i>samsara</i> or the perpetual  cycle  of
-birth and death are unable to comprehend this <i>asvattha</i> or  banyan  tree  and
-its symbolism. It is impossible  for  them  to  understand  that  this  tree
-symbolising material existence has its root above in  Satyloka  with  Brahma
-and its branches descending downwards  are  all  the  innumerable  <i>jivas</i>  or
-embodied  beings  throughout  all  of  creation  and  that  humans  are  its
-terminals  from  where  there  are  branches  spreading  upwards   as   well
-determined by  <i>karma</i>  or  reactions  to  actions  based  upon  following  or
-ignoring the injunctions and prohibitions  of  the  Vedic  scriptures  which
-apply when one finally  achieves  a  human  form  out  of  the  millions  of
-different plants, birds, fish and animal species. As a human one is  quickly
-indoctrinated into <i>samsara</i> with the conceptions of I am. I am a man. I am  a
-king. I am the son of this person. I am  the  wife  of  that  person.  I  am
-beautiful. I am great, etc., etc. Such I am conceptions keeps one locked  in
-<i>samsara</i> and causes one to  be  fully  occupied  with  mundane  concerns  and
-worldly affairs appropriate to such  conceptions.  Such  persons  look  upon
-their bodily conceptions as there very self  and  are  completely  oblivious
-that they are factually eternal beings possessing an <i>atma</i> or immortal  soul.
-They perceive not that they can gradually wean themselves from this  ancient
-tree by renuciation of the three <i>gunas</i>  or  modes  of  material  nature  and
-detachment from the objects of the senses. Neither do they  comprehend  that
-the <i>atma</i> is seperate and distinct from  the  physical  body.  Nor  can  they
-differentiate that the ego is not the physical body and the <i>atma</i> is not  the
-ego. Bewildered by illusion they believe what is unreal to be real and  what
-is real they cannot perceive. The origin and source is unfathomable to  them
-and so deluded they remain in ignorance.
 <p>
-This <i>asvattha</i> tree with roots above and branches below that keeps  the  <i>jiva</i>
-enslaved in <i>samsara</i> can only be destroyed by the sword of non-attachment  to
-objects of the senses. This renunciation arises  from  <i>bhakti</i>  or  exclusive
-loving devotion to the Supreme Lord Krishna which is the  highest  good  and
-apex of all to be attained by every  <i>jivas</i>  and  paramount  to  every  other
-conceivable activity in existence throughout all  of  creation.  Demolishing
-this strong and durable <i>asvattha</i> tree by  the  sharp  weapon  of  detachment
-from sense objects produces  disike  and  disdain  for  sense  gratification
-which creates a desire for pure, sublime spiritual  experiences  which  when
-one attains can no longer be subjected to the influence of the  three  <i>gunas</i>
-or  modes of  material  nature.  How  can  such  a  state  of  consciousness
-manifest and detachment from the <i>gunas</i> which causes delusion be  guaranteed?
+The words <i>man mana</i> means be always conscious of  Lord  Krishna.  This  means
+one's consciousness should always be focused on Him as a  continuous  stream
+of thought. The Supreme Lord of all,  the  sole  abode  of  all  excellence,
+devoid of any fault, the  omniscient,  omnipotent  and  omnipresent  One  of
+indomitable will. The Supreme Lord Krishna, the sole source, the sole  cause
+and the sole  origin  of  all  creation,  who  is  <i>Parabrahman</i>  the  supreme
+manifestation of  the  spiritual  substratum  pervading  all  existence  and
+<i>Purusottama</i> the supreme personality, who possesses large,  beautiful,  lotus
+shaped eyes and whose transcendental body is of dark blue  complexion.  Lord
+Krishna resplendent as 1000 suns simultaneously shining,  Lord  Krishna  the
+epitome of all beauty and loveliness with  effulgent  yellow  hued  raiment,
+ornate and immaculate diadem, dolphin shaped  earrings,  celestial  garlands
+and ungents, bracelets, rings and armlets. Lord Krishna  <i>isvara  parama</i>  the
+ultimate controller of all, who is an ocean of infinite  mercy,  compassion,
+beauty, sweetness, perfection, bounty  and  affection.  The  refuge  of  all
+planes  of  existence  in  all  the  trillions  of  universes  without   any
+contradiction in any of them regardless of uniqueness and differences.  Lord
+Krishna the Supreme Sovereign Lord of all.
 <p>
+Furthemore one should be <i>mad bhakto</i> or have  their  consciousness  permeated
+with unadulterated love for Lord Krishna as their beloved friend.  Then  one
+should become <i>maj yaji</i> or Lord Krishna's  devoted  worshipper  taking  great
+delight in their intimate and individual relationship with the Supreme  Lord
+internally. <i>Yaja</i> denoting <i>yagna</i> indicates all the myriad  of  wonderful  and
+sublime ways of offering <i>bhakti</i> or loving devotion unto  Lord  Krishna,  the
+way a dear friend offers everything they  possess  to  please  another  dear
+friend. Offering as <i>yaji</i> is of three kinds.
 <p>
-Lord Krishna has already  previously  confirmed  in  chapter  VII.VII:  That
-there is nothing superior  to  Him.  In  chapter  VII.XIV:  That  those  who
-surrender unto Him alone can surmount the three <i>gunas.</i>  In  chapter  IX,  X:
-That material nature is operating under His control. In X.VIII: That  He  is
-the origin and source of all material and spiritual worlds. So let  glorious
-propitiation and  devotion be given unto the  Supreme  Lord  Krishna  as  He
-alone is the sole refuge of all living entities. Inasmuch  as  all  material
-impressions, instincts and influences arise  from  contact  with  the  three
-<i>gunas</i> proceeding from <i>prakriti</i> the material  substratum  pervading  physical
-existence which is controlled byHim. It is logical  to  understand  that  by
-Him they can also be transcended. The question that naturally comes to  mind
-is  how?  The  word  <i>prapadye</i>  means  surrender.  In   VII.XIV   is   stated
-<i>prapadyante</i> or have surrendered. In  this  verse  a  variant  is  stated  as
-<i>prapadye yatah</i> which by the gramatical rules of Panini  can  be  interpreted
-as <i>prapadye  iyatah</i>  meaning  by  a  mere  step  of  surrendering  unto  Him
-spiritual impressions, instincts and influences are activated and awaken  in
-such a one.  They  will  manifest  as  spontaneous  impulses  arising   with
-frequency in the heart and dispel all nescience. They  are  ancient  because
-they embody the collective consciousness of all the <i>mumukshas</i>  or  achievers
-of <i>moksa</i> or liberation from material existence since  time  immemorial,  who
-surrendered and took refuge of the Supreme Lord Krishna  or  His  authorised
-incarnation and expansion as revealed in Vedic scriptures and were  released
-forever from the bondage of <i>samsara.</i>
+<i>1) aupacharika</i> is external worship such as offering incense and waving  ghee
+lamps,  fanning etc.
+<i>2) samsparsika</i> is tactual service  such  as  garlanding,  applying  ungents,
+smearing sandalwood paste, etc.
+<i>3) abhyaaharika</i> is offering  of  vegetarian  food  such  as  milk  products,
+fruits and vegetables.
+<p>
+<i>Yaji</i> is thus rendering all kinds of pleasing  and  delectable  services  for
+Lord Krishna's supreme satisfaction and  this  whether  great  or  small  is
+accomplished perfectly by <i>bhakti</i>  or loving devotion and by no other  means.
+The purport is: Let my mind be so aligned that it  takes  great  delight  in
+always rendering such pleasing services to the Supreme Lord Krishna.
+<p>
+Next is advised <i>namaskuru</i> which is the humble prostration of obeisance  unto
+the Supreme Lord. This infers to not let  one's  mind  merely  bask  in  the
+satisfaction of rendering service out of infinite love created  by  communal
+bliss with the Supreme Lord but  to  also  be  prostrated  in  homage   with
+humility to the Supreme Lord as the internal  monitor  within  as  <i>Paramatma</i>
+the supreme soul who witnesses all thought and activities  of  every  living
+entity.
+<p>
+<i>Mat-parayanah</i> means one who has totally surrendered  to  the  Supreme  Lord.
+Who accepts the Supreme Lord as  their  only  shelter  and  refuge  and  who
+independent of Him could not tolerate  existence  therefore  such  a  person
+depends completely on  Him.  Thus  disciplining  the  consciousness  in  one
+pointed focus so that  everything  one  does  is  directly  related  to  the
+Supreme Lord one should guide their consciousness in such a way that it  can
+revel and delight in personal communion  with  the  Supreme  Lord  at  every
+moment. Possessed of such a wonderfully evolved spiritualised  consciousness
+thou shalt most assuredly attain the Supreme Lord  without  fail.  The  word
+<i>atma</i> used here denotes the consciousness beyond the mind.
+<p>
+The import of this verse is that if a person  prepares  and  develops  their
+consciousness to meditate on the Supreme Lord, to render loving  service  to
+the Supreme Lord,  to  delight  in  communion  with  the  Supreme  Lord,  to
+prostrate in humble homage to the Supreme  Lord,  then  putting  their  full
+trust to Him alone they will undoubtedly attain Him.
+<p>
+So practically one should perform all worldly duties  required  to  maintain
+bodily subsistence and then to please the Supreme  Lord  one  should  adhere
+the ordinances of the Vedic scriptures fulfilling both daily and  occasional
+duties as to <i>varnasrama</i> or one's status and position  in  society  according
+to  time  and  circumstances.  Performing  all  these  activities  for   the
+satisfaction of the Supreme  Lord  one  becomes  essentially  His  dependent
+although inspired and activated to perform these  services  by  the  Supreme
+Lord within by His feature as <i>Paramatma</i> the supreme soul. Thus one  will  be
+ever loving engaged in chanting the  names  of  Lord  Krishna,  singing  His
+praises, reciting His glories, rendering services, prostrating  before  Him.
+Thou  shalt  realise  that  every  aspect  of  creation,  preservation   and
+dissolution is under His Supreme authority, rule  and  guidance  and  is  in
+fact His appendage.  Meditating  daily  in  full  devotion,  reflecting  and
+marvelling  over  the  unlimited  multitude  of  phenomenal  qualities   and
+marvellous attributes such a blessed soul attains the ultimate goal  of  all
+existence,  eternal  communion  with  the  Supreme  Lord  in  their  eternal
+spiritual form.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+Concluding this chapter Lord Krishna reveals a concise and  direct  form  of
+worship that is possible for anyone. He begins with  <i>man  manas</i>  meaning  to
+focus  one's  consciousness  upon  Lord  Krishna,  the  Supreme  Being,  the
+Ultimate Reality, the Supreme Controller, the  Omniscient,  the  Omnipotent,
+the all pervading One. Overflowing with all  auspicious  attributes,  devoid
+of any defect, of indomitable will, the sole refuge for all,  the  veritable
+source, origin and cause  of  all  creation,  who  is  always  of  fulfilled
+desires, who bestows benedictions upon His devotees, and removes  all  their
+defects. Whose transcendental form is the embodiment  of  eternity,  endless
+knowledge and unlimited bliss as well as many  other  captivating  qualities
+such as beauty, compassion, charm and sweetness. Who is able to attract  the
+minds of the deep meditaters as well  as  capture  the  minds  of  even  the
+<i>muktas</i> or liberated beings and  becomes  their  sole  object  of  meditation
+thereafter.
 <p>
-Lord Krishna is explaining that knowledge of this <i>asvattha</i>  or  banyan  tree
-which symbolises material nature is very rarely understood and not by  many.
-What its roots and  branches  represent,  described  as  all  the  <i>jivas</i>  or
-embodied beings is not perceived but by a few in this world. It has  neither
-a beginning nor an end as its stream of <i>samsara</i> or the  perpetual  cycle  of
-birth amd death is continuous. It is very difficult to fathom from  a  human
-perspectuive on Earth. Does it begin for each <i>jiva</i> at  birth?  Does  it  end
-when a <i>jiva</i> disentangles themselves from material nature by  detachment?  Is
-it relative to the individual or is it collective? From what position is  it
-operating: beginning, middle or end? So from all these suppositions  it  can
-be understood that this tree  is  beyond  perception  of  the  five  mundane
-senses and the mind. To terminate this firmly rooted  and  durable  <i>asvattha</i>
-tree in the form of material existence with its  ardent  desires  for  name,
-fame, wealth and family which link to the evils of birth, old  age,  disease
-and death for everyone; is a very serious and extremely  difficult  task  to
-accomplish. Yet it can be overcome by <i>bhakti</i> or  exclusive  loving  devotion
-unto the Supreme Lord Krishna which insures detachment from the  objects  of
-the senses and sensual pleasures. One desirous of their own  best  interests
-and highest good will by the  sharp  intellect  of  discrimination  and  the
-formidable weapon of dispassion abandon all desires for sense  gratification
-which are  products  of  the  three  <i>gunas</i>  or  modes  of  material  nature.
-Succeeding by knowledge and effort one should  then  diligently  strive  for
-the Supreme state of consciousness for  once  attaining  one  is  no  longer
-subject to <i>samsara</i> and never again returns to the material worlds.
+One should endow their consciousness to flow incessantly to Lord Krishna  an
+ocean  of  mercy  like  the  continuous  flow  of  the  river  Ganga   flows
+incessantly to the ocean. This should be done with the  same  intensity  and
+delight that a sensuous person has  while  enjoying  sensual  pleasures.  If
+this is too difficult and  one  is  unable  to  detach  the  mind  from  the
+innumerable objects seen, heard and experienced then Lord  Krishna  suggests
+<i>mad bhakto</i> or worship Him in loving devotion. This means to perform  actions
+of propitiation in the mood of <i>bhakti</i> or  loving  devotion  to  the  Supreme
+Lord. In the Vedic scriptures it was told: O Narada whatever act of  worship
+is enjoined in the Vedic scriptures regarding Lord Krishna  or  any  of  His
+authorised  incarnations  and  expansions  known  as   <i>avatars</i>   should   be
+enthusiastically performed as these very actions initiate the process  to  a
+relationship of loving devotion with  the  Supreme  Lord.   Worshipping  the
+Supreme Lord Krishna, being devoted to His worship,  adoring  His  Vedically
+installed deity form every day  once,  twice,  thrice  or  many  times  with
+Tulasi leaves, <i>pushpa</i> or various fragrant flowers, <i>dhupa or</i>  incense,  <i>dhipa</i>
+or ghee lamps, <i>mala</i> or flower garlands,  beautiful  apparel  and  ornaments,
+offering <i>bhoga</i> or vegetarian foods of  milk  products,  fruits,  grains  and
+vegetables, chanting His names, singing His praises, revealing His  glories.
+Fasting twice monthly on the sacred days of <i>Ekadasi</i> the 11th day before  the
+new moon and full moon and fulfilling the <i>Ekadasi</i>  vow  of  refraining  from
+all beans and grains for this day and if possible keeping  awake  all  night
+in the ecstasy of communion with Lord Krishna.  Celebrating  His  appearance
+days with festivals according to one's  means  and  availability  of  funds.
+Acting out His glorious pastimes for others to see. The  feeding  of  guests
+from the food offered to  Lord  Krishna  which  is  called  <i>mahapradam.</i>  The
+playing of musical instruments in accompaniment to  singing  His  names  and
+dancing in joy before  His  installed  deity  form.  Then  to  finalise  all
+offerings and accomplish the  completion  of  all  propitiation  one  should
+<i>namaskuru</i> or prostrate themselves fully in humble homage with  mind,  speech
+and body before the installed deity form of  Lord  Krishna  or  any  of  His
+authorised incarnations and expansions. The  act  of  <i>namaskuru</i>  effectively
+neutralises any vestiges  of  egotism  which  could  manifest  as  pride  or
+<i>pratistha</i> which is  subtle  desire  for  recognition  from  performing  such
+wonderful activities to the Supreme Lord. One should abandon the feeling  of
+pride and renounce the desire of recognition by dedicating all  actions  and
+thoughts to the Supreme Lord and surrender them to the spiritual  master  in
+disciplic succession to offer to the Supreme Lord.
 <p>
-The question in mind is how can  this  be  accomplished?  Lord  Krishna  has
-already confirmed previously in chaper VII.XIV: That although  His  <i>maya</i>  or
-illusory  potency  in  the  material  existence  is  almost  impossible   to
-overcome, those who <i>prapadye</i> or surrender unto Him  are  able  to  transcend
-it. This means by completely making Him their sole refuge they activate  the
-inherent divine potency abiding within the <i>atma</i>  or  immortal  soul  of  all
-<i>jivas.</i> This divine potency is eternally on standby waiting for the  <i>jiva</i>  to
-turn away from the external mundane world and look internally for  the  <i>atma</i>
-within one's heart. The Supreme Lord Krishna has  made  all  provisions  for
-this activation to immeadiately come into effect the very moment  one  fully
-surrenders unto Him or any of His authorised  incarnations  and  expansions.
-How wonderful! How merciful is the Supreme Lord Krishna. Without His  mercy,
-without His grace through His bonafide representative, the spiritual  master
-in authorised disiplic succession as revealed in the  Vedic  scriptures,  it
-is totally impossible to be released  from  <i>samsara</i>  and  achieve  <i>moksa</i>  or
-liberation from material existence. Those blessed spiritual beings who  take
-complete shelter in the Supreme Lord transcend this  world  and  go  to  the
-eternal spiritual worlds never to return again. As for all the  others  they
-are recycled byck into the material existence  incessantly  and  subject  to
-the Supreme Lords eight-fold potencies of earth, water,  fire,  air,  ether,
-mind, intellect and false ego  which  comprises  <i>prakriti</i>  or  the  physical
-substratum pervading physical existence as  the  Supreme  Lord  Himself  has
-stated in VII.IV.
+The greatness of <i>namaskuru or</i> prostrating the full body  in  humble  hommage
+before the Supreme Lord in humble  obeisance  is  explained  by  Prahlad  in
+theVamana Purana stating: Properly bowing down to Vishnu  or  Sadashiva  who
+both destroy the ocean of material existence one does not return to  <i>samsara</i>
+the cycle of birth and death. In the Vaisnava Dharma is stated:  My  devotee
+even though only speaking the words: I bow down to  the  Supreme  Lord  with
+devotion and faith, attains the supreme destination. When one  has  achieved
+the stage of lovingly performing propitiation and worship  of  Lord  Krishna
+in their life it is very easy to fix their consciousness upon Him.  In  this
+way uniting the consciousness with  Him  in  complete  communion,  depending
+totally on Him exclusively, renouncing all other efforts and endeavours  one
+shall assuredly attain His eternal  association  in  the  eternal  spiritual
+worlds in one's individual spiritual body without a doubt.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 3, 4 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 3, 4<br><dt><center><dt><a href="verse-15-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+I take complete and unconditional shelter  of  the  Supreme  Lord  Krishna's
+devotion with its confidential instruction and  the  phenomenal  potency  of
+the power of <i>bhakti</i> or exclusive loving devotion.
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 9, verse 34 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 34<br><dt><center><dt><a href="verse-09-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="chapter-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
