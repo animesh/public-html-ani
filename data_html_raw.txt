@@ -1,194 +1,103 @@
-<html><head><title>Bhagavad-Gita: Chapter 10, Verse 3</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 13, Verse 4</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 10</font></b></td><td valign=middle align=center><b><font size=5>The Infinite Glories of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 3</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10-sel.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-10-03-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 13</font></b></td><td valign=middle align=center><b><font size=5>The Individual Consciousness and The Ultimate Consciousness</font></b></td><td valign=middle align=center><b><font size=5>Verse 4</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13-sel.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-13-03-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/10-03.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-10-03-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/13-03.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-13-03-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-10-03-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-13-03-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-10-03-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-13-03-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-10-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-10-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/10-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/10-03.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-13-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/13-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/13-03.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
 <p>
-Here Lord Krishna is revealing the result of such realization  of  Him.  One
-who realizes  that  the  Supreme  Lord  Krishna  is  verily  the  origin  of
-everything and the controller of everyone having no beginning  or  cause  as
-He alone is the cause of all; is free from delusion  and  illusion  and  has
-absolved all reactions from their actions.
+<p>
+Here <i>prakriti</i> or the material substratum pervading physical existence  which
+has 24 categories consisting of the mind, ego, five  organs  of  perception,
+the five senses, etc.is specifically meant by the word <i>ksetra</i> or  the  field
+of activity. Yet since the non-distinctiveness of matter as I  and  mine  is
+evolved as such only in the physical body, in order  to  differentiate  from
+it this body is called  the  <i>ksetra.</i>  To  clarify  in  further  detail  Lord
+Krishna proposes to explain what the <i>ksetra</i> referred to by Him is in  itself
+such as inert, of the nature of its object, etc. What is  it  like  such  as
+possessed  of  qualities  such  as  desire  and  aversion.  What   are   its
+modifications such as which senses is it endowed with.  How  does  it  arise
+meaning how is it in conjunction with <i>prakriti</i> and the <i>brahman.</i> What is  its
+form and how is it directed to be either sentient or insentient in just  one
+of innumerably unlimited varieties of species. Also what  is  the  <i>ksetrajna</i>
+or knower of the <i>ksetra</i> in reality and what power does it have by virtue  of
+its transcendental and inconceivable majesty by the potency  it  is  endowed
+with. All these things Lord Krishna will now explain in brief.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-The word <i>anadim</i> meaning without beginning contains  two  root  words  within
-it. <i>Ana</i> which means that which energises  everything  and  <i>adi</i>  which  means
-that which is the origin  of  everything.  Therefore  Lord  Krishna  is  the
-energising cause of all without beginning. Thus the word <i>ajam</i>  being  unborn
-and <i>anadim</i> have both been established.
+What the <i>yad viktri</i> of the <i>ksetra</i> means what are its transformations and  by
+what modifications is it affected. <i>Yatas ca yat</i> means  by  Him  the  Supreme
+Lord the <i>ksetra</i> has  originated and that it is He alone  who  energized  it.
+The words <i>sa ca ya</i> specifies the Supreme Lord also and indicates His form.
 <p>
 Now begins the summation.
 <p>
-<i>Ana</i> can also denote the original primal breath. Thus  the  Supreme  Lord  is
-even prior to it. It may appear  to  one  not  use  to  discriminating  that
-<i>anadim</i> and <i>ajam</i> have similar meanings but that  would  be  a  misconception.
-While <i>ajam</i> means unborn, <i>anadim</i> denotes He existed before the  manifestation
-of the primal breath of creation. At that time nothing else  existed  except
-the resonant sound of OM which  was  vibrating  within  the  Supreme  Lord's
-transcendental heart. When the eternal, transcendental  sound  vibration  OM
-manifested impulse in the primal breath that  impulse  manifested  into  the
-<i>brahman</i> the spiritual substratum pervading all existence and then  into  the
-phenomena of myriad effusions of  variegated  creations  and  diverse  forms
-corresponding to the  various  and  diverse  parts  of  the  anthropomorphic
-spiritual form of the Supreme Lord.
+The words <i>yatas ca yat</i> indicates that solely by the energy  of  the  Supreme
+Lord all creation is energized. He is  the  sole  energizer.  <i>Prerana</i>  means
+having similarity in thoughts. Sometimes  even  dialogue  is  called  <i>samvad</i>
+similar talk. Since Lord Krishna energizes all creation  He  also  energizes
+the thoughts of all and sometimes such thoughts manifest which  are  similar
+to His own. This is natural. So He is known as <i>anusarini</i>  or  <i>anusmanta</i>  the
+ordainer of thoughts which have divine origins in Him. The <i>ksetrajna</i> is  the
+<i>atma</i> or eternal soul and is <i>upadrishta</i> or  the  witness  with  supra-natural
+connecting abilities for thoughts and things divine which emanate  from  the
+Supreme Lord and induces this in those  who  seek  self-realisation  of  the
+<i>atma</i> and attainment of the ultimate consciousness. Lord Krishna infers  that
+this can be known is by its effect.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-One who is never born is <i>ajam</i> or without birth. This attribute connotes  the
-Supreme Lord Krishna as contra-distinguished from the transitory  insentient
-matter and the sentient beings bound by <i>samsara</i> or the  perpetual  cycle  of
-birth and death. The term <i>anadim</i> meaning  without  beginning  differentiates
-the Supreme Lord from the  <i>muktas</i>  or  liberated  beings  in  the  spiritual
-worlds who although having become birthless did  have  a  beginning  at  the
-time of their liberation. The nature of liberation implies being freed  from
-bondage  at  some  time  and  is  thus  characterised  by  previously  being
-associated with the material  manifestation  and  duality.  Hence  the  term
-<i>anandi</i> denotess that the Supreme Lord never had contact or association  with
-duality and materialism due  to  the  fact  that  He  is  transcendental  to
-duality and everything material, The Svetasvatara Upanisad VI.XIX  beginning
-<i>niravadyam</i> meaning  the  Supreme  Lord  is  perfection,  confirms  this.  it
-sometime had to be freed from a  state  of  bondage.  Thus  the  spiritually
-intelligent among mortals are those who realise that  the  Lord  Krishna  is
-the Supreme Lord over all other gods and lords  being  completely  different
-from them in essence and in  substance.  The  spiritually  intelligent  also
-realise that Lord Krishna  is  the  antithesis  and  eternally  contrary  to
-anything associated with  evil  and  unrighteousness.  The  word  <i>asammudhah</i>
-means those who are not  deluded,  alluding  to  the  spiritual  intelligent
-which comprises being free from  the  illusion  of  perceiving  anything  as
-equal to the Supreme Lord, being free from the illusion  of  believing  that
-anything is separate from the Supreme Lord and being free from the  illusion
-of not identifying oneself as being an  eternal,  infinitesimal  portion  of
-the Supreme Lord. Thus one who is <i>asammudhah</i> is free from  the  defects  and
-impediments of <i>karma</i> or reactions to sinful actions which is great  obstacle
-in the development of <i>bhakti</i> or loving devotion to the Supreme Lord.
-<p>
-<p>
-<p>
-<p>
-<p>
-Another angle of vision is that as in the world  the  emperor  although  the
-most powerful monarch amongst humans, he still is like  all  others  subject
-to old age, disease and death. Yet  he  has  been  awarded  emperor  by  the
-Supreme Lord due to some act of merit. This holds true also  for  Indra  the
-king of all the demigods and even higher with Brahma the  architect  of  the
-material existence, both were also awarded their posts by the  Supreme  Lord
-as a result of great acts of merit.  Although  they  live  for  millions  of
-years by Earth time calculations for them it is as 100 years and at the  end
-of that time they die also and transmigrate into  another  form  in  another
-existence. Even  exalted  beings  come  under  the  three-fold  <i>bhavanas</i>  of
-material existence being <i>karma  bhavana</i>  like  Janaka  and  others,  <i>brahman</i>
-<i>bhavana</i> like Sanaka and Sanatana and <i>ubhaya bhavana</i> like Brahma himself  and
-are  subject  to  birth  and  death  according  to  their  acts.  The  Vedic
-scriptures confirms this.  In  Vishnu  Purana  VI.VII.IIL  it  states  that:
-Therefore  they  are  all  accountable  for  their  acts.  The  Svetasvatara
-Upanisad VI.VIII states: <i>Yo  brahmanan  vidadhati</i>  meaning  He  who  creates
-Brahma. This also applies to any mortal who  has  acquired  the  eight  main
-<i>siddhis</i> or perfections such as <i>anima</i>  or <i>manima</i> etc.
-<p>
-<p>
-<p>
-<p>
-<p>
-But the Supreme Lord is <i>loka-maheshvaram</i> the Supreme Lord of all  beings  in
-all worlds.
-<p>
-<p>
-<i>Loka</i> is the total cosmos being the aggregate total of  all  sentient  and
-non-sentient categories in  conditions  of  inactive  latency  or  active
-patency. The sentient includes both  <i>muktas</i> or liberated beings  as  well
-as <i>baddhas</i> or not liberated beings. So all  this  is  under  the  Supreme
-Lord's control and rule.
-<p>
-<i>1) Maha</i> is greatness and consists of the Supreme Lord being the storehouse
-of unlimited attributes of glorious qualities and His always being the
-eternal antithesis of all that is unrighteous, demoniac and evil.
-<i>2) Isvarah</i> means Lord as being the supreme, sovereign ruler eternally,
-independent of all.
-<p>
-Thus the Supreme  Lord  is  completely  unlike  all  others,  singular  unto
-Himself alone, independent and superior to all. One who does not  incur  the
-error of including the Supreme Lord Krishna amongst all  the  various  other
-lesser gods and who understands Him to be the sole cause,  the  sole  source
-and the sole origin of all creation, verily realises Him and  by  His  grace
-is relieved from all reactions to previous actions.
-<p>
-Thus by illustrating how meditation on the factual absolute  nature  of  the
-Supreme Lord removes the obstacles impeding  the  blossoming  of  <i>bhakti</i>  or
-loving devotion  unto  the  Supreme  Lord  causing  such  <i>bhakti</i>  to  become
-inaugurated; Lord Krishna will next explain how <i>bhakti</i> may be  activated  by
-deep and profound meditation on His sublime transcendental divine  qualities
-and attributes.
+Now Lord Krishna  is  more  explicitly  explaining  details  about  the  <i>tat</i>
+<i>ksetram</i> or field of activity.  Its  <i>yadrik  ca</i>  or  its  substantial  nature
+regarding its use and function and its  purpose.  Also  its  <i>yad  vikari</i>  or
+transformations and modifications along with its <i>yatas</i>  or  from  whence  it
+came meaning its origin and how it  was  created  and  for  whose  use.  Yat
+refers to its attributes and qualities. Also He is inferring that  knowledge
+about the intrinsic nature of the <i>ksetra-jna</i>  as the knower  of  the  <i>ksetra</i>
+which is the <i>atma</i> or eternal soil will be revealed as well  along  with  its
+inherent potencies which is confirmed  by  the  word  <i>prabhavas  ca</i>  meaning
+virtues, potency and powers. Lord Krishna will give a summary of  all  these
+things.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Lord Krishna confirms the fact that real knowledge about His  transcendental
-<i>rupa</i> or form is difficult to be understood by even the  demigods  and  great
-sages. Ignorance about Lord Krishna and His Supreme position  as  the  prime
-cause and origin of all gods and great sages is the obstinate obstacle  that
-limits and impedes the <i>jivas</i>  or  embodied  beings  from  developing  <i>bhakti</i>
-which is exclusive loving devotion to the Supreme Lord.  Whoever  knows  Him
-in reality as the unborn without  beginning  as  the  Supreme  Lord  of  all
-creation and the Supreme  Controller  of  all  existence.  The  Svetasvatara
-Upanisad III.IV states: He alone  is  the  source  and  origin  of  all  the
-demigods. Those lacking in knowledge  may  surmise  that  the  Supreme  Lord
-Krishna rulership is just localised of  the  complete  cosmic  manifestation
-and may hypothecate that His power is the same as any other  god;  but  such
-offensive  thinking  is  not  productive  and  a  foolish  misnomer,  so  to
-neutralise any such concoctions Lord Krishna uses the words  <i>loka-mahesvaram</i>
-or the Supreme controller of the complete  cosmic  manifestation  throughout
-the entire realm of all creation. The Svetasvatara Upanisad  VI.VII  states:
-He who is the Supreme God  of  all  gods,  the  Paramount  Divinity  of  all
-divinities, the Ultimate Ruler of all rulers is to be known as the  adorable
-Lord. Those who know Lord Krishna as the Supreme Lord of all lords  are  not
-deluded and do not possess the great delusion of considering any  other  god
-as being equal to or the same as Him. Such blessed beings become  free  from
-all reactions to all their past and present actions  and  have  crossed  all
-obstacles enabling them to develop <i>bhakti</i> or loving devotion to Him.
+Now Lord Krishna explains in brief the true nature of the <i>ksetra</i>  the  field
+of activity and the <i>ksetra-jna</i> the knower of  the  field.  The  relationship
+the  <i>ksetra</i>  has  with  the  <i>ksetra-jna</i>  and  the  consciousness  which   is
+established in Him. Knowledge of  the  <i>ksetra</i>  means  what  type  entity  is
+embodied and the qualities are what modifications restricts it and  what  is
+its means of evolving itself  through the interrelationship  of  matter  and
+spirit. And of the <i>ksetra-jna</i> exactly what is the <i>atma</i> or eternal soul,  who
+is the knower of the <i>ksetra</i> and what is its powers and potencies.
 <p>
-The conclusion is that by all means one should avoid such  delusion  because
-those who erroneously considers that any other god from any other belief  is
-equal to or the same as the Supreme Lord Krishna or any  of  His  authorised
-incarnations and  expansions  as  revealed  in  Vedic  scriptures,  are  all
-greatly ignorant and sinful beings in whom loving devotion for  the  Supreme
-Lord will never  germinate.  The  Pancaratra  texts  confirm:  That  one  of
-deluded mind who foolishly speaks of the Supreme Lord Krishna  as  equal  to
-any other god even once is an evil person from a sub-human class.  There  is
-no being more low than this being.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 10, verse 3 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 3<br><dt><center><dt><a href="verse-10-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-10-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 13, verse 4 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 4<br><dt><center><dt><a href="verse-13-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
