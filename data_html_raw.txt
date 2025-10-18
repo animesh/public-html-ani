@@ -1,96 +1,108 @@
-<html><head><title>Bhagavad-Gita: Chapter 10, Verse 20</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 7, Verse 4</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 10</font></b></td><td valign=middle align=center><b><font size=5>The Infinite Glories of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 20</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10-sel.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-10-18-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 7</font></b></td><td valign=middle align=center><b><font size=5>Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 4</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07-sel.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-07-04-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/10-18.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-10-18-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/07-04.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-07-04-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-10-18-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-07-04-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-10-18-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-07-04-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-10-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-10-19.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/10-18.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/10-18.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-07-03.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-05.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/07-04.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/07-04.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Now commencing Lord Krishna describes the nature  of  His  Supreme  Divinity
-commencing with the reality that He is the  Supreme  Soul  residing  in  the
-etheric heart of all sentient beings as monitor of  all  their  thought  and
-actions. Then He reveals that He is the sole cause of  all  living  entities
-in existence which includes their beginning or origin, their middle  meaning
-their continuance and their ending which means dissolution,
+<p>
+<p>
+<p>
+<p>
+After having enticed the listeners interest, next in order to delineate  the
+nature of <i>Isvara</i> the Supreme controller, introduced as  the  origin  of  all
+creation, etc. through  the  agency  of  <i>prakriti</i>  the  material  substatum.
+<i>Prakriti</i> has a dual nature differentiated by higher  and  lower  properties.
+Lord Krishna defines the lower properties in this verse beginning  with  the
+word <i>bhumir</i> meaning Earth. It should be understood that Earth  includes  the
+five elementary essences being sight, taste, hearing, smell  and  touch.  By
+the word <i>manah</i>  meaning  the  mind,  its  cause  <i>ahankarah</i>  meaning  ego  is
+denoted. By the word <i>ahankaryah</i> or egoism, its  cause  <i>avidya</i>  or  ignorance
+the absence of knowledge  is  denoted.  By  the  word  <i>buddhih</i>  meaning  the
+intellect, its cause the <i>mahat</i> being cosmic intelligence  is  denoted.  This
+is Lord Krishna's  lower  nature  divided  into  eight  categories.  Another
+interpretation of this verse is that earth means  the  five  gross  elements
+together with the five subtle elements. The word egoism means together  with
+its  by  products  being  the  five  senses.  Intellect  means  the   cosmic
+intelligence. By mind is meant  the <i>pradhana</i> or the unmanifest which has  no
+form that has been manifested and which can only be inferred  by  the  mind.
+So this is Lord Krihna's <i>prakriti</i> otherwise known as <i>maya-sakti</i> or  illusory
+potency in eight categories.  Although  <i>prakriti</i>  is  usually  divided  into
+twenty-four categories because the other sixteen are included  within  these
+eight it is said here to be divided into eight categories. Later in  chapter
+thirteen, verses six and seven concerning <i>ksetra</i> or the body this very  same
+<i>prakriti</i> will be described in full as having  twenty-four  categories  being
+the five gross elements, egoism, intellect, the unmanifest,  the  ten  sense
+organs, the mind and the five objects of the senses.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+The eight categories of Lord Krishna's include the  five  elements  and  the
+mind concluding with the <i>mahat</i>  denoting  intellect  and  <i>ahankara</i>  denoting
+false ego.  The <i>ahankara</i> of the living entities is different  from  the  ego
+sense of the incarnation  Ksiradaksayi  Vishnu  who  while  meditating  upon
+Himself in the casual ocean  merely  thinks  I  Am  and  universal  creation
+begins to manifest as unlimited universes from the pores  of  His  spiritual
+body.
+<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-Within the etheric hearts of all living entities is enthroned  the  <i>atma</i>  or
-eternal soul  which  comprises  the  spiritual  body  of  the  Supreme  Lord
-Krishna. To be the eternal <i>atma</i> is to be in every respect the  support,  the
-ruler and controller of the living entities and to be blessed with the  <i>atma</i>
-is to be eternally connected to the Supreme  Lord  lifetime  after  lifetime
-forever. The Brihadaranya Upanisad V.VII.XV beginning <i>yas sarvashu  bhuteshu</i>
-<i>tishthan sarvebhyo bhutebhyo</i> states: He who is enthroned  in  the  heart  of
-all beings, Who is the innermost of all beings, Whom  all  the  beings  know
-not, Whom all beings form His spiritual body, Who rules the interior of  all
-beings, is the <i>atma,</i> the <i>antaryami</i> the immortal inner  ruler.  In  the  same
-Upanisad V.VII.XXII beginning <i>ya atmani tisthan atmano</i> it states: He who  is
-enthroned within the <i>atma,</i> Who resides within  the  interior  of  the  <i>atma,</i>
-Whom even the <i>atma</i> does not know, Whom all <i>atma's</i> are  the  spiritual  body,
-Who rules the interior of the <i>atma</i> is <i>paramatma</i> the Supreme <i>atma</i> of all.  So
-enthroned as such within the <i>atma</i> of all living entities  as  <i>paramatma</i>  the
-Supreme Lord is the beginning, the middle and the  end  of  all  beings  and
-their cause, their evolution and their dissolution.
-<p>
-So now that it has been shown how the Supreme Lord  abides  within  all  His
-manifested beings as the <i>atma</i> and how all terms regarding the <i>atma</i> in  their
-ultimate  reference  <i>samanadhi-karanya</i>  which  means  two  or   more   terms
-signifying different ideas but referring to a singular object  connotes  the
-Supreme Lord Himself. Such references concerning  the  relationship  between
-the Supreme Lord and His manifested creation will  be  illustrated  by  many
-notable examples. Verily only then do  all  such  terms  have  the  ultimate
-connotation as referring to the Supreme Lord when He is residing  within  as
-the eternal <i>atma.</i> For example the terms  of  demigod,  human,  animal,  tree
-etc. although denotative of the corporeal exterior, is  connotative  of  the
-eternal soul which indwells within  those  exterior  forms.  The  same  rule
-holds true in regard to terms ultimately connotative  in  referring  to  the
-Supreme Lord in His aspect as the eternal  soul  of  all  living  things  as
-well. Movable or immovable nothing exists without the Supreme  Lord  Krishna
-and so all are dependent upon the Him. 
-<p>
+It should be  known  that  <i>mula  prakriti</i>  or  the  primeval  substratum  of
+material nature  is  the  basis  for  the  infinite  and  phenomena  of  all
+creation. It ministers its all encompassing energy in material existence  to
+all sentient  beings  in  a  marvellous  variety  of  ways.  As  objects  of
+enjoyment, bodily organs to enjoy with as well as regions  of  enjoyment  to
+interact with. All these things are also manifestations of the Supreme  Lord
+Krishna's nature and they  are  divided  into  eight  principle  categories.
+1)Solids  being  Earth  distinguished  by  odor,   2)liquids   being   water
+distinguished by moisture, 3)light being fire distinguished by  heat,  4)air
+being  gases  distinguished   by   lightness   and   5)space   being   ether
+distinguished by unlimitedness, 6) <i>manas</i> or mind with its accompanying  five
+senses and <i>ahankara</i> or false ego.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Before Lord Krishna commences speaking  of  His  transcendental  glories  He
-describes His glorious divine spiritual  form.  The  words  <i>sarva-bhutasaya-</i>
-<i>sthitah</i> means  abiding  in  the  heart  of  all  sentient  beings.  How?  As
-<i>paramatma</i> the Supreme Soul residing  within  the  <i>atma</i>  or  individual  soul
-which all collectively comprise  His  transcendental,  spiritual  body.  The
-Supreme Lord Krishna is the beginning meaning creation, the  middle  meaning
-sustenance and the end meaning destruction  of  all  living  entities  along
-with all insentient elements. The Supreme Lord  uses  the  address  <i>Gudakesa</i>
-meaning one who has control over sleep which indicates that Arjuna  has  the
-ability to be ever wakeful and aware.
+In order to continue the previous verse Lord Krishna presents  <i>prakriti</i>  the
+material substratum in eight  categories  representing  His  lower  material
+energy comprised of earth, water, fire, air and ether  and  they  stand  for
+their respective elements in their  subtle  state  being  seeing,  smelling,
+hearing, touching and tasting  which are in their modified  state  and  thus
+cannot be considered as constituents of nature. <i>Manas</i> or mind  which  stands
+for its cause being the  intellect  and  <i>ahankarah</i>  being  false  ego  which
+stands for cosmic intelligence as well as the individual  ego  which  stands
+for <i>maya</i> the  illusory  deluding  energy  which  is  the  cause   of  cosmic
+intelligence. All this is the potency  of  Lord  Krishna  and  the  material
+cause of creation consisting of sixteen movable and immovable  modifications
+in the form of five subtle elements, five organs with five  senses  and  the
+mind all from His lower nature divided into eight categories.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 10, verse 20 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 20<br><dt><center><dt><a href="verse-10-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-10-19.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 7, verse 4 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 4<br><dt><center><dt><a href="verse-07-03.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-05.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
