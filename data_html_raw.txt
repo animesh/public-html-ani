@@ -1,186 +1,77 @@
-<html><head><title>Bhagavad-Gita: Chapter 10, Verse 6</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 1, Verse 2</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 10</font></b></td><td valign=middle align=center><b><font size=5>The Infinite Glories of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 6</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10-sel.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-10-05-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 2</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-02-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/10-05.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-10-05-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-02.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-01-02-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-10-05-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-01-02-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-10-05-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-01-02-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-10-04.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-10-06.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/10-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/10-05.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-01-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-02.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Furthermore Lord Krishna explains that in  the  <i>Puranas</i>  which  are  ancient
-Vedic literatures are many proofs  concerning  the  great  sage  Bhrgu,  the
-seven sages who are Marici,  Atri,  Angiras,  Pulastya,  Pulaha,  Kratu  and
-Vasistha and others such as the four Kumaras and the Svayambhuva  Manu;  all
-who are endowed by the Supreme Lords essence and in whom  He  has  placed  a
-portion of His power and potency. This very power is  being  illustrated  as
-all of these great beings were manifested from the mind of the Supreme  Lord
-as a mere desire of His and all of them are the factual  grandsires  of  all
-progeny on  Earth  multiplying  and  multiplying  in  the  worlds  as  sons,
-grandsons and great grandsons as  well  as  disciples  grand  disciples  and
-great grand disciples and so forth and so on as the case may be.
+Having seen the armies of the Pandavas arrayed in military formation ready
+for battle, King Duryodhana approaches his preceptor Drona and spoke the
+following words.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-The seven  great  sages  of  an  earlier  age  are  Marici,  Atri,  Angiras,
-Pulastya, Pulaha, Kratu and Vasisitha of magnificent splendour. It is  found
-in the Moksa Dharma abd throughout the Puranas. Among the  Manus  the  first
-was Svayambhu and the  others  were  Sarochisa,  Raivata  and  Uttama  of  a
-previous age and from them came all humans and not  from  Bhrgu  and  others
-who came after and are from our present age. The words  <i>imah  prajah</i>  spoken
-by Lord Krishna denotes the descending lineage  of  the  four  orders  being
-<i>brahmins, ksatriyas, vaisyas</i> and <i>sudras</i> and does not  refer  to  any  beings
-born in the future. So these four Manus headed by Svayambhu are the  primary
-ones and the otherss coming after are subsequent ones. Even in  the  Gautama
-text  it  has  been  mentioned:  Those  who  are  connected  to   Svayambhu,
-Svarochita, Raivata and Uttama have very good progeny.
 <p>
-Even though Tapasama is senior to Svarochita,  his  name  is  not  mentioned
-here because he is one of the descendants of the  Supreme  Lord  and  so  it
-would be incongruous with the words <i>manasa jata</i> referring  to  the  mentally
-expanded forms from Brahma. This is recorded in the  Bhagavat  Purana  where
-descriptions of the Manus have been  enumerated,  that  Brahma  created  the
-Manus from his mind and it also states that without relinquishing  the  body
-given to them by Brahma it was possible for them to be born as  Priyavrata's
-sons. Both interpretations are capable to be accepted.  This  is  proven  by
-Lord Krishna using the word <i>purve</i> meaning their  predecessors.  The  use  of
-the word <i>mad-bhava</i> meaning from His energy confirms that  even  though  they
-were created from the mind of Brahma, they are integrally endowed with  Lord
-Krishna's potency.
+<i><u>Madhvacarya has no commentary so we present Baladeva Vidyabhusana's.</u></i>
 <p>
-Now begins the summation.
+Dhritarastra although  blind  at  birth  was  born  with  an  inner  eye  of
+knowledge; but due to being overly affectionate and attached to his sons  he
+lost the knowledge of righteousness and thus he was worrying that  his  sons
+might return half of the kingdom to  the  Pandavas  who  were  the  rightful
+heirs.
 <p>
-The Brahma Purana states  that  Marici,  Atri,  Angiras,  Pulastya,  Pulaha,
-Kratu and Vashistha of great splendour  were  earlier  known  as  the  seven
-sages Because of exceptional intelligence Brahma  and  other  demigods  were
-sometimes known as Manus. Even though the demigods were numerous  they  were
-sometimes referred to as  Manus  because  of  the   divisions  of  the  four
-orders. Because of weakness some of the demigods were known as <i>dina</i> or  weak
-while other demigods such as Brahma and Rudra  were  known  as  strong.  The
-demigods for whose favour worship was done not to  propitiate  Lord  Krishna
-but instead to acquire some  material  benefits  were  known  as  <i>dina.</i>  The
-worship and propitiation directed towards Lord Krishna  was  performed  only
-by those demigods who were known as Manu  and  they  did  not  direct  their
-worship to any other source than Him. The Maha  Vishnu  Purana  states:  The
-progeny of Marici and others were known as <i>manavas</i> or  human  beings.  Their
-sons and grandsons and great  grandsons  gradually  populated  part  of  the
-material  creation of the Supreme Lord Krishna.
+Sanjaya who was righteous by nature could  understand  the  actual  internal
+mood of Dhritarastra; but to appease his anxiety that his sons  would  never
+give back half of the  kingdom  he  said  this  verse  beginning  <i>drstva  tu</i>
+<i>pandavanikam  vyudham.</i>..the  soldiers  of  the  Pandavas  are  in   military
+formation. The initiative taken by Duryodhana in approaching  his  preceptor
+in archery, the master bowman Drona shows that  internally  he  was  feeling
+fearful at the sight of the Pandavas might. So with the  pretence  of  going
+to offer respect, he approached Drona to conceal this fear.  The  word  <i>raja</i>
+meaning king indicates that Duryodhana was very expert in the  diplomacy  of
+politics and the use of the word <i>vacanam</i> implies that he would  speak  terse
+sentences filled with heavy import concerning the subject of war.
 <p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The word <i>purve</i> meaning predecessor establishes a  link  to  the  past.  This
-past is the previous <i>manvantara</i> or age of Manu. From the mind of Brahma  the
-seven great  sages  Marici,  Atri,  Angiras,  Pulastya,  Pulaha,  Kratu  and
-Vasistha were all born to inaugurate the day  arising  of  Brahma.  Although
-Bhrgu was also born from the mind  of  Brahma  and  a  great  sage,  he  was
-subsequent to the others.  The  four  Manus  named  Savarnikas  are  Brahma,
-Rudra, Dharma  and  Daksa  and  they  are  responsible  for  overseeing  the
-maintenance of creation. The fourteen Manus named Manvantaras are headed  by
-Syambhuva Manu and are appointed to  administrate  the  creation  for  their
-allotted time span. All the human beings in creation  are  descendants  from
-these aforementioned. They materially create and  materially  sustain  their
-descendants which includes the whole  human  population  in  creation  every
-moment throughout time until the commencement  of  the  cosmic  dissolution.
-Lord Krishna  states  the  words  <i>mad-bhava</i>  meaning  of  His  nature,  this
-confirms that Brahma, Rudra, the  Manus,  the  seven  sages,  etc.  are  all
-endowed with His nature and imbued with a  spark  of  His  potency  and  are
-followers of His divine plan in all situations and circumstances.
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+In this way, Vaisampayana reiterates the answer of Sanjaya who  could  truly
+understand the blind Dtritarastra's hidden desire his heart being locked  in
+affection for his sons welfare irregardless of righteousness.  Sanjaya  then
+replies that King Duryodhana upon seeing the formidable army of the  Pandava
+arranged in military phalanxes approached Drona his  instructor  in  archery
+and weaponry and uttered these words. By this verse  the  alarm  within  the
+mind of Duryodhana caused by  seeing  the  might  of  the  Pandava  army  is
+subtlety suggested.
 <p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Nevertheless the seven great sages being Marici,  Atri,  Angiras,  Pulastya,
-Pulaha, Kratu and Vasistha followed later by Bhrgu  and  others  sages.  The
-four elder seers being the Kumaras:  Sanaka, Sanandana, Sanat  and  Sanatana
-were  born  even  earlier  to  these  sages  and  the  14  Manus  headed  by
-Svayambhuva and also before Shivas 11 Rudras were  manifested.  All  of  the
-aforementioned fully consider the Supreme Lord Krishna to  be  the  ultimate
-creator, preserver and destroyer of the complete material manifestation  and
-all  are  completely  devoted  to  the  Supreme  Lord  without   reservation
-following His direction in all situations and  circumstances.  Sometimes  it
-may externally appear as  if  they  are  bewildered  or  belligerent  as  it
-sometimes appears in the case of Shiva; but  these  mirages  are  merely  to
-enhance the <i>lila</i> or divine pastimes of Lord Krishna.  His devotees  to  whom
-He grants <i>moksa</i>  or  liberation  from  material  existence  were  originally
-created from His will, not from the womb of any female and  from  the  seven
-great sages along with the four Kumaras, the 14 Manus  and  11  Rudras  have
-descended the entire  human  population  producing  sons,  grandsons,  great
-grandsons etc. all within the  scope  of  the  four  orders  being  Brahmin,
-Ksatriya, Vaisya and sudra in  accordance  with  their  previous  respective
-actions.
-<p>
-It should be understood that Brahma being empowered  by  the  will  of  Lord
-Krishna manifested the four Kumara's and the Rudra's from  his  mind.  While
-Svayambhuva Manu and his  wife  Satarupa  were  manifestations  of  the  two
-halves of the golden egg from whence sprang creation in one  age  as  willed
-by the Supreme Lord. The 13 subsequent Manus were born from a mothers  womb.
-The four Kumara's created earlier  had  no  interest  in  producing  progeny
-being indifferent to material  nature.  Thus  the  seven  great  sages  were
-empowered with the task of procreation the population  of  humans  and  they
-also   become   world   preceptors   establishing   and   propagating    the
-<i>Vedic</i> religion through the medium of  actions. The Manu's are empowered  for
-universal protection. The Rudra's are empowered for  universal  destruction.
-The four Kumara's being themselves great liberated beings are  empowered  to
-liberate others from the cycle of birth and death  throughout  creation  and
-to establish and propagate the path of detachment and renunciation from  the
-material. In the Moksa Dharma it is stated after the  origin  of  the  seven
-great sages that they are knowers of  the  Vedas  and  are  known  as  world
-preceptors appointed for begetting progeny. Similarly after the  account  of
-the Kumara's it states that after attaining <i>atma tattva</i> or soul  realisation
-they resorted to the path of renunciation and being experts in <i>yoga</i>  or  the
-science  of  the  individual  consciousness  attaining  communion  with  the
-ultimate  consciousness,  they  are  universally  known  as  liberated  holy
-preceptors.
-<p>
-Manu's protect and Rudra's destroy.  In  the  Visnu  Purana  is  stated:  O'
-brahmins, Visnu, Manu, Rudra and others as well as all beings exemplify  the
-glory of the Supreme Lord Krishna. In the Bhagavat Purana,  II.VII.V  Brahma
-states: O' ascetics I performed  penance  to  create  all  the  various  and
-diverse beings. First arising  from  my  penance  <i>Sana</i>  was  produced  which
-became Sanaka, Sanandana, Sanat and Sanantana known as  the  four  Kumara's.
-To them I gave instructions about the <i>atma</i> or eternal soul in  all  sentient
-beings and which became  dormant  at  the  end  of  the  previous  cycle  of
-existence. Also in the Bhagavat Purana  XI.XIII.XIV  beginning  <i>etavan  yoga</i>
-<i>adisto</i> Lord Krishna states: The actual system of yoga taught by My  devotees
-headed by Sanaka  Kumara  is  to  completely  withdraw  the  mind  from  the
-external senses directly concentrating it on the Supreme Lord.
-<p>
-It should never mistakenly be considered that the seven great sages  existed
-previously before the Manu's and the Kumara's as this  would  be  erroneous.
-The Kumara's are absolutely elder even to the Manu's  and  their  names  and
-number equalling four  does  not  include  any  of  the  14  Manus  who  are
-enumerated in  the  Puranas  as  follows:  Svayambhuva,  Svarocisa,  Uttama,
-Tamasa,  Raivata,  Caksusa,  Vaivasvata,  Savarni,  Daksa  Sarvani,   Brahma
-Sarvani, Dharma Sarvani, Rudra Sarvani, Deva Sarvani and Indra Sarvani.  Out
-of these 14 Manus the first six have  already  served  out  there  appointed
-time and passed. We are presently protected by the  seventh  Manu  known  as
-Vaivasvata and the Markandaya Purana, Saptasati XIII.XXI confirms  that  the
-eighth Manu will be called Sarvani. So in conclusion it  should  be  crystal
-clear that the Manu's are elder to the seven great sages and that  the  four
-Kumara's are even senior to the Manu's.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 10, verse 6 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 6<br><dt><center><dt><a href="verse-10-04.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-10-06.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 2 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 2<br><dt><center><dt><a href="verse-01-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
