@@ -1,159 +1,179 @@
-<html><head><title>Bhagavad-Gita: Chapter 1, Verse 1</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 9, Verse 23</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 1</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-01-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 9</font></b></td><td valign=middle align=center><b><font size=5>Confidential Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 23</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09-sel.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-09-23-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-01.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-01-01-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/09-23.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-09-23-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-01-01-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-09-23-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-01-01-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-09-23-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="../"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-01.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-09-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/09-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/09-23.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-In this very first verse of  Srimad  Bhagavad-Gita  beginning  with  <i>dharma-</i>
-<i>ksetra-kuru-ksetra,</i>  avatar  Krsna  Dwaipayana  Vyasadeva   has  used   this
-narrative form: assembled in the place of righteousness Kuruksetra etc.;  to
-properly introduce the location, the action and the theme.  Thereafter  when
-King  Dhritarastra  in  Hastinapura  asks  his  minister,  Sanjaya  who  had
-received clairvoyance by the grace of  Vyasadeva as to what happened on  the
-battlefield, Sanjaya related all the events  exactly  as  they  happened  by
-having the clairvoyant ability to witness them directly within his  mind  as
-if he was  there  present.  Srila  Vyasadeva  to  properly  introduce  their
-dialogue begins with the narrative form with: having seen the  army  of  the
-sons of Pandu etc. After this until  the  end  of  the  chapter  the  subtle
-intricacies of duty are delineated.
-<p>
-As has been stated in the ancient Vedic scriptures concerning the  greatness
-of Srimad Bhagavad-Gita  and  that  is  the  words  that  emanate  from  the
-transcendental mouth of the  Supreme  <i>Lord  Krishna</i>  when  well  assimilated
-precludes the necessity of various other scriptures.
+As the reality is that there is only one  Supreme  Lord  and  that  is  Lord
+Krishna and that the  worship of any of the demigods  who  manage  universal
+creation are all His devotees as well; then needless to say the  worship  of
+any other lesser god unconnected to Him is superfluous. But how is  it  that
+His devotees must still transmigrate incessantly in  <i>samsara</i>  the  perpetual
+cycle of birth and death? What happens to  them  is  being  explained  here.
+Although they are devotees of Lord Krishna they have  a  desire  to  worship
+demigods as well for material desires and although those  desires  zealously
+sought for are sanctioned to the demigod for bestowal because they  are  not
+following <i>bhakti</i> or loving  devotion  they  have  no  chance  for  <i>moksa</i>  or
+liberation  from  Lord  Krishna  because  they  are  interested  in  mundane
+transitory  acquisitions.  Hence  they  also  are  born  again   and   again
+continuously without cessation.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-<i><u>Madhvacarya has no commentary so we present Baladeva Vidyabhusana's.</u></i>
-<p>
-To properly illustrate the consistency  in  the  conversation  between  Lord
-Krishna and Arjuna on the battlefield, Krishna Dvaipayana Vyasa  has  quoted
-the  first  27  verses  in  chapter  one   beginning   <i>dharma-ksetra   kuru-</i>
-<i>ksetra</i> refering to Kuruksetra as the land of righteousness.
-<p>
-Now when King Dhritarastra  learned  that  Lord  Krishna  had  accepted  the
-position of chariot driver for Arjuna, he  immediately  was  suspicious  and
-became doubtful of  his son, Duryodhana's chances for victory. At that  time
-he asked his minister Sanjaya a redundant question as what did his sons  and
-the son of his brother do in the first verse of chapter one<i>.</i>
-<p>
-It  should  be  understood  in  the  correct  context  that  the  revelatory
-instructions given by Lord Krishna to Arjuna in the  700  verses  of  Srimad
-Bhagavad-Gita  that  is   revealed   within   Krishna   Dwaipayana   Vyasa's
-monumental, historical epic, Mahabharata; as  to  what  was  being  told  by
-Sanjaya to Dhritarastra is actually  a  conversation  described  to  Arjunas
-great, grandson, Emperor Janamejaya by Vaisampayana Muni and it  is  he  who
-is expressing the words <i>dhritarastra uvaca</i> meaning Dhritarastra said<i>.</i>
-<p>
-Srimad Bhagavad-Gita begins with Dhritarastra asking Sanjaya:  What  did  my
-sons and the sons of Pandu, assembled at the righteous  land  of  Kuruksetra
-desirious of battle do? Now the question  which  arises,  is  what  was  the
-necessity of Dhritarastra asking Sanjaya what did they do; when  he  himself
-in the same verse says: they are assembled desirous of  battle.  The  reason
-he is asking is because Kuruksetra is the land of righteousness.
-<p>
-Dhritarastra was thinking: Kuruksetra is famous as  the  land  of  sacrifice
-for the demigods and also  the  abode  of  <i>brahma-jnana,</i>  knowledge  of  the
-Ultimate Truth for all living  entities.  He  was  worried  that  under  the
-potent influence  of  Kuruksetra's  righteous  land,  his  sons  would  have
-decided to return half of the kingdom back unto the sons of Pandu now  being
-free from all jealously? Or is it that the sons of Pandu  fearing  that  the
-destruction of a dynasty  is  an  unrighteous  act  in  a  holy  place  like
-Kuruksetra and have decided that it's best to retire to the forest and  live
-as renunciates for the rest of their lives?
-<p>
-By addressing Sanjaya, Dhritarastra means  that  by  the  mercy  of  Krishna
-Dwaipayana Vyasa, Sanjaya has become free from attachment and  aversion  and
-thus he will certainly speak the truth.  By  using  the  word  <i>mamakah</i>   and
-<i>pandavah</i> in referring to his sons and the sons of Pandu indicates  disparity
-and shows that Dhritarastra did not accept the sons of his deceased  brother
-Pandu as he did his own sons and this reveals his enmity towards them.
-<p>
-<i>Ksetra</i> also means field of cultivation. Just as in a rice  field  there  are
-unwanted  grasses  looking  exactly  like  the  rice  paddy  which  must  be
-uprooted. Similarly the use of the word <i>dharma-ksetra is</i>  indicative    that
-the unrighteous sons of Dhritarastra will also be uprooted.
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
-</td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify>The Supreme Lord Krishna in order to  mitigate  Arjuna's  lamentation  tells
-him that he grieves for that which is not worthy of sorrow in answer to  the
-cause of Arjuna woes as has been described in the first chapter which  began
-by the blind Dhrtarastra inquiring about his hoped  for  sons  victory;  yet
-internally in doubt due to Arjunas  unsurpassable  valour  revealed  in  his
-aquisition of divine weapons by satisfying Shiva, also this was proved  when
-Arjuna defeated the Gandharvas  and  released  Duryodhana  even  though  the
-latter had come to cause he and  his  brothers  mischief,  also  by  Arjunas
-removing of  the  Kauravas  crowns  and  ornaments  when  he  defeated  them
-recapturing the cowherd of the king at the city of Virata. All these  events
-flashed through Dhritarastra's mind and with a heavy heart he asked  Sanjaya
-who had  been  bequeathed  with  clairvoyance  byVedavyasa  giving  him  the
-capacity to envision everything that was happenning on  the  battlefield  of
-Kuruksetra between the army of his sons the Kauravas and  the  army  of  the
-Pandavas.
-<p>
-The Mahabharata records these events from a conversation  between  the  holy
-sage Vaisampayana and  Arjunas  great-grandson  Janamejaya  and  begins  the
-Bhagavad-Gita  with  <i>Dhritarastra  spoke.</i>  In  this  very  first  verse  the
-question is placed within the sentence thus: <i>In the holy land of  Kuruksetra</i>
-<i>what did my sons and the sons of Pandu desiring  battle  do?</i>  Kuruksetra  is
-the place of the origin of <i>dharma</i> or  righteousness.  The  Vedic  scriptures
-declare  that  Kuruksetra  is  a  place  for   performing   sacrifice.   Its
-signifigance is well known and recorded. All  through  the  ages  Kuruksetra
-has been a place for performing sacrifice, sacred and holy,  resided  at  by
-the Brahma-rishis. Those who depart this world at Kuruksetra should  not  be
-grieved  for  under  any  circumstances.   The   suggested   question   that
-Dhritarastra is inwardly posing is whether or not  his  sons  observing  the
-powerful warriors in the enemy ranks  such  as  the  mighty  Bhima  and  the
-intrepid Arjuna  who is a perfect master in the use  of  celestial  weapons,
-were still determined to fight  or  reconsidering  did  they  give   up  all
-thoughts of warfare and instead call a truce and make a peace settlement.
-<p>
-The phrase <i>dharma-ksetra kuru-ksetra</i>  used  by  Dhritarastra  signifies  two
-things. The first is that he is inwardly thinking that his sons who are  not
-righteous  might  give  back  the  kingdom  to  the  Pandavas   which   they
-appropriated  by  fraudulent  means,  due  to  being   influenced   by   the
-righteousness and holy acts of sanctity performed in  sacred  sacrifice  for
-the satisfaction of Bhrigu Muni and as well as the potent act  of  atonement
-performed by avatar Parasurama which He offered on five altars as  expiation
-for his fathers death. The second  is that  Dhritarastra  was  contemplating
-that  Kuruksetra being the the place where <i>dharma</i> originated  is  inherently
-powerfully potent in virtue and  righteousness.  If  the  Pandavas  who  are
-virtuous by nature,  increase in  righteousness  due  to  contact  with  the
-holiness of Kuruksetra and thereby lose all desire in regaining the  kingdom
-after duly weighing the sinful consequences of  slaying  their  kinsman  and
-relatives then I would be very pleased with them.
 <p>
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 1 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 1<br><dt><center><dt><a href="../"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p>
+Lord Krishna speaks this verse to alleviate any doubt that He  is  the  sole
+recipient  and  ultimate  goal  of  all  Vedic  <i>yagnas</i>   or   offering   and
+propitiation as enjoined in the Vedas.
+<p>
+<p>
+<p>
+Now begins the summation.
+<p>
+<p>
+<p>
+<p>
+<p>
+Superior by far to the worshippers of the demigods for  desired  results  as
+found in the <i>karma kanda</i> or rituals  for  fruitive  reward  section  of  the
+Vedas are the <i>Vaisnavas</i> the exclusive devotees of the Supreme  Lord  Krishna
+or any of His authorised  incarnations  or  expansions.  The  <i>Vaisnavas</i>  are
+infused with <i>bhakti</i> or loving devotional service for the  Supreme  Lord  and
+are without any desires for anything that is not  directly  associated  with
+Him. The worship of Brahma or Shiva or the demigods is also worship  of  the
+Supreme Lord as it is He who they are worshipping but it is  indirect.  Also
+to perform <i>Ashwemdha</i> or other such Vedic rituals for desire  of  rewards  is
+also worship of the Supreme Lord as it is He who sanctions such rewards  but
+it is not direct as well. The  Agni  Purana  states:  That  the  spiritually
+intelligent verily regard the demigods who are the  directors  and  managers
+of different aspects of creation as <i>Vaisnavas</i> and that is their  service  to
+the Supreme Lord. It should be noted  that  <i>upasana</i>  or  meditation  on  the
+attributes of the Supreme Lord as <i>paramatma</i>  the  Supreme  Soul  within  the
+etheric heart  of  all  sentient  beings  as  well  as   meditation  on  His
+qualities and <i>lilas</i> or divine pastimes is  in  and  of  itself  the  Supreme
+State.
+<p>
+<p>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+<p>
+<p>
+<p>
+<p>
+Lord Krishna confirms that everyone who worships the  demigods  like  Brahma
+or Shiva as prescribed in <i>traividya</i> or the <i>karma kanda</i>  or  fruitive  reward
+sections of the Vedas; as well as  worship  of  lesser  divinities  such  as
+Indra and Surya and also worship of impersonal conceptions of  god  are  all
+in reality propitiation to the Supreme Lord but offered in  an  unconscious,
+indirect way. For this reason as  stated  previously  all  the  330  million
+demigods comprise the body of  the  Supreme  Lord  Krishna  and  within  the
+etheric heart of each He is residing as <i>paramatma</i> the Supreme Soul  as  also
+within all living entities. In every  sense  all  the  demigods  find  their
+highest good and noblest purpose by supplication to Him.  The  ignorant  who
+worship the demigods and other lesser gods are  totally  oblivious  to  this
+eternal truth and are not performing worship of the demigods in  the  manner
+prescribed in  the  Vedic  scriptures.  The  Taittiriya  Upanisad  III.II.II
+beginning  <i>chatur  hotaro  yatra  sampadam  gacchanti  devaih</i>   states:   By
+<i>paramatma</i> the four Vedic  rituals  known  as  <i>hotri</i>  are  fulfilled  by  the
+demigods. The Supreme Lord in His localised aspect is  <i>paramatma</i>  who  makes
+the ritual successful.  Thus  it  is  clear  that  the  benefits  gained  by
+ceremonial worship to any of the demigods is only by grace  of  the  Supreme
+Lord.
+<p>
+<p>
+<p>
+<p>
+<p>
+The four <i>hotri</i> rituals as prescribed in  the  <i>karma  kanda  section</i>  of  the
+Vedas such as <i>Agnihotra</i> or propitiation to the sacred fire  by  offering  it
+oblations of ghee and grains everyday. Two of the other <i>hotris</i> given in  the
+Taittriya Upanisad I.VI.VIII beginning  <i>ya  evam  vidvan</i>  are  <i>Purnamasa</i>  or
+penance for full moon and <i>Darsa</i> or penance for new moon.  The  followers  of
+<i>traividya</i> cannot comprehend that all  the  rituals  and  worship  that  they
+offer to the demigods is in reality indirect worship  to  the  Supreme  Lord
+who has Brahma, Shiva, Indra, Surya and all  the  330  million  demigods  as
+part of His transcendental body and that He is the actual  object  of  their
+worship. Hence because they  worshipped  indirectly  they  are  entitled  to
+indirect recompense because it descends from  the  Supreme  Lord  back  down
+through the demigods who taking their  share  bestow  whatever  mundane  and
+transitory desire the ritual was  performed  for  such  as  entry  into  the
+heavenly planets and because such a boon is not eternal  when  the  allotted
+time fo enjoyment has expired they will be recycled back  into  <i>samsara</i>  the
+perpetual cycle of birth and death again as mortals.
+<p>
+<p>
+<p>
+<p>
+<p>
+It should be clearly understood that although the Vedic scriptures  directly
+enjoin  worship  of  the  demigods  they  also  explain  that  the  demigods
+constitute the transcendental body of the Supreme Lord and that  He  is  the
+spirit soul within each and  every  one  of  them  as  well   and  thus  the
+spiritually intelligent <i>mahatmanas</i> or great souls easily understand that  by
+worshipping the Supreme Lord  all the demigods are automatically  worshipped
+as well and thus with great love and devotion they exclusively  worship  the
+Supreme Lord Krishna or any of His authorised  incarnations  and  expansions
+as revealed in Vedic scriptures.
+<p>
+<p>
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+The astute can perceive that if all the demigods comprise the  Supreme  Lord
+Krishna's transcendental body and that He resides within each and every  one
+of them as <i>paramatma</i> the Supreme Soul as He does  in  all  sentient  beings;
+then worship of them is indirect worship  of  Him  and  also  that  all  the
+demigods devotees are indirectly the Supreme Lords devotees. So what is  the
+cause of their falling into <i>samsara</i> the perpetual cycle of  bith  and  death
+without cessation. Just as Lord Krishna's  devotees  worship  Him  directly,
+the devotees of the demigods such as Surya and Indra worship them  directly.
+But because Lord Krishna is Himself eternal He can award  benedictions  that
+are eternal  such  as  <i>moksa</i>  o  liberarion  from  <i>samsara.</i>  Contrarily  the
+demigods themselves are not eternal so they cannot offer anything  to  their
+votaries that is eternal and hence everything bestowed by them  has  a  time
+limit and after it has expired such votaries are forced back  into  <i>samsara.</i>
+In  an  unconscious,  indirect  way  the  devotees  of  the   demigods   are
+worshipping the Supreme Lord but they are not worshipping Him in  accordance
+with the injunctions of the Vedic scriptures and so they  are  not  entitled
+to receive eternal benedictions from Him as they are merely worshipping  the
+demigods in accordance with the Vedic scriptures. The ignorant  worship  the
+demigods, lesser  gods  and  even  impersonal  gods  profusely  without  any
+reference to the Supreme Lord.
+<p>
+Oblivious to the reality that Lord Krishna is the Supreme Lord  of  All  and
+that He exists omnipresent within and without all living entities;  whatever
+ritual, ceremony or worship the ignorant  embark  upon  for  their  fruitive
+desires has no real significance as there is no propitiation to the  Supreme
+Lord and has no real meaning as it is devoid of knowledge of Him.
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 9, verse 23 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 23<br><dt><center><dt><a href="verse-09-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
