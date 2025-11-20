@@ -1,179 +1,91 @@
-<html><head><title>Bhagavad-Gita: Chapter 9, Verse 23</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 15, Verse 8</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 9</font></b></td><td valign=middle align=center><b><font size=5>Confidential Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 23</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09-sel.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-09-23-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 8</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-07-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/09-23.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-09-23-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-07.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-15-07-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-09-23-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-15-07-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-09-23-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-15-07-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-09-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/09-23.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/09-23.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-15-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-07.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-As the reality is that there is only one  Supreme  Lord  and  that  is  Lord
-Krishna and that the  worship of any of the demigods  who  manage  universal
-creation are all His devotees as well; then needless to say the  worship  of
-any other lesser god unconnected to Him is superfluous. But how is  it  that
-His devotees must still transmigrate incessantly in  <i>samsara</i>  the  perpetual
-cycle of birth and death? What happens to  them  is  being  explained  here.
-Although they are devotees of Lord Krishna they have  a  desire  to  worship
-demigods as well for material desires and although those  desires  zealously
-sought for are sanctioned to the demigod for bestowal because they  are  not
-following <i>bhakti</i> or loving  devotion  they  have  no  chance  for  <i>moksa</i>  or
-liberation  from  Lord  Krishna  because  they  are  interested  in  mundane
-transitory  acquisitions.  Hence  they  also  are  born  again   and   again
-continuously without cessation.
+Now the science of transmigration of the <i>atma</i> or immortal soul from <i>jiva</i>  to
+<i>jiva</i> or embodied being is explained. When the postive and negative <i>karma</i>  or
+reactions to  actions  that  one  has  performed  has  been  calculated  and
+tabulated along with the types of food one has eaten throughout  their  life
+a <i>jiva</i> obtains birth in an appropriate womb and acquires a new  body  taking
+along with it in a subtle body the mind and the  senses  from  the  previous
+body. This can be understood by the analogy Lord Krishna gives of  a  breeze
+transporting to another location the fragrances of the flowers it  has  come
+into contact with. So the subtle body of the <i>jiva</i> containing  the  mind  and
+the senses transports itself from body to body.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-<p>
-<p>
-<p>
-Lord Krishna speaks this verse to alleviate any doubt that He  is  the  sole
-recipient  and  ultimate  goal  of  all  Vedic  <i>yagnas</i>   or   offering   and
-propitiation as enjoined in the Vedas.
-<p>
-<p>
-<p>
-Now begins the summation.
-<p>
-<p>
-<p>
-<p>
-<p>
-Superior by far to the worshippers of the demigods for  desired  results  as
-found in the <i>karma kanda</i> or rituals  for  fruitive  reward  section  of  the
-Vedas are the <i>Vaisnavas</i> the exclusive devotees of the Supreme  Lord  Krishna
-or any of His authorised  incarnations  or  expansions.  The  <i>Vaisnavas</i>  are
-infused with <i>bhakti</i> or loving devotional service for the  Supreme  Lord  and
-are without any desires for anything that is not  directly  associated  with
-Him. The worship of Brahma or Shiva or the demigods is also worship  of  the
-Supreme Lord as it is He who they are worshipping but it is  indirect.  Also
-to perform <i>Ashwemdha</i> or other such Vedic rituals for desire  of  rewards  is
-also worship of the Supreme Lord as it is He who sanctions such rewards  but
-it is not direct as well. The  Agni  Purana  states:  That  the  spiritually
-intelligent verily regard the demigods who are the  directors  and  managers
-of different aspects of creation as <i>Vaisnavas</i> and that is their  service  to
-the Supreme Lord. It should be noted  that  <i>upasana</i>  or  meditation  on  the
-attributes of the Supreme Lord as <i>paramatma</i>  the  Supreme  Soul  within  the
-etheric heart  of  all  sentient  beings  as  well  as   meditation  on  His
-qualities and <i>lilas</i> or divine pastimes is  in  and  of  itself  the  Supreme
-State.
-<p>
+When a <i>jiva</i> or embodied being due to the mercy  of  the  Vaisnava  spiritual
+master, attains the auspiciousness of <i>bhakti</i> or  exclusive  loving  devotion
+unto the Supreme Lord Krishna at that  time  the  Supreme  Lord  Himself  as
+<i>paramatma</i> the Supreme Soul inconceivably resides simultaneously  within  the
+etheric heart of every <i>jiva</i>  or  embodied  being  commences  to  direct  the
+actions of that blessed disciple of His  servitor,  the  Vaisnava  spiritual
+master, who guides and instructs through his  words  and  actions.  Although
+the Supreme Lord is continuously entering and departing each and every  womb
+along with every <i>jiva</i> and <i>atma,</i> he does not desire any recompense for  this.
+In the Moksa Dharma known also as the Mahabharata it is stated: Even  though
+the <i>jiva</i> witnesses the temporal emotions,  merits  and  demerits  and  knows
+what is ultimately beneficial it is powerless to oppose  them.  Even  though
+moving hither and thither to the four corners of the planet,  enjoying  here
+and suffering there, all actions  are  actually  energised  by  the  Supreme
+Lord. Even when conquering and winning if one considers themselves  a  great
+personality, factually they are only performing as ordained by  the  Supreme
+Lord. Even as a vehicle controlled by someone moves  a  passenger  from  one
+location to another. In the same manner  the  <i>jiva</i>  transmigrates  from  one
+body to another controlled by the potency of the Supreme Lord.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Lord Krishna confirms that everyone who worships the  demigods  like  Brahma
-or Shiva as prescribed in <i>traividya</i> or the <i>karma kanda</i>  or  fruitive  reward
-sections of the Vedas; as well as  worship  of  lesser  divinities  such  as
-Indra and Surya and also worship of impersonal conceptions of  god  are  all
-in reality propitiation to the Supreme Lord but offered in  an  unconscious,
-indirect way. For this reason as  stated  previously  all  the  330  million
-demigods comprise the body of  the  Supreme  Lord  Krishna  and  within  the
-etheric heart of each He is residing as <i>paramatma</i> the Supreme Soul  as  also
-within all living entities. In every  sense  all  the  demigods  find  their
-highest good and noblest purpose by supplication to Him.  The  ignorant  who
-worship the demigods and other lesser gods are  totally  oblivious  to  this
-eternal truth and are not performing worship of the demigods in  the  manner
-prescribed in  the  Vedic  scriptures.  The  Taittiriya  Upanisad  III.II.II
-beginning  <i>chatur  hotaro  yatra  sampadam  gacchanti  devaih</i>   states:   By
-<i>paramatma</i> the four Vedic  rituals  known  as  <i>hotri</i>  are  fulfilled  by  the
-demigods. The Supreme Lord in His localised aspect is  <i>paramatma</i>  who  makes
-the ritual successful.  Thus  it  is  clear  that  the  benefits  gained  by
-ceremonial worship to any of the demigods is only by grace  of  the  Supreme
-Lord.
-<p>
-<p>
-<p>
-<p>
-<p>
-The four <i>hotri</i> rituals as prescribed in  the  <i>karma  kanda  section</i>  of  the
-Vedas such as <i>Agnihotra</i> or propitiation to the sacred fire  by  offering  it
-oblations of ghee and grains everyday. Two of the other <i>hotris</i> given in  the
-Taittriya Upanisad I.VI.VIII beginning  <i>ya  evam  vidvan</i>  are  <i>Purnamasa</i>  or
-penance for full moon and <i>Darsa</i> or penance for new moon.  The  followers  of
-<i>traividya</i> cannot comprehend that all  the  rituals  and  worship  that  they
-offer to the demigods is in reality indirect worship  to  the  Supreme  Lord
-who has Brahma, Shiva, Indra, Surya and all  the  330  million  demigods  as
-part of His transcendental body and that He is the actual  object  of  their
-worship. Hence because they  worshipped  indirectly  they  are  entitled  to
-indirect recompense because it descends from  the  Supreme  Lord  back  down
-through the demigods who taking their  share  bestow  whatever  mundane  and
-transitory desire the ritual was  performed  for  such  as  entry  into  the
-heavenly planets and because such a boon is not eternal  when  the  allotted
-time fo enjoyment has expired they will be recycled back  into  <i>samsara</i>  the
-perpetual cycle of birth and death again as mortals.
-<p>
-<p>
-<p>
-<p>
-<p>
-It should be clearly understood that although the Vedic scriptures  directly
-enjoin  worship  of  the  demigods  they  also  explain  that  the  demigods
-constitute the transcendental body of the Supreme Lord and that  He  is  the
-spirit soul within each and  every  one  of  them  as  well   and  thus  the
-spiritually intelligent <i>mahatmanas</i> or great souls easily understand that  by
-worshipping the Supreme Lord  all the demigods are automatically  worshipped
-as well and thus with great love and devotion they exclusively  worship  the
-Supreme Lord Krishna or any of His authorised  incarnations  and  expansions
-as revealed in Vedic scriptures.
-<p>
+Whatever body a <i>jiva</i> or  embodied  being  is  subjected  to  reside  in  and
+whatever body they depart from; the <i>atma</i> or immortal soul  is  automatically
+accompanied by the five senses and the  mind.  Lord  Krishna  explains  this
+process as similar to  a  breeze  which  picks  up  the  scents  of  flowers
+carrying them through through the air from one location to another.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-The astute can perceive that if all the demigods comprise the  Supreme  Lord
-Krishna's transcendental body and that He resides within each and every  one
-of them as <i>paramatma</i> the Supreme Soul as He does  in  all  sentient  beings;
-then worship of them is indirect worship  of  Him  and  also  that  all  the
-demigods devotees are indirectly the Supreme Lords devotees. So what is  the
-cause of their falling into <i>samsara</i> the perpetual cycle of  bith  and  death
-without cessation. Just as Lord Krishna's  devotees  worship  Him  directly,
-the devotees of the demigods such as Surya and Indra worship them  directly.
-But because Lord Krishna is Himself eternal He can award  benedictions  that
-are eternal  such  as  <i>moksa</i>  o  liberarion  from  <i>samsara.</i>  Contrarily  the
-demigods themselves are not eternal so they cannot offer anything  to  their
-votaries that is eternal and hence everything bestowed by them  has  a  time
-limit and after it has expired such votaries are forced back  into  <i>samsara.</i>
-In  an  unconscious,  indirect  way  the  devotees  of  the   demigods   are
-worshipping the Supreme Lord but they are not worshipping Him in  accordance
-with the injunctions of the Vedic scriptures and so they  are  not  entitled
-to receive eternal benedictions from Him as they are merely worshipping  the
-demigods in accordance with the Vedic scriptures. The ignorant  worship  the
-demigods, lesser  gods  and  even  impersonal  gods  profusely  without  any
-reference to the Supreme Lord.
+When and how the mind and senses accompany the  <i>jiva</i> or  embodied  being  in
+the process of transmigration from one body at the time of death to  another
+at the time of conception is clarified by Lord Krishna. The purport is  that
+wherever the <i>jiva</i> departs from a body and whenever it is compeled to  accept
+another body the  <i>atma</i> or immortal soul migrating from one body to  another,
+arrives with the subtle forms of the mind and  senses  in  tact  to  perform
+their functions through the physical body which has  been  allotted  due  to
+<i>karma</i> or reactions to previous actions.  The  Supreme  Lord  clarifies  this
+with the analogy of the wind carrying  the  scents  of  flowers  to  various
+locations.
 <p>
-Oblivious to the reality that Lord Krishna is the Supreme Lord  of  All  and
-that He exists omnipresent within and without all living entities;  whatever
-ritual, ceremony or worship the ignorant  embark  upon  for  their  fruitive
-desires has no real significance as there is no propitiation to the  Supreme
-Lord and has no real meaning as it is devoid of knowledge of Him.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 9, verse 23 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 23<br><dt><center><dt><a href="verse-09-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 8 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 8<br><dt><center><dt><a href="verse-15-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
