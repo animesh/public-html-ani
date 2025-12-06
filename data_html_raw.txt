@@ -1,247 +1,122 @@
-<html><head><title>Bhagavad-Gita: Chapter 15, Verse 1</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 1, Verse 37, 38</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 1</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-01-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 37, 38</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-31-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-01.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-15-01-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-31.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-01-31-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-15-01-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-01-31-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-15-01-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-01-31-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="chapter-14.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-01.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-01-30.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-32.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-31.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-31.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Without dispassion  spiritual  knowledge  will  not  be  able  to  manifest.
-Therefore the  Supreme  Lord  Krishna  clearly  delineates  the  science  of
-spiritual knowledge together with dispassion. In the last two verses of  the
-previous chapter he has emphasized  unwavering  devotion  unto  the  Supreme
-Lord  which  awards  entrance  into  the  consciousness   of  the   eternal,
-imperishable <i>brahman</i> by His grace. But as it is impossible  for  one  bereft
-of  dispassion  to  ever  achieve  spiritual  knowledge,  the  compassionate
-Supreme Lord first expounds the nature of this  mundane  material  existence
-by the metaphor of <i>asvattha</i> or banyan tree with its roots  upwards  and  its
-branches downwards and its leaves  the  Vedic  aphorisms.  The  roots  above
-refers to the root of all the eternal  Supreme  Lord  and  the  imperishable
-<i>atma</i> or immortal soul. The branches downward  refers  to  transitory  living
-entities consisiting of the demigods  headed  by  Brahma,  who  all  have  a
-finite span of life in material existence even if  they  live  for  millions
-and billions of years. Transitory is another meaning  of  <i>asvattha</i>  and  for
-the devotees of the Supreme Lord the material world may not last  even  unto
-tomorrow. That which lasts until tommorrow is known as <i>stvattha</i> so  <i>asvattha</i>
-is that which will not last until tomorrow. It is <i>avyayam</i>  or  indestuctible
-because it is like a continuous  stream  although  ever  changing  it  never
-stops. The Katha Upanisad III.I beginning <i>urdhva mulo  avak  shakha</i>  states:
-There is an ancient banyan tree whose roots  are  above  and  branches   are
-below. Whose  leaves  are  the  Vedas  refers  to  aphorisms  in  the  Vedic
-scriptures which propound the  activities  which  should  be  done  and  the
-activities  which  should  not  be  done  by   human  beings.  The  absolute
-authority of the Vedic scriptures establish  the  criteria  for  all  living
-entities and confirms that this  mundane  tree  provides  sanctuary  to  all
-living beings by the results of their <i>karmas</i> or reactions to  actions  which
-can be compared to the shade of  their  leaves.  One  who  comprehends  this
-ancient  banyan  tree  with  this  understanding  is  therefore  spiritually
-knowledgeable  and is praised as a  knower of the  teachings  of  the  Vedic
-scriptures.
+It may be argued to Arjuna that if he does  not  slay  his  enemies  due  to
+feeling compassion for them, then they out of  greed  for  power  they  will
+surely slay him; therefore it would be better  for  him  to  slay  them  and
+enjoy sovereignty. This is answered in a verse and a half beginning with:  <i>I</i>
+<i>do not like</i> etc. <i>Even if they kill us I do not like to kill  them  even  for</i>
+<i>attaining the sovereignty of all the three  worlds  much  less  for  gaining</i>
+<i>only this earth.</i>
+<p>
+The Vedic scriptures declare that those who commit the following  six  types
+of crimes being : arson, poisoning, assaulting with weapons,  stealing  ones
+wealth, usurping ones land or  kidnapping  one's  wife  are  aggressors  and
+Duryodhana and the Kauravas were   definitely  aggressors  having  committed
+all six offences against the Pandavas beginning with arson. The  slaying  of
+aggressors is justifiable and the Vedic scriptures  state  that  one  should
+slay an aggressor coming with the intention of  committing  a  criminal  act
+without hesitation and that the slayer of such an aggressor  incurs  no  sin
+whatsoever. This is being answered by the verse and a half  beginning  with:
+<i>sin alone etc.</i> The text which states <i>one should  kill</i>  belongs  to  what  is
+called an <i>Artha Sastra</i> which is a scripture dealing with the rules and  laws
+regarding wealth. <i>Artha Sastra</i> is considered less authoritative than  <i>Dharma</i>
+<i>Sastra</i> which are  scriptures dealing with righteousness.  <i>Dharma  Sastra</i>  is
+superior to <i>Artha Sastra.</i> As it is stated by the sage Yagnavalkya: <i>when  two</i>
+<i>scriptures differ the one whose conclusion is the most reasonable  and  most</i>
+<i>logical is to be considered superior.</i> This is the  understanding.  Therefore
+by the slaying of preceptors etc. although they are  aggressors,  Arjuna  is
+stating that sin shall be incurred because such slaying is  unwarranted  and
+unrighteous. There can be no happiness from this. This is  being  given  by:
+How can we adopt this course of action?
+<p>
+Although Duryodhana and the Kauravas  being deprived of all discrimination
+are determined to fight; why should we who are not deprived of
+discrimination become degraded as well by such sinfulness? We should
+resolve not to engage in this battle.
+<p>
+It may be argued that the action of slaying kinsman is common  to  both  the
+Pandavas and  the  Kauravas;  so  even  as  the  Kauravas  adopting  such  a
+contingency are determined to fight; it is better  for  Arjuna  to  likewise
+engage himself in the battle, what is the  value  of  despondency?  This  is
+being answered by these two verses. 
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+<i><u>Madhvacarya has no commentary so we present Baladeva Vidyabhusana's.</u></i>
 <p>
-Hari OM! The nature of what is known as freedom or  bondage  in  <i>samsara</i>  or
-the perpetual cycle of birth and death is  delineated  in  this  chapter  by
-Lord Krishna. The word <i>urdhva</i> means above as in  superior  to.  The  Supreme
-Lord is the  superior  quality  abiding  in  all  virtues.  He  is  superior
-principle   residing  within  the  <i>atma</i>  or  immortal  soul.  <i>Urdhva</i>   means
-paramount in all respects. The word <i>andhah</i> means below and is base,  mundane
-and even vile. The branches refer to the <i>jivas</i> or embodied  beings  who  are
-subjected to transmigration in <i>samsara</i> and they include  the  demigods  also
-headed by Brahma who lives for billions of years. Although  <i>asvattha</i>  refers
-to a banyan tree another meaning  is   everlasting  in  the  sense  that  it
-exists in a continuous  stream  without  changing  even  though  innumerable
-myriads of <i>jivas</i> are coming and going  incessantly.  But  their  coming  and
-going does not change its nature. Whatever form and function it had  in  the
-beginning of creation that form and function  it  will  have  at  all  times
-throughout creation.  So  that  is  why  it  is  known  as  everlasting  and
-indestructible. The word <i>chamdamsi</i> refers to the leaves of  the  tree  which
-are the aphorisms of the Vedic scriptures which  propunds  what  actions  in
-life are to be performed and what activities are to  be  performed  and  the
-results of violating or adhering to the  Vedic  injunctions  determines  the
-<i>karma</i> or reactions to actions that one will have to  experience  in  joy  or
-misery. These reactions are like the fruits of a tree which can  never  come
-about without the leaves.
+If the question arises that although it is advisable  for  the  Pandavas  to
+engage in battle being challenged by their enemies the Kauravas  because  it
+is well known that a ksatriya can never decline a challenge to fight  or  to
+gamble. To answer this Arjuna speaks the verse  beginning:  <i>yadyapy  ete  na</i>
+<i>pasyanti</i> and the verse beginning <i>katham na jneyam asmabhih.</i> The  reason  for
+the Kauravas to be engaged in war is out of greed.  Whereas  we  not  having
+this desire of greed therefore have no desire for battle. One is engaged  in
+karmic activities to fulfil ones desires;  but  only  if  no  negativity  is
+created and the action results in  total  happiness  can  it  be  considered
+righteousness.
 <p>
-Now begins the summation.
-<p>
-Hari! Hari OM! What was briefly mentioned in chapter 13  is  now  elaborated
-upon by Lord Krishna with further clarification. The roots being  distinctly
-above refer to the Supreme Lord as the universal  tree  even  as  the  Earth
-representing  <i>prakriti</i>    or  the  material  substratum  pervading  physical
-existence is the  reflection  of  this  tree.  Attributes  of  consciousness
-represent the  primary  roots  while  non-consciousness  are  the  secondary
-roots. Here the Vedic association of consciousness  and  unconsciousness  as
-being similar to  a  tree  is  well  known.  The  Earth  like  the  demigods
-activates the conscious and the Supreme Lord becomes the stable and  eternal
-root. The unconscious who are base and vile are put in bondage  by  a  great
-sense of false ego get  attracted  by  their  senses  and  attached  to  the
-elements. The <i>chamdamsi</i> or leaves are the <i>karma</i>  due  to  activity  and  the
-fruits are desires such as name, fame, wealth and <i>moksa</i> or  liberation  from
-material existence.  Another meaning of <i>chamdamsi</i> is  to  unseal.  Thus  the
-words of the Vedic scriptures are called <i>chandas</i> or that which  unseals  the
-esoteric meaning of the eternal wisdom of the Vedas.
+It is also described in the codes of warfare that a <i>Syen Yaga</i> is  prescribed
+for killing of ones enemies. Although it is true because the  result  of  it
+will not give happiness to  the  family  members  of  the  deceased,  it  is
+unreasonable for us to be engaged in this battle.  On  the  other  hand  the
+tradition of accepting a challenge by <i>ksatriyas</i> is applicable when there  is
+no probability  of  destruction  of  the  dynasty.  Arjuna  again  addresses
+Lord Krishna again as  <i>Janardana,</i>  He  who  always  naturally  protects  His
+devotees, Arjuna is intimating that since Lord Krishna is the  Supreme  Lord
+and has appeared for the express purpose of removing all  those  opposed  to
+righteousness on the Earth, He can just by His will destroy all the  enemies
+effortlessly Himself.
 <p>
 <p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-In the previous chapter the Supreme Lord Krishna expounded upon:
-1) The <i>jiva</i> or embodied beings  relationship  with  matter  in  both  its
-subtle and  physical  forms  due  to  attraction  to  sense  objects  and
-subsequent attachment and the <i>karma</i> or reactions  to  one's  own  actions
-thereof along with the <i>karma</i>  from  the  types  of  food  one  has  eaten
-determines the physical body one receives in the next life.
-2) The manner in detail how the association with the three <i>gunas</i> or modes
-of material nature keeps a <i>jiva</i> enslaved in material existence  is  given
-in verses 6 to 25.
-3) The method by which a <i>jiva</i> is able to overcome and transcend the three
-<i>gunas</i> and assume one's actual spiritual position of <i>atma tattva</i>  or  soul
-realisation by <i>bhakti yoga</i> or exclusive loving devotion unto the  Supreme
-Lord.
 <p>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+Why are they trying to kill the Pandavas in the first  place  might  now  be
+asked? In this verse Arjuna is stating that the Kauravas their  hearts  full
+of greed, devoid of piety see no fault and perceive no  sinful  reaction  in
+the slaying of family members and  hence  they  act  in  ignorance.  Now  in
+support of his reason for not fighting Arjuna states that the  Pandavas  are
+not like the Kauravas because  of  knowing  fully  the  sinful  reaction  of
+slaying kinsman. So why should they engage in this abominable act.  Being  a
+devotee of the Supreme Lord Krishna who  is  the  propounder  of  <i>dharma</i>  or
+righteousness, Arjuna addresses him by the  vocative  <i>Janardana</i>  meaning  as
+the  remover  of  his  devotees  ignorance;  why  should  they  not  refrain
+themselves from such  ignorance  being  cognizant  of  the  implications  of
+unrighteousness?
 <p>
-Now in this chapter the  most  worshippable  and  resplendent  Lord  Krishna
-reveals His absolute dominion and sovereign  glory  over  all  creation  and
-everything that is in it. Creation is constituted  by  <i>kshara</i>  or  transient
-souls in bondage and <i>aksara</i> or eternally liberated souls.  Both  <i>kshara</i>  and
-<i>akshara</i>  constitute  His  spiritual  form  which  constitutes   the   cosmic
-manifestation but He is inconceivably distinctly different  from  both.  The
-Supreme Lord being the Supreme creator and controller of all, the source  of
-all  glorious  attributes  and  wonderful  qualities  is   a   fountain   of
-righteousness and the antithesis of all that is evil and demoniac.  For  the
-elucidation of this eternal truth the Supreme Lord  cites  the  <i>Asvattha</i>  or
-banyan tree as a metaphor to  symbolise  the  material  manifestation  as  a
-place of bondage and enslavement for the <i>atmas</i> or immortal souls trapped  as
-a <i>jiva</i> in <i>samsara</i> or the perpetual cycle of  birth  and  death<i>.</i>  How  <i>kshara</i>
-souls may escape from <i>samsara</i> and become the <i>akshara</i> souls is  His  glorious
-plan of evolution and  it  is  enacted  by  the  sword  of  knowledge  which
-destroys the tree of materialism by the weapon of non-attachment.
-<p>
-The state of <i>samsara</i> is symbolised by the <i>asvattha</i> or banyan tree  which  in
-real ilfe has its roots growing upwards and its branches growing  downwards.
-The indestructible nature of  <i>samsara</i> is symbolised in the  second  division
-of  the Katha Upanisad III.I beginning <i>urdhva mulo avak shakha</i> which  means:
-With  roots  upwards  and  branches  downwards   this   primeval   tree   is
-everlasting. With roots upwards refers to our Brahma with  four  faces,  the
-secondary creator who is situated above the seven worlds  of  Bhur,  Bhuvah,
-Svah, Mahah, etc.. The branches downwards  refer  to  all  the  denziens  of
-creation in the form of humans, animals, birds, fish, plants, insects,  etc.
-The indestructible nature of this tree  is  due  to  its  being  <i>avyayan</i>  or
-everlasting like a river with no end and because as a tree it is  impossible
-to  uproot until  one  is  weaned  from  sense  gratification  and  material
-desires by the mercy of  the  Supreme  Lords  devotee  and  <i>atma  tattva</i>  is
-achieved by His His grace. The word <i>chandamsi</i>   refers  to  the  injunctions
-and prohibitions of the Vedic scriptures which are symbolised by the  leaves
-which flourish or dwindle in proportion to the <i>karma</i>  or  reactions  to  the
-actions one accrues by adhering to or ignoring such provisions.  Leaves  are
-very  instrumental  in  preserving  the  longevity  of  trees.  Whoever   is
-knowledgeable  of  this  tree  as  just  explained  comprehends  the   Vedic
-scriptures as the knowledge of non-attachment  is  the  ways  and  means  of
-uprooting this tree and allows one to achieve <i>atma tattva.</i>
-<p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-In the preceding chapter the Supreme Lord Krishna  described  the  state  of
-bondage the <i>jiva</i> or embodied  being  is  forced  to  undergo  due  to  being
-controlled by the three <i>gunas</i> or modes of material nature  which  keeps  one
-revolving in <i>samsara</i> the perpetual cycle of birth and death. At the  end  of
-the chapter He revealed that the only way to  become  eligible  to  overcome
-the three <i>gunas</i> was by <i>bhakti yoga</i> which is exclusive loving  devotion  unto
-the Supreme Lord. Indeed one who  everyday  consistently  without  cessation
-worships Lord Krishna with the yoga of exclusive devotion or also to any  of
-His authoratative <i>avatars</i> or incarnations as revealed in  Vedic  scriptures,
-certainly becomes eligible for achieving the consciousness  of  the  <i>brahman</i>
-or spiritual substratum pervading  all  existence  and  attain  the  eternal
-association of the Supreme Lord in the immortal spiritual worlds.
-<p>
-Now in this chapter He speaks about the Supreme Lords position as  paramount
-to all establishing Him as the highest being   and   as  thus  His  original
-spiritual form is the quintessence of all worship along with His  authorised
-<i>avatars</i> or incarnations as revealed in Vedic scriptures. The  Supreme  Lords
-form is naturally situated in spiritual  perfection  endowed  with  infinite
-auspicious attributes and qualities far above His external  energy  <i>prakriti</i>
-or the material substratum pervading  physical  existence  and  beyond  the
-dualities of perishable and imperishable.
-<p>
-Lord Krishna  elucidates that the imperishable  <i>atma</i>  or  immortal  soul  is
-eligible for attaining the supreme consciousness of  the  <i>brahman</i>  and  that
-they are both  direct  portions  of  Himself  and  that  only  by  exclusive
-devotion to the Supreme Lord is one able to remove the  bondage  of  <i>samsara</i>
-the perpetual cycle of birth and death which  is  indicative  of  detachment
-from all other desires and pursuits.  This  is  why  in  order  to  properly
-emphasise detachment the Supreme Lord uses the metaphor of the  <i>asvattha</i>  or
-banyan tree which represents material existence  and  speaks  of  detachment
-as the weapon cutting the knots of bondage asunder.  One who  perceives  the
-reality that this <i>asvattha</i> tree which is transitory existence and  which  is
-declared in the Katha Upanisad II.III.I beginning <i>urdhva  mulo  avak  shakha</i>
-meaning: This ancient tree with roots  upwards  and  branches  downwards  is
-certainly transient. Such a  tree  appears  imperishable  due  to  its  ever
-flowing current of <i>samsara</i> which dissolves with <i>atma tattva</i>  or  realisation
-of the soul. The beginning or source are the roots comprising the <i>jiva's</i>  or
-embodied being comprised of the three <i>gunas</i> or   modes  of  material  nature
-originating from <i>prakriti</i> which is  the  external  energy  of  the  primeval
-Supreme Lord and far above and beyond  Brahma's  heavenly  planet  known  as
-Satyaloka although it is the seventh and topmost   planet  in  the  material
-creation. But a devotee of  Lord Krishna transcends all the material  worlds
-and all the heavenly  worlds  and  achieves  the  eternal  spiritual  worlds
-attaining association with the Supreme Lord. It is there in the form of  the
-<i>atma</i> or the immortal soul that is the starting point of this  <i>asvattha</i>  tree
-representing material existence and acceptance  of  a  material  body  by  a
-<i>jiva.</i> With its branches upwards symbolises the fruits or  rewards  of  <i>karma</i>
-or reactions to actions which are incurred by residence in one of the  seven
-lower or seven higher totalling 14  worlds.  Beginning  with  Satyaloka  and
-descending down through seven worlds until reaching the  seven  subterranean
-worlds ending with Pataloka. The leaves are symbolised  by  the  injunctions
-and prohibitions of  the  Vedic  scriptures.  This  is  because  a  tree  is
-nourished by its leaves and the <i>jivas</i> who follow  the  injunctions  enjoined
-in the Vedic scriptures are also nourished by this tree and the tree  itself
-prospers by the optional rituals performed  by  the  <i>jivas.</i>  The  Apastambha
-Srauta Sutra X:II:I states: This <i>asvattha</i>  tree  of  material  existence  is
-resorted to by humans full of  desires for rewards in its shade in the  form
-of fruitive actions.
-<p>
-The  essence  is  that  this  tree  of  material  existence  is  rooted   in
-<i>prakriti</i> comprised of the three <i>gunas</i>  or  modes  of  material  nature.  Its
-branches are  the  fourteen  material  worlds  which  provide  pleasure  and
-enjoyments based on the performance of meritorious  deeds.  Its  leaves  are
-the Vedic scriptures by whose injunctions when followed lead to  its  growth
-and allow its performers to enjoy their rewards for all the innumerable  and
-uncountable <i>jivas</i> from Brahma downwards. Thus  the  tree  is  transitory  by
-nature but appears everlasting because of its perpetual flowing  in  <i>samsara</i>
-and because it is only by knowledge of the Supreme Lord Krishna  and  <i>bhakti</i>
-or  exclusive  loving  devotion  to  Him  which  is   all   <i>jivas</i>   natural,
-constitutional position and an eternal  activity;  that  this  tree  can  be
-transcended. This  esoteric wisdom  is  verily  the  essence  of  the  Vedic
-scriptures  and  one  who  comprehends  and  realises  this  in  reality  is
-factually a knower of the Vedas.
-<p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 1 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 1<br><dt><center><dt><a href="chapter-14.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 37, 38 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 37, 38<br><dt><center><dt><a href="verse-01-30.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-32.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
