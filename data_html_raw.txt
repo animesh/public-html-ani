@@ -1,60 +1,103 @@
-<html><head><title>Bhagavad-Gita: Chapter 17, Verse 12</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 3, Verse 10</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 12</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-09-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 10</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-10-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-09.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-17-09-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-10.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-03-10-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-17-09-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-03-10-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-17-09-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-03-10-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-17-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-09.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-03-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-10.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The <i>yagna</i> or acts  of  propitiation  and  worship  which  may  be  performed
-according  to  Vedic  scriptures   but   is   enacted   ostentatiously   for
-aggrandizement and  pompously  for  prestige  with  the  covert,  underlying
-desire for rewards is revealed by Lord Krishna as merely  situated  in  <i>raja</i>
-<i>guna</i> the mode of passion.
+So we see that not only Lord Krishna is stating this but also  according  to
+Prajapati or Brahma the  creator  of  all  material  beings,  that  one  who
+performs actions is superior to one who performs no actions. This  is  being
+explained in this and the next three verses.  The  words  <i>saha-yagnah-prajah</i>
+means all progeny in existence in general but specifically the brahmans  and
+ksatriyas who perform worship according to  the  Vedic  scriptures.   Verily
+remembering Lord Krishna and chanting His holy names  is  <i>yagna</i>  or  worship
+and by such sacrifice mankind will  flourish  and  prosper.  Here  the  word
+<i>yagna</i> means the time sacrificed to  do  the  daily  duties  offered  to  the
+Supreme Lord and other obligatory  activities  such  as  following  Ekadasi.
+Although there is no question of praising work that  is  done  with  desires
+it still  exhibits that in general actions are  better  than  inertness  and
+lassitude which are more objectionable.
 <p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
 </td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-That <i>yagna</i> or acts of propitiation and worship which may  follow  the  Vedic
-scriptures but is ostentatiously enacted out of desire for prestige  with  a
-secret, greedy longing for enjoying the effects of rewards is  known  to  be
-situated in <i>raja guna</i> the mode of passion.
+In the Vedic scriptures the term <i>Prajapati</i> is unrestrictedly  designated  to
+the Supreme Lord Krishna, or any of duly authorised <i>avatars</i> or  incarnations
+such as <i>Narayana</i> lord of all creation or <i>Jagannatha</i> lord of  the  universes.
+In the beginning of creation the Supreme Lord reflected  on  the  plight  of
+the living entities entangled in matter from time immemorial.  These  living
+entities were destitute of name, form and a distinction between one  another
+as they were  dormant  within  a  portion  of  the  Supreme  Lords  potency.
+Possessing an eternal soul they had the ability to fulfill great  goals  but
+they languishing inert like latent substances.
+<p>
+In this case <i>Prajapati</i> refers to Brahma, a duly authorised  G<i>una  avatar</i>  of
+the Supreme Lord who while reflecting on them out of His infinite mercy  and
+for the sake of their ultimate redemption, inspired Brahma to  project  them
+into the material manifestation.  Brahma  worshipped  the  Supreme  Lord  as
+sacrifice and thus inaugurated the institution of <i>yagna</i> which  will  fulfill
+all ones highest ambitions granting <i>moksa</i> or  libeartion  in  the  spiritual
+worlds. How this will manifest will be further explained in the next verse.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-That <i>yagna</i> or propitiation and worship which  externally  may  be  performed
-according to the Vedic scriptures but internally is plagued with desires  to
-acquire the fruits of its rewards  and  is  ostentatiously  enacted  out  of
-pride and gregariously carried out for prestige is  irascibly  performed  in
-the mode of passion.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 12 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 12<br><dt><center><dt><a href="verse-17-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+Here Lord Krishna reveals the words of Prajapati or Brahma the
+creator of the forms and categories of material beings and the
+arranger of the material manifestation. Here  it  states  that
+one desiring liberation should perform selfless  actions  with
+the thought of appeasement and  propitiation  to  the  Supreme
+Lord. Now Lord  Krishna  is  infering  that  he  teaches  this
+knowledge of propitiatiopn  to  His  devotees  only.  This  is
+because Brahma has given facilty for  beings  other  than  the
+devotees to worship in appeasement lesser  gods  such  as  the
+demi-gods. Thus after Brahma created mankind he instructed the
+three twice born classes of brahmins, ksatriyas and vaisyas to
+perform selfless actions in  the  spirit  of  worship  of  the
+Supreme Lord and this will be for you sacrifice. Sacrifing the
+desires for reward and attachment to the results and  in  this
+way  mankind   will   flourish   and   prosper.   The   actual
+understanding is that this spirit of sacrifice perfromed  with
+faith acording to ones status and stage in life will  bequeath
+all auspiciousness in  this  life  and  the  next  life.  Such
+instructions for such wishfulfilling actions and the confusion
+that might arise to  due  to  them  from  statements  of  non-
+attachment earlier in this chapter in verses four, seven   and
+seventeen as well as refering to delighting  in  the  atma  or
+soul  in  this  chapter  in  verses  three  and  nineteen   is
+empasising different approaches to  the  same  goal  based  on
+qualification so there is no contradiction.
+<p>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 10 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 10<br><dt><center><dt><a href="verse-03-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
