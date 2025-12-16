@@ -1,103 +1,347 @@
-<html><head><title>Bhagavad-Gita: Chapter 3, Verse 10</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 2, Verse 72</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 10</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-10-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 2</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Reality of the Soul's Immortality</font></b></td><td valign=middle align=center><b><font size=5>Verse 72</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02-sel.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-02-71-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-10.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-03-10-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/02-71.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-02-71-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-03-10-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-02-71-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-03-10-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-02-71-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-03-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-10.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-02-70.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="chapter-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/02-71.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/02-71.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-So we see that not only Lord Krishna is stating this but also  according  to
-Prajapati or Brahma the  creator  of  all  material  beings,  that  one  who
-performs actions is superior to one who performs no actions. This  is  being
-explained in this and the next three verses.  The  words  <i>saha-yagnah-prajah</i>
-means all progeny in existence in general but specifically the brahmans  and
-ksatriyas who perform worship according to  the  Vedic  scriptures.   Verily
-remembering Lord Krishna and chanting His holy names  is  <i>yagna</i>  or  worship
-and by such sacrifice mankind will  flourish  and  prosper.  Here  the  word
-<i>yagna</i> means the time sacrificed to  do  the  daily  duties  offered  to  the
-Supreme Lord and other obligatory  activities  such  as  following  Ekadasi.
-Although there is no question of praising work that  is  done  with  desires
-it still  exhibits that in general actions are  better  than  inertness  and
-lassitude which are more objectionable.
+Extolling the path of Vedic knowledge that has been described is  now  being
+concluded.  This  path  is  realisation  of  the  Ultimate  Truth  which  on
+attaining one is never again deluded becoming pure minded, no  more  subject
+to transmigration of the soul from womb  to  womb  in  various  and  diverse
+physical bodies throughout the  material  manifestation.  Situated  in  this
+state for a moment even at the time of death achieves  liberation  from  the
+material existence and attains the Ultimate Consciousness. It is clear  that
+one who has wisely situated themselves in this state of consciousness  early
+in life most assuredly attains this liberation as well.
+<p>
+The Supreme Lord Krishna who raised His surrendered devotee Arjuna, who  had
+fallen into the mire of despondency, by  instructing  him  in  the  yoga  of
+wisdom, is my sole refuge.
+<p>
+<i>Thus ends the Rudra Vaisnava  Sampradaya  commentary  entitled  Subodini  to</i>
+<i>Srimad Bhagavad-Gita, Chapter 2, by Sridhara Swami.</i>
 <p>
 <p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
-</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-In the Vedic scriptures the term <i>Prajapati</i> is unrestrictedly  designated  to
-the Supreme Lord Krishna, or any of duly authorised <i>avatars</i> or  incarnations
-such as <i>Narayana</i> lord of all creation or <i>Jagannatha</i> lord of  the  universes.
-In the beginning of creation the Supreme Lord reflected  on  the  plight  of
-the living entities entangled in matter from time immemorial.  These  living
-entities were destitute of name, form and a distinction between one  another
-as they were  dormant  within  a  portion  of  the  Supreme  Lords  potency.
-Possessing an eternal soul they had the ability to fulfill great  goals  but
-they languishing inert like latent substances.
 <p>
-In this case <i>Prajapati</i> refers to Brahma, a duly authorised  G<i>una  avatar</i>  of
-the Supreme Lord who while reflecting on them out of His infinite mercy  and
-for the sake of their ultimate redemption, inspired Brahma to  project  them
-into the material manifestation.  Brahma  worshipped  the  Supreme  Lord  as
-sacrifice and thus inaugurated the institution of <i>yagna</i> which  will  fulfill
-all ones highest ambitions granting <i>moksa</i> or  libeartion  in  the  spiritual
-worlds. How this will manifest will be further explained in the next verse.
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+Lord Krishna thus concludes His instructions in this  verse.  The  state  of
+brahmi is that which is experienced attaining the ultimate truth.  Achieving
+this state one verily is liberated and enters the eternal  spiritual  worlds
+otherwise one is compelled to revolve incessantly in the cycle of birth  and
+death. This subject is also expounded upon ahead  in  chapter  8,  verse  6.
+Even those of spiritual intelligence may be compelled to be reborn if  there
+exists an effect from previous actions.  Only  by  undergoing  this  process
+explained previously may all residue of effects be totally dissolved. It  is
+revealed in the Brahma  Sutras  that  karma  or  effects  from  actions  are
+dissolved after countless lifetimes. Even for  the  spiritually  intelligent
+it takes seven births to become a brahmin  and  for  a  brahmin  realisation
+comes after many lifetimes. Therefore it has been said in the Garuda  Purana
+that when one becomes established in elevated awareness similar to Rudra  or
+Sesa one becomes delivered  by  the  grace  of  the  Supreme  Lord  Krishna.
+Deliverance  from  material  bondage  is  manifest  in  ones  subsequent  by
+activities in the  present  life.  In  the  Narada  Purana  it  states  that
+spiritual intelligence assures  definite  results.  These  results  are  the
+illumination of self-realisation. The  reactions  from  karma  is  the  only
+cause of bondage. For one who by spiritual intelligence releases  themselves
+from  karma they are verily liberated.
+<p>
+For  one  of  spiritual  intelligence  there  is  no  expectation  of  being
+subjected to birth and death again and again.  The  accumulated  effects  of
+all their actions are burned up even as cotton is burned  up  in  fire.  The
+actions have no effect as water cannot wet a lotus leaf for  the  wisdom  of
+spiritual knowledge evaporates the effect  of  all  actions.   Due  to  such
+statements some postulate that those of  spiritual  intelligence  need  many
+lifetimes to eradicate all the accumulated effects,  still  this  offers  no
+contradiction. However there is no  evidence  for  such  statements  and  no
+scriptural authority verifying such.
+<p>
+Those  who  accept  the  speculative  conjectures   of   Aksapada,   Kanada,
+Pashupatas which are opposed to the Vedic scriptures are  those  lacking  in
+spiritual  intelligence.  Thus  these  conjectures  are  to  be   completely
+rejected. The invocation to Shiva by his devotees should  be  understood  to
+be as good as an  invocation to the Supreme Lord. This is not an untruth  as
+Shiva is a empowered incarnation as well;  but  only  the  Vedic  scriptures
+being authorised may be accepted as evidence. Therefore it is stated in  the
+Varaha Purana that Shiva was ordered by Vishnu to  arrange  an  illusion  by
+inventing doctrines that would create  delusion  by  propagating  principles
+which do not actually exist in fact due to  their  not  being  founded  upon
+eternal truth. Shiva was so ordered to execute  this  task  extensively  and
+comprehensively with great imagination and to cleverly conceal  the  reality
+of Lord Krishna as the supreme, absolute truth.
+<p>
+Deceptive, confusing  and  delusory  doctrines  were  promulgated  by  Shiva
+throughout the material worlds as enjoined by Vishnu.  Influenced  by  these
+teachings Dadhici created sciences, Gautama's  nyaya,  Kanada's  vaisesikam,
+Kapila Muni's sankhya and  others  such  as  Sankara's  impersonal  mayavadi
+hypothisis created  athiestic  philosophies  over  the  course  of  time  to
+emulate these  doctrines  and  the  religions  of   Buddhism,  Christianity,
+Islam, and the Jews all being impersonal without  a  form  or  qualities  or
+even a conception of what God they are actually  worshipping  more  or  less
+stem from Sankara. But the following doctrines should be understood  not  to
+under Shivas influence. The Rig Veda, Sama Veda, Yajur Veda,  Atharva  Veda,
+Brahma Sutra, Pancharatra,  Srimad  Bhagavatam,   Ramayana  and  Mahabharata
+which includes the illustrious Bhagavad-Gita are all  known to  be  Vaisnava
+scriptures and they eulogise the  Supreme  Lord.  Therefore  all  the  Shiva
+Puranas should be interpreted and verified according  to  the  understanding
+of the Vaisnava scriptures without the slightest contradiction and  this  is
+confirmed in the Narada Purana.
+<p>
+Thus for  one  situated  in  spiritual  intelligence  liberation  is  surely
+forthcoming without fail.  For  those  of  spiritual  intelligence  such  as
+Bhishma and Drona  at the time of death they were appropriately in  a  state
+of complete equipoise. One should at the moment  of  death  in  a  state  of
+equanimity depart from the body  focused  in  meditation  on  the  exquisite
+form,  sublime  qualities  and  phenomenal  pastimes  of  the  Supreme  Lord
+Krishna. Thus it has been revealed in the Garuda Purana that at the time  of
+death  those of spiritual intelligence showing  equanimity  in  all  actions
+meditate on Lord Krishna and  being  under  His  protection  are  guided  to
+salvation. But for those bereft of spiritual  intelligence  the  remembrance
+of the Supreme Lord at the moment of death never manifests.  In  the  Brahma
+Vaivarta Purana it is stated that after innumerable  lifetimes  when  wisdom
+regarding Lord Krishna has  matured  and  devotion  has  been  attained  one
+naturally meditates exclusively on Him at the termination of  ones  physical
+existence.
+<p>
+Nirvana denotes existence beyond the purview of the physical  body.  Nirvana
+is also  used  to  indicate  not  possessing  any  material  senses  organs.
+Otherwise how could the Puranas possibly describe  the  transcendental  form
+of the resplendent  Supreme  Lord  Krishna.  The  resplendent  Supreme  Lord
+Krishna is known as the effulgent Brahman, as  Paramatma  the  supersoul  in
+all living entities and as Bhagavan  the  Supreme  Personality  of  Godhead.
+This is well confirmed in the Bhagavat Purana.
+<p>
+The effulgent Brahman is the reflection of the Supreme Lord Krishna  who  is
+also the source of  Paramatma the supersoul. Isvara the  supreme  controller
+is the supreme Lord transcendent to all that is mutable and supreme to  even
+that which is immutable. Far, far beyond anything that is accessible by  any
+of the senses. There is nothing comparable to Lord Krishna  neither  in  the
+past nor in the future. Thus there being nothing comparable to Lord  Krishna
+it is not possible for anything to be superior to Lord Krishna.
+<p>
+The effulgent Brahman should  not  be  conceived  as  one  without  a  form.
+Although not possessing a physical form He does possess  a  spiritual  form.
+It is clearly described in Vedic scriptures that  He  possesses  a  blissful
+form surrounded by a golden glow and that He should  be  meditated  upon  in
+this form internally within the heart. If He  did  not  possess  a  form  He
+would have been simply described as Bliss and how  can  there  be  a  golden
+glow surrounding His body if it  was  formless?  How  can  Lord  Krishna  be
+meditated on within the heart  if  He  has  no  form?  Possessing  a  purely
+spiritual form He is known and referred to as  having  a  form.  The  Purusa
+having thousands  of  heads,  having  hands  and  feet  in  all  directions,
+omnipotent, omnipresent and omniscient. Due  to  such  statements  from  the
+Vedic scriptures and due to descriptions of  the  universal  form  later  in
+chapter 11 he is known to have form.
+<p>
+The Supreme Lord Krishna the resplendent maintainer of all is 100%  complete
+within Himself in all respects and thus is known as Bhagavan  the  possessor
+of the six opulences being full  in  100%  knowledge,  100%  strength,  100%
+beauty, 100% wealth, 100% fame and 100% renunciation.  In the  Supreme  Lord
+Krishna reside all the various and diverse energies.  This  is  natural  and
+totally in accordance with reality  as  He  is  the  source  of  all  theses
+energies. He is the also the source of the ever blissful Brahman. By only  a
+minute fragment of  His  potency  all  creation  exists  and  is  sustained.
+Eternal,  immortal,  without  beginning  and  without  end,  of  everlasting
+energy, transcending the brilliance of thousands  of  suns,  more  effulgent
+then thousands of moons, having unlimited attributes  and  unlimited  facets
+in each one of  those  unlimited  attributes,  possessing  unlimited  forms,
+unlimited knowledge  of  immeasurable  energy,  omnipotent  omnipresent  and
+omniscient. Those situated in spiritual  knowledge  know  the  Supreme  Lord
+Krishna as Brahman, Paramatma and Bhagavan. Who else but  the  Supreme  Lord
+Krishna and His incarnations and expansions may ever be known  as  Bhagavan.
+He is glorious and eternally worshipable  by  all  living  entities  in  all
+situations for all times.
+<p>
+Yet all these attributes are not exclusively independent from each  another.
+Brahman is wisdom and bliss for indeed bliss is and  attribute  of  brahman.
+Truth, wisdom and eternality are also  brahman.  Without  a  gross  material
+body of flesh and blood  and  corpulence  and  bones  subject  to  old  age,
+disease and death.  Possessing  an  immortal  spiritual  body  of  eternity,
+knowledge and bliss. These  qualities  are  immutable  all  their  pervading
+nature are not derived due to yoga or but rather due to Lord  Krishna  being
+the Supreme ultimate truth. His  spiritual  body  is  fragrant  due  to  the
+illuminating purity of His wisdom and bliss. Thus  it  is  revealed  in  the
+appendix of the Paingi Sutra.
+<p>
+The spiritual body of the Supreme Lord Krishna is  not  of  material  nature
+and is ever  blissful  being  complete  in  all  respects  as  well  as  all
+pervading. This is confirmed in the Brahma  Vaivarta  Purana.  Therefore  by
+impulse or projection all these inherent forms are  self-manifested  by  the
+Supreme Lord Krishnas internal potency. Lord Krishna was neither  born  from
+the womb of Devaki nor was He the son  of  Vasudeva.  Similarly  avatars  of
+Lord Krishna such as Rama was not the son of  Dasaratha  and  Lord  Krishnas
+satyavesha avatar Parasurama was not the son of Jamadagni. Even though  Lord
+Krishna is  the  supreme  ultimate  non-dual  absolute,  ever  blissful  and
+immutable, He revels in this manner by  His  own  sweet  will.  Thus  is  it
+stated in the Padma Purana. The Supreme Lord, who is the  supreme  being  of
+all beings never is subject to misery.
+<p>
+The  creator  of  all  creation,  indestructible,   the   omnipotent   Rama,
+omnipresent and the embodiment of complete omniscience  displayed  ignorance
+for the sake of humanity and  the  world  and  wandered  about  in  apparent
+lamentation searching for his beloved wife Sita. This Sri  Rama  whose  feet
+are adored by Brahma, mourns in  lamentation  for  his  wife  just  like  an
+ordinary mortal exhibiting extreme attachment. Even though Rama was  perfect
+and complete in all respects being an avatar, in order to not  minimise  the
+words of Shiva he behaved as though he was distraught even though  Rama  was
+not actually distraught. Ever victorious Parasurama aware of  Lord  Krishnas
+devotee Bhishma did not slay him even when they  engaged  in  mortal  combat
+because he refused to marry Amba.   What  can  be  more  compassionate  than
+this? This is stated in the Skanda Purana.
+<p>
+Therefore it should be understood that miseries of  material  existence  are
+not applicable in regard to the Supreme Lord and should  not  be  designated
+as such as this conception is illusory. Some texts mention  superiority  and
+inferiority in regard to the Supreme  Lord  Krishna's  avatar  descents  not
+understanding the fact that they are different manifestations  of  the  same
+supreme non-dual absolute. Therefore it is spoken thus in the Garuda  Purana
+that the Supreme Lord Krishna is complete with all attributes, in all  forms
+and similar in all manifestations being transcendental to  material  nature.
+This applies even though according to the  perceptions  of  the  spiritually
+intelligent as well as the perceptions of the ignorant Supreme  and  mundane
+qualities are attributed respectively to  these  manifestations.  This  even
+though is not a contradiction or incongruity due to His inconceivable  power
+and and the phenomenal varieagatedness of His appearances.
+<p>
+The form of the Supreme Lord Krishna is always complete as  well  as  Ramas.
+There is  not  even  the  slightest  variation  in  their  supreme  non-dual
+position. We are still being continuously deluded by all of them. As  it  is
+stated in the Narada Purana. Therefore  it  is  established  that  only  the
+spiritually intelligent who by the mercy of Sri Guru has  attained  devotion
+has  the  possibility  to  experience  the  Supreme  Lord  Krishna  and  His
+incarnations  being  ever  immeasurable  in  all  their   forms   with   all
+comprehensive attributes, eternal and transcendental beyond all defects.
+<p>
+Now begins the summation.
+<p>
+The  word  brahmi  means  related  to  Brahma.  Even   the  intelligent  who
+experience diversity of thought  at  the  moment  of  death  there  will  be
+rebirth in the material existence due to the accumulated  effects  of  their
+karma having not been dissolved.  But for  those  of  one-pointed  spiritual
+intelligence who have dissolved the accumulated effects of all their  karma,
+at the moment of death there arises the vision of the Supreme  Lord  without
+fail. Then immediately one achieves liberation and  is  delivered  from  the
+cycle of birth and death in the  material  existence  specifically  entering
+into the exact liberated sphere that one  had  knowledge  of  and  perceived
+during ones span of life.
+<p>
+At the end of this verse the word vana  within  the  compound  word  brahma-
+nirvana refers to the body. Brahman is  referring  to  the  potency  of  the
+supreme. As Lord Krishna body is completely spiritual the  word  nirvana  is
+revealing that it is by our  spiritual  body  which  is  designated  as  the
+immortal soul is how we enter into eternal communion with the  Supreme  Lord
+and attain the kingdom of God.
+<p>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+Lord Krishna concludes chapter two by revealing the state  of  consciousness
+achieved by one who performs all actions unattached and equipoised based  on
+knowledge of the eternal nature of the immortal soul. This process  has  for
+its goal the attainment of transcendent meditation. It  is  <i>brahmi</i>  or  that
+which leads to <i>brahma</i> the ultimate truth. Knowing the philosophy of  actions
+are like this, one will no longer be subject to bewilderment  and  delusion.
+The  results  of  this  are  one  will  no  longer  be  compelled  to  enter
+<i>samsara</i> the endless cycle of birth and  death  in  the  mirage  of  material
+existence. If one begins this process with determination  even  in  old  age
+one will have the opportunity  to  attain  cognition  of  the  eternal  soul
+within and <i>brahma-nirvana</i>  final liberation from the material existence.
+<p>
+Thus in this second chapter one who is not  knowledgeable  about  the  exact
+nature of the soul, or how by performing ones prescribed  duties  unattached
+can lead to liberation, or how by the misconception of  identifying  oneself
+as the physical body one will not  be  properly  situated  and  how  by  the
+process of <i>sankhya</i> in <i>jnana-yoga</i>  teaching  the  knowledge  of  the  eternal
+nature of the soul as well as in <i>karma-yoga</i> performing all  activities  with
+unattachment  leads  one  to  the  consciousness   state   of   transcendent
+meditation.
+<p>
+The following doctrine is what is summarised in chapter two:
+1) That the immortal soul is eternal.
+2) All activities should be performed as a matter of duty devoid  of  desire
+for reward.
+3)  One  who  is  spiritually  intelligent  of   illuminated   consciousness
+understands that  through  either  <i>jnana-yoga</i>  or  <i>karma-yoga</i>  the  goal  of
+transcendent meditation can be attained.
+<p>
+These three spiritual truths have been revealed in  the  second  chapter  of
+the Bhagavad-Gita for curing ignorance and dispelling delusion.
+<p>
+<i>Thus ends the Sri Vaisnava Sampradaya commentary  to  Srimad  Bhagavad-Gita:</i>
+<i>Chapter Two  entitled  Sankhya  Yoga:  The  Eternal  Reality  of  the  Souls</i>
+<i>Immortality  by Ramanuja Acarya.</i>
+<p>
+<i>Copyright �</i> <i><u>BHAGAVAD-GITA TRUST</u></i> <i>1998 United States of America</i>
+<p>
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+Lord Krishna extolling the virtues of the  process  of  spiritual  knowledge
+concludes chapter  two  with  this  verse  enunciating  the  performance  of
+actions by being unattached to their rewards. This  state  of  consciousness
+leads to self-realisation and brahmi the  ultimate  truth.  Having  achieved
+this  one  never  again  deluded  by  the  material  energy.  Nor  does  one
+experience the feeling of I or mine in relationship with the physical  body.
+Even if one becomes established in this state at the last moment when  death
+has  come  still  one  will  achieve  the  eternal   spiritual   attainment.
+Liberation from the material existence in the form of ecstatic  bliss  which
+is completely devoid of all unhappiness because it is derived  as  a  result
+of the cessation of all desires for reward  for  ones  actions.  In  essence
+this means that having relinquished both the physical body  and  the  subtle
+body one becomes qualified to realise their spiritual  body  and  experience
+the sublime bliss of uninterrupted devotion to  the  Supreme  Lord  Krishna.
+What more to say to one who began this process and experienced bliss in  the
+early stages of their life, they will attain the eternal spiritual realm  at
+their lifes end.  So the following eternal truths must be stated.
 <p>
-Here Lord Krishna reveals the words of Prajapati or Brahma the
-creator of the forms and categories of material beings and the
-arranger of the material manifestation. Here  it  states  that
-one desiring liberation should perform selfless  actions  with
-the thought of appeasement and  propitiation  to  the  Supreme
-Lord. Now Lord  Krishna  is  infering  that  he  teaches  this
-knowledge of propitiatiopn  to  His  devotees  only.  This  is
-because Brahma has given facilty for  beings  other  than  the
-devotees to worship in appeasement lesser  gods  such  as  the
-demi-gods. Thus after Brahma created mankind he instructed the
-three twice born classes of brahmins, ksatriyas and vaisyas to
-perform selfless actions in  the  spirit  of  worship  of  the
-Supreme Lord and this will be for you sacrifice. Sacrifing the
-desires for reward and attachment to the results and  in  this
-way  mankind   will   flourish   and   prosper.   The   actual
-understanding is that this spirit of sacrifice perfromed  with
-faith acording to ones status and stage in life will  bequeath
-all auspiciousness in  this  life  and  the  next  life.  Such
-instructions for such wishfulfilling actions and the confusion
-that might arise to  due  to  them  from  statements  of  non-
-attachment earlier in this chapter in verses four, seven   and
-seventeen as well as refering to delighting  in  the  atma  or
-soul  in  this  chapter  in  verses  three  and  nineteen   is
-empasising different approaches to  the  same  goal  based  on
-qualification so there is no contradiction.
+1) The root cause of attaining God realisation is  certainly  pure  devotion
+unto God, whereas self-realisation or soul-cognition  although  extremely
+exalted is secondary, devotion to GOD is primary being  the means as well
+as the goal to be attained.
+<p>
+2)  Through  the  process  of  devotion  one  becomes  relieved   from   all
+unhappiness due to being free from attachment  and  possessing  spiritual
+intelligence  is  completely   equipoised  in   transcendent   meditation
+attaining the bliss of supreme peace.
+<p>
+3) This commentary of Srimad Bhagavad-Gita: chapter two has been  delineated
+to accomplish the highest good for the devotees and the  benefit  of  the
+spiritually intelligent by the mercy and grace of Lord Krishna.
+<p>
+Thus ends the Kumara Vaisnava Sampradaya commentary entitled Tattva-
+Prakasika to Srimad Bhagavad-Gita: chapter 2 by Keshava Kashmiri.
 <p>
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 10 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 10<br><dt><center><dt><a href="verse-03-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p>
+<p>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 2, verse 72 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 72<br><dt><center><dt><a href="verse-02-70.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="chapter-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
