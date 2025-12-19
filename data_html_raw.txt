@@ -1,176 +1,104 @@
-<html><head><title>Bhagavad-Gita: Chapter 4, Verse 8</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 11, Verse 19</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 4</font></b></td><td valign=middle align=center><b><font size=5>Approaching the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 8</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04-sel.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-04-08-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 11</font></b></td><td valign=middle align=center><b><font size=5>The Vision of the Universal Form</font></b></td><td valign=middle align=center><b><font size=5>Verse 19</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11-sel.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-11-18-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/04-08.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-04-08-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/11-18.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-11-18-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-04-08-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-11-18-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-04-08-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-11-18-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-04-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/04-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/04-08.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-11-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-19.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/11-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/11-18.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Another question may be postulated.  For  what  purpose  does  Lord  Krishna
-manifest Himself? Anticipating such a question  Lord  Krishna  responds  for
-the protection of the righteous and virtuous and  for  the  annihilation  of
-the sinful and evil. To uphold the tenants  and  precepts  of  righteousness
-that makes <i>sanatan dharma</i> or eternal righteousness  invulnerable.  For  this
-reason the Supreme Lord incarnates from age to age on particular  occasions.
-But one should not think that the Supreme Lord is biased against the  wicked
-for it is not so, He being equal to all chastises them in  the  same  way  a
-father chastises his son while raising him as a necessary action  to  insure
-his proper development.
+Now  Lord  Krishna's  <i>visvarupa</i>  or  divine  universal  form  is   precisely
+perceived as non-different from Him being without  beginning  or  birth,  of
+infinite potency and power, having the sun and the moon for  eyes  and  with
+blazing fires erupting from His unlimited mouths, illuminating  as  well  as
+scorching the creation with its fiery radiance.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Actually there is no mandate that for the protection of  the  righteous  and
-virtuous Lord Krishna must descend and  save  them.  But  by  His  causeless
-mercy and in some circumstances for sport He manifests Himself  by  His  own
-sweet will. In the Rig Veda it is described that this will itself is  as  an
-inclination of the Lord. A comparison in human terms it is  like  the  bliss
-that comes with spontaneous creativity. The Supreme Lord is complete  within
-Himself so there is nothing to be gained for Him  by  any  action;  yet  and
-still He still performs unlimited  activities.  Therefore  those  expert  in
-<i>bhagavat tattva</i> or knowledge of the Supreme Lord Krishna  declare  that  His
-impulses are all sublime and transcendental to <i>prakriti</i> or material  nature.
-The word <i>glanir</i> in the previous verse does not  mean  decline  as  is  often
-translated but <i>glanir</i> means obscure. If <i>dharma</i> meaning eternal righteous  is
-a perennial principle  then  it  must  be  devoid  of  any  modification  of
-decline. It has to exist eternally in pristine purity. What happens is  that
-<i>dharma</i> becomes obscure to the masses  due  to  material  influences  on  the
-mind, agitated by the effects of sense gratification  by  the  onslaught  of
-<i>maya</i> or illusion.  When such times arise  the  purpose  of  human  existence
-becomes distorted and consequently the activities of humans become more  and
-more degenerated and humans become degraded.  At this  time  the  <i>dharma</i>  of
-human beings is said to be <i>glanir</i> or obscured.
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-Therefore as far as <i>dharma</i> is concerned there is  no  possibility  of  their
-being any decline even as darkness is unable to hide sunlight. However  even
-as large clouds are able to obscure the light of the sun from  human  vision
-in the same way non-awareness of the independent supremacy  of  the  Supreme
-Lord and the human beings total dependency on the Supreme Lord  consequently
-obscures the faith in the Supreme Lord as well  as  any  perception  of  the
-Supreme Lord in human beings. So the sense is that <i>glanir</i>  is  referring  to
-obscurity.
-<p>
-<p>
-<p>
-<p>
-<p>
-The Supreme Lord Krishna is also designated as <i>Brahman</i> which  means  eternal
-in time and dynamic in creativity and is the  all  pervading  luminosity  of
-His effulgence. It is not inert  or  passive.  The  word  <i>Brahman</i>  which  is
-derived from the root <i>brh</i>  means  to  grow,  to  burst  forth  which  infers
-constant, continuous creativity,  perpetually  manifesting.  That  which  is
-dynamic  and  creative  cannot  remain  static  and  passive.  The  dynamic,
-spontaneous, creative  impulse  is  what  is  known  as  the   Supreme  Lord
-Krishna's <i>lila</i> or divine pastimes. The complete material  creation  and  all
-its embodied beings is the result of one such impulse of  the  Supreme  Lord
-Krishna and this is also known  as  <i>lila.</i>  The  reality  of  Lord  Krishna's
-<i>avatars</i> or incarnations such as Rama or  Buddha  and  the  understanding  of
-Lord   Krishna's   divine   <i>lila's</i>   has   often   been   misconstrued   and
-misinterpreted. But here in this verse He explicitly reveals that  he  comes
-to protect the righteous and  to  vanquish  the  sinful  miscreants  and  to
-personally re-establish <i>dharma</i> or eternal righteousness.
-<p>
-<p>
-<p>
-<p>
-<p>
-<i>Sam-sthapana-arthaya- ca</i> infers  to  establishing  one's  true  nature.  The
-Lords divine nature assumes His divine form. Because  <i>prakriti</i>  or  material
-nature is understood as <i>svabhava</i> the word <i>sam</i> has  been  used  referring  to
-that.  The  word  <i>sva</i>  also  refers  Lord  Krishna's  essential  <i>svarupa</i>  or
-transcendental form as <i>svabhava</i> refers to the innate  form  or  essence  and
-creation is manifested by this essence being the impulse of His will.  There
-is no difference between the form of Krishna and Himself  neither  is  there
-any difference between the name of Krishna  and  Himself.  In  the  Narayana
-Sruti is states that : the Supreme Lord Krishna  is  immutable  yet  through
-the course of creation He manifests Himself in inconceivable  many  ways  in
-unlimited forms.
-<p>
+In reference to Lord Krishna's <i>visvarupa</i> or  divine  universal  form  having
+His eyes being the sun and moon. It should be understood  as  both  the  sun
+and the moon which originate from Him. Then this is in accordance  with  the
+Rig Veda that states: Since all the 330 million demigods have been  produced
+from just  a  portion  of  the  Supreme  Lord  they  are  glorified  as  His
+individual parts. Also other Vedic scriptures have  stated:  From  the  mind
+the  moon  was  created  and  from  the  eyes  the  sun  was   created.   In
+consideration of the infinite number of forms within it that can be seen  it
+is appropriate to say that all these infinite forms  have  their  refuge  in
+the <i>visvarupa.</i> 
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The word <i>sadhunam</i> meaning virtuous refers  to  the  sadhus  or  the  saintly
-devotees, the eminent Vaisnavas who diligently seek refuge in  Lord  Krishna
-in every thing they think and do. These persons  feel  that  without  seeing
-and perceiving  the  Supreme  Lord,  without  chanting  His  names,  without
-continuously  reminiscing  over  His   phenomenal   pastimes   and   without
-meditating on Him that there lives are devoid and empty  and  they  find  it
-difficult to even carry on their existence. There are even those  with  whom
-a single moment of absence from  the  Lord  is  like  a  lifetime.  For  the
-protection of these virtuous and holy beings, lest they in  their  agony  of
-separation from me expire from this world, Lord Krishna bequeaths upon  them
-the privilege of being able to perceive  His  confidential  appearances  and
-pastimes  and partake in communion with Him. So  in  summary  the  following
-reasons of Lord Krishna's <i>avatars</i> or incarnations is: 1) for protecting  the
-virtuous 2) for destroying the  wicked  3)  for  re-establishing  <i>dharma</i>  or
-eternal righteousness which had become obscured. As <i>dharma</i> to all beings  is
-factually the primary mode of worship for the Supreme Lord Krishna  and  His
-authorised <i>avatars</i> in order to attain <i>moksa</i> or salvation from the  cycle  of
-birth and death in the  material  existence;  it  should  be  known  as  the
-highest good for all beings. The words <i>yuge yuge</i> meaning from millennium  to
-millennium is to indicate that the Supreme Lords incarnations may appear  at
-anytime not being limited to a particular <i>yuga.</i>
+<p>
+Lord Krishna's <i>visvarupa</i> or divine universal form is infinite  being  devoid
+of beginning, middle or end. The word  <i>ananta</i>  means  unlimited  and  <i>viryam</i>
+means  powerful  so  the  <i>visvarupa</i>  is  unlimitedly  powerful  without  any
+restrictions.  Other  qualities  are  also  implied  by   <i>ananta</i>   such   as
+cognizance, dominion, might, strength, etc. The words  <i>ananta-bahum</i>  meaning
+unlimited arms also infers unlimited  hands,  chests,  legs,  feet,  etc  as
+well. <i>Sasi-surya-netram</i> means eyes like the sun and moon.  The  moon's  rays
+denote the cool gentle beaming look that gladdens  as  it  shines  upon  the
+Supreme Lords servitors the demigods and  His  votaries  the  devotees  with
+compasssion. The sun's glowing  rays  denotes  the  hot,  burning  eye  that
+scorches the inimical hosts of <i>asuras</i> or demons and <i>raksasas</i> or  devils  who
+are devoid of righteousness to  others.  <i>Dipta-hutasa-vaktram</i>  meaning  with
+fire emitting from their mouths denotes the fire  of  universal  destruction
+contained within the bosom of time raged therein. <i>Sva-tejasi</i> means  dazzling
+splendour and unprecedented radiance  which  illuminated  everything  around
+it. This glorious life giving energy  flows  unrestrictedly  throughout  all
+the universes.
+<p>
+Arjuna is  explaining  that  he  has  seen  the  reality  of  the  <i>visvarupa</i>
+according to the manner in which  Lord  Krishna  deigned  to  teach  him  by
+exhibiting the <i>visvarupa</i> in before him and  practically  demonstrating  that
+He is the complete creator, the complete sustainer, the total refuge of  all
+and the absloute destroyer as well as being the receptacle  for  all  divine
+qualities and transcendental attributes  such  as  omniscience,  omnipotence
+and omni-presence. The question may arise as  to  how  is  it  possible  for
+unlimited bodily parts to be functioning all in  one  body.  The  answer  to
+this would be that one can  imagine  a  single  bodily  midsection  of  vast
+proportions with unlimited chests, arms, hands  necks  and  heads  branching
+upwards from it in every direction and with every head having two eyes,  two
+ears, a nose and a mouth. Also branching downwards in every direction it  is
+possible to imagine unlimited legs and feet as well. So this  conception  is
+clearly not an impossibility and seeing it along with  choice  demigods  and
+exalted liberated beings they were all inspired with awe and reverence.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Here the  verse  reads  <i>parittranya  sadhunam</i>  meaning  for  protecting  the
-virtuous such protection means specifically for the devotees like Prahlad  a
-great devotee of the Supreme Lord even as a child. His father  Hiranyakasipu
-the demon king was so inimical to devotion  to  the  Supreme  Lord  that  he
-tried to kill his own son many times but  protected  by  the  Supreme  Lord,
-Prahlad was never harmed. Yamaraj the demigod in charge of death who  weilds
-the rod of  punishment  meted  out  to  the  hellish  planets;  informs  his
-servants to never approach the devotees of the Supreme Lord who  behold  all
-with equal vision having taken complete refuge in  Him  and  are  under  His
-infallible protection; for neither old age or  ourselves  are  qualified  to
-chastise the devotees  in  any  way.  Bring  to  me  those  who  have  never
-meditated on the  Supreme  Lord  within  their  heart,  bring  to  me  those
-unrighteous  persons  of  unclean  demeanour  who  do  not   perform   their
-prescribed  duties  and  bring  to  me  those  wretched  sinners   who   are
-antagonistic and opposed to devotion to the Supreme Lord. So not  only  does
-the Supreme Lord Krishna destroys the miscreants but His servitors  such  as
-Yamaraj punishes them as well. All this  is  to  enable  <i>sanatan  dharma</i>  or
-eternal righteousness to be established once again.
+Lord Krishna's <i>visvarupa</i> or divine universal  form  is  being  described  as
+<i>anadi-madhya-antam</i> meaning without beginning, middle  or  end  with  <i>ananta-</i>
+<i>viryam</i> or unlimitedly powerful of infinite prowess  endowed  with  unlimited
+arms, heads, faces and eyes which are equated to the sun and moon. The  cool
+rays of the moon soothe and nourish  the  devotees  who  are  distraught  in
+separation from the Supreme Lord. The scorching  heat  of  the  glowing  sun
+punishes  and  chastises  the  demons  like  a  blazing  inferno  which   is
+comparable to the fire at the time of universal destruction.
 <p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 4, verse 8 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 8<br><dt><center><dt><a href="verse-04-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 11, verse 19 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 19<br><dt><center><dt><a href="verse-11-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-19.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
