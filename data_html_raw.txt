@@ -1,118 +1,81 @@
-<html><head><title>Bhagavad-Gita: Chapter 9, Verse 25</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 14, Verse 7</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 9</font></b></td><td valign=middle align=center><b><font size=5>Confidential Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 25</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09-sel.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-09-25-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 14</font></b></td><td valign=middle align=center><b><font size=5>The Three Qualities of Material Nature</font></b></td><td valign=middle align=center><b><font size=5>Verse 7</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14-sel.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-14-07-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/09-25.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-09-25-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/14-07.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-14-07-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-09-25-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-14-07-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-09-25-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-14-07-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-09-24.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-26.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/09-25.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/09-25.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-14-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/14-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/14-07.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Now Lord Krishna explains the  destinations  of  worship  according  to  the
-desires of the particular worshippers. Those who worship the  demigods  like
-Indra the raingod and  Surya  the  sungod  go  to  <i>Swargaloka</i>  the  heavenly
-planets. Those who perform <i>sraddha</i> or worship of the <i>manes</i> or  ancestors  go
-to <i>Pitriloka</i> the planet of the forefathers. Those who  worship  the  spirits
-and the female demigods go to the realm of the spirit. But the  devotees  of
-the  Supreme  Lord  Krishna  or  any  of  His  authorised  incarnations  and
-expansions as revealed in  Vedic  scriptures  attain  Him  and  the  eternal
-spiritual worlds never to be born again.
-<p>
+The binding nature of <i>rajas</i> or mode of passion and its  characteristics  are
+now stated by Lord Krishna. It should be understood that <i>rajas</i> is  the  root
+of sense gratification and lust. Therefore <i>rajas</i> is  the  source  of  desire
+and attachment. Desire is hankering for that which is yet to be  experienced
+and attachment is the obsession to have  that  which  has  been  experienced
+already. By  instigating  and  increasing  the  propensity  to  continuously
+perform actions <i>rajas</i> binds the <i>jiva</i> or embodied being  tightly  in  <i>samsara</i>
+the perpetual cycle of birth and death due to accute desire  and  attachment
+to enjoy apparent and inapparent results.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-<p>
-<p>
-<p>
-Lord Krishna explains the results of worship according to the choice of  the
-worshipper. It is up to each human being to  exercise  their  gift  of  free
-will and use their discrimination. Since the Supreme Lord  is  the  ultimate
-goal of all worship,  His  propitiation  is  encouraged  by  the  result  of
-attaining Him.
-<p>
+Because of attraction the attachment to craving binds by becoming  incessant
+and insatiable.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+Lord Krishna explains that the mode of passion is known as <i>rajas</i> and is  the
+cause of sexual desires known as carnal  lust.  From  <i>rajas</i>  arises  <i>trishna</i>
+which is desire for all forms of sensual enjoyments through  the  medium  of
+the senses such as seeing, hearing,  tasting,  smelling  and  feeling.  Also
+arising from <i>rajas</i> is <i>sanga</i> or desire to be in the  association  of  family,
+friends  and  loved  ones.  Thus  <i>rajas</i>  encourages  desires  and   promotes
+activities to enjoy such desires which binds one to the reactions of  merits
+or demerits and keeps the <i>jiva</i> or embodied being  incessantly  revolving  in
+<i>samsara</i> or the perpetual cycle of  birth  and  death.  This  propensity  for
+constantly performing actions is inherent and also causes the <i>jiva</i>  to  take
+birth at a specific place with a  particular  body  suitable  to  enjoy  the
+rewards of previous actions. Hence by instigating the desire for  performing
+works one is kept in bondage. In this way <i>rajas</i> is  known  to  be  the  root
+cause of lust, sensual desires and attachment.
 <p>
-The word <i>vrata</i> means sacred resolve and  undertaking.  Those  whose  resolve
-and willingness  to  perform  ceremonies  to  the  demigods  such  as  <i>darsa</i>
-<i>purnamasa</i> for the full moon etc. desiring  entry  in  the  heavenly  planets
-worship Indra the celestial chief and join him there.  Those  who  determine
-to offer profuse ritualistic ablations in  honor  of  the  ancestors  go  to
-<i>Pitriloka</i> the realm  of  the  ancestors.  Those  who  undertake  to  worship
-demons, ghosts and spirits go to the  realms  of  the  respective  elemental
-spirits of those invoked. But those who with devotion judiciously offer  all
-propitiation and worship to the Supreme Lord Krishna who  exists  inside  as
-<i>paramatma</i> the supreme soul and whose transcendental body  comprises  all  of
-the demigods attains  the  Supreme  Lord  eternally.  The  votaries  of  the
-demigods share the joys of the heavenly kingdoms for an  allotted  time  and
-then they fall down but those  who  direct  their  rituals,  ceremonies  and
-worship to the Supreme Lord. Who is without beginning, without end.  Who  is
-omniscient, omnipresent, omnipotent and infallible. Who is a vast  ocean  of
-multitudinous attributes and infinite  glories.  Who  is  measureless  bliss
-personified and from whom once attaining there is no return  to  the  worlds
-of mortals. Next will be  given  another  distinguishing  characteristic  of
-Lord Krishna's devotees.
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+Here Lord Krishna explains <i>raja guna</i> or the mode of  passion  and  describes
+how it binds the <i>jiva</i> or embodied being to material existence.  The  quality
+of passion gives the impetus to perform activities for the desire  of  sense
+gratification and identifying in the mind such sense objects to  be  enjoyed
+by the senses. Desire is the hankering for the acquisition of objects to  be
+acquired and attachment is obsession for  objects  that  have  already  been
+acquired. This <i>rajas</i> tightly binds the <i>jiva</i> through incessant  readiness  to
+perform actions to satisfy desires and attachment to the lure  of  perceived
+and unperceived results for such actions.
 <p>
-<p>
-<p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify>The question may  arise  that  since  the  votaries  of  the  demigods  fall
-continuously back into <i>samsara</i> the cycle of birth and  death  then  why  did
-Lord Krishna advocate the worship of the demigods as He did  in  earlier  in
-chapter 3, verses 10 and 11. In this regard  it  should  be  clarified  that
-Lord Krishna did not state that worship of the demigods has no value at  all
-but that worship of the demigods has no  permanent  value  as  the  demigods
-themselves are not eternal. But it should be understood  that  one  receives
-the merit and reward in accordance  to  what  their  object  of  worship  is
-qualified to bestow. The adorers and worshippers of the Supreme Lord have  a
-preponderance of <i>sattva guna</i> the  mode  of  goodness.  The  propitiators  of
-ceremonies for the ancestors have a preponderance of <i>raja guna</i> or  the  mode
-of passion and the ritualistic panderers of the demons, ghosts  and  spirits
-have a preponderance of <i>tama guna</i> or  the  mode  of  ignorance.  All  these
-worshippers if successful in their  propitiation  are  bequeathed  with  the
-rewards sought after by their respective object of worship  achieving  their
-realm, in close proximity and association sharing all the  delights  offered
-there until one  has  exhausted  their  merit  where  they  fall  back  into
-<i>samsara.</i> But the devotees of the Supreme  Lord  Krishna  having  an  extreme
-preponderance of <i>bhakti</i> or loving devotion are endowed  with  pious  virtues
-possessing all good qualities and as  such  they  attain  the  Supreme  Lord
-Himself, Lord of lords, God of gods who is beyond birth and death.  Full  of
-innumerable transcendental qualities and attributes like eternal  existence,
-infinite  knowledge  and  immeasurable  bliss.  The  purport  is  that  Lord
-Krishna's devotees  knowing  Him  to  be  the  are  endowed  with  a  nature
-exclusively  devoted  to  Him  are  untouched  by  actions  of  duality  and
-ignorance and are totally different from the devotees of other gods.
-<p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 9, verse 25 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 25<br><dt><center><dt><a href="verse-09-24.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-26.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 14, verse 7 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 7<br><dt><center><dt><a href="verse-14-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
