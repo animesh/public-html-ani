@@ -1,210 +1,91 @@
-<html><head><title>Bhagavad-Gita: Chapter 17, Verse 1</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 15, Verse 8</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 1</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-01-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 8</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-07-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-01.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-17-01-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-07.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-15-07-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-17-01-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-15-07-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-17-01-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-15-07-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="chapter-16.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-01.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-15-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-07.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-07.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Among all the causes previously explained as  initiating  qualification  for
-spiritual consciousness by the Supreme Lord Krishna,  <i>sraddha</i>  or  faith  is
-pre-eminent and the foremost among them.  Therefore  this  chapter  examines
-the threefold differentiations of faith of  the  three  <i>gunas</i>  or  modes  of
-material nature: <i>sattva guna</i> or mode of  goodness,  <i>raja  guna</i>  or  mode  of
-passion and <i>tama guna</i> or mode of ignorance.
-<p>
-At the end of chapter 16 Lord Krishna revealed  that  anyone  who  fails  to
-follow the ordinances and injunctions of the Vedic  scriptures  and  instead
-foolishly follows the impulses of the physical body, the whims of  the  mind
-and the dictates of their desires; will never achieve perfection,  happiness
-or freedom from <i>samsara</i>  the  perpetual  cycle  of  birth  and  death.  This
-confirms that those who disregard and disrespect the eternal   teachings  of
-the Vedic scriptures do not qualify for spiritual knowledge.
-<p>
-Now to  clearly  understand  whether  or  not  one  who  ignores  the  Vedic
-scriptures but acts with faith and is not following the dictates  of  desire
-etc. can still be qualified for spiritual knowledge is  queried.  This  does
-not  refer  to  those  who  have  knowledge  of  the  Vedic  scriptures  yet
-transgress them purposely and spitefully; for such  sinful  living  entities
-cannot  be  said  to  possess  faith  or  perform  any  spiritual   activity
-whatsoever. This query refers specifically to all those who are ignorant  of
-the Vedic scriptures, who have had no exposure to the Vedic scriptures,  who
-were never instructed in <i>sanatan dharma</i> or eternal  righteousness  following
-the line of consciousness contained in Vedic scriptures.
-<p>
-Faith in the Vedic scriptures is firm belief  in  sacred  traditions  tested
-and proven by time to be eternal spiritually as instructed by  the  Vaisnava
-spiritual master. Those who purposely act contrary to the knowledge  in  the
-Vedic scriptures as taught by  the  Vaisnavas  are  completely  incompatible
-with the spiritual current of bonafide disciplic succession in  one  of  the
-four authorised sampradaya's due to their  belligerent  transgressions.  Yet
-these unfortunate transgressors of the  Vedic  scriptures  is  not  what  is
-indicated here. What is indicated here  refers  to  all  those  who  out  of
-ignorance,  laziness  or  indifference  simply  follow  mere  tradition  and
-occasionally perform some  religious  activity  with  faith.  The  query  is
-specifically questioning whether such actions are in <i>sattva,  raja</i>  or  <i>tama</i>
-<i>guna.</i>  Faith  in  the  Vedic  scriptures  itself  is  <i>sattva  guna,</i>  whereas
-opposition to the  Vedic  scriptures  is  in  <i>raja  guna</i>  and  laziness  and
-indifference is in <i>tama guna.</i> So if their faith however little is  based  on
-<i>sattva guna</i> then at least these <i>jivas</i> or embodied  beings  are  entitled  to
-knowledge of the <i>atma</i> or immortal soul and spiritual consciousness.
+Now the science of transmigration of the <i>atma</i> or immortal soul from <i>jiva</i>  to
+<i>jiva</i> or embodied being is explained. When the postive and negative <i>karma</i>  or
+reactions to  actions  that  one  has  performed  has  been  calculated  and
+tabulated along with the types of food one has eaten throughout  their  life
+a <i>jiva</i> obtains birth in an appropriate womb and acquires a new  body  taking
+along with it in a subtle body the mind and the  senses  from  the  previous
+body. This can be understood by the analogy Lord Krishna gives of  a  breeze
+transporting to another location the fragrances of the flowers it  has  come
+into contact with. So the subtle body of the <i>jiva</i> containing  the  mind  and
+the senses transports itself from body to body.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-Hari OM! In this chapter the Supreme Lord Krishna  explains  the  attributes
-and results of the three  <i>gunas</i>  or  threefold  modes  of  material  nature:
-<i>sattva guna</i> or the mode of goodness, <i>raja guna</i> or the mode  of  passion  and
-<i>tama guna</i> or the mode of ignorance. The words <i>sastram-vidam</i>  refers  to  the
-ordinances,  injunctions  and  prohibitions  of  the  Vedic  scriptures.  An
-example of a prohibition is that the Vedic scriptures  declare  that  it  is
-forbidden to marry a virgin maiden no matter how  qualified  if  her  mother
-and father have a <i>sapinda</i> relationship with each  other,  meaning  that  the
-two grandmothers of the virgin are sisters. Those who  disregard  this  rule
-and marry such a maiden anyway  verily  commit  sin,  as  only  after  seven
-generations of <i>sapinda</i> free marriages  are  the  sinful  reactions  of  such
-incestuous  relationships  neutralized.  Possessing   this   knowledge   the
-Vaisnavas  and  the  twice  born  Brahmins  act  accordingly  and   steadily
-progressing  in  their  spiritual  development  advance  with  clarity   and
-comprehension.
-<p>
-What is prescribed in the Vedic scriptures  is  <i>sanatan  dharma</i>  or  eternal
-righteousness  and  anything   contrary   to   this   is   against   eternal
-righteousness. Those in <i>sattva guna</i> always acknowledge the authority of  the
-Vedic  scriptures  and  never  act  contrary  to  the   ancient,   perennial
-principles of <i>sanatan dharma.</i> So the word <i>utsrjya</i> meaning rejected does  not
-refer to them. It applies to  those  in  <i>raja  guna</i>  who  belligerently  and
-insidiously oppose the Vedic scriptures and those in <i>tama guna</i>  who  out  of
-lack of effort and intelligence ignore and  are  indifferent  to  the  Vedic
-scriptures. Those who were never properly taught the knowledge of the  Vedic
-scriptures or who were never exposed and are unaware  of  the  teachings  of
-the Vedic scriptures or who were unqualified to learn the knowledge  of  the
-Vedic scriptures due to circumstances is  what  is  indicated  here.  It  is
-reasonable and plausible to assume that there  must  be  some  gradation  in
-this rejection and this is the  purpose  of  Lord  Krishna  delineating  the
-three fold positions of the <i>gunas.</i> So such denial  is  the  result  of  non-
-awareness of the universal values enshrined within the Vedic scriptures  for
-the ultimate benefit of all creation.
-<p>
+When a <i>jiva</i> or embodied being due to the mercy  of  the  Vaisnava  spiritual
+master, attains the auspiciousness of <i>bhakti</i> or  exclusive  loving  devotion
+unto the Supreme Lord Krishna at that  time  the  Supreme  Lord  Himself  as
+<i>paramatma</i> the Supreme Soul inconceivably resides simultaneously  within  the
+etheric heart of every <i>jiva</i>  or  embodied  being  commences  to  direct  the
+actions of that blessed disciple of His  servitor,  the  Vaisnava  spiritual
+master, who guides and instructs through his  words  and  actions.  Although
+the Supreme Lord is continuously entering and departing each and every  womb
+along with every <i>jiva</i> and <i>atma,</i> he does not desire any recompense for  this.
+In the Moksa Dharma known also as the Mahabharata it is stated: Even  though
+the <i>jiva</i> witnesses the temporal emotions,  merits  and  demerits  and  knows
+what is ultimately beneficial it is powerless to oppose  them.  Even  though
+moving hither and thither to the four corners of the planet,  enjoying  here
+and suffering there, all actions  are  actually  energised  by  the  Supreme
+Lord. Even when conquering and winning if one considers themselves  a  great
+personality, factually they are only performing as ordained by  the  Supreme
+Lord. Even as a vehicle controlled by someone moves  a  passenger  from  one
+location to another. In the same manner  the  <i>jiva</i>  transmigrates  from  one
+body to another controlled by the potency of the Supreme Lord.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-In chapter sixteen  the  Supreme  Lord  Krishna  delineated  the  difference
-between those endowed with  the  divine  nature  and  those  possessing  the
-demoniac nature. The conclusion of that chapter is that the  absolute  truth
-and highest benefit for all creation as  well  as  the  means  by  which  to
-attain communion with the ultimate reality of  the  Supreme  Lord  is  based
-exclusively on the authority of the Vedic scriptures and no other source.
-<p>
-In this  chapter  it  will  be  illustrated  that  activities  performed  in
-contradiction to the Vedic scriptures actually oppose  the  divine  will  of
-creation and  prove  to  be  destabilising  and  destructive.  The  question
-involved is  not  concerned  with  contradictory  activities.  The  question
-refers to religious activities performed  not  contradictory  to  the  Vedic
-scriptures whether in <i>sattva guna</i> the mode of goodness<i>, raja guna</i>  the  mode
-of passion or <i>tama guna</i> the mode of ignorance corresponding  to  the  intent
-and motive and if they are performed with faith what is  the  difference  in
-results. If one is indifferent or not knowledgeable about  the  veracity  of
-the paramount position of the Vedic scriptures  and  performs  instead  with
-faith the traditional rituals that one was born into, does that   constitute
-<i>sattva guna, raja guna</i> or <i>tama guna</i> and what are the results.
-<p>
-Questioned in this manner Lord Krishna  refrains  from  speaking  about  the
-utter futility of performing any activity contrary to Vedic scriptures  even
-with faith and immediately expounds  upon  the  relationship  of  the  three
-<i>gunas</i> or modes of material nature<i>.</i>
+Whatever body a <i>jiva</i> or  embodied  being  is  subjected  to  reside  in  and
+whatever body they depart from; the <i>atma</i> or immortal soul  is  automatically
+accompanied by the five senses and the  mind.  Lord  Krishna  explains  this
+process as similar to  a  breeze  which  picks  up  the  scents  of  flowers
+carrying them through through the air from one location to another.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-In the preceding chapter the Supreme Lord Krishna spoke  of  the  difference
-between those endowed with  the  divine  nature  and  those  possessing  the
-demoniac nature. He described the qualities of each and emphasised that  the
-divine endowments should be cultivated and embellished  while  the  demoniac
-nature should be rejected and  avoided  by  all  means.  This  confirms  the
-reality that to become qualified for spiritual knowledge  an  aspirant  must
-be exclusively situated in  <i>sattva  guna</i>  or  the  mode  of  goodness  which
-empowers one to perform only actions that are  in  harmony  with  the  Vedic
-scriptures. Furthermore Lord Krishna established the fact that the  absolute
-authority of the Vedic scriptures is the exclusive reference  to  understand
-what is proper and  what  is  improper,  what  is  acceptable  and  what  is
-unacceptable and no  other  source  is  warranted.  One  should  accept  the
-impeccable authority of the  Vedic  scriptures  wholeheartedly  and  act  in
-accordance with the  Vedic  ordinances  and  injunctions  which  bestow  the
-highest benefit for all creation while avoiding  the  prohibitions  as  they
-lead only to degradation and sin. Acting contradictory to any aspect of  the
-Vedic scriptures are activities of <i>raja  guna</i>  the  mode  of  passion  while
-indifference to them is <i>tama guna</i> the  mode  of  ignorance.  Both  of  these
-modes definitely insures that  one  will  incarnate  into  lower  and  lower
-species of life such as  dogs,  pigs  and  reptiles.  Those  who  spitefully
-disregard the Vedic scriptures and  insidiously  disrespect  the  authorised
-promulgators of the Vedic scriptures are certainly of  the  demoniac  nature
-and as such they degenerate into the most degraded existences.
+When and how the mind and senses accompany the  <i>jiva</i> or  embodied  being  in
+the process of transmigration from one body at the time of death to  another
+at the time of conception is clarified by Lord Krishna. The purport is  that
+wherever the <i>jiva</i> departs from a body and whenever it is compeled to  accept
+another body the  <i>atma</i> or immortal soul migrating from one body to  another,
+arrives with the subtle forms of the mind and  senses  in  tact  to  perform
+their functions through the physical body which has  been  allotted  due  to
+<i>karma</i> or reactions to previous actions.  The  Supreme  Lord  clarifies  this
+with the analogy of the wind carrying  the  scents  of  flowers  to  various
+locations.
 <p>
-Lord Krishna begins the seventeenth chapter explaining the  three  types  of
-faith found in those possessing characteristics of each <i>guna</i>  regarding  the
-types of food one eats, the type  of  rituals  one  performs,  the  kind  of
-austerities one undertakes etc. Any  action  executed  with  faith  that  is
-dominated by evil intentions resides in <i>tama guna</i> and  is  characterised  by
-demoniac  conceptions  and  activities  hence  enslavement  and  bondage  in
-material existence. But there  are  some  who  out  of  ignorance,  lack  of
-exposure or unawareness do not adhere to the ordinances and  injunctions  of
-the  Vedic  scriptures.  Yet  they  also  avoid  indulgence  in   prohibited
-activities due to desiring respect in society. What will be the position  of
-such a one? Occasionally they will sincerely perform some ritual  or  follow
-some austerity with faith and even though they are not  engaging  in  sinful
-prohibitions because they ignore  the  ordinances  and  injunctions  of  the
-Vedic scriptures they  still  possess  demoniacal  characteristics.  So  the
-query is how are they categorised?
-<p>
-Although they are indifferent to the Vedic scriptures  such  beings  worship
-lesser gods and are following inferior  conceptions.  Some  adhere  to  such
-conceptions due to fear of going to  hell,  some  due  to  tradition,  still
-others due to acceptance in society. They have  no  interest  in  the  Vedic
-scriptures and have never even considered the meaning  of  existence  having
-no desire to understand why they were born and in  knowing  the  purpose  of
-life. If they have heard about the Vedic scriptures they regard them as  not
-applying to them or consider them  to  be  below  the  level  of  their  own
-scriptures which they have never adequately  studied  or  comprehended.  The
-irrefutable evidence is  that there is extremely limited  information  about
-the <i>atma</i> or immortal soul in any  of  the  religious  conceptions  on  Earth
-except in the Vedic scriptures and any credible reference to  the  <i>atma</i>  can
-only be taken from the Vedic scriptures as the source.  The  most  important
-ingredient of  human  existence  is  immortality  of  the  soul  and  it  is
-completely missing in the consciousness of  humanity  except  in  the  Vedic
-culture where it is fully comprehended.  The  word  <i>sraddhaya-anvitah</i>  means
-faithfully. Such faith arises from traditional belief in god  and  religious
-scriptures. One who is ignorant of the Vedic scriptures  is  different  from
-one who is opposed to the Vedic scriptures. So what is the  truth  regarding
-those who are not opposed to the Vedic scriptures but only  indifferent  due
-to following their own traditions and what is there position?  This  is  the
-question Lord Krishna will begin to fully explain in the next verse.
-<p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 1 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 1<br><dt><center><dt><a href="chapter-16.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 8 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 8<br><dt><center><dt><a href="verse-15-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
