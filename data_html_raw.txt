@@ -1,110 +1,91 @@
-<html><head><title>Bhagavad-Gita: Chapter 9, Verse 9</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 15, Verse 9</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 9</font></b></td><td valign=middle align=center><b><font size=5>Confidential Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 9</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09-sel.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-09-09-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 9</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-08-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/09-09.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-09-09-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-08.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-15-08-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-09-09-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-15-08-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-09-09-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-15-08-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-09-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/09-09.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/09-09.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-15-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-08.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-But then it could be  wondered  how  is  it  that  the  Supreme  Lord  being
-responsible for so many diverse activities in creation is  still  not  bound
-by them like the embodied souls. Anticipating such a question  Lord  Krishna
-states that He is  <i>udasinavad  asinam</i>  or  situated  in  neutrality,  so  no
-actions can bind Him. Attachment to the result of  actions  is  what  causes
-bondage. The Supreme Lord has no such attachments being that He is  complete
-possessing everything  with  nothing  to  desire.  Therefore  the  state  of
-neutrality precludes indifference and does not lead to  bondage.  Desire  is
-incompatible with indifference and vice versa thus by neutrality one is  not
-attached.
-<p>
+Lord Krishna enumerates the senses and the purpose they accompany  the  <i>jiva</i>
+or embodied being.  Presiding  over  the  external  sense  organs  the  <i>jiva</i>
+utilises the eyes, the nose, the ears, etc. as well as  the  internal  organ
+which is the mind to experience and  enjoy  sense  objects  such  as  sound,
+taste and touch.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-Indifferent and neutral is what Lord  Krishna  is  indicating  by  the  word
-<i>asaktam</i> meaning unattached. The Vedic scriptures declare  the  Supreme  Lord
-is neither known by speech nor  engaged  in  actions.  The  Bhagavat  Purana
-states: The elements, the performance  of  actions,  time  as  well  as  the
-variegated attributes of all beings are due to His  grace  for  without  His
-grace nothing  would  exist.  The  Supreme  Lord  causes  the  creation  and
-dissolution  of  unlimited  universes  again  and  again   continuously   in
-regulated cyclic succession without any effort. Understanding this  how  can
-He ever be attached to His actions. This is the purport. He never  increases
-by creation or diminishes by dissolution  while  enacting  His  pastimes  of
-performing any action. Naturally the Supreme Lord who controls  all  actions
-can never be bound any action.
+Through the medium of <i>prakriti,</i> the spiritual substratum pervading  physical
+existence, by the <i>gunas</i> or three modes  of  material  nature,  the  <i>jiva</i>  or
+embodied being experiences the instruments of the  senses  in  pursuance  of
+enjoyment. Like  when  one  plays  upon  the  stringed  <i>vina</i>  it  is  played
+factually for the Supreme Lords pleasure alone. But the Supreme Lord  enjoys
+only those attributes and qualities  which  are  auspicious  and  righteous.
+What is inauspicious and unrighteous is only enjoyable  by  the  demons  and
+those who are evil.  Such  inauspiciousness  and  unrighteousness  is  never
+pleasing to Lord Krishna. This can be understood by the  following  analogy.
+Darkness is existing but the moment the sun appears darkness  disappears  so
+the sun has no opportunity to experience  darkness.  In  the  same  way  the
+Supreme Lord never has an occasion to experience what is not auspicious  and
+righteous.
 <p>
+Now begins the summation.
+<p>
+The  Supreme  Lord  Krishna  enjoys  through  the  senses  the   auspicious,
+propitious  activities  ordained   in   Vedic   scriptures.   Although   the
+resplendent Supreme Lord is completely blissful and satified  in  every  way
+He experinces these things like participating in a sporting manner.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The seemingly complex diversities of creation never  implicate  the  Supreme
-Lord Krishna nor do they indicate a charge of mercilessness against Him  due
-to His being <i>asaktam</i> or unattached. This is because the differences and  all
-inequalities that exist in the demigods, humans, animals and plants lies  in
-the fact that all <i>jivas</i> or embodied beings which  are  of  a  conscious  and
-sentient nature have to account to the reactions of their  past  good  deeds
-and misdeeds and hence their own  actions  determine  such  differences  and
-inequalities. Hence difference in dispensation and inequality in  allocation
-is not to be prescribed from the  Supreme Lord  due  to  the  fact  that  he
-understands such designations  as  the  merits  and  demerits  of  a  living
-entities own <i>karma</i> or reactions to previous actions.  So  He  is  completely
-indifferent and totally neutral in  all  respects.  If  one  were  still  to
-object that this conduct is not exemplary due to  the  lack  of  distinction
-between all <i>atma's</i> or souls at time  of  dissolution,  it  still  is  not  a
-legitimate objection because all <i>atma's</i> are  immortal  and  exist  eternally
-and each and every one is accounted for. Also non-distinction at the tim  of
-dissolution is valid because names and forms were absent  at  the  time  and
-all  <i>atma's</i> existed before creation and creation  is  without  beginning  as
-confirmed in Brahma Sutras  II.I.XXXV  beginning  <i>na  karmavibhagad-iti-chet</i>
-which clarifies this objection  as  not  being  valid  because  creation  is
-without beginning.
+Lord Krishna manifesting as the <i>atma</i> is the master of <i>prakriti</i> the  material
+substratum pervading physical existence from which generates  the  <i>gunas</i>  or
+three modes of material nature from whence arise the senses .  The  <i>atma</i>  or
+immortal  soul  rules  the  senses  as  they  are   designed   to   function
+experiencing through  them  the  enjoyable  delights  of  their  appropriate
+objects such as sights and sounds.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
 <p>
 <p>
-When the Supreme Lord initiates such actions as creation  which  appears  at
-times to be unequal and unbalanced how is it that He is not bound  by  these
-actions like the <i>jivas</i> or embodied beings. It is because  He  is  <i>udasinavad</i>
-<i>asinam</i> or neutral and indifferent, because He is completely  self-satisfied.
-What Lord Krishna is also indicating is that one  who  is  self  content  is
-unattached to the results of actions while one with  attachment  to  actions
-is bound by such attachment and must accept  the  subsequent  reactions.  If
-Lord  Krishna  was  not  neutrally  disposed  to  all  acts   of   creation,
-sustenance, preservation, dissolution, etc. then  His  doership  could  have
-some bias and not be equally justifiable  for  all.  The  adjective  <i>asaktam</i>
-meaning unattached denotes that the Supreme Lord is complete  and  fulfilled
-in all respects. 
+<p>
+<p>
+Lord Krishna further clarifies what objects accompany  the  senses  such  as
+the sense of sight, the sense of hearing, etc. The  <i>atma</i>  or  immortal  soul
+dwelling in the etheric heart of every <i>jiva</i> or  embodied  being  experiences
+hearing, seeing, tasting, smelling, touching as  well  as  thinking  through
+the mind. It also experiences the functions of  the  vital  organs  such  as
+breathing of the lungs and beating of the heart along  with  the  organs  of
+locomotion.
 <p>
 <p>
 <p>
-<p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 9, verse 9 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 9<br><dt><center><dt><a href="verse-09-08.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-10.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 9 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 9<br><dt><center><dt><a href="verse-15-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
