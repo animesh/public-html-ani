@@ -1,215 +1,55 @@
-<html><head><title>Bhagavad-Gita: Chapter 13, Verse 8, 9, 10, 11, 12</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 18, Verse 76</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 13</font></b></td><td valign=middle align=center><b><font size=5>The Individual Consciousness and The Ultimate Consciousness</font></b></td><td valign=middle align=center><b><font size=5>Verse 8, 9, 10, 11, 12</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13-sel.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-13-06-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 76</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-72-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/13-06.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-13-06-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-72.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-18-72-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-13-06-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-18-72-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-13-06-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-18-72-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-13-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/13-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/13-06.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-18-71.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-73.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-72.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-72.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
+Remembering,  reflecting  and  reminiscing  over  and  over  again  on  this
+astounding divine discourse of Srimad  Bhagavad-Gita  by  the  Supreme  Lord
+Krishna causes Sanjaya to be wonderstruck and joyous.
 <p>
-<p>
-<p>
-Now in order to elucidate at length the purely spiritual <i>ksetra-jna</i>  as  the
-object to be realised  and  its  distinct  difference  from  the  previously
-described <i>ksetra;</i> Lord Krishna will  enumerate  in  these  five  verses  the
-means and path to realisation of the  <i>ksetra-jna</i>  beginning  with  the  word
-<i>amanitvam</i> meaning humility not seeking recognition, <i>adambhitvam</i> means to  be
-without pride, <i>ahimsa</i> is not causing pain to other living beings, <i>ksanti</i>  is
-tolerance  in   the   face   of   insults,   <i>arjava</i>   is   uprightness   and
-straightforwardness, <i>acaryapasana</i> means unreserved and  unmotivated  service
-to the Vaisnava spiritual master,  <i>sauca</i>  means  purity  both  internal  and
-external. In the Sandilya Upanisad beginning <i>saucam  ca  dvividham  prohitam</i>
-refers to two types of purity. External purity is obtained by rubbing  earth
-and water while internal purity is obtained by  purification  of  the  mind.
-The word <i>sthairya</i> means steadfastness on the path of  righteousness  by  one
-who has accepted it, <i>atma-vinigraha</i> or control over the body and the  senses
-which  uncontrolled  hinder  realisation  of  the  <i>atma</i>  or  immortal  soul,
-<i>vairagya indriyartha</i> means renunciation of sense  objects,  <i>ahankarah</i>  means
-relinquishing false ego and identification  of  the  physical  body  as  the
-self, <i>dukha-dosa-anudarsanam</i> means dispassion by  pondering  the  misery  of
-<i>samsara</i> or the perpetual cycle of birth and  death  in  material  existence,
-<i>asakti</i> means equipoise and non-attachment to  wife,  sons  and  other  loved
-ones, <i>anabhisvanga</i> means remaining even minded to s what life gives  whether
-evil or excellence befalls one, <i>sama-citta</i> means to avoid both happiness  or
-distress  by  temporary   external   circumstances.   The   compound   words
-<i>avyabhicarini bhakti</i> means unwavering,  unalloyed  loving  devotion  to  the
-Supreme Lord Krishna and realising the <i>atma</i> in all living  beings,  <i>vivekta-</i>
-<i>desa-sevitam</i> is fondness for  performing  austerities  in  solitary  places,
-<i>aratir  jana-samsadt</i>  means  indifference  to  mundane  topics  and  mundane
-association. The words <i>adhyatma-jnana nityatvam</i> means always  interested  in
-spiritual knowledge and self-realisation and  <i>atma-tattva</i>  or  knowledge  of
-the  immortal  soul  within.  Continuously  reflecting,  contemplating   and
-engaging one's total being in understanding the purpose and  goal  of  human
-existence by comprehending the precise significance of  various  verses  and
-conceptions in the Vedic scriptures to learn and realise the ultimate  truth
-and upon achieving <i>moksa</i> or liberation from material  existence  to  further
-attain the ultimate consciousness and eternal association with  the  Supreme
-Lord which is the highest apex of all existence. Thus these 20 virtues  that
-have been described by Lord Krishna constitute the essence of knowledge  for
-their attributes  are  the  means  which  opens  the  way  to  this  highest
-existence. Whatever is contrary to these 20 virtues of  renowned  excellence
-should  always  be  rejected  as  it  is  understood  to  be  ignorance  and
-emphatically antagonistic to truth. This has been confirmed in by gone  ages
-by great sages and seers such as Vyasa, Vasistha and Parasara.
-<p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-In these five verses Lord Krishna defines the quintessential  qualities  and
-attributes to achieve the means to  fulfil  the  highest  purpose  of  human
-existence. Realisation of these  24  essential  principles  means  knowledge
-through the experience of living them in conjunction  with  the  injunctions
-of the  Vedic  scriptures.  The  Supreme  Lord  Krishna  is  the  object  of
-attainment for these essential principles and is the  ultimate  goal  to  be
-attained. Realisation through experience  equates  to  imbibing  and  living
-these 20 principles. That by  which  things  become  realised  is  known  as
-knowledge. Thus knowledge is known to be a means  of  realisation.  Emphasis
-on <i>jnana</i> or knowledge is herein given as the goal for self-realisation.
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<i>Amanitvam</i> is absence of desire for honour due to reverence and humilty.
-<i>Adambhitva</i> is lack of pride due to simplicity and absence of duplicity.
-<i>Ahimsa</i> is non-violence to others by thought, word or action.
-<i>Ksantih</i> is tolerance, forbearance even when antagonised.
-<i>Arjavam</i> is sincerity and straightforwardness even to those duplicitous.
-<i>Acaryopasana</i> is unmotivated devotion  to  the  guru  who  imparts  spiritual
-knowledge.
-<i>Saucam</i> is purity in thought, word  and  action  to  enable  to  qualify  for
-spiritual knowledge.
-<i>Sthairya</i> is unwavering faith in the spiritual  masters  teachings  from  the
-Vedic scriptures.
-<i>Atma-vinigriha</i> is self control by withdrawing the mind from  pursuits  other
-than spiritual.
-<i>Vairagyam</i> is renunciation of activities unrelated to the soul.
-<i>Anahankara</i> is absence of false ego  or  misidentification  of  the  physical
-body as the self.
-<i>Anudarsanam</i> is reflecting on the evils of  birth  and  inevitable  old  age,
-disease and death.
-<i>Asakti</i> is detachment from over attraction to wife, sons and family members.
-<i>Anabhisvangah</i> is neutrality in both happiness and distress.
-<i>Sama-citta</i>  is  equipoise  of  mind  in  both  favourable  and  unfavourable
-circumstances.
-<i>Bhaktih</i> is rendering exclusive loving devotion to the Supreme Lord Krishna.
-<i>Vivikta-desa-sevitvam</i> is fondness for solitary  places  out  in  nature  for
-inhabiting.
-<i>Adhyatma-jnana-nityatvam</i> is to be permanently established  in  knowledge  of
-the soul.
-<i>Tattva-jnana-darsana</i> is contemplating the spiritual teachings of  the  Vedas
-to gain insight.
-<i>Jnana</i> refers to  that  knowledge  where  one  can  achieve  <i>atma  tattva</i>  or
-realisation of the soul<i>.</i>
-<p>
-The aggregate of imbibing these 20  most  excellent  attributes  facilitates
-<i>atma tattva</i> within the <i>jiva</i> or embodied  being.  Whatever  is  contrary  and
-opposed  to  these  20  attributes  is  to  be  considered   ignorance   and
-detrimental to any real knowledge of  the  soul.  Next  the  nature  of  the
-<i>ksetra-jna</i> or knower of the field will be delineated by Lord Krishna as  was
-alluded to in chapter 10, verse 3 where He states: One who knows Me.
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+The wonderous  and  amazing  recitation  of  Srimad  Bhagavad-Gita  by  Lord
+Krishna directly heard and seen by Sanjaya by  clairaudience  and  celestial
+vision sanctified and rejuvenated him. Reminiscing on this divine  discourse
+over and over again he became increasingly ecstatic and thrilled.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Having described the characteristics of the <i>ksetra</i>  or  field  of  activity,
-Lord Krishna enumerates the attributes that  are  required  to  qualify  for
-knowledge of the nature of <i>ksetra-jna</i> or knower of the  field  of  activity.
-The absence of desire for  honour  and  the  absence  of  pride  imply  both
-reverence for the Supreme Lord and  absence  of  hypocrisy.  Thus  a  person
-becomes righteous by only performing pious  activities  in  accordance  with
-the injunctions  of  the  Vedic  scriptures.  Such  a  person  automatically
-follows <i>ahimsa</i> or non-violence to any living being by thought, word or  deed
-and possesses tolerance towards others with  an  unperturbed  mind  even  if
-they are antagonistic.  Straightforwardness  without  duplicity  is  another
-quality found in such a person and  of  paramount  importance  is  rendering
-unmotivated devotion to the spiritual master who illuminates  the  path  and
-guides the  disciple  to  transcendental  knowledge.  The  Mundaka  Upanisad
-I.II.XII beginning <i>parikshya lokan karmachitan</i> declares:  Accept  an  <i>acarya</i>
-or spiritual preceptor who is learned and  established  in  the  <i>brahman</i>  or
-spiritual  substratum  pervading  all  existence.  A  preceptor  is  only  a
-spiritual master when his knowledge is established in the Vedic  scriptures,
-when he is pureof heart, when he  has  received  Vaisnava  initiation  in  a
-bonafide <i>parampara</i> or discipliic succession from an <i>acarya</i> devotee  of  Lord
-Krishna or any of His  <i>avatars</i>  or  authorised  incarnations,  when  he  has
-learned sacred rituals and holy mantras from such a preceptor,  when  he  is
-devoted to chanting the Supreme Lord Krishna's holy names and  when  he  has
-full unwavering faith in the eternal  truths  of  the  Vedic  scriptures  as
-taught by his  spiritual  master  and  the  knowledge  of  these  truths  is
-exemplified  in  his  everyday  life.  Only  such  an  exemplary  person  is
-qualified to be an <i>acarya</i> or spiritual master.
+Sanjaya elaborates on his extreme blessedness by expressing the  joyous  and
+ecstatic emotions he feels and experiences by continuously remembering  Lord
+Krishna's divine discourse, Srimad Bhagavad-Gita.
 <p>
-Purity both externally in the body by earth and water and internally in  the
-mind by discrimination, removing the mental  impurities  which  pollute  the
-consciousness. This gives equipoise of mind  in  perturbing  situations  and
-obstacles on the path of <i>moksa</i> or liberation  from  material  existence  and
-also gives control over  the  body,  mind  and  senses,  keeping  them  from
-impetuously rushing down wrong paths prohibited by  the  Vedic  injunctions.
-Acquiring a dispassion of disinterest in  the  sights  and  sounds  of  this
-world and even for the lure of delights in  the  heavenly  planets.  Absence
-identifying the body with soul and lack of false ego  with  concepts  of  I-
-ness and my-ness; or believing one is superior in some way arising from  any
-transitory material conception such as believing  one  special  because  one
-comes from a noble and distinguished lineage. Without spiritual  development
-these conceptions have no value. Reflecting continuously  on  the  suffering
-and misery of material existence which is unavoidable  because  inherent  in
-birth is the inevitable old age, disease and death  and  the  perpetuity  of
-this  life  after  life.  The  Chandogya   Upanisad   VIII.XII.I   beginning
-<i>maghavanmartyam va idam</i> states: Verily  every  <i>jiva</i>  or  embodied  being  is
-subject to pleasure and pain.  Verily there is no  exemption  from  pleasure
-and pain for any being while they are  embodied.  Verily  when  one  is  not
-incorporeal in a physical  body  pleasure  and  pain  are  not  experienced.
-Avoidance of overly attachment to wife, sons and family members as  well  as
-wealth, home and property. Not agitated or unperturbed by  lifes  reversals,
-equipoise in favourable and unfavourable circumstances.
-<p>
-To have unwavering and unalloyed exclusive loving devotion  to  the  Supreme
-Lord Krishna and to worship His transcendental form both externally  in  the
-temple and internally within the heart. Fondness for living in secluded  and
-holy  places  and  avoidance  of  worldly  minded  people  uninterested   in
-spiritual  matters  with  no  attraction  to  the  Supreme   Lord.   Because
-association with saintly persons is essential for spiritual  development  it
-is indispensable for one seeking to advance their spiritual life.  There  is
-an ancient dialogue between the sage Cyavana instructing King  Nahusa  where
-he tells him: One should associate with saintly  persons.  One  should  hear
-instructions from saintly persons. One should indulge  in  discussions  with
-saintly persons and make friendships only with  them;  but  never  with  the
-wicked who should be avoided completely. Association  with  saintly  persons
-is the medicine to remove the disease of materialism  but  association  with
-the wicked is just like poison.
-<p>
-Finally constant devotion to <i>atma tattva</i> or  knowledge  of  the  soul.  That
-true knowledge regarding the  soul  that  is  entirely  different  from  the
-physical body. Observing the Supreme Lord everywhere in  everything  as  the
-means to surmount ignorance and gain endless bliss from  liberation  by  His
-eternal communion. The 20 attributes declared in these verses are  known  to
-be knowledge and are the wisdom by which the Supreme Ultimate Truth  can  be
-realised. Whatever is contrary to these 20 attributes is known as  ignorance
-and is destructive of  wisdom leading to  the  Supreme  Ultimate  Truth  and
-should by all means in every situation be avoided.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 13, verse 8, 9, 10, 11, 12 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 8, 9, 10, 11, 12<br><dt><center><dt><a href="verse-13-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 76 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 76<br><dt><center><dt><a href="verse-18-71.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-73.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
