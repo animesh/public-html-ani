@@ -1,170 +1,122 @@
-<html><head><title>Bhagavad-Gita: Chapter 4, Verse 13</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 3, Verse 37</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 4</font></b></td><td valign=middle align=center><b><font size=5>Approaching the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 13</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04-sel.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-04-13-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 37</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-37-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/04-13.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-04-13-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-37.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-03-37-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-04-13-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-03-37-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-04-13-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-03-37-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-04-12.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-14.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/04-13.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/04-13.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-03-36.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-38.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-37.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-37.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
 <p>
-Some beings perform actions with desire and others perform  actions  without
-desire. Thus the difference in actions although  subtle  can  be  discerned.
-Amongst the performers of actions without  desire  like  the  Vaisnavas  and
-Brahmins there are further  classifications  such  as  <i>uttama</i>  or  superior,
-<i>madhya</i> or good and <i>kanistha</i> or average. How is it that Lord Krishna  who  is
-the originator of all these classifications be  free  from  any  partiality.
-The word <i>catur-varnyam</i>  specifically  denotes  the  four  classes  of  Vedic
-culture only. The Brahmins or priestly class have a preponderance of  <i>sattva</i>
-<i>guna</i> or mode of goodnes and having  their  mind  and  senses  under  control
-their  duties  are  to  spiritually  guide  mankind  in  righteousness.  The
-<i>ksatriya</i>  or  royal  warrior  class  possesses  some  <i>sattva</i>  but   have   a
-preponderance of <i>rajas guna</i> or mode of  passion  and  their  duties  are  to
-protect <i>dharma</i> or righteousness from the influence of evil  and  to  protect
-humanity from demoniac forces. The <i>vaisya's</i> possess some <i>rajas</i>  but  have  a
-preponderance of <i>tama-guna</i>  or  mode  of  ignorance  and  their  duties  are
-farming, agriculture, trade and cow protection. The  <i>sudra</i>  or  lower  class
-possess only a preponderance for <i>tama guna</i> and their duty is  to  serve  the
-three previous classes to earn their livelihood. So  although  Lord  Krishna
-is the origin of them all it should be understood that He  is  not  affected
-by any of them the reason being that He is immutable, imperishable,  eternal
-and transcendental to <i>prakriti</i> or material nature.
+<p>
+<p>
+<p>
+The answer to Arjuna's  previous question is  now  being  answered  by  Lord
+Krishna. The main cause for such flagrant behaviour is <i>kama</i>  or  lust.  Also
+<i>krodha</i> or anger is spoken about but it is actually  instigated  by  lust  as
+well. This is because when <i>kama</i>  is  unable  to  satisfy  its  desires  then
+immediately it takes the form of <i>krodha</i>. This <i>kama</i> is born from  <i>rajas  guna</i>
+or the mode of passion. This indicates that when there  is  an  increase  of
+<i>sattva  guna</i>  or  the  mode  of  goodness  then  <i>kama</i>  will   be   decreased
+proportionately.  It should be clearly understood that <i>kama</i> and  <i>krodha</i>  are
+formidable enemies on the path of <i>moksa</i> or  liberation  from  the  cycle  of
+birth and death. Both  <i>kama</i> and <i>krodha</i> must  be  terminated  by  the  method
+Lord Krishna prescribes in  the  next  verses;  for  it  is  definitely  not
+appropriate to try to appease either of them as it  is  useless  to  try  to
+pacify <i>kama</i> because it has an insatiable appetite  and  is  never  satisfied
+and it is also useless to appease  <i>krodha</i>  because  it  is  has  a  terribly
+temperament and is unpredictably sinful.
+<p>
+<p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
+The influence which is the most powerful and destructive on human beings  is
+<i>kama</i> or lust followed by  <i>krodha</i>  or  anger  which  arises  from  frustrated
+desires. Those who hypothesise contrarily are not cognisant  of  the  subtle
+difference involved  in  the  mixture  of  the  two.  Therefore  it  can  be
+understood that  without  desire  there  is  no  opportunity  for  anger  to
+manifest and indeed it does not. Since there are many causes of anger it  is
+called <i>mahashanah</i> or great  devourer.  Since  anger  becomes  the  cause  of
+committing abominable actions it is called <i>mahapaapma</i> or  great  sinner  and
+because it is counter productive to all human goals of righteousness  it  is
+called <i>mahavairi</i> or great adversary.  
 <p>
 <p>
-<p>
-Lord Krishna is the origin of the four classifications in Vedic  culture  as
-spoken here. Those of <i>sattva guna</i> or the mode of goodness are designated  as
-Brahmins or priestly class. Those of mixed <i>sattva guna</i>  and  <i>rajas  guna</i>  or
-the mode of passion are known as <i>ksatriyas</i> or  warrior  class<i>.</i>  Those  mixed
-with <i>rajas guna</i> and <i>tama guna</i> or the mode of ignorance are  the  <i>vaisyas</i>  or
-mercantile class and those in <i>tama guna</i> are the  <i>sudras</i>  or  servant  class.
-The actions of Lord always possess <i>shama</i> or tranquillity and <i>dama</i>  or  self-
-control in their  performance thus even if He appears to do  nothing  He  is
-the performer and if He  appears  to  be  the  performer  He   is  the  non-
-performer of His actions. Even  though  He  is  the  origin  of  the  entire
-creation He has  no  desires  and  remains  unattached.  Thus  it  has  been
-perceived that those who perform  actions  without  desires,  unattached  to
-rewards have developed an attribute of the Lord.
-<p>
-<p>
-<p>
-<p>
-<p>
-Now begins the summation.
-<p>
-<p>
-<p>
-<p>
-<p>
-The four orders descending in purity from <i>sattva guna</i> to <i>rajas guna</i> to  <i>tama</i>
-<i>guna</i> have been described  here.  Those  in  <i>sattva  guna</i>  are  the  Vaisnava
-devotees of the supreme  Lord  Krishna  possessing  tranquillity  and  self-
-control.  All  others  as  their  <i>sattva</i>  decreases  are  in  <i>tama  guna</i>  in
-descending order. Thus <i>sattva  guna</i>  is  determined  by  one's  ability  and
-capacity to be a devotee of Lord Krishna and the further away  one  is  from
-this the deeper one is covered by <i>tama guna</i> . Thus this  is  the  difference
-between them and occurs naturally due to their  character  and  disposition.
-The differences and conditions acquired due to birth  should  be  understood
-to be merely a designation as devotion to the Supreme Lord Krishna has  been
-seen to arise and manifest in all four orders of existence. Amongst some  it
-is more potent and in others less  so  and  even  these  differences  happen
-naturally according to an  individuals  inherent  attributes.  Although  the
-resplendent Supreme Lord reveals  He  is  <i>kartaram</i>  or  the  origin  of  all
-creation He also reveals He is <i>akartaram</i> or not originated from any  source.
-He is independent in Himself and not created from  anything.  The  adjective
-<i>api</i> used here is to show this special at tribute that there  is  no  creator
-for Him.
 <p>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
-The entire  material manifestation from Brahma down to a blade of grass  has
-been divided by Lord Krishna into the four-fold divisions in  accordance  to
-their natural dispositions and qualities. For humans  they  are  <i>brahmin</i>  or
-the priestly class, <i>kshatriya</i> the royal warrior  class,  <i>vaisya</i>  the  farmer
-and trading class and <i>sudra</i> the servant class. This is in  conformance  with
-their material  natures  being  in  goodness,  passion  or  nescience  which
-subsequently qualifies them for the type of occupation they engage in  their
-life. Creation implies all the universes where He sustains and maintains  as
-well causing them to manifest and unmanifest. Although He is the  origin  of
-all these activities He should be known as  not  being  the  doer.  This  is
-because  the  wondrous  activities  to  be  found   in   creation   although
-originated from Lord Krishna do not bind him as He  is  not  the  doer.  The
-wonderful variety of creation from demigods, humans, animal etc. are  beings
-created by the effects of their own <i>karma</i> or present reactions  to  previous
-actions either by merits or demerits. In as much  as  one's  own  activities
-determines their  <i>karma</i>  activating  what  reward  or  punishment  one  will
-receive; then this is totally determined by each individual  themselves  and
-thus Lord Krishna is no way answerable  to  the  reactions  living  entities
-bring upon themselves  by  their  actions.  There  is  another  reason  Lord
-Krishna is not the doer as well and that is all the embodied being  assuming
-various and diverse forms  get  endowed  with  limbs  and  senses  to  enjoy
-material  objects  being  interested  in  the  rewards  of  their   actions.
-Consequently pursuing this they trap themselves in <i>samsara</i> or the  cycle  of
-birth and death in the material existence. It is all of their own doing  and
-Lord Krishna is not responsible for the desires the living  entities  choose
-to pursue. In the Vedanta-Sutras which are aphorisms  exegetic  of  the  108
-Upanisads by Vedavyasa it states in II.III.XXXIV that: The Supreme Lord  can
-never be reproached for what seems to be partiality  and injustice  seen  as
-rewards and punishments  because  the  results  for  all  human  beings  are
-determined solely by their actions. In the act of manifesting  the  creation
-Lord Krishna is the original source but the instrumental cause  is  <i>prakriti</i>
-or material nature itself and the determining factor for all beings is  that
-they come into their various existences as a  result  of  their  own  <i>karma.</i>
-Except for the will from the original source of Lord Krishna no other  cause
-is needed to  manifest  myriad's  of  marvellous  creations  represented  by
-unlimited and diverse  variegated  beings<i>.</i>  This  is  because  all  embodied
-beings accept a form in accordance to the inherent  primal  force  of  their
-past <i>karma</i>.
+The most powerful obstruction in their pursuit of <i>jnana yoga</i> or the path  of
+cultivating Vedic knowledge is <i>kama</i> or lust. The intense addiction to  enjoy
+sense objects. This addiction is fueled by past habits such  as  remembering
+senses enjoyed or by senses frustrated  in  the  attempt  to  satisfy  one's
+desires. Because the person is helplessly attached  to  the  attraction  and
+aversion of the three <i>gunas</i> or goodness , passion and  nescience  which  are
+constantly fluctuating the mind and senses  influencing  all  beings.   This
+<i>kama</i> is a most powerful enemy and exerting its power  compels  a  person  to
+enter into its province of sense delights in pursuit of  pleasure.  Then  if
+by chance while in the pursuit of sense delights one's desires are  thwarted
+or frustrated then this same lust transforms itself into intense  <i>krodha</i>  or
+anger. Enacting sinful actions in the attempt to  satisfy  one's  frustrated
+senses even if  futilely  and  prepared  to  perpetrate  even  violent  acts
+against anyone that thwarts in any way the gratification  of  their  senses.
+It should be known that <i>kama</i> and <i>krodha</i> arise from <i>rajas guna</i>  or  the  mode
+of passion and it is a very hostile adversary to those who  are  engaged  in
+<i>jnana yoga.</i>
+<p>
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-If not everyone worships Lord Krishna and so many  more  are  worshipers  of
-other religions  and denominations then why is this unbalance  so  prevalent
-in  society.  This  verse  refers  to  the  four  orders  of  Vedic  culture
-exclusively being the <i>brahmins</i> or priestly  class,  the  <i>ksatriya's</i>  or  the
-royal and warrior class, the <i>vaisya's</i> or farming and trading class  and  the
-<i>sudra</i> or the servant classs. These were created  according  to  the  natural
-qualities of their prenatal disposition and classified accordingly to  their
-corresponding birth. The Brahmins have the prenatal  quality  of  <i>sattva</i>  or
-goodness, the <i>ksatriya's</i> have the prenatal  quality  of   <i>rajas</i>  or  passion
-being dominant and <i>sattva</i> being subordinate, the <i>vaisya's</i> have the  prenatal
-quality of <i>tama guna</i> or ignorance  with  <i>rajas</i>  being  subordinate  and  the
-<i>sudras</i> have the prenatal quality  of  ignorance.  Any  other  classification
-outside of these four cannot be claimed to be originated  by  Lord  Krishna.
-Although Lord Krishna is the originator of these four orders He  is  not  to
-be held accountable to the unbalance in  society  as  this  is  due  to  the
-prenatal disposition of all beings based on their activities and  subsequent
-reactions each life.
+Lord Krishna is explicitly confirming that the root cause  and
+great impeller of sins is kama or  lust  known  to  forcefully
+compel one’s senses to race impetuously towards objects of the
+senses. But kama’s subordinate krodha or  anger  is  also  the
+cause of many evils like violence. When lust  is  impeded  and
+desires are frustrated it  is  anger  that  replaces  lust  in
+another form. Hence krodha is also a form  of  kama  and  both
+arise out of rajas guna or the mode of passion. This  suggests
+that by increasing sattva guna or  the  mode  of  goodnes  the
+effects of rajas guna can be decreased  and  subsequently  the
+power of desires is  less.  Because  controlling  desires  one
+controls lust and controlling lust one controls  anger.  There
+is no other way. Thus  one  should  not  miss  that  they  are
+inteconnected and try to control each seperately. But kama  is
+extremely difficult to control  once  it  has  been  activated
+because it is insatiable and it does not become tranquil after
+even enjoying wealth, pleasure of the flesh, kingdoms and even
+the whole world; to the contrary its desires increases exactly
+as a fire increases when oil is poured on it, it rages out  of
+control and so it is an extremely  evil  propensity  and  when
+impeded it explodes into anger destroying all in its path like
+a horrific forest fire.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 4, verse 13 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 13<br><dt><center><dt><a href="verse-04-12.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-14.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 37 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 37<br><dt><center><dt><a href="verse-03-36.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-38.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
