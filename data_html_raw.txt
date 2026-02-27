@@ -1,112 +1,84 @@
-<html><head><title>Bhagavad-Gita: Chapter 8, Verse 7</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 18, Verse 70</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 8</font></b></td><td valign=middle align=center><b><font size=5>Attainment of Salvation</font></b></td><td valign=middle align=center><b><font size=5>Verse 7</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08-sel.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-08-07-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 70</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-66-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/08-07.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-08-07-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-66.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-18-66-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-08-07-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-18-66-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-08-07-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-18-66-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-08-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/08-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/08-07.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-18-65.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-67.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-66.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-66.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-It is natural that the aggregate impressions  previously  enacted  in  one's
-life will be the points of remembrance at the time of death; and  as  it  is
-impossible for a catatonic, moribund person to make  a  special  effort  for
-recollecting  the  Supreme  Lord.  Lord  Krishna  is  thus   compassionately
-advising to always remember Him in everything one  does  meditating  on  Him
-within. But as it is a reality that  constant  meditation  is  not  possible
-without purity of mind  then  one  must  first  performed  their  prescribed
-duties according to <i>varnashram</i> or ones position  and  rank  in  society.  In
-Arjuna's case being a <i>ksatriya</i> or warrior, it was his duty to fight  battles
-for protecting righteousness and so Lord Krishna advises him to  fight  with
-his mind devoted to the Supreme Lord and in this way he will  attain  purity
-of mind. Thus by surrendering one's  mind  which  is  reflective  and  one's
-intellect  which  is  determinative  both  in  devotion  to   Lord   Krishna
-exclusively one will attain Him without fail.
+The result that manifests to one who studies Srimad Bhagavad-Gita  is  being
+revealed by Lord Krishna.  One  who  sings  this  holy  and  blessed  divine
+discourse which is overflowing with righteousness in the  <i>anustap</i>  meter  or
+chants its verses to oneself or to others contemplating will  be  considered
+by Lord Krishna as <i>jnana yagnena</i>  or propitiation and  worship  directly  to
+Him and is the best  of  all  worship.  Even  if  someone  is  reciting  the
+chapters and verses without fully understanding the meaning; yet hearing  it
+from inside the etheric heart as <i>paramatma</i>  the  Supreme  Soul  the  Supreme
+Lord will accept it as pure propitiation and worship  of  Him.  Just  as  in
+everyday life if someone calls out one's name, one will go  to  that  person
+and enquire what they want even if  hardly  known.  In  the  same  way  Lord
+Krishna approaches that someone who chants or sings  the  verses  of  Srimad
+Bhagavad-Gita. This  is  not  mere  conjecture.  It  has  been  proven  with
+evidence with the story of  Ajamila who  called  out  to  his  son  Narayana
+which happens also to be a name of the Supreme Lord at the moment  of  death
+and pleasing the servants of the Supreme  Lord  was  saved  from  a  hellish
+existence. So there should be no doubt about this.
 <p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-In as much as the last flash of consciousness of a dying  person  determines
-a persons destination and specification  in  their  very  next  birth.  This
-flash will naturally be  that  which   one  pondered  and  contemplated  and
-became  accustomed  and  habituated  to  performing  as  a  daily  practice.
-Therefore it is imperative that if one desires to achieve the ultimate  goal
-of human existence they shall learn  about  the  Supreme  Lord  Krishna  and
-becoming attached to Him  unceasingly  meditate  upon  Him  until  the  very
-moment of departure from this material existence at  the  moment  of  death.
-Lord Krishna also advises with  the  words  <i>anusmara</i>  <i>yudhya</i>  meaning  fight
-while remembering Him. This was applicable to Arjuna who was a  <i>ksatriya</i>  or
-warrior from the royal line and it is his  duty  to  protect  righteousness.
-But  it  also  applies  to  everyone  to  perform  their  prescribed  duties
-according  to  the  injunctions  enjoined  in  the  Vedic  scriptures.  This
-includes ones daily  duties  and  sometimes  special  occasional  duties  as
-ordained by <i>varnasrama</i> or one's  position  and  rank  within  society.  Thus
-while performing ones specific  duties  daily  adhering  and  following  the
-ordinances of the Vedic scriptures one  should  meditate  upon  the  Supreme
-Lord with every action one performs. In this  way  one  will  be  constantly
-thinking of Him and perpetually He will be infused  in  ones  consciousness.
-This is the most perfect and expedient way to succeed in  keeping  the  mind
-and will fixed upon Lord Krishna and thus naturally at the moment  of  death
-one who has meditated throughout their life on Him will of course easily  be
-remembering Him at the final moment of departure from the physical body  and
-will  immediately transcend to join Him  in  the  eternal  spiritual  worlds
-according to their wish. There is no doubt about this whatsoever.
-<p>
-Lord Krishna having explained in general for everyone that  the  achievement
-of a particular form and destination in the next life is determined  by  the
-very last thought in this life, He will elucidate  the  different  modes  of
-meditative devotion appropriate for each class and compatible with the  goal
-they cherish to attain. First He will describe in the next  verse  the  type
-of meditation practised by  the  <i>artharthis</i>  or  those  seeking  wealth  and
-fortune as well as the type final thought adopted by  them  consistent  with
-the mode of meditation they use.
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+The Supreme Lord Krishna has resolved and made it eternal  by  speaking  it,
+that whenever His devotee <i>adhyesyate</i> studies the  Srimad  Bhagavad-Gita;  He
+will accept it as an offering consider Himself served  in  <i>jnana-yagnena</i>  as
+direct propitiation and worship unto Him. Such propitiation and  worship  is
+what is inculcated in this divine  discourse  where  by  its  transcendental
+potency  a  mere  reciting  of  the  verses  equates  to   offering   direct
+propitiation and worship unto the Supreme Lord which He affirms He accepts.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-So the reality being that the attainment of a particular cherished  goal  in
-the next life is determined and destined by constant contemplation  upon  it
-has been duly revealed by Lord Krishna. As Arjuna is a worthy  aspirant  for
-<i>moksa</i> or liberation from  material  existence  he  is  being  instructed  to
-judiciously  think  of  the  Supreme  Lord  Krishna  with  every  action  he
-performs. This is what  is  being  indicated  by  the  word  <i>tasmat</i>  meaning
-therefore. The reason is that whatever thoughts the mind is set upon due  to
-habituation it remains fixed to at the moment when death  arises.  Therefore
-one should set their mind  on  Lord  Krishna,  the  Supreme  controller  and
-bestower of all boons at all times. At the same time  one  should  carefully
-avoid all sins in the form of neglecting to perform one's obligatory  duties
-and occasional duties ordained by the injunctions of  the  Vedic  scriptures
-according to <i>varnasrama</i> or ones position and rank in society. Arjuna  was  a
-<i>ksatriya</i> or warrior who was from the royal class and  it  was  his  duty  to
-protect righteousness in the world. With our minds and will being free  from
-impurity  by  performing  natural  occupational  duties  accordingly   being
-unconditionally devoted to the Supreme Lord, we will attain  Him  without  a
-doubt.
+Now Lord Krishna declares that whoever studies  Srimad  Bhagavad-Gita  under
+the tutelage of the spiritual preceptor and learns its purport from him;  by
+this act Lord Krishna accepts it as propitiation  to  Him  if  the  form  of
+wisdom as He previously affirmed in chapter  4,  verse  28  with  the  words
+<i>svadhyaya-jnana-yajnah ca</i> or propitiation by study of the Vedic  scriptures.
+So worship of the Supreme Lord is accomplished by study  and  discussion  of
+the purports, yet His devotee who simply chants or sings  only  the  verses,
+because they are faithfully eulogising Him they are  pleasing  Him  and  are
+dearmost due to aurally hearing from themselves of His gloriesl. Just  as  a
+common  person  may  sing  a  song  extolling  the  virtues  of  some  great
+personality; such a  great personality hearing it will be come most  pleased
+and that common person will become  dear  to  them.  So  in  this  way  Lord
+Krishna is affirming that just by reciting the verses  of  Srimad  Bhagavad-
+Gita one will become dear to Him as one will be glorifying Him by doing  so.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 8, verse 7 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 7<br><dt><center><dt><a href="verse-08-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 70 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 70<br><dt><center><dt><a href="verse-18-65.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-67.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
