@@ -160,4 +160,5 @@ html_content <- paste0(
   '</html>'
 )
 writeLines(html_content, "data.html")
+file.copy(from = "data.html", to = "index.html")
 
