@@ -1,32 +1,32 @@
-<html><head><title>Bhagavad-Gita: Chapter 5, Verse 27 , 28</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 3, Verse 6</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 5</font></b></td><td valign=middle align=center><b><font size=5>Action and Renunciation</font></b></td><td valign=middle align=center><b><font size=5>Verse 27 , 28</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05-sel.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-05-26-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 6</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-06-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/05-26.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-05-26-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-06.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-03-06-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-05-26-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-03-06-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-05-26-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-03-06-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-05-25.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-27.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/05-26.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/05-26.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-03-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-06.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-06.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
@@ -34,88 +34,50 @@
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
 <p>
 <p>
-<p>
-In verse twenty-four of this chapter Lord Krishna stated that a yogi
-attains the Brahman or spiritual substratum pervading all existence. Now
-the method of that yoga or science of the individual consciousness
-attaining communion with the ultimate consciousness is now described in
-brief. External sense objects enter the mind when one thinks about them, so
-one must not think about them. Fixing the gaze up between the eyebrows is
-done to focus them because if the eyes are fully closed then the mind may
-fall asleep and if the eyes are wide open they may look here and there at
-objects, so in order to avoid both these defects one focuses the gaze with
-eyes half closed between the eyebrows or the tip of the nose.  Suspending
-the breath means to harmonise the prana outgoing breath with the apana or
-incoming breath until they both become suspended and by the control of
-breath the mind and senses become controlled. Such a person who has moksa
-or liberation as their only aim are indeed always free from the material
-existence even while living in the material world.
-<p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+The unqualified renunciate  who  in  ignorance  attempts  to  perform  <i>jnana</i>
+<i>yoga</i> the cultivation of spiritual knowledge is  being  censored  now.  In  a
+strong sense Lord Krishna states: that fool who  by  forcefully  restraining
+the senses under the pretext of meditation but  is  inwardly  reflecting  on
+the objects of the senses is a cheat and a charlatan. Being impure the  mind
+of such an impostor lacks the tranquillity and  lucidity  to  practice  such
+meditation.
 <p>
 <p>
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
 <p>
-In  these  two  verses  Lord  Krishna  describes  the  perfected  method  of
-meditaion for achieving <i>atma tattva</i> or realisation of the soul and <i>moksa</i>  or
-liberation from material existence. The method commences by  turning  inward
-with the mind away from all external sense objects  associated  with  sight,
-sound, taste, smell and touch. Then one fixes the vision internally  between
-the eyebrows while simultaneously slowly restraining the inward and  outward
-breaths until they merge into one and pause themselves of their  own  accord
-in the state know as <i>kumbhaka.</i>
+Whosoever without first  unburdening  themselves  of  all  their  sins,  who
+without having first gained mastery  of  their  senses  and  without  having
+first achieved self-control of the  mind.  If  such  a  person  pretends  to
+strives  for  <i>atma-tattva</i>  or  self-realisation  of  the  soul,  with  their
+thoughts dwelling on sense objects due to attachment  for  them  instead  of
+focusing on the eternal soul. Then the conduct of such a one  is  duplicious
+and false and they are a charlatan. Any person acting in this  way  is  only
+deceiving themselves by their own deception and surely  will  never  succeed
+in realising the eternal soul.
 <p>
 <p>
 <p>
-<p>
-<p>
-Now begins the summation.
-<p>
-<p>
-<p>
-<p>
-<p>
-The one who has not received <i>moksa</i> or liberation while  aspiring  for  <i>moksa</i>
-nevertheless has acquired qualities aspiring for <i>moksa.</i>  Thus  human  beings
-acquiring the qualities of <i>moksa</i> acquire spiritual knowledge and  eventually
-achieve <i>moksa</i> by this spiritual knowledge.
-<p>
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-Stopping all activities of the external senses prepares one to qualify for
-practising meditation. Sitting in an erect posture, focusing the eyes half
-closed between the eyebrows or the tip of the nose, equalising the breath
-until suspended rendering the mind and sense incapable of moving to any
-other location except to the atma or soul. Due to fulfilling the above
-meditation one is automatically freed from desire, fear and doubts. Whose
-sole goal and aim is moksa or liberation. Determinedly intent on achieving
-atma tattva or soul realisation such a person is considered to be liberated
-even before fully accomplishing the goal as it is a certainty it will be
-achieved. The ease which this karma yoga or selfless performance of
-prescribed Vedic activities with its nitya or daily duties and its
-naimitika or occasional duities having yoga or the science of the
-individual consciousness attaining communion with the ultimate
-consciousness will next be revealed.
+<i><u>Bhagavad-Gita</u></i>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-In preceding verses Lord Krishna has indicated that a yogi  can  attain  the
-<i>Brahman</i> or  spiritual  substratum  pervading  all  existence  and  <i>moksa</i>  or
-liberation as well Now He presents in brief  the  method  of  meditation  to
-achieve this. The five sense objects sight, sound, taste,  touch  and  smell
-enter the mind through the five gates of the physical body being  the  eyes,
-ears, tongue, hands and nose. All of them  must  be  dextrously  avoided  so
-they exert no influence. The eyes must be half closed focused within on  the
-point between the eyebrows. If they are wide open they may be distracted  by
-external objects and if they are fully  closed  one  may  fall  asleep.  The
-breath must be regulated and controlled until gently and  effortlessly  with
-constant practice the breath  becomes  suspended  automatically  controlling
-the mind and senses. Such a  reflective  and  determined  person  intent  on
-attaining <i>moksa</i>  even  while  steadfastly  practising  such  austerities  is
-liberated in that very life.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 5, verse 27 , 28 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 27 , 28<br><dt><center><dt><a href="verse-05-25.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-27.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+If actions themselves are dependent upon  the  organs  of  the
+senses such as  eyes,  nose,  ears  etc.,  then  how  can  one
+practice to control them. One who is able  to  restrain  their
+body from sense objects still may find their mind attached  to
+sense objects. This is due to impurities caused by passion and
+desires from  past  lifetimes.  Such  a  person  is  called  a
+charlatan. The sense is that the  mind  cannot  be  free  from
+attachment  to  sense  objects  because  of  an   absence   of
+perfection in karma yoga by performing actions without  desire
+thereby destroying the myriads of  sins  collected  from  time
+immemorial. Until and unless this has been achieved knowers of
+the Vedic scriptures call such a one a hypocrite or  charlatan
+and all the efforts of such a charlatan although appearing  as
+a renouncer is of no use for moksa or liberation.
+</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 6 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 6<br><dt><center><dt><a href="verse-03-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
