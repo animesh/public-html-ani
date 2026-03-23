@@ -34,6 +34,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+      - name: Install Bundler
+        run: gem install bundler
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build Jekyll site
