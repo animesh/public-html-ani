@@ -42,10 +42,12 @@ jobs:
         run: gem install bundler
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Install Jekyll (no Gemfile present)
+        run: |
+          gem install jekyll bundler
       - name: Build Jekyll site
         run: |
-          bundle install
-          bundle exec jekyll build --destination _site
+          jekyll build --destination _site
       - name: Upload generated site as Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
