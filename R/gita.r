@@ -160,9 +160,7 @@ html_content <- paste0(
   '</html>'
 )
 writeLines(html_content, "data.html")
-html_content <- paste0(
-  '<html>','<head>','<title>',link_text,'</title>','<meta http-equiv="refresh" content="0; url=',gURL,'">','</head>','</html>'
-)
-writeLines(html_content, "index.html")
-
+#html_content <- paste0('<html>','<head>','<title>',link_text,'</title>','<meta http-equiv="refresh" content="0; url=',gURL,'">','</head>','</html>')
+#writeLines(html_content, "index.html")
+file.copy("data.html", "index.html", overwrite = TRUE)
 
