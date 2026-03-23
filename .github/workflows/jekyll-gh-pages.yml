@@ -29,15 +29,21 @@ jobs:
   # Build job (static index.html from repository root)
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Upload root index.html as Pages artifact
+      - name: Build Jekyll site
+        run: |
+          bundle install
+          bundle exec jekyll build --destination _site
+      - name: Upload generated site as Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: index.html
+          path: _site
 
   # Deployment job
   deploy:
