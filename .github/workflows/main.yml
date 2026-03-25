@@ -1,7 +1,7 @@
 name: Gita
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 4 * * *"
 permissions:
   contents: write
 jobs:
@@ -25,8 +25,14 @@ jobs:
           git fetch origin gita
           git reset --hard origin/gita
           sudo Rscript R/gita.r
+          echo "=== GIT STATUS AFTER RUN ==="
+          git status
+          echo "=== GIT DIFF (if any) ==="
+          git diff --stat
           if ! git diff --quiet --exit-code; then
+            echo "Changes detected, committing..."
             git add --all
+            git status
             git commit -m "add data"
             git push origin gita
           else
