@@ -1,0 +1,34 @@
+name: Gita
+on:
+  schedule:
+    - cron: "0 6 * * *"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies and run script
+        run: |
+          sudo apt -y update
+          sudo apt install -y r-base libpng-dev zlib1g-dev r-cran-png
+          sudo Rscript R/gita.r
+      - name: Configure git
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+      - name: Sync and push changes if any
+        run: |
+          git fetch origin gita
+          git reset --hard origin/gita
+          sudo Rscript R/gita.r
+          if ! git diff --quiet --exit-code; then
+            git add --all
+            git commit -m "add data"
+            git push origin gita
+          else
+            echo "No changes to commit"
+          fi
