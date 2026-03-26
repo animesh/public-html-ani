@@ -1,111 +1,85 @@
-<html><head><title>Bhagavad-Gita: Chapter 18, Verse 54</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 7, Verse 29</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 54</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-50-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 7</font></b></td><td valign=middle align=center><b><font size=5>Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 29</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07-sel.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-07-29-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-50.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-18-50-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/07-29.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-07-29-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-18-50-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-07-29-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-18-50-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-07-29-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-18-49.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-51.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-50.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-50.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-07-28.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-30.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/07-29.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/07-29.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The  result  of  remaining  steadfast  in  realisation  of  the  <i>Brahman</i>  or
-spiritual  substratum  pervading  all  existence  is   that   serenity   and
-tranquillity is the natural state of mind which is unperturbed by  what  may
-have been lost as well as devoid of desires over what is yet  to  be  gained
-for such an unwavering mind does not identify itself with the physical  body
-or concern itself with mundane pursuits. Hence exhibiting equipoise  to  all
-<i>jivas</i> or embodied beings due to the absence  of  distractions  arising  from
-obsession and aversion such a one attains supreme devotion  to  the  Supreme
-Lord Krishna in the form of perceiving that He is existing as <i>paramatma</i>  the
-omniscient all pervading super soul in every <i>jiva.</i>
+<p>
+<p>
+<p>
+<p>
+Therefore those who have  purified  their  consciousness  after  innumerable
+lifetimes performing meritorious spiritual activities  get  the  association
+of a pure devotee of the Supreme Lord Krishna and have  the  opportunity  to
+exclusively worship Him. Becoming His devotee they come to know all that  is
+to be known are completely satisfied. This is being stated  with  the  words
+<i>jara-marana-moksaya</i>  meaning  desiring  freedom  from  old  age  and  death.
+Knowledgeable of the supreme <i>brahman</i> or the spiritual  substratum  pervading
+all existence, cognisant of the <i>atma</i> or eternal soul and aware  that  it  is
+distinct from the physical body of every sentient being;  such  people  take
+exclusive  shelter  of  the  Supreme  Lord  Krishna  and  diligently   apply
+themselves in His  exclusive  service  following  the  instructions  of  the
+spiritual master in  one  of  the  four  authorised  Vaisnava  <i>parampara</i>  or
+disciplic succession.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
 </td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Lord Krishna gives further characteristics  of  the  spiritually  qualified.
-The words <i>brahma-bhutah</i> means comprehending the eternal nature of  the  <i>atma</i>
-or immortal soul, the infinite nature of its consiousness and its  essential
-relationship with the Supreme Lord. This essential relationship consists  in
-realising that one is dependent upon the Supreme Lord  in  every  aspect  of
-existence and to be grateful to Him for everything. The word <i>prasanna</i>  means
-pure hearted, lucid and clear internally, uncluttered by turbid and  painful
-experiences. <i>Na socati</i> means does not grieve. <i>Na  kanksati</i>  means  does  not
-crave. Since all the love  that  such  an  aspirant  feels  is  totally  and
-exclusively for the Supreme Lord. The  only  grief  such  an  aspirant  ever
-experiences is separation from Lord Krishna and the  only  craving  such  an
-aspirant ever experiences  is  communion  with  Lord  Krishna.  <i>Samah</i>  means
-equanimity and as such looks  at  all  <i>jivas</i>  or  embodied  beings  equally,
-knowing the <i>atma</i> resides  equally  in  all.  It  also  can  manifest  as  an
-attitude of indifference to anything not related  directly  to  the  Supreme
-Lord, avoiding  mundane  actions  and  shunning  worldly  attachments.  <i>Mad-</i>
-<i>bhaktim</i> means exclusive loving devotion unto the  Supreme  Lord  Krishna  in
-the form of sublime and exquisite bliss occasioned by  the  <i>atmas</i>  rapturous
-communion with Him, the Supreme Lord of all lords. The sole creator  of  the
-cosmic manifestation, its evolutions, progressions and dissolutions. Who  is
-the absolute antithesis to all that is evil. Who is the root source  of  all
-creation  and  the  depository  of   boundless,   unlimited   and   glorious
-illustrious attributes and qualities. Who is  united  with  <i>Sri  Laksmi</i>  the
-goddess of fortune. Who is the epitome of beauty and the sovereign of  every
-<i>jiva</i>  being  the  source  of  every  <i>atma.</i>  Lord  Krishna  is  the   supreme
-attainment,  transcendental,  all  pervading,  omnipotent,  omniscient,  far
-beyond material nature.
+Deliverance from old age, disease and death signifies the disenchantment
+and disjunction from material desires and connections by achieving atma
+tattva or realisation of the soul and  comprehending its distinctness from
+physicality replacing it with spiritual knowledge and connections. Those
+who seek and worship the Supreme Lord Krishna with this objective have to
+understand what brahman or the spiritual substratum pervading all existence
+which refers to the arttas or aspirants in verse 16. Have to know what
+adhyatmam or the individual souls which refers to the jijnasur or soul
+seekers in verse 16 and must know karma cakhilam or the different kinds of
+fruitive actions with their subsequent reactions this refers to the jnani
+or seeker of spiritual knowledge in verse 16.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Now Lord Krishna expounds upon the characteristics of  one  who  has  become
-qualified for realising the state of the  <i>brahman</i>  or  spiritual  substratum
-pervading all existence. One who has experienced  the  wisdom  derived  from
-the manifestation of pure knowledge and is  of  cheerful  mind  without  any
-desire for sense objects, who neither greives what is  lost  or  craves  for
-what  is  unachieved,  who  due  to  inner   satisfaction   resulting   from
-perception of the <i>atma</i> or immortal soul, regards a clod of  earth,  a  stone
-and a lump of gold as all the same  and  looks  at  all  <i>jivas</i>  or  embodied
-beings with the same equanimity. Such a one is not a  friend  to  those  who
-praise and honor him; nor an enemy to those who criticise and ridicule  him.
-Such ones attain supreme state known as <i>bhakti</i> or exclusive loving  devotion
-unto the  Supreme Lord. <i>Bhakti</i> is the supreme perfection of  all  knowledge.
-The famous verse in Bhagavat Purana I.VII.X beginning  <i>atmaramas  ca  munayo</i>
-meaning: All types of liberated beings who delight  in  communion  with  the
-immortal soul and are free from material bondage; still  eagerly  desire  to
-render <i>bhakti</i> unto the  Supreme  Lord  Krishna  or  any  of  His  authorised
-incarnations as revealed  in  Vedic  scriptures.  This  confirms  that  Lord
-Krishna has transcendental qualities  and  divine  attributes  so  wonderful
-that even  those  who  have  achieved  <i>moksa</i>  or  liberation  from  material
-existence are still enthused to worship and  serve   Him.  Liberated  beings
-referred to are the four Kumaras led by Sanandana. In  this  way  explaining
-the highest platform as that of one who  renders  <i>bhakti</i>  unto  the  Supreme
-Lord with total purity of  heart  who  is  established  in  <i>atma  tattva</i>  or
-realisation of the immortal soul. Devoid of these qualifications it  is  not
-possible to realise the state of the <i>brahman</i>  in  which  one  perceives  all
-<i>jivas</i> in a state of perfect equanimity. In  the  absence  of  realising  the
-state of <i>brahman</i> it is imposiible to become established in <i>atma  tattva</i>  and
-devoid of <i>atma tattva</i> is is impossible to achieve  the  supreme  destination
-and attain communion with the Supreme Lord.
+Thereafter worshipping the Supreme Lord Krishna such enlightened devotees
+become blessed and acquire knowledge of everything to be known. This is
+specified by the words te brahma tad viduh krtsnam meaning they get
+knowledge of the brahman the spiritual substratum pervading all existence
+and everything else of consequence. They with pure hearts who take complete
+refuge in the Supreme Lord being free from the sway of duality and any
+ideas of rewards for the actions they perform, even for moksa or liberation
+from the cycle of birth and death.. Such enlightened beings understand the
+entire field of action to be performed in the material manifestation
+meaning what is to be done and what is not to be done and the total purpose
+of embodied existence as a human being.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 54 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 54<br><dt><center><dt><a href="verse-18-49.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-51.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 7, verse 29 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 29<br><dt><center><dt><a href="verse-07-28.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-30.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
