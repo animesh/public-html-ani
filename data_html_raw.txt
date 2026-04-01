@@ -1,137 +1,143 @@
-<html><head><title>Bhagavad-Gita: Chapter 8, Verse 14</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 16, Verse 13, 14, 15</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 8</font></b></td><td valign=middle align=center><b><font size=5>Attainment of Salvation</font></b></td><td valign=middle align=center><b><font size=5>Verse 14</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08-sel.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-08-14-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 13, 14, 15</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-10-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/08-14.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-08-14-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-10.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-16-10-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-08-14-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-16-10-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-08-14-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-16-10-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-08-13.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-15.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/08-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/08-14.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-16-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-10.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-10.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Attaining the Supreme Lord Krishna by meditation in this manner at the  time
-of death is only possible if there was diligent practice on  a  daily  basis
-throughout one's life and by no other means can it  be  made  possible.  The
-words <i>nitya-yuktasya</i> mean unwaveringly engaged. To the enlightened and  self
-realised  <i>yogi</i>  or  one  perfected  in  the  science   of   the   individual
-consciousness attaining communion  with  the  ultimate  consciousness  whose
-mind is unwaveringly focused upon  the  Supreme  Lord  continuously  without
-cessation relishing and remembering His <i>rupa</i> or  form,  His  <i>guna</i>  qualities
-and His  <i>lilas</i>  or  divine  pastimes  every  day  then  He  is  very  easily
-accessible but those who do not He is not easily accessible.
-<p>
-<p>
-<p>
+By describing the parameters by  which  the  demoniac  mentality  functions,
+Lord Krishna illustrates  the  hellish  and  degraded  path  they  traverse.
+Ignoring  all  morality  the  demoniac  think  that   whatever   they   find
+pleasurable is for their enjoyment without restriction and they will  scheme
+to obtain it by any means. The demoniac only respect power and might.  Their
+conception is that might is right and hence they will  destroy  whatever  is
+an obstacle to fulfilling their ambitions and  desires,  not  hesitating  to
+injure or even kill others.  The  demoniac  think  that  their  ideology  is
+superior and they resort to deception, hypocrisy, intimidation and force  to
+coerce others to believe  and  accept  such  a  fallacy.  The  demoniac  are
+captivated by lust, greed and false ego.  They  make  concerted  efforts  to
+orchestrate events to  try  to  influence  others  to  acknowledge  them  as
+superior and  in  the  process  immerse  themselves  deeper  and  deeper  in
+illusion. Hence  although  the  demoniac  exercise  considerable  power  and
+various areas of control because they are so completely deluded  as  defined
+by their own degraded mentalities  they keep themselves enslaved in  bondage
+by incessantly pursuing materialistic desires   and  mundane  goals  due  to
+following false ideologies and belief in erroneous concepts.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+There is no commentary to Chapter <i>16, verse 16 by Madhvacarya.</i>
 <p>
-<p>
-<p>
-Ever situated in equanimity is the one  who  constantly  endeavors.  Such  a
-<i>yogi</i> or one  perfected  in  the  science  of  the  individual  consciousness
-attaining  communion  with  the  ultimate  consciousness  is  always   fully
-cognizant in equanimity.
+There is no commentary to Chapter <i>16, verse 17 by Madhvacarya.</i>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The word <i>nityasah</i> or always means  always  since  the  aspirant  consciously
-devoted themselves to Lord Krishna as the exclusive goal. The  word  <i>satanam</i>
-or continuously means at all times. The word <i>smarati</i> or remembering  implies
-that the Supreme Lord has  become  the  sole  object  of  intense  love  and
-devotion so much so that the instant one is  bereft  from  thought  of  Him,
-one's very life feels it is in jeopardy. So one incessantly  meditates  upon
-Him. The words <i>nitya-yuktasya yoginah</i> is the enlightened one who yearns  for
-eternal relationship with Lord Krishna. This is  the  <i>jnani</i>  or  knower  and
-lover of god to whom the Supreme Lord is very easily  accessible.  What  the
-<i>jnani</i> seeks for his goal is the Supreme Lord only  and  nothing  else.  This
-means that it is not the elevated state  of  consciousness  of  the  Supreme
-Lord that the <i>jijnansur</i> seek or the state  of  unlimited  fortune  like  the
-Supreme Lord that the <i>arthathis</i> or seekers of fortune desire.  The  goal  of
-the <i>jnani</i> is to obtain eternal relationship with the  Supreme  Lord  Krishna
-or any of His authorized <i>avatars</i> or incarnations and expansions as  revealed
-specifically in the Vedic scriptures.
 <p>
-The Supreme Lord is <i>sulabhah</i> or easy to achieve. This means Lord Krishna  is
-happily available and accessible to all those who  are  devoted  to  Him  in
-love and further more He, Himself  is unable to  bear  any  separation  from
-His devotees at any time. Therefore it is He who chooses  to  be  associated
-with them and this is the confidential <i>tattva</i> or  truth.  By  so  doing  the
-Supreme Lord Himself  quickly  carries  to  perfection  by  inspiration  and
-intuition the very method that His votary is performing for  attaining  Him.
-The Supreme Lord Himself removes all obstacles which may hamper  His  chosen
-votary from swiftly progressing to Him simultaneously  while  generating  an
-increase in His devotees love for Him  to  propel  Him  onwards.  The  Katha
-Upanisad II.XXIII beginning <i>yam evaisha  vrinute  tena  labhya</i>  states:  The
-Supreme Lord is attainable by him alone whom He, Himself elects.  This  will
-be explained further in chapter X, verses X and XI  but  now  the  remaining
-verses in this chapter will be focused on showing that there  is  no  return
-to <i>samsara</i> or the perpetual cycle of birth and death for the  <i>jnani</i>  who  is
-the knower and lover of the Supreme Lord nor is there  any  return  for  the
-<i>jijnansur</i> who has achieved <i>atma tattva</i> or soul realisation; but there  is  a
-return to <i>samsara</i> for the <i>arthathi</i> or seeker of wealth  for  they  have  not
-qualified for <i>moksa</i> or liberation from material existence.
+<p>
+<p>
+<p>
+Lord Krishna uses the word <i>idam</i> meaning this. The <i>idam</i> He is  talking  about
+refers to possessions such as wealth, property, family,  etc.  The  demoniac
+mentality is that all my possessions have been acquired by me alone,  by  my
+own efforts and exertions. They believe there is no other  power  or  subtle
+unseen cause involved.  The  word  <i>manoratham</i>  means  desirable  object  and
+whatever is  desirable  the  demoniac  feel  it  is  their  right  to  enjoy
+regardless of morality. The wealth that they gain by  any  means  lawful  or
+unlawful, or by cheating and stealing they see as moral and rightful  as  it
+was gained by their own brain and brawn over others  brain  and  brawn.  The
+demoniac follow the idea that might is right  and  do  not  believe  in  any
+subjective force or higher power. They forcefully take whatever they  desire
+and are totally unconcerned of  any  consequences,  oblivious  to  even  the
+possibility that a god or supreme force sanctioning their  endeavours  could
+exist. The demoniac feel that they are so powerful that they themselves  are
+gods because they can destroy their enemies as a whim and consider  everyone
+except themselves to be of unimportance.
+<p>
+<p>
+<p>
+<p>
+<p>
+The demoniac think like the following examples illustrate.  I  am  the  most
+powerful. I was born into a dynasty of aristocracy and wealth. Who  else  in
+this world is equal to  me?  Who  else  by  dint  of  their  exertions  have
+acquired every pleasure there is to enjoy and secured so much happiness  and
+stability? I will eat, drink and be merry, enjoying sense  gratification  to
+the maximum without restraint. There is no need for me  to  believe  in  any
+god or supreme power; but anyway I will  perform  some  pseudo  rituals  and
+imitate some pious activities by ostentatious donations for charity to  gain
+renown so others will think that I am also a great religious personality  as
+well. This is how the demoniac think.
+<p>
+<p>
+<p>
+<p>
+<p>
+The demoniac see themselves  as  the  enjoyers,  the  manipulators  and  the
+controllers, The demoniac believe that they are all  powerful,  independent,
+masters of their own destines and independent  of  any  supreme  and  unseen
+power; but so deluded are they that they completely ignore the reality  that
+death  will  come  and  indiscriminately  abduct   them   from   all   their
+possessions. This is mysteriously completely imperceptible to them.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Thus Lord Krishna described the final departure of  the  body  by  a  normal
-aspirant at the time of  death.  Now  He  will  discourse  about  the  final
-departure of the <i>yogi</i> or one perfected in  the  science  of  the  individual
-consciousness attaining communion with the ultimate  consciousness,  who  is
-His exclusive devotee. He asserts this with the words <i>ananya-cetasa</i>  meaning
-with fixed consciousness. What does this mean? It means undivided  attention
-to the <i>rupa</i> or form, <i>guna</i>  or  qualities,  <i>lilas</i>  or  divine  pastimes  etc.
-Although these attributes are beyond the reach and  scope  of  non-devotees;
-for His surrendered devotees He, Himself is not able to behold His  devotees
-pangs of separation from Him and thus Lord Krishna  is  incapable  of  being
-separated from them due to the fact that He is  totally  attached  to  their
-feelings of deep love for  Him  in  <i>vatsalya  rasa</i>  or  parental  affection,
-<i>sakhya rasa</i> or affectionate friendship, etc. So the <i>yogi</i>  who  has  achieved
-such an exalted state internally who  is  always  thinking  of  Him  who  is
-always expressing devotion to Him with consciousness  unwavering  from  Him.
-Such a person is equally as dear to Him and thus  very  easily  is  able  to
-have regular communion with the Supreme Lord.
+Lord Krishna  explicitly  emphasises  that  the  demoniac  are  consumed  by
+incessantly hankering for the fulfilment of their  insatiable  desires.  The
+demoniac are always thinking about what they have gained and enjoyed  today,
+what they will gain and enjoy tomorrow and what they will gain and enjoy  in
+the future. The demoniac do not believe in destiny and fate but only in  the
+capabilities of  their  own  efforts,  intelligence  and  power.  Destroying
+anything that  obstructs  their  desires  and  gets  in  the  way  of  their
+ambitions, the demoniac think today I have destroyed a formidable  enemy  by
+my power and might, tomorrow I shall destroy more enemies because I  am  all
+powerful. I am master of my own destiny, invincible and independent. All  is
+for my enjoyment. Everyone is inferior to me. I  am  wealthy,  highborn  and
+thus superior. I am the enjoyer. None is my equal.
 <p>
-This verse also infers that He is not easily accessible  to  those  who  are
-not His devotee even  if  thy  have  dedicated  their  lives  to  performing
-different <i>yoga</i> practices.  The reason for this being is that Lord  Krishna's
-transcendental nature is such that He can  only  be  accessed  by  exclusive
-devotion and by no other way. Various Vedic scriptures confirm that only  by
-by <i>bhakti</i> or loving devotion can the Supreme Lord  by  revealed.  The  Katha
-Upanisad I.II.VII states: The Supreme Lord is He whom, even  when  heard  is
-not known without loving devotion. The  Katha  Upanisad  I.II.XXIII  states:
-The Supreme Lord is not to be attained by  instruction,  nor  by  intellect,
-nor by instruction. He is attained only by one whom He has chosen  and  only
-to such a one  does  He  reveals  Himself.  So  it  is  absolute  that  only
-<i>bhakti</i> can attract Him and only <i>bhakti</i> can reveal  Him.  So  <i>bhakti</i>  is  the
-best.
+Observing that those  endowed  with  the  divine  nature  sometimes  achieve
+phenomenal  fame  and  extraordinary  acclaim  by   performing   ritualistic
+activities of  righteous  nature  for  the  benefit  of  all  creation;  the
+demoniac spitefully concoct their  own  ritualistic  activities  based  upon
+evil and clandestinely engage in fiendish activities such as offering  blood
+sacrifices  and  vampirism  to  disincarnate  spirits,  ghosts  and   demons
+channelling in ghastly  and  horrendous  non-human  energies  to  whom  they
+sacrifice infants and humans in exchange for material  power.  This  is  how
+they covertly operate in secret.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 8, verse 14 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 14<br><dt><center><dt><a href="verse-08-13.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-15.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+The demoniac also diabolically and deceptively imitate those of  the  divine
+nature by pretending  to  be  compassionate  philanthropists  and  establish
+institutions  bearing  their  name  that  give  ostentatious  donations  for
+hospitals and charitable organisations for  feeding  the  poor  as  well  as
+contributing to religious societies where they can  showcase  themselves  as
+appearing pious. This is how they openly operate in public.
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 13, 14, 15 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 13, 14, 15<br><dt><center><dt><a href="verse-16-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
