@@ -1,143 +1,163 @@
-<html><head><title>Bhagavad-Gita: Chapter 16, Verse 13, 14, 15</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 18, Verse 12</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 13, 14, 15</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-10-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 12</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-12-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-10.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-16-10-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-12.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-18-12-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-16-10-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-18-12-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-16-10-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-18-12-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-16-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-10.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-18-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-12.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-By describing the parameters by  which  the  demoniac  mentality  functions,
-Lord Krishna illustrates  the  hellish  and  degraded  path  they  traverse.
-Ignoring  all  morality  the  demoniac  think  that   whatever   they   find
-pleasurable is for their enjoyment without restriction and they will  scheme
-to obtain it by any means. The demoniac only respect power and might.  Their
-conception is that might is right and hence they will  destroy  whatever  is
-an obstacle to fulfilling their ambitions and  desires,  not  hesitating  to
-injure or even kill others.  The  demoniac  think  that  their  ideology  is
-superior and they resort to deception, hypocrisy, intimidation and force  to
-coerce others to believe  and  accept  such  a  fallacy.  The  demoniac  are
-captivated by lust, greed and false ego.  They  make  concerted  efforts  to
-orchestrate events to  try  to  influence  others  to  acknowledge  them  as
-superior and  in  the  process  immerse  themselves  deeper  and  deeper  in
-illusion. Hence  although  the  demoniac  exercise  considerable  power  and
-various areas of control because they are so completely deluded  as  defined
-by their own degraded mentalities  they keep themselves enslaved in  bondage
-by incessantly pursuing materialistic desires   and  mundane  goals  due  to
-following false ideologies and belief in erroneous concepts.
+The result of renunciation of the desire for  rewards  is  being  stated  by
+Lord Krishna. The threefold results of  actions  are  disagreeable  such  as
+birth in the hellish planets resulting  from  sinful  activities.  Agreeable
+such as birth in the heavenly planets  resulting  from  virtuous  activities
+and mixed which is birth as a human resulting from both sinful and  virtuous
+activities. But these destinations are only awarded to those  who  have  not
+fully engaged in renunciation. Those <i>jivas</i> or embodied beings who  are  full
+of desires, after death in their next  life  they  get  the  opportunity  to
+pursue these desires, but these limitations never apply  to  those  situated
+in renunciation. The word <i>sannyasinam</i> means  fully  renounced  and  includes
+both those who abandon the desire for the rewards  of  actions  as  well  as
+those who abandon all actions. The purport is that  sinful  activities  that
+would propel  one  to  hellish  planets  are  impossible  for  the  aspirant
+situated in <i>sattva guna</i> the mode of  goodness  and  since  whatever  rewards
+they would receive for  their  virtuous  actions  have  been  renounced  and
+offered to the Supreme Lord none of the threefold results of  actions  would
+have any effect or influence on them.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-There is no commentary to Chapter <i>16, verse 16 by Madhvacarya.</i>
-<p>
-There is no commentary to Chapter <i>16, verse 17 by Madhvacarya.</i>
+Renunciation is being praised and is beneficial for all humanity  regardless
+of status or class. But merely renouncing actions  is  not  sufficient.  For
+those enlightened by the light  of  spiritual  wisdom  and  those  aspirants
+serious about <i>moksa</i> or liberation from material  existence  the  desire  for
+any rewards in the performance of  prescribed  Vedic  activities  have  been
+completely abandoned. For them  the  only  goal  is  the  eternal  bliss  of
+attaining communion with the Supreme Lord  which  is  their  hearts  desire.
+Such enlightened ones perform activities not  for  the  expectation  of  any
+rewards but out of compassion for the benefit of  all  created  beings.  The
+word <i>sannyasinam</i> means totally renounced and this  denotes  that  one  never
+performs activities associated with desire even if they are for the  benefit
+of others. Such sannyasi's or celibate monks in the  renounced  order  along
+with  sages,  ascetics,  rishi's  and   paramahamsa's   who   have   already
+surrendered everything to the Supreme Lord are  no  longer  associated  with
+desires as is a normal human being and thus they take  action  by  inaction.
+They have terminated all <i>karma</i> or reactions to actions and have  transcended
+<i>samskara</i> the perpetual cycle of birth and death. They exist aloof  from  the
+world both internally and externally and wholly devote  themselves  to  <i>atma</i>
+<i>tattva</i> or realisation of the immortal  soul  and  inner  meditation  on  the
+Supreme Lord Krishna or any of His authorised  incarnations  and  expansions
+as revealed in Vedic scriptures.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+There are three types of rewards that  a  <i>jiva</i>  or  embodied  being  accepts
+after death as a result of actions. They are <i>anistam</i> or hellish  rewards  in
+<i>naraka</i> the hellish planets, <i>istam</i> or godly rewards in  <i>svarga</i>  the  heavenly
+realms and <i>misram</i> or human rewards in the  material  worlds.  These  results
+only bind those who have not renounced the  desire  for  rewards  for  their
+actions expecting renumeration.  The  three  types  of  renunciation  to  be
+abandoned are: the rewards of the actions, the  attachment  to  the  actions
+for the reward and the sense of authorship as the doer. If these  three  are
+relinquished then there is no bondage to any action. The word  <i>preyta</i>  means
+after death when in the next life the appropriate  rewards  will  be  reaped
+but it does not preclude  that  some  results  cannot  be  experienced  even
+before death such as having  a  son  or  being  exposed  and  that  as  such
+renunciation may still be applied even while receiving the results in  life.
+But the emphasis is on renouncing the desires to receive rewards  for  one's
+actions. Anyway even if there is some desire for rewards  one  should  never
+under  any  circumstances  peform  any  activity  inimical  to   the   Vedic
+scriptures, the Supreme Lord Krishna or His devotees the Vaisnavas.
 <p>
+It is undeniably true that prescribed Vedic activities  are  obligatory  for
+everyone according to <i>varnasrama</i>  or  rank  and  status  in  life.  This  is
+confirmed by the fact that one is born automatically in  a  certain  family,
+in a  certain  society,  country,  continent,  planet,  etc.  based  on  the
+hankering for rewards in the previous life by which <i>karma</i>  or  reactions  to
+actions were incurred awarding the results of one's  past  life  activities.
+Yet the  very  same  prescribed  activities  performed  without  desire  for
+rewards bestows completely different results. This  is  known  as  known  as
+<i>viniyogah prithaktva nyaya</i> and  is  the  justification  of  dispensation  by
+appropriate application. The aspirant for <i>moksa</i> or liberation from  material
+existence who does not desire any rewards  is  awarded  something  different
+then the furtive hankerer. As declared previously, by  study  of  the  Vedic
+scriptures, by <i>yagna</i>  or  ritual  propitiation  and  worship,  by  <i>tapah</i>  or
+austerities and by <i>danam</i> or charity the Vaisnava Brahmins  seek  to  commune
+with the Supreme Lord.  Hence the <i>sannyasa</i> or renunciation that is  revealed
+in the Vedic scriptures is non-different from <i>tyaja</i> the renunciation of  the
+desire for rewards, both which include absence of authorship and  ego  sense
+and no attachment. In this way prescribed Vedic  activities  and  obligatory
+activities can be performed without reactions proving the reality  that  the
+cessation of all activity is not necessary neither is it  feasible  or  even
+practical.
 <p>
-<p>
-<p>
-Lord Krishna uses the word <i>idam</i> meaning this. The <i>idam</i> He is  talking  about
-refers to possessions such as wealth, property, family,  etc.  The  demoniac
-mentality is that all my possessions have been acquired by me alone,  by  my
-own efforts and exertions. They believe there is no other  power  or  subtle
-unseen cause involved.  The  word  <i>manoratham</i>  means  desirable  object  and
-whatever is  desirable  the  demoniac  feel  it  is  their  right  to  enjoy
-regardless of morality. The wealth that they gain by  any  means  lawful  or
-unlawful, or by cheating and stealing they see as moral and rightful  as  it
-was gained by their own brain and brawn over others  brain  and  brawn.  The
-demoniac follow the idea that might is right  and  do  not  believe  in  any
-subjective force or higher power. They forcefully take whatever they  desire
-and are totally unconcerned of  any  consequences,  oblivious  to  even  the
-possibility that a god or supreme force sanctioning their  endeavours  could
-exist. The demoniac feel that they are so powerful that they themselves  are
-gods because they can destroy their enemies as a whim and consider  everyone
-except themselves to be of unimportance.
-<p>
-<p>
-<p>
-<p>
-<p>
-The demoniac think like the following examples illustrate.  I  am  the  most
-powerful. I was born into a dynasty of aristocracy and wealth. Who  else  in
-this world is equal to  me?  Who  else  by  dint  of  their  exertions  have
-acquired every pleasure there is to enjoy and secured so much happiness  and
-stability? I will eat, drink and be merry, enjoying sense  gratification  to
-the maximum without restraint. There is no need for me  to  believe  in  any
-god or supreme power; but anyway I will  perform  some  pseudo  rituals  and
-imitate some pious activities by ostentatious donations for charity to  gain
-renown so others will think that I am also a great religious personality  as
-well. This is how the demoniac think.
-<p>
-<p>
-<p>
-<p>
-<p>
-The demoniac see themselves  as  the  enjoyers,  the  manipulators  and  the
-controllers, The demoniac believe that they are all  powerful,  independent,
-masters of their own destines and independent  of  any  supreme  and  unseen
-power; but so deluded are they that they completely ignore the reality  that
-death  will  come  and  indiscriminately  abduct   them   from   all   their
-possessions. This is mysteriously completely imperceptible to them.
-<p>
+The manner of divesting from oneself conceptions of authorship  thinking  of
+oneself as the doer is to be situated in <i>sattva guna</i> the  mode  of  goodness
+and assign authorship of all actions which conform to Vedic scriptures  over
+to the Supreme Lord. From this correct determination arises the  feeling  of
+selflessness while performing actions and an absence of  desire  in  actions
+performed. The Supreme Lord controls everything external through His  agency
+of <i>prakriti</i> or the material substratum pervading physical existence and  its
+triplicate agency of the three <i>gunas</i>  or  modes  of  material  nature  which
+impels all <i>jivas</i> or embodied beings to follow the impulses of the <i>pranas</i>  or
+life airs and the natural propensities of the body they inhabit  based  upon
+<i>karma</i> or reactions  to  actions  due  to  desire  for  rewards  in  previous
+lifetimes. Hence even the gratification of  the  senses  such  as  appeasing
+one's appetites and all activities which natures  demands  necessitates  all
+belong to the Supreme Lord and not the individual. Surrendering all  actions
+solely unto the Supreme Lord  is  the  understanding  aspirants  are  imbued
+with.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Lord Krishna  explicitly  emphasises  that  the  demoniac  are  consumed  by
-incessantly hankering for the fulfilment of their  insatiable  desires.  The
-demoniac are always thinking about what they have gained and enjoyed  today,
-what they will gain and enjoy tomorrow and what they will gain and enjoy  in
-the future. The demoniac do not believe in destiny and fate but only in  the
-capabilities of  their  own  efforts,  intelligence  and  power.  Destroying
-anything that  obstructs  their  desires  and  gets  in  the  way  of  their
-ambitions, the demoniac think today I have destroyed a formidable  enemy  by
-my power and might, tomorrow I shall destroy more enemies because I  am  all
-powerful. I am master of my own destiny, invincible and independent. All  is
-for my enjoyment. Everyone is inferior to me. I  am  wealthy,  highborn  and
-thus superior. I am the enjoyer. None is my equal.
+Others may speculate that just as milk  products  such  as  butter,  cheese.
+cream and curds without thinking about them increasing the  fat  content  of
+the  body  anyway  increase  bodily  fat  when  eaten.  Then  likewise   the
+performance of prescribed Vedic  activities  even  without  desire  for  any
+rewards would still yield rewards in the next life which would be  obstacles
+in achieving <i>moksa</i> or liberation from material existence. So such  aspirants
+should refrain from all actions. This conception is refuted by Lord  Krishna
+as He clarifies that the result of those seeking  rewards  for  actions  are
+threefold. Those actions performed  in  righteousness  are  meritorious  and
+they  award  birth  in  the  heavenly  spheres.  Those   actions   performed
+unrighteously are unmeritorious  leading  to  evil  consequences  and  cause
+birth in the hellish planets and birth as animals. Those  actions  that  are
+both a mixture of righteousness  and  unrighteousness   cause  one  to  take
+birth in the human realms. This applies only to those desirious  of  rewards
+for the actions they perform. For those who have renounced  the  desire  for
+rewards completely they are not subject to the  threefold  births  as  there
+are no rewards for them to be attached to as obstacles for achieving  <i>moksa.</i>
+Thus such righteous aspirants never indulge  in  unmeritorious  conduct  and
+hence  no  evil  consequences  are  attached  to  them  and  as  all   their
+meritorious activities are already dedicated to  the  exclusive  satifaction
+of the Supreme Lord, there is no possibilty of them being attached to  their
+actions or any desire therof. So with this understanding there is  no  scope
+for any doubt about this matter.
 <p>
-Observing that those  endowed  with  the  divine  nature  sometimes  achieve
-phenomenal  fame  and  extraordinary  acclaim  by   performing   ritualistic
-activities of  righteous  nature  for  the  benefit  of  all  creation;  the
-demoniac spitefully concoct their  own  ritualistic  activities  based  upon
-evil and clandestinely engage in fiendish activities such as offering  blood
-sacrifices  and  vampirism  to  disincarnate  spirits,  ghosts  and   demons
-channelling in ghastly  and  horrendous  non-human  energies  to  whom  they
-sacrifice infants and humans in exchange for material  power.  This  is  how
-they covertly operate in secret.
-<p>
-The demoniac also diabolically and deceptively imitate those of  the  divine
-nature by pretending  to  be  compassionate  philanthropists  and  establish
-institutions  bearing  their  name  that  give  ostentatious  donations  for
-hospitals and charitable organisations for  feeding  the  poor  as  well  as
-contributing to religious societies where they can  showcase  themselves  as
-appearing pious. This is how they openly operate in public.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 13, 14, 15 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 13, 14, 15<br><dt><center><dt><a href="verse-16-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 12 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 12<br><dt><center><dt><a href="verse-18-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
