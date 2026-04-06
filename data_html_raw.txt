@@ -1,92 +1,64 @@
-<html><head><title>Bhagavad-Gita: Chapter 14, Verse 8</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 1, Verse 40</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 14</font></b></td><td valign=middle align=center><b><font size=5>The Three Qualities of Material Nature</font></b></td><td valign=middle align=center><b><font size=5>Verse 8</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14-sel.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-14-08-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 40</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-33-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/14-08.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-14-08-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-33.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-01-33-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-14-08-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-01-33-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-14-08-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-01-33-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-14-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/14-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/14-08.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-01-32.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-34.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-33.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-33.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The binding nature of <i>tamas</i> or mode of  ignorance  and  its  characteristics
-are now stated by Lord Krishna. The word <i>tamas</i> means darkness and is  arises
-from that  part  of  <i>prakriti</i>  or  the  material  substratum  that  pervades
-physical existence, that possesses the power of <i>mohanam</i>   being  that  which
-deludes into illusion, concealing the true perception. This  power  has  the
-ability to confound and bewilder all <i>jivas</i> or embodied beings.  Hence  <i>tamas</i>
-binds imperiously the <i>jivas</i> through <i>pramada</i> or madness, <i>alasya</i> or  indolence
-and <i>nidrabhis</i> or sleep. <i>Pramada</i> can also includes  listlessness  and  mental
-fragmentation. <i>Alasya</i> can also include laziness and dullness  and  <i>nidrabhis</i>
-can also include inaction of the mind due to inebriation or exhaustion.
+The sinfulness alluded to in the previous verse leads to the degradation of
+the females in the family is being described here.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+<i><u>Madhvacarya has no commentary so we present Baladeva Vidyabhusana's.</u></i>
 <p>
-That by which  one  becomes  obscure  is  called  born  of  <i>ajnana</i>  or  non-
-awareness. This is what is indicated by the words <i>alasya</i>  or  indolence  and
-<i>nibhadhnati</i> or iertia.
+When <i>adharma</i> or unrighteousness controls  the  decorum  of  a  dynasty,  the
+females  in  the  family  unavoidably  become  unchaste  and   their   wombs
+subsequently become contaminated. Because their husbands have  violated  the
+injunctions of the scriptures and engaged themselves  in  committing  sinful
+activities by the destruction of the dynasty,  the  females  of  the  family
+without proper guidance and adequate protection  will  become  depraved  and
+wanton  disregarding  the  etiquette  of  morality  and  decorum  and   thus
+degenerating the females of the family will soon become degraded.
 <p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Lord Krishna describes the  word  <i>ajnana</i>  meaning  ignorance  which  is  the
-antithesis of wisdom. The word  <i>jnana</i>  meaning  knowledge  is  the  precise,
-accurate perception whereas <i>ajnana</i> is the perverted, inaccurate  perception.
-The word <i>tamas</i> means darkness denoting the  darkness  of  ignorance  and  is
-diametrically opposite to the light of knowledge. The word <i>mohanam</i>  is  that
-which deludes into illusion and the darkness of  ignorance.  This  <i>tamas</i>  is
-also the  cause  of  <i>pramada</i>  or  madness  and  listlessness  which  is  the
-inability to focus having a fragmented attention span. It is also the  cause
-of  <i>alasya</i> or  indolence  slothlike  laziness  which  is  the  inability  to
-properly execute any  endeavor  properly  and  <i>nidrabhih</i>  or  sleep  is  the
-disinclination of the senses to function  terminating  all  activities.  All
-these things <i>nibadhanti</i> or binds  one  to  the  material  existence  without
-reprieve.The  sublation  of  the  external  senses  constitutes  the   dream
-state;but when the mind is  also  sublated  then  the  dream  state  becomes
-sleep.
-<p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-<p>
-Now Lord Krishna defines <i>tama guna</i> or the mode of ignorance. The word  <i>tamas</i>
-means darkness  and is  typified by nescience and inertia. It is subject  to
-the greatest delusion that imagines a permanent and pleasant  experience  in
-a  temporary  and  unpleasant  existence.  Those  humans  that   look   upon
-themselves as being their physical body like the animals do and  who  accept
-their physical body as being all that they are all  hopelessly  situated  in
-<i>ajnana</i> or absence of knowledge which is the antithesis of <i>jnana</i>  or  wisdom.
-<i>Jnana</i>  is  the  accurate  precise  understanding  whereas  <i>ajnana</i>   is   the
-inaccurate perverted understanding. The inaccurate  perverted  understanding
-binds the <i>jiva</i> or embodied being through <i>pramada</i> or madness  which  includes
-listlessness  and  bewilderment,  <i>alasya</i>   or   indolence   which   includes
-sluggishness and laziness and <i>nidrbhis</i> or sleep which includes  inebriation.
-Sleep is the cessation of bodily organs arising  from  mental  and  physical
-exhaustion. All of these are permanently situated in <i>tama guna</i> and  invoking
-ignorance tightly bind the <i>jiva.</i>
-<p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 14, verse 8 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 8<br><dt><center><dt><a href="verse-14-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify>Deliberating further Arjuna determines  that  when  unrighteousness  becomes
+predominant in the family due to the loss of  the  father  who  insures  the
+continuation of  the  family  customs  and  the  propagation  of  the  Vedic
+tradition, the females of  the  family  become  easily  accessible  and  are
+placed  in  conditions  of  compromise.  From  this  polluted  and  degraded
+position arises undesirable progeny. The purpose of Arjuna  addressing  Lord
+Krishna by the vocative <i>Varsneya</i> is to remind Him that He took birth in  the
+exalted royal Vrsni dynasty and as such should be fully aware of  all  these
+things.
+</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 40 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 40<br><dt><center><dt><a href="verse-01-32.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-34.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
