@@ -1,66 +1,103 @@
-<html><head><title>Bhagavad-Gita: Chapter 1, Verse 10</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 1, Verse 3</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 10</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-10-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 3</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-03-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-10.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-01-10-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-03.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-01-03-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-01-10-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-01-03-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-01-10-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-01-03-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-01-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-10.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-10.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-01-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-03.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-03.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Duryodhana is implying that allthough his army is mighty it is  insufficient
-due to the fact that Bhishmadeva being affectionate to the Pandavas as  well
-as the Kauravas is not totally committed  to  victory  for  him;  but  Bhima
-being completely committed to the defeat of the Kauravas makes  the  victory
-of the Pandavas stronger and more likely to be successful.
+These very words, O respected preceptor, please  behold  are  understood  to
+introduce this theme up until verse twelve. O  respected  preceptor,  please
+behold  the  Pandava  army  consisting  of  seven  <i>aksauhini's</i>  arrayed  and
+displayed in battle formation by Dhrishtadyumna, the son of Draupada.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <i><u>Madhvacarya has no commentary so we present Baladeva Vidyabhusana's.</u></i>
 <p>
-Now the question arises that if the armies  on  both  sides  were  equal  in
-might, how is it possible that victory  is  assured?  Duryodhana  gives  the
-answer in this verse by using the word <i>aparyantam</i>  in  the  sense  of  being
-unlimited. Duryodhana  to  conceal  his  fear  exclaims  that  his  army  is
-unlimited and moreover they  are  protected  by  Bhishma  who  is  the  most
-intelligent and a <i>maha-ratha</i>; whereas the Pandava army  protected  by  Bhima
-of less intelligence  is  limited.  This  is  why  the  Kaurava  victory  is
-assured.
+Duryodhana is thinking that Drona might decline to fight in the battle,  out
+of affection for the Pandavas who had been his best disciples. So trying  to
+create some anger in Drona towards them, Duryodhana  sneered  and  exclaimed
+<i>pasyaitam:</i> Behold these! Implying that the Pandavas are  despicable  because
+they are blatantly disrespecting the acarya by  choosing  to  fight  against
+their own preceptor.
+<p>
+Then to incite Drona further Duryodhana says that the military formation  of
+the Pandava army has been arrayed by  another  one  of  his  disciples,  the
+intelligent son of Drupada. Duryodhana could have called the son of  Drupada
+by his name Dhristadyumna; but he purposely used  <i>drupada-putra</i>  because  it
+would remind Drona of his  bitter  enemy,  King  Drupada,  who  performed  a
+sacrifice specifically to get a son who would be the slayer of  Drona.  This
+son was Dhristayumna.
+<p>
+Duryodhana is calling Dristadyumna intelligent because he  had  learned  the
+science of warfare from the very person he  was  born  to  kill.  Futhermore
+Duryodhana is implying that it was imprudent of Drona to teach  the  science
+of archery to the very person who was destined  to  kill  him  and  who  was
+known to be his enemy. Duryodhana's intention in expressing these things  is
+that it is because of Drona's indifference to things he was aware of and  in
+educating the enemy anyway will be the cause of all the problems  they  will
+face in the battle.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
 </td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-So it may also be put forth that  if  Duryodhana  is  so  convinced  of  his
-superiority then why does he need to assure himself. In this verse  although
-he states his army is unlimited by its tone it implies  by  his  reply  that
-the army of his with all the mighty heroes previously  mentioned   protected
-by Bhishma seems inadequate, whereas the  army  of  the  Pandavas  which  is
-protected by Bhima seems adequate to him.
+Duryodhana  in order to kindle some anger in  the  heart  of  his  preceptor
+Drona, speaks about the excellence of the Pandava army cynically  using  the
+words: <i>Behold the mighty army of the  Pandavas  well  arranged  in  military</i>
+<i>phalanx.</i> Here Duryodhana is conveying to Drona that the Pandavas  have  come
+prepared to engage in battle. Duryodhana   wants  to  further  incite  Drona
+against the Pandavas by the use  of  the  word  <i>Behold</i>  implying  that  with
+unmitigated arrogance the Pandavas are fast approaching without waiting  for
+us to start who are depending upon Drona himself. If Drona then  puts  forth
+that the Pandavas are his pupils as well and due to Yudhisthira being  elder
+have the right to start  before  you  if  they  so  desire.  But  Duryodhana
+anticipating that response, overtly mentions Dhritadyumna the  commander  of
+the Pandava army by calling him the son of Drupada, to remind  Drona of  his
+being the son of his mortal enemy, so there  should  be  no  compassion  for
+them. If Drona then argues that one should not fight  with  the  son  of  an
+enemy who is commander of an opposing army, Duryodhana   by  also  referring
+to Dhritadyumna as Dronas disciple neutralises that argument by the  offence
+incurred of his in choosing to fight against a preceptor a condemned  action
+so  there  is  no  doubt  as  to  motivation.  Duryodhana  by  also  calling
+Dhristadyumna intelligent suggests that everything as  a  pupil  he  learned
+from Drona would now be used against him so there should  be  no  hesitation
+or neglect towards him as he has made up his mind to take Dronas life.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 10 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 10<br><dt><center><dt><a href="verse-01-09.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-11.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+What Sanjaya is subtlety conveying to Dhritarastra is  that  his  son,  King
+Duryodhana uninfluenced by the sanctity Kuruksetra possesses no  inclination
+for righteousness. A serpent even though fed with  milk  does  give  up  its
+venom; on the contrary it increases its poison and anger. So also  the  same
+regarding your son, you should not worry that he will  ever  return  to  the
+kingdom to the Pandavas for he definitely will not.
+<p>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 3 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 3<br><dt><center><dt><a href="verse-01-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
