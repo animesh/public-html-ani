@@ -1,97 +1,110 @@
-<html><head><title>Bhagavad-Gita: Chapter 11, Verse 25</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 18, Verse 51 , 52 , 53</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 11</font></b></td><td valign=middle align=center><b><font size=5>The Vision of the Universal Form</font></b></td><td valign=middle align=center><b><font size=5>Verse 25</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11-sel.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-11-24-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 51 , 52 , 53</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-49-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/11-24.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-11-24-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-49.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-18-49-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-11-24-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-18-49-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-11-24-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-18-49-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-11-23.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-25.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/11-24.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/11-24.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-18-48.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-50.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-49.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-49.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-The <i>visvarupa</i> or divine universal form of Lord Krishna was so terrifying  of
-visage that  Arjuna  overcome  with  fear  and  trepidation  was  unable  to
-determine the points of the compass and what was up and what  was  down  and
-being completely distraught beseeches Lord Krishna to relieve  his  distress
-with the word <i>prasida</i> meaning please be merciful.
-<p>
+Endued with purified intelligence of a nature  secured  in  <i>sattva  guna</i>  or
+mode of  goodness,  tenacious  control  of  the  mind  insuring  that  one's
+purified intelligence is constant and steady. Relinquishing all desires  for
+sense objects  and  abandoning  the  ever  fickle  dualities  of  likes  and
+dislikes such a one  is  qualified  to  realise  the  <i>brahman</i>  or  spiritual
+substratum  pervading  all  existence.  Such  an  aspirant  will   sequester
+themselves  in  a  pure,  remote  location  such  as  forest  or   mountain.
+Restraining speech, the impulses of the mind and the impetus  of  the  body,
+always devoted to the practice of <i>yoga</i> or facilitating  communion  with  the
+Supreme Lord which comes from reflection, contemplation and meditation  upon
+the Supreme Lord Krishna constantly striving in  this  endeavour  with  firm
+dispassion so that it remains constant and unbroken.  Rejecting  the  egoism
+of the delusion that  one  is  the  doer  and  controller  which  gives  the
+illusion that one is free from  worldly  attachment.  Rejecting  all  things
+superfluous which are inclined to lead one  away  from  spiritual  pursuits.
+Rejection of objects of the senses and the desire  to  enjoy  them  even  if
+they appear unsolicited. Thus one who has steadfastly arrived at this  state
+has become totally tranquil and serene having achieved   supreme  peace  and
+such a one is qualified to realise the <i>brahman.</i>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Those who have achieved <i>moksa</i> or  liberation  from  material  existence  are
-divine beings and enter into one of the abodes of the Supreme  Lord  Krishna
-determined by their devotion to  Him.  The  Brahmanda  Purana  states:  That
-divine liberated beings are not subject to the stringent rules  of  material
-existence but enter into it and depart from it according to  the  desire  of
-their own free will.
-<p>
+Lord Krishna is stating that by imbibing and  actualising  these  attributes
+one assumes the nature of <i>brahman</i> the  spiritual  substratum  pervading  all
+existence.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-Viewing the phenomenal panorama of forms and terrifying  visages  in  active
-mode of Lord Krishna's <i>visvarupa</i> or divine universal form which was  blazing
-flames in all directions was terrible  and  horrifying  like  the  fires  of
-annihilation during the cataclysm at  the  time  of  universal  destruction.
-Arjuna being extremely  afflicted  beseeched  Lord  Krishna  with  the  word
-<i>devasa</i> denoting O' Lord of Brahma and Siva and the  words  <i>jagan-nivasan</i>  O'
-refuge of the universe  and then supplicated  Lord  Krishna  with  the  word
-<i>prasida</i> or be merciful and return his normal human vision  so that he  would
-be able to regain his equilibrium and composure again.
-<p>
-So the Supreme Lord Krishna exhibiting His  <i>visvarupa</i>  demonstrated  how  it
-manifested from Him, functioned through Him and existed within Him. He  will
-now show to Arjuna how by His indomitable  will  He  will  bring  about  the
-destruction of Duryodhana and all the Kauravas along with all the demons  in
-the guise  of  kings  fighting  with  them.  Also  He  will  also  show  the
-destruction of all those possessed of <i>asuric</i> or demoniac nature that may  be
-fighting for kings in the army  of  the  Pandavas,  so  that  <i>Bhumi-devi</i>  or
-Mother Earth will be rid of such a burden. At this time Arjuna began to  see
-with the divine vision bequeathed by Lord Krishna how all the hosts  of  the
-Kaurava army met with their destruction  and  by  who  although  the  actual
-event had not yet transpired.
+<i>Buddhi</i>  is  spiritual  intelligence  the  consciousness  which   exclusively
+focuses on the <i>atma</i>.
+<i>Manas</i> refers to the mind, senses  and  body  which  acting  in  such  a  way
+discourages desires for sense gratification  and  encourages  reflection  on
+the Supreme Lord. <i>Vairagyam-samipasritah</i> means renouncing the objects  which
+the senses hanker for and indifference to  mundane  pursuits.  It  is  while
+chasing such pursuits that occasionally friendship or enmity  transpires  so
+ceasing from these pursuits would free one from <i>raga-dvesau</i>  attraction  and
+repulsion. <i>Vivikta-sevi</i> is seeking solitude  in  remote  places  aloof  from
+disturbances to meditation.  Moderation  in  eating  and  sleeping.  <i>Dhyana-</i>
+<i>yoga</i> means internally  performing  continuous  <i>bhakti</i>  or  exclusive  loving
+devotional service unto the Supreme Lord Krishna or any of  His  <i>avatars</i>  or
+incarnations and expansions as authorised  in  Vedic  scriptures.  Gradually
+increasing aversion towards anything that is not connected to  the  <i>atma</i>  or
+immortal soul and the Supreme Lord. <i>Ahankaram</i> is egoistic  conceptions  that
+considers the body to be all in all and cannot discern  that  they  are  not
+their physical body. <i>Balam</i> is lust for power, <i>darpan</i> is vain  conceit  which
+is derived from it and <i>nirmanam</i> is the notion  one  possesses  what  is  not
+one's own. <i>Santah</i> is  tranquillity   peacefulness,  the  serenity  of  bliss
+acquired by  constant  reflection  and  meditation  upon  the  Supreme  Lord
+qualifies one to achieve realisation of the <i>brahman</i> or spiritual  substratum
+pervading all existence and and achieving <i>moksa</i> or liberation from  material
+existence attains <i>atma tattva</i> or soul realisation and enters into the  bliss
+of communion with the Supreme Lord.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Seeing Lord Krishna's <i>visvarupa</i> or divine  universal  form  with  terrifying
-teeth  and  unlimited  mouths  blazing  conflagrations  like  the  fires  of
-annihilation at the time of universal  destruction.  Arjuna  totally  losing
-his equilibrium was unable to discern in which direction were the  meridians
-north, south, east and west. He beseeches Lord Krishna with the words  <i>deva-</i>
-<i>isa</i> or O' Lord of lords and <i>jagat nivasa</i>  O'  refuge  of  the  universe  and
-requests Him with the word <i>prasida</i> to be merciful so that he may regain  his
-composure.
+Lord  Krishna  explains  that  one   endowed   with   spiritually   purified
+intelligence  is  naturally  predominated  with  <i>sattva  guna</i>  the  mode  of
+goodness.  The  classification  of  higher  and  lower  living  entities  is
+determined by the degree in which the mind is controlled and the senses  are
+restrained. The mind is controlled by not indulging in positive or  negative
+thoughts and  illusory  conceptions  and  the  control  of  the  senses  is
+neutrality  towards  them  without  aversion  or  attraction  towards  their
+objects. By living in pure and remote place, exercising a light,  vegetarian
+diet, moderation of speech, mind and body, three times daily  meditating  on
+the spiritual master and the Supreme Lord morning, noon and evening in  full
+dispassion, completely eradicating all egoism and conceptions  that  one  is
+the  physical  body.  Lack  of  craving  bodily  sense   gratification   and
+soliciting  pleasure  of  the  senses,   absence   of   amassing   excessive
+possessions and freedom from mental disturbances  bestows  the  tranquillity
+and peace of  mind  to  qualify  an  aspirant  to  realise  the  <i>brahman</i>  or
+spiritual substratum pervading  al  existence  which  is  transcendental  to
+material  nature  and  situated  on  the  spiritual  platform  is  pure  and
+impeccable without any defect or blemish.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 11, verse 25 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 25<br><dt><center><dt><a href="verse-11-23.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-25.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 51 , 52 , 53 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 51 , 52 , 53<br><dt><center><dt><a href="verse-18-48.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-50.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
