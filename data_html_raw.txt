@@ -1,109 +1,72 @@
-<html><head><title>Bhagavad-Gita: Chapter 4, Verse 17</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 9, Verse 32</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 4</font></b></td><td valign=middle align=center><b><font size=5>Approaching the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 17</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04-sel.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-04-17-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 9</font></b></td><td valign=middle align=center><b><font size=5>Confidential Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 32</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09-sel.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-09-32-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/04-17.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-04-17-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/09-32.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-09-32-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-04-17-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-09-32-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-04-17-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-09-32-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-04-16.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-18.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/04-17.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/04-17.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-09-31.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-33.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/09-32.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/09-32.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-A question may arise from the previous verse that if bodily  activities  are
-action and the absence of bodily activities is inaction then how is it  that
-even those possessing discrimination are deluded in this matter?  To  answer
-this  question  Lord  Krishna  reveals   that   there   are   some   special
-considerations to understand about the true nature of activities  prescribed
-in the Vedic scriptures as well as the real nature  of  non  performance  of
-actions along with the  factual  nature  of  prohibited  actions  which  are
-forbidden. The intricacies of action and inaction are  mysterious  and  hard
-to fathom and are not commonly  known  in  the  world.  For  example  action
-implies  inaction  as  well  as  prohibited  actions.  How  this  is  to  be
-understood is very mysterious and will be explained next.
+What is there to wonder that <i>bhakti</i> or loving devotion to the  Supreme  Lord
+Krishna purifies one of previously abominable behaviour? When  it  liberates
+from <i>samsara</i> the perpetual cycle of  birth  and  death  even  low  born  and
+unqualified persons. This is being confirmed here that those  born  sinfully
+out of wedlock, those born in the poorest  and  most  degraded  of  families
+such as <i>mleccha</i> or meat eaters, those who are <i>vaisyas</i> the  mercantile  class
+engaged only in business, <i>sudras</i> the menial class, women and all others  who
+are devoid of Vedic knowledge. If any of them are accepted by  the  bonafide
+spiritual preceptor in one of the  four  authorised  channels  of  spiritual
+knowledge and take complete refuge in the Supreme Lord  Krishna  worshipping
+Him or any of His authorised incarnations  and  expansions,  it  is  assured
+undoubtedly that  they  will  attain  the  Supreme  destination  of  eternal
+association with Him.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<i>Moksa</i> or liberation from the material existence  will  not  be  achieved  by
-mere knowing  of the do's and don'ts of action. Only  by  correct  knowledge
-of the nature of  actions  can  one  achieve  <i>moksa.</i>  Factually  this  means
-without knowledge of the resplendent Supreme Lord and how  all  actions  are
-ultimately performed in relation to Him, it will be impossible  to  ever  be
-delivered  from  <i>samsara</i>  or  the  repetitive  cycle  of  birth  and  death.
-Realisation of the Supreme Lord Krishna as <i>paramatma</i>  or  the  Supreme  Soul
-within the  etheric  heart  of  every  living  being  is  the  indispensable
-ingredient for <i>moksa,</i> how can there be  success  any  other  way.  <i>Karma</i>  is
-performing actions, <i>akarma</i> is the non-performance of actions and <i>vikarma</i>  is
-performing improper actions,  which  are  prohibited.  Actions  filled  with
-desire and craving  are <i>vikarma</i> and prohibited.  Why  are  they  prohibited?
-Because they create bondage for the living  entity  to  material  existence.
-Therefore the wise after reflecting and contemplating  the  intricacies  of
-action in this light should  perform  actions  accordingly.  Such  sagacious
-persons do not become deluded and deviate from this  course  during  adverse
-situations even though it is deluding and bewildering for others.
-<p>
-Now begins the summation.
-<p>
-Actions also have originated from Lord Krishna so for this reason  as  well,
-one desirous of their best welfare should by all means become  knowledgeable
-of Him. Since everything has  ultimately  emanated  from  the  Will  of  the
-Supreme  Lord,  including  even  the  energy  behind  every  action  it   is
-superfluous not to accept Him completely but at  least  every  being  should
-understand His supreme position. Only by knowledge of Him can one tread  the
-path that leads to <i>moksa</i> or liberation from the material existence.
-<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The actual nature  of  <i>karma</i>  or  prescribed  Vedic  actions  performed  for
-attaining <i>moksa</i> or liberation from material existence should be  understood.
-Actions which are <i>nitya</i> or regular  and  actions  which  are  <i>naimittika</i>  or
-occasional if done with any sense of enjoyment in mind or if they  are  done
-with the desire for material rewards should both be known to be  <i>vikarma</i>  or
-improper actions.  The absence of action known  as  <i>akarma</i>  which  sometimes
-can be considered action as well should also be comprehended. Therefore  the
-path of <i>karma</i> is not easily discernible for one seeking  <i>moksa.</i>  The  reason
-why regular and occasional activities should be clearly assimilated  for  an
-aspirant for <i>moksa</i> is because the  rewards  for  each  are  varied  but  one
-should look at them all with equipoise and realising that they all have  one
-uniform purpose and that  is  the  fulfilment  of  the  goal  which  is  the
-attainment of <i>moksa.</i> Without proper teaching and understanding of the  Vedic
-scriptures one will not perceive this critical conclusion but  this  is  the
-Vedic conception as revealed by Lord Krishna already  and  thus  it  is  not
-necessary to expatiate upon the subject further here.
-<p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Action is generally understood to be the activity of  the  body  and  senses
-while inaction  is  the  opposite  of  this.  How  is  it  that  those  with
-discrimination and intelligence are bewildered by this? The true  nature  of
-action must be known as well as the real nature of inaction  which  includes
-the non-performance of prohibited actions. For the  intricacies  of  action,
-sinful action and  prohibited  actions  are  mysterious  and  not  generally
-known.  The use in the genitive sense of the word  <i>karmano</i>  meaning  actions
-infers  the  mysterious  characteristics  of  the  true  nature  of  action,
-inaction and prohibited actions.
+It has been established that <i>bhakti</i>  or  loving  devotion  to  Lord  Krishna
+exclusively purifies a devotee of the  blemish  of  heinous  and  abominable
+practices due to unrighteous character and habits and that <i>bhakti</i>  alone  is
+capable of leading such a one directly to the  supreme  destination  of  the
+spiritual worlds and  into  Supreme  Lords  eternal  association.  Now  Lord
+Krishna enumerates on this supreme  destination  even  being  accessible  to
+those who are unworthy due to circumstances of birth.  This  includes  those
+of vile birth such as  untouchables,  <i>mleechas</i>  or  meateaters,  those  born
+illegitimately, those without education, <i>vaisyas</i>  or  the  mercantile  class
+which is situated below women and above <i>sudras</i> which is  the  menial  class.
+All these lack the qualification for Vedic knowledge and thus  destitute  of
+righteous conduct  are  only  eligible  to  exist  on  the  lowest  path  of
+existence; but if they somehow or other receive the mercy of  a  devotee  of
+Lord Krishna. By this mercy taking sole refuge  in  the  Supreme  Lord  then
+they also will verily reach the Supreme destination as well.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 4, verse 17 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 17<br><dt><center><dt><a href="verse-04-16.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-18.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 9, verse 32 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 32<br><dt><center><dt><a href="verse-09-31.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-09-33.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
