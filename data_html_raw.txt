@@ -1,112 +1,110 @@
-<html><head><title>Bhagavad-Gita: Chapter 3, Verse 34</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 3, Verse 24</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 34</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-34-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 24</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-24-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-34.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-03-34-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-24.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-03-24-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-03-34-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-03-24-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-03-34-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-03-24-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-03-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-35.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-34.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-34.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-03-23.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-25.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-24.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-24.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
-<br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify>If a persons inclination is dependent solely on their nature  influenced  by
-the three gunas or the modes  of  goodness,  passion  and  nescience  within
-prakriti or material nature then the question may arise  what  is  the  need
-for the injunctions and prohibitions in  the  Vedic  scriptures?  What  Lord
-Krishna is emphasising here is that the attraction and aversion for each  of
-the senses towards various sense objects is already established  and  fixed.
-This is why the word indriyasya is repeated twice to affirm this.  Hence  in
-accordance to this fixed relationship there  is  the  inclination.  Yet  the
-Vedic  scriptures  declare  that  a  person  should  not  be  influenced  by
-dualities like attraction and aversion, agreeable and  disagreeable  because
-they are obstacles on the path  of  one  seeking  moksa  or  liberation.  By
-stimulating attraction and aversion from the remembrance  of  various  sense
-objects, prakriti forcibly engages an unwary person in sense  gratification,
-like being dragged into a deep current. But the  Vedic  scriptures  instruct
-one to offer all actions in yagna or worship to the Supreme Lord which  will
-neutralise the dualities of attraction and aversion for  sense  objects  and
-absolve one from all reactions. Exactly like a person safely  taking  refuge
-in a boat before entering a deep current.
-
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+<br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
+What would happen then? Lord Krishna states that the world would  degenerate
+and decay due to the absence of prescribed  Vedic  activities  and  that  He
+would be the cause of the  pollution of traditional  values  of  the  masses
+and the destruction of society.
 <p>
+</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+If Lord Krishna of infallible will, the Supreme Lord of all,  and  in  whose
+control the entire phenomenal display of  the  total  material  creation  is
+created, maintained and preserved by His inconceivable potency; if  He  were
+not to conduct Himself  seriously  and  omit  to  perform  prescribed  Vedic
+activities for the benefit  of  all  the  worlds  then  others  seeing  Lord
+Krishna's   indifference  would  also   conduct   themselves   indifferently
+following His example.
 <p>
-<p>
-<p>
-The senses are constantly being motivated by the  force  of  attraction  and
-aversion. Although Lord Krishna is emphasising  the  effect  of  restraining
-the senses is known to be temporary only still by His  mentioning  it  opens
-the possibility that restraint may have an influence  in  dampening  desires
-if engaged in regularly with determination and it might  develop  a  lasting
-effect. Of course <i>samskaras</i> or past life  impressions  have  a  deep  rooted
-influence on all living entities even in the case of Brahma and  others  but
-there is still  the  possibility  to  modify  the  situation  by  practising
-restraint of the senses in a regulated manner.
-<p>
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-Lord Krishna confirms that a person who embarks upon the path of <i>jnana  yoga</i>
-or the cultivation of  Vedic  wisdom  should  never  fall  again  under  the
-influence of dualities as they work against  one  and  undermines  all  one'
-efforts. The dualities of love and  hate,  attraction  and  aversion  are  a
-persons most invincible enemies and  they  completely  frustrate  all  one's
-attempts for success and higher understanding.
+When Lord Krishna took birth, seemingly as a human being, as the son of  the
+great righteous King Vasudeva, he conducted Himself in all ways and  manners
+as appropriate for his  position  in  society  as  a  prince  of  the  royal
+<i>ksatriya</i> or warrior class. If  Lord  Krishna  acted  otherwise  all  mankind
+would begin to imitate Him thinking that such  actions  were  virtuous,  the
+worthy actions, of a worthy son from a worthy  father,  the  righteous  King
+Vasudeva. In this way Lord Krishna  is  explaining  that  if  He  failed  to
+perform Vedic activities mankind following His example would  be  led  in  a
+negative way into a hellish perdition unable to purify themselves enough  so
+they  could  achieve  <i>atma-tattva</i>  or  soul  realisation.  This   would   be
+considered as a very serious offence and Lord Krishna would be at fault.  By
+not setting the example of what  is  righteous  and  by  not  following  the
+traditions and customs established by performing the  activities  prescribed
+in the Vedic scriptures then all humanity would deviate  from  righteousness
+and become totally lost. If Lord Krishna failed to respect  the  injunctions
+and prohibitions of the Vedic scriptures then all the world would take  that
+to be the standard of righteousness and the final verdict. There would  soon
+ensue the mixing of classes and a mixture of moral and immoral standards  in
+the class of pure and righteous people, leading to the complete  degradation
+of society.  Lord Krishna is  stating  that  if  He  failed  to  follow  and
+perform the Vedic injunctions then it would be the cause of the  destruction
+of society. This is the purport. Also if Arjuna who  was  world  famous  for
+never having been defeated in  battle  and  who  was  the  brother  of  King
+Yudhisthira famed for his righteousness; if  Arjuna  refused  to  fight  and
+protect <i>dharma</i> or righteousness then many other worthy and noble  <i>ksatriya's</i>
+who were protectors of <i>dharma</i> might folow  his  example  and  also  renounce
+their prescribed duties and refuse to protect righteousness then this  would
+bring destruction to the world balance and ruination to the welfare  of  the
+people. Thus it can  be  understood  that  for  specially  qualified  people
+prescribed Vedic activities must be performed for the benefit of the  entire
+human race and the welfare of the world.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-If everyone must act according to their nature and  no  living
-being is void of their nature then the purpose of teaching the
-Vedic scriptures by  the  spiritual  master  could  be  deemed
-futile and unecessary. To  clarify  this  point  Lord  Krishna
-repeats the word indriyasya twice to emphasise  that  for  all
-the senses. Attraction to sweet tastes to the tongue which are
-pleasurable or the aversion to foul smells of the  nose  which
-are unpleasurable are all fixed and  automatically  happenning
-in accordance with samskaras or past life  latent  impressions
-in regard to all the senses. One  who  is  fortunate  to  hear
-through the ears the holy words of the Vedic  scriptures  from
-the spiritual master should never come under the influence  of
-attaction and aversion because they are two great obstacles on
-the path of moksa or liberation form material existence. These
-two obstacles take an aspirant from the path leading to  moksa
-and deviate them to the false path of desires, attachment  and
-the enjoyment of  sense  objects  and  are  exactly  like  two
-bandits who guide a traveller down a dark road  and  then  rob
-them of all their wealth. Contrarily  when  when  a  policeman
-sees a traveller in the clutches of a bandit  he  rescues  him
-and guides him the correct way; similarly the spiritual master
-teaching the Vedic scriptures rescues an aspirant  from  being
-under  the  influence  of  the  dualities  of  attraction  and
-aversion and guides them in the right path of  offering  one’s
-actions as yagna or worship to the Supreme Lord which  is  the
-best and surest way to attain moksa.  So  teaching  the  Vedic
-scriptures by the spiritual master  is  never  futile  to  the
-contrary it is highly beneficial and essential.
+It is proper that  people  who  follow  the  example  of  Lord
+Krishna are correct in their actions as He is  omniscient  and
+the creator of all. But because He is the  Lord  of  all  what
+would be wrong if He was not to  engage  Himself  in  actions.
+Explaining  this  Lord  Krishna  uses  the  words  ime   lokah
+utsideyuh meaning the inhabitants of all the  worlds  will  be
+destroyed. If Lord Krishna, the Supreme Lord and  foremost  on
+the path in knowledge of yoga or the uniting of the individual
+consciousness with the ultimate  consciousness;  if  He  would
+refrain from performing prescribed  Vedic  activities,  people
+would follow His example  and  refrain  from  performing  such
+actions also and  they  would  deviate  from  their  duty  and
+deviate from dharma or righteousness. Then Lord Krishna  would
+be to blame as by the example of  renouncing  actions  is  not
+inspiring and beneficial for the worlds. When  the  duties  of
+society are ommitted there is confusion in  society  and  such
+confusion leads to a lax in moral standards resulting  in  the
+mixture of different castes and unwanted children. The purport
+is that great harm would be caused to the people  and  socitey
+if Lord Krishna were to refrain from actions and so He  always
+performs responsible actions for the welfare  and  benefit  of
+the world.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 34 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 34<br><dt><center><dt><a href="verse-03-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-35.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 24 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 24<br><dt><center><dt><a href="verse-03-23.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-25.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
