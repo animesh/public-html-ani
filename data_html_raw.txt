@@ -1,107 +1,92 @@
-<html><head><title>Bhagavad-Gita: Chapter 11, Verse 1</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 11, Verse 40</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 11</font></b></td><td valign=middle align=center><b><font size=5>The Vision of the Universal Form</font></b></td><td valign=middle align=center><b><font size=5>Verse 1</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11-sel.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-11-01-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 11</font></b></td><td valign=middle align=center><b><font size=5>The Vision of the Universal Form</font></b></td><td valign=middle align=center><b><font size=5>Verse 40</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11-sel.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-11-38-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/11-01.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-11-01-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/11-38.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-11-38-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-11-01-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-11-38-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-11-01-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-11-38-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="chapter-10.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/11-01.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/11-01.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-11-37.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-39.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/11-38.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/11-38.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The Supreme Lord Krishna out of extreme compassion  revealed  His  prominent
-<i>vibhuti</i> or divine, transcendental opulence in the previous chapter.  Now  in
-this chapter His compassion is  extended  even  further  and  being  eagerly
-requested by Arjuna He reveals His universal form. At the end  of  the  last
-chapter Lord Krishna  reveals  that  He  pervades  and  supports  the  whole
-creation of everything cognisant and non-cognisant with just a  fraction  of
-His potency. Thus the universal form has been hinted at.  Although  so  many
-topics were of an esoteric and secretive nature, to alleviate  His  devotees
-despair  and  delusion  Lord  Krishna   gently   corrected   all   erroneous
-conceptions and confirmed the reality that the soul is eternal and  everyone
-and everything is irrevocably following the will of the Supreme Lord in  all
-respects.  Arjuna  is  acknowledging  that  he  understands   these   things
-throughly.
+By the way of establishing Lord Krishna as the embodiment  of  all  and  all
+pervasive  with  <i>ananta-virya</i>  or  unlimited  potency,  Arjuna   gives   Him
+obeisance  from  <i>sarvatah</i>  or  all  directions  as  Lord  Krishna   pervades
+everything both inside and out exactly like gold pervades  all  the  objects
+it incorporats such as  bracelets  and  necklaces  etc.  In  this  way  Lord
+Krishna is the embodiment of all creation as it comes from Him alone.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
 <p>
+<p>
+<p>
+<p>
+<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-In order to kindle great affection for <i>bhakti</i> or excluisve  loving  devotion
-unto the Supreme Lord and fan the flame until combustion  with  the  reality
-about the  nature  of  divinity  and  encompassing  all  things  within  and
-withiout, accompanied by a multitude of expressions of  <i>vibhuti</i>  or  divine,
-transcendental   opulence,   sublime   and   phenomenal   which    partially
-characterise the  unlimited  qualities,  attributes  and  potencies  of  the
-Supreme Lord Krishna. This has all been delineated in the previous  chapters
-and contingent upon this reality the understanding that  all  differing  and
-contrary natures, everything that is  <i>cit</i>  or  sentient  and  <i>acit</i>  or  non-
-sentient and their substance, their manifestation and  their  span  of  life
-along with  their  derivation  from  the  divine  nature  are  actually  one
-perfectly harmonising consciousness flowing through all existence  and  this
-has also been explicitly explained.
 <p>
-Previously Arjuna had been labouring under the false illusion of loving  his
-perishable physical body as if it  was  the  imperishable  <i>atma</i>  or  eternal
-soul. Lord Krishna has  compassionately  dispelled  such  misconceptions  by
-completely revealing in chapter two the eternal  nature  of  the  <i>atma.</i>  The
-word <i>adhyatma</i> or wisdom of the  eternal  soul  is  that  which  is  embodied
-within Srimad Bhagavad-Gita beginning in chapter two, verse  12  and  ending
-in chapter six, verse 46
 <p>
-Having learned these essential and esteemed  subject  matters  such  as  the
-eternality of the <i>atma</i>, the singular oneness of the  Supreme  Lord  and  the
-dependence of all things moving and non-moving for their very  existence  on
-Him  from  the  Supreme  Lord  Krishna  Himself,  Arjuna  has  come  to  the
-conclusion that  everything  Lord  Krishna  has  revealed  is  the  complete
-absolute truth.  But  desiring  to  perceive  this  with  His  faculties  of
-perception he queries the Supreme Lord further as will be  revealed  further
-in this chapter
+<p>
+<p>
+Lord Krishna is being addressed thusly: O' infinite energy,  the  embodiment
+of everything, thy glory is beyond measure.  As  <i>paramatma</i>  or  the  Supreme
+soul He enters and resides in all beings. Thus He is  the  <i>atma</i>  or  eternal
+soul within all the unlimited multitudes of intelligent and  non-intelligent
+living entities. All <i>atmas</i> are of the same eternal quality and  essence  and
+all together constitute the divine, transcendental body of the Supreme  Lord
+Krishna. Thus Lord Krishna is the  root  source  from  which  everything  is
+manifested and all things are a part of Him and all  names  are  a  name  of
+Him. It is  clearly  apparent  that  the  immanent  nature  and  omnipresent
+characteristics  of  the  Supreme  Lord  Krishna  are  the  basis  for   the
+descriptions of His glory given in the previous three verses such as  He  is
+<i>asat</i> the cause and <i>sat</i> the effect as well as  <i>tatam  visvam  ananta-rupa</i>  of
+unlimited forms pervading all creation and references to His being  all  the
+demigods  like  Brahma,  Yama,   Vayuh   etc.   Thus   does   Lord   Krishna
+interpenetrate all existence.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-For the purpose of germinating and increasing  <i>bhakti</i>  or  exclusive  loving
-devotional service the Supreme Lord Krishna in  chapter  ten  spoke  of  His
-<i>vibhuti</i> or divine transcendental opulence and at its  end  in  verse  42  He
-alluded to His <i>visvarupa</i> or divine universal form with the words  <i>eka-amsena</i>
-referring to a fractional expansion of Himself. Beginning  with  chapter  2,
-verse 12 <i>na tv evaham jatu nasam</i> meaning: Never was there a time  when  Lord
-Krishna  did  no  exist.  Continuing  on  to  chapter  4,  verse  46   <i>yogam</i>
-<i>atisthottistha</i> meaning: become a <i>yogi</i> or one perfecting the science  of  the
-individual   consciousness   attaining   communion   with    the    ultimate
-consciousness. In the first four verses of this  chapter  Arjuna  begins  by
-gratefully acknowledging the great compassion  of  Lord  Krishna  to  reveal
-such supremely confidential knowledge regarding the eternality of  the  <i>?tma</i>
-or eternal soul in comparison to the  temporary,  perishable  state  of  the
-physical body and then affirms that now his delusion has been dispelled  and
-the infatuation felt due to a sense of ego for the body and  mind  has  been
-eradicated because it is an absolute  truth  that  the  soul  is  never  the
-performer of any action.
+Beholding the resplendent Supreme Lord Krishna in all His glory before  him,
+Arjuna out of extreme expressions of devotion salutes the Supreme Lord  with
+praises such as <i>ananta-virya</i> or unlimited personality and <i>amita-vikramah</i>  or
+immeasurably powerful and humbly offers Him obeisance from  all  directions.
+He also states that Lord Krishna pervades the total creation because  it  is
+an extension of Him therefore He is everything  in  existence.  Due  to  His
+attributes of omnicsience and omnipresence it is  clearly  established  that
+Lord Krishna Himself is <i>paramatma</i> or the Supreme eternal soul pervading  all
+creation and all living entities for the collective total of every  <i>atma</i>  or
+eternal soul of all living entities constitutes His  divine,  transcendental
+spiritual body and which also contains  what  appears  to  be  inanimate  as
+well. This proves that the material creation is not just an illusory  mirage
+that  is  not  factual   adhered  to  by  the  <i>mayavadis</i>  or   the   pseudo-
+impersonalists who do not  believe  that  the  Supreme  Lord  has  unlimited
+qualities, phenomenal attributes and wonderfully, sublime personality.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 11, verse 1 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 1<br><dt><center><dt><a href="chapter-10.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 11, verse 40 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 40<br><dt><center><dt><a href="verse-11-37.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-11-39.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
