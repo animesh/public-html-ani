@@ -1,86 +1,117 @@
-<html><head><title>Bhagavad-Gita: Chapter 18, Verse 21</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 17, Verse 2</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 21</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-20-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 2</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-02-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-20.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-18-20-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-02.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-17-02-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-18-20-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-17-02-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-18-20-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-17-02-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-18-19.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-21.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-20.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-20.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-17-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-02.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Now the nature of knowledge in <i>raja guna</i> or mode of passion is explained  by
-Lord Krishna. The knowledge where one imagines all <i>jivas</i> or embodied  beings
-as distinct, possessing different <i>atmas</i> or souls  diversely  conditioned  by
-pleasure and happiness and pain and suffering is situated in <i>raja guna.</i> 
+<p>
+<p>
+<p>
+<p>
+The <i>sraddha</i> or faith in the Supreme Lord of one who acts in accordance  with
+the ordinances and injunctions of the Vedic scriptures  is  always  situated
+in <i>sattva guna</i> the mode of goodness. The <i>sraddha</i> existing in the  other  two
+modes of <i>raja guna</i> the mode of passion and <i>tama guna</i> the mode  of  ignorance
+are the results of one's  nature  by  the  impressions  lingering  in  their
+consciousness from  past  life  activities  in  such  modes.  Only  absolute
+knowledge  from  the  Vedic  scriptures  duly  instructed  by  the  Vaisnava
+spiritual master has the potency to affect change in the nature  of  a  <i>jiva</i>
+or embodied being. But those in <i>raja guna</i> and <i>tama guna</i> who  have  no  faith
+in the Vedic scriptures or who have no  interest  in  the  Vedic  scriptures
+will not be able to change  their  natures  to  <i>sattva  guna</i>  by  any  other
+process.  Hence  their  faith  arises  from  whatever  characteristics  they
+possessed in the previous life and this manifests in their actions.
+<p>
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-That knowledge which is contrary to the Vedic scriptures and the  antithesis
-to the omnipotent absolute authority of the Supreme Lord  Krishna  is  known
-to be situated in <i>raja guna</i> the mode of passion. The words <i>nana-bhavan</i>  mean
-multiplicity of natures. Those who are oblivious that the  Supreme  Lord  is
-the one underlying reality pervading all creation,  simultaneously  existing
-within the etheric heart of every <i>jiva</i> or embodied being in  existence;  are
-situated in <i>raja guna.</i> 
-<p>
-Now begins the summation.
-<p>
-If one is unaware of the Supreme Lord  Krishna's  unparalleled  position  as
-the absolute sovereign ruler of all existence, or is  bewildered  about  His
-indomitable, paramount position or thinks that any other  god  can  manifest
-creation  or  are   influenced   by   inferior   concepts,   doctrines   and
-philosophies concerning creation,  the  <i>jiva</i>  and  the  Supreme  Lord;  such
-erroneous and fallacious thinking devoid of a connection to  reality  impels
-one to obstinately and belligerently  try  to  justify  and  validate  their
-illusory belief systems. Such fools of  miniscule  knowledge  and  misguided
-intelligence are unable  to  mount  a  rational  argument  supporting  their
-viewpoint and odiously cling to their bogus suppositions and faulty  claims.
 <p>
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The word <i>prthaktvena</i> means separate individuality  alluding  to  differences
-in appearance between  <i>jivas</i>  or  embodied  beings.  The  words  <i>nana-bhavan</i>
-refers to plurality of substance in falsely surmising that the  <i>atma</i>  varies
-in quality or quantity with the variance of the physical body  inhabited  by
-the <i>jiva</i> or to wrongly conclude that the <i>atma</i> varies  in  size  and  potency
-according to the body it is  in.  This  mentality  is  indicative  of  those
-situated in <i>raja guna</i> the mode of passion and  includes  those  desirous  of
-receiving rewards for their actions.   
+<p>
+<p>
+<p>
+The <i>gunas</i> or three modes of material nature are  <i>sattva  guna</i>  the  mode  of
+goodnes<i>, raja guna</i> the mode of passion and <i>tama guna</i> the mode of  ignorance.
+They are singularly inherent within  the  faith  of  all  mankind  and  they
+conform to the characteristics and disposition particular to  each  <i>jiva</i>  or
+embodied being.  The  impressions  from  past  life  incarnations  arise  as
+tendencies pursued in a present life correspondent to one's mood  and  taste
+and from that mood and taste ones' faith arises. Displays of enthusiasm  are
+indications of faith where underlying is the belief that the effort will  be
+successfully fulfilled. Tendency, taste and faith  are  actually  properties
+of the <i>atma</i> or immortal soul;  but  they  are  only  evoked  when  the  <i>atma</i>
+happens by chance to come in contact with the <i>gunas.</i>  It  has  been  deduced
+that when there is tranquillity in the mind there is control of  the  senses
+and peacefulness of the body and such effect manifests  the  chance  contact
+between the <i>atma</i> and the <i>gunas</i> resulting in <i>sattva guna.</i>  Agitation  of  the
+mind, unbridled senses and over indulgence of the body results in  <i>raja</i>  and
+<i>tama guna.</i> Thus  effectively the experiences from past lives  manifest  into
+one of the three <i>gunas.</i> 
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-That knowledge which has been characterised  with  <i>raja  guna</i>  the  mode  of
-passion cognises the manifold existence of the <i>jiva</i>  or  embodied  being  as
-related  to  physical  bodies,  seeing  division  in  difference  of  forms,
-species, genre, etc. Establishing criteria based on  bodily  conception  and
-oblivious to the true reality of the omnipresent <i>atma</i> or immortal soul  such
-<i>jivas</i> are undeniably rooted in <i>raja guna.</i> The particle  <i>tu</i>  meaning  however
-indicates that <i>raja guna</i> inferior to <i>sattva guna.</i>
+Lord Krishna now elaborates on how <i>sraddha</i> differentiates itself  under  the
+auspices of one of the three <i>gunas</i> or modes of  material  nature  which  are
+<i>sattva guna</i> the mode of goodness<i>, raja guna</i> the mode  of  passion  and  <i>tama</i>
+<i>guna</i> the mode of ignorance. These three archetypes apply to all  beings  and
+all things within the material nature. Those who have no  knowledge  of  the
+Vedic scriptures and are indifferent to them languish in  <i>tama  guna.</i>  Those
+who have some knowledge of the Vedic scriptures yet chose to disrespect  and
+oppose them due to insidious motives and nefarious intrigues are  bewildered
+in <i>raja guna.</i> Those who faithfully follow the ordinances and injunctions  of
+the Vedic scriptures are safely  situated  in  <i>sattva  guna</i>  due  to  having
+performed  pious  activities  in  innumerable  past  lives  without  selfish
+motivations. There faith is directed to the worship of the Supreme Lord  and
+as such is conducive for <i>moksa</i> or liberation from material existence.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 21 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 21<br><dt><center><dt><a href="verse-18-19.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-21.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+The inherent characteristics one possesses in present  life  are  determined
+by activities performed in previous lives that  were  voluntarily  followed.
+These innate characteristics catapult a <i>jiva</i> or embodied being into  one  of
+the three <i>gunas</i> and the corresponding type of  faith  one  possesses  is  in
+accordance to the <i>guna</i> they are situated in. Such faith regardless of  which
+<i>guna</i> gives the confidence that by  it  one  will  accomplish  their  desired
+goal.  When  there  is  confidence   in   accomplishing   successfully   any
+undertaking, a <i>jiva</i> will engage wholeheartedly in it.  This  is  a  sign  of
+faith. But there are  gradations  and  differences  of  quality  in  various
+undertakings and these distinctions are what determines whether an  activity
+is  in  <i>sattva,  raja</i>  or  <i>tama  guna.</i>  Those  who  have  no  knowledge   of
+reincarnation, no knowledge of <i>karma</i> or reactions to actions,  no  knowledge
+of the Vedic scriptures, nor knowledge of  the  paramount  position  of  the
+Supreme  Lord  Krishna;  are  helplessly  indulging   themselves   only   in
+transitory, mundane activities. Such activities no matter how  great,  noble
+and well intentioned award no opportunity to free oneself from  <i>samsara</i>  the
+perpetual cycle of birth and death and achieve <i>moksa.</i>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 2 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 2<br><dt><center><dt><a href="verse-17-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
