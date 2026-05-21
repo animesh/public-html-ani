@@ -1,104 +1,66 @@
-<html><head><title>Bhagavad-Gita: Chapter 6, Verse 4</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 17, Verse 21</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 6</font></b></td><td valign=middle align=center><b><font size=5>The Science of Self Realization</font></b></td><td valign=middle align=center><b><font size=5>Verse 4</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06-sel.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-06-04-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 21</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-18-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/06-04.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-06-04-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-18.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-17-18-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-06-04-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-17-18-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-06-04-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-17-18-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-06-03.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-06-05.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/06-04.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/06-04.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-17-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-19.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-18.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-18.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-What qualifies a person to be qualified  for  <i>sannyasa</i>  or  renunciation  in
-abnegation for whom cessation of  activities  is  prescribed?  Lord  Krishna
-explains that when one is no  longer  enamoured  by  the  pleasures  of  the
-senses and the sense objects and is also not even  attracted  to  performing
-the actions which are the means to obtain them, such a person  is  qualified
-for <i>dhyana yoga</i> or the science of  the  individual  consciousness  attaining
-communion with the ultimate consciousness by mediation. This is because  one
-must develop the renunciation habitually  until  the  dross  of  desires  is
-eradicated along with not the slightest inclination to perform any  activity
-that will lead to enjoyment of sense objects and the opportunity  for  sense
-gratification completely neutralising all desires. Then a  person  is  known
-to be have factually attained <i>dhyana yoga.</i>
-<p>
+Continuing Lord Krishna explains that the <i>danam</i> or  charity  that  is  given
+with the intention of gaining something in return, with a  desire  to  enjoy
+some benefit or to receive some service, or with the wish  to  achieve  some
+goal such as the heavenly planets is said to be in <i>raja  guna</i>  the  mode  of
+passion. Also included in <i>raja guna</i> is <i>danam</i> which is  given  grudgingly  or
+reluctantly.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-In this verse Lord Krishna tells  the  signs  of  one  who  has  established
-themselves in equanimity of mind.  For  such  a  person  there  is  absolute
-detachment because there is no desire for results. If one is devoted to  the
-Supreme Lord then all imperfections dissolved on their own. If  one  is  not
-devoted then they are eradicated by special effort.
-<p>
-Now begins the summation.
-<p>
-How does one become detached from one's actions? The answer is  to  renounce
-the desire for the rewards of actions or if one is devoted  to  the  Supreme
-Lord to offer all the rewards to Him. By acting in either of these ways  one
-is considered performing renunciation for the Supreme Lord.
-<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Lord Krishna uses the compound word <i>yogarudhas</i> which is an adept  in  <i>dhyana</i>
-<i>yoga</i> or the science of  the  individual  consciousness  attaining  communion
-with  the  ultimate  consciousness  by  meditation.  Such  a   person   from
-experiencing the sublime bliss of the <i>atma</i> or soul within has ceased  to  be
-infatuated by sensual objects and is no longer deluded by  the  impulses  of
-the senses in relation to  such  sense  objects.  The  words  <i>na  anusajjate</i>
-meaning not enamoured denotes that one is no longer under the  influence  of
-such delusions. One is <i>yogarudhas</i> who has abandoned all illusions and  false
-conceptions. Thus for the aspirant of  <i>moksa</i>  or  liberation  from  material
-existence who still is under the sway of infatuation and delusion  there  is
-no alternative but to perform <i>karma yoga</i> or prescribed Vedic  activities  as
-the means to relinquish oneself from from dross of  bodily  association  and
-carnal desires. This being accomplished one  has  qualified  themselves  for
-<i>dhyana yoga</i> and can begin to perfect their  meditation.  Hence  as  warning,
-before this point it is recommended to exclusively perform <i>karma yoga</i>  until
-completely free from the infatuation of desires and sense objects.
+<p>
+Lord Krishna clarifies that <i>danam</i> or charity  that  is  bequeathed  with  an
+inner  desire  and  expectation  for  reward  or  <i>danam</i>  that  is  proffered
+reluctantly, or <i>danam</i> that is inferior due to damage or spoilage,  or  <i>danam</i>
+that is undamaged and  perfectly  good  and  fresh  unspoiled  articles  are
+stingily given grudgingly are all known to be  situated  in  <i>raja  guna</i>  the
+mode of passion.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-If one wants to understand exactly when performing <i>karma yoga</i> or  prescribed
-Vedic activities transforms itself to the heights  of  <i>dhyana  yoga</i>  or  the
-science of the individual soul attaining communion with  the  ultimate  soul
-by meditation is now revealed. Lord Krishna speaks  the  words:  <i>na  karmasi</i>
-<i>anusajjate</i> meaning when one no longer craves or  is  inclined  to  make  any
-effort for sense objects. Such a  person  thinks  why  should  I  strive  to
-obtain  pleasures  which  are  here  today  and  gone  tomorrow  being  only
-temporary?  Then  with  constant  endeavour   one   ceases   to   look   for
-opportunities  to  facilitate  favourable  circumstances  to  enjoy  sensual
-pleasures and evenually evaporates all thoughts of  enjoying  sense  objects
-along with dissolving the memories  of  previous  enjoyments.  Only  such  a
-being is considered to be firmly established in <i>yoga</i> or the science  of  the
-individual soul attaining communion with the ultimate consciousness.
+Now Lord Krishna explains the <i>danam</i> or charity that is given  in  <i>raja  guna</i>
+the mode of passion. The <i>danam</i> that is  given  reluctantly,  that  is  given
+grudgingly, that is given with the desire of receiving something  in  return
+or that is given with the hope of gaining a reward in the next life such  as
+promotion to the heavenly planets is known to be  firmly  situated  in  <i>raja</i>
+<i>guna.</i> The particle <i>tu</i> meaning  however  indicates  that  this  mentality  is
+inferior to that of those situated in <i>sattva guna</i> the mode of goodness.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 6, verse 4 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 4<br><dt><center><dt><a href="verse-06-03.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-06-05.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 21 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 21<br><dt><center><dt><a href="verse-17-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-19.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
