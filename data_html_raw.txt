@@ -1,154 +1,104 @@
-<html><head><title>Bhagavad-Gita: Chapter 13, Verse 6, 7</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 4, Verse 34</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 13</font></b></td><td valign=middle align=center><b><font size=5>The Individual Consciousness and The Ultimate Consciousness</font></b></td><td valign=middle align=center><b><font size=5>Verse 6, 7</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13-sel.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-13-05-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 4</font></b></td><td valign=middle align=center><b><font size=5>Approaching the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 34</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04-sel.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-04-34-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/13-05.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-13-05-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/04-34.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-04-34-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-13-05-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-04-34-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-13-05-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-04-34-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-13-04.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-06.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/13-05.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/13-05.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-04-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-35.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/04-34.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/04-34.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-The characteristics and components of the <i>ksetra</i>  are  being  elucidated  by
-Lord Krishna beginning with the five fundamental elements which  are  earth,
-water, fire, air and ether. The false ego,  the  intellect,  the  unmanifest
-element of existence, the five perceptual senses being the eye,  ear,  nose,
-tongue and sense of touch. The five objects of the perceptual  senses  being
-sight, sound, smell, taste and form The five senses of  activity  being  the
-voice, the hands, the legs, the genitals and the anus.  The  internal  sense
-being the mind. Desire, aversion,  happiness,  unhappiness,  the  body,  the
-intuition,  patience  and  the  six  material  modifications  being   birth,
-sustenance, growth, maturity, declination and destruction. Thus the  Supreme
-Lord Krishna has enumerated the 24 categories which comprise  the  field  of
-activity known as the <i>ksetra.</i>
-<p>
-The physical body is an aggregate of these 24 elements.  Intelligence  which
-is a cognitive function of the mind is imbued with patience  and  fortitude.
-Desire, aversion, etc. are merely effects of cognition and included as  part
-of the <i>ksetra</i> as attributes solely of the  mind  and  not  of  the  <i>atma</i>  or
-eternal soul. The qualities mentioned  also  include  by  implication  other
-qualities of  the  mind  as  well  such  as  reflection  and  introspection.
-Brihadaranyaka Upanisad I.V.III states: Desire,  reflection,  doubt,  faith,
-lack of faith, patience, impatience, modesty, intelligence and fear are  all
-products of  the  mind.  In  this  way  the  qualities  of  the  <i>ksetra</i>  are
-introduced and enumerated by Lord Krishna. Thus the <i>ksetra</i>  along  with  its
-modifications such as the perceptual senses,  etc.  has  been  described  in
-brief and this concludes the topic regarding the <i>ksetra.</i>
+<i>The means to acquire atma tattva or soul realisation is being stated here:</i>
+<i>How is this knowledge to be acquired? Lord Krishna reveals it is by</i>
+<i>inquiry. Inquire from a self-realised being by falling submissively at his</i>
+<i>feet just like a stick before him. Questions should be asked like. What is</i>
+<i>the goal of human existence and how is it possible to attain it? One should</i>
+<i>render humble and sincere service to this self-realised being because this</i>
+<i>person has realised the ultimate truth, fully steeped in the knowledge of</i>
+<i>the Vedic scriptures, of the Brahman or the spiritual substratum pervading</i>
+<i>all existence and the intuitive potency which manifests along with it. Such</i>
+<i>a person will magnanimously instruct one in attaining the ultimate truth.</i>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+Although Arjuna is considered a man of wisdom properly raised  and  educated
+in the Vedic culture, still illusion has  entered  his  consciousness.  This
+was highlighted in verse sixteen where the words yat jnatva  meaning  having
+understood were used to instruct Arjuna.
 <p>
-Desire, repugnance, joy, misery, etc. are known as the modifications of  the
-<i>ksetra.</i> The word <i>cetana</i> meaning awareness refers to  the  entire  perceptual
-faculties of the mind. The word <i>sanghata</i> preceding  it  includes  perception
-of the physical body and <i>cetana refers</i> to  the  total  aggregate  of  mental
-facilities which includes modifications such as ego and patience.
+Now begins the summation.
+<p>
+Since spiritual wisdom will be revealed in detail in later chapters Lord
+Krishna now begins speaking briefly about the nature of it here.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The <i>maha-bhutani</i> which  are  the  fundamental  elements  of  creation  being
-earth, water, fire, air and ether along with the <i>ahankara</i> or false ego,  the
-<i>buddhi</i> or intellect and the <i>avyaktam</i> the primordial root  which  in  essence
-is <i>prakriti</i> or the material  substratum  pervading  physical  existence  and
-from whom the fore mentioned emanate as the germinating foundations  of  the
-<i>ksetra</i>  in  different  manifestations  and  modifications  of  an   evolving
-process. The five perceptual senses being the eyes, ears, nose,  tongue  and
-touch corresponding respectively with their five objects being  the  visual,
-auditory, olfactory, gustatory and tactual; along with the  five  senses  of
-activity being the vocal, the prehensible  the  hands,  the  locomotive  the
-legs,  procreative  the  generative  organs  and  the  excretory  organ  for
-evacuation. The one known  as  the  internal  sense  is  the  mind.  Desire,
-aversion, joy and affliction are considered modifications of the  <i>ksetra</i>  as
-they are solely products of the mind influenced  by  moods  and  affections.
-The words <i>sanghatas cetana dhrtih</i> means  the  perceptual  faculties  of  the
-mind and includes  the  physical  body.  The  words  <i>catana  dritih</i>  denotes
-<i>adritah</i> inferring <i>adharah</i> which means the basis, the medium for  fundamental
-ingredients. The word <i>sanghata</i> meaning the physical body  is  the  aggregate
-expression of the collocated ingredients that are utilised.
-<p>
-The  ultimate  purpose  is  to  utilise  the  physical  body   to   interact
-harmoniously with the mind and intellect to realise  the  eternal  principle
-inside the heart in the form of the <i>atma</i> or immortal soul and  the  path  to
-the Supreme Lord. Otherwise one will misuse their  precious  human  form  of
-existence to procure material happiness on Earth while experiencing joy  and
-grief in doing so and take another birth  in  usually  a  lower  species  of
-life; or to perform activities in an attempt to procure  entrance  into  the
-heavenly planets to enjoy celestial delights as a demigod  for  an  allotted
-time period but which may or may not guarantee success and  one  has  to  be
-born again; or to strive for <i>moksa</i> or liberation from  the  cycle  of  birth
-and death to achieve an impersonal beatitude  but  if  failing  in  this  is
-forced to take birth again in one of  the  8,400,000  some  species  in  the
-material existence as well.
-<p>
-This is what is available in the <i>ksetra.</i>  All  of  its  characteristics  and
-attributes are manifested out of <i>prakriti</i> the material substratum  pervading
-physical existence and is the foundation of  the mind and  all  the  senses.
-It is the compound which gives rise to the change  of  temperament  such  as
-desire and aversion, happiness and misery and the medium by which  the  <i>jiva</i>
-or embdied being experiences  pleasure,  pain,  joy  and  grief,  etc.  This
-concludes Lord Krishna concise exposition on the <i>ksetra</i> with its  variations
-and modifications.
-<p>
-Next the virtues and attributes that will enable one to  obtain  <i>atma-tattva</i>
-or knowledge of the immortal soul which is connected to the  <i>ksetrajna</i>  will
-be enumerated by Lord Krishna.
+One should know that this spiritual knowledge relative to the atma or soul
+propounded by Lord Krishna to be imperishable. One should learn this well
+and advance themselves along the path by diligently acquiring wisdom and
+more by submissively approaching realised beings who have realised the
+ultimate truth. One should render sincere, dedicated service to them with
+veneration and humility asking relevant questions about the ultimate truth.
+These being so advanced in atma tattva or soul realisation have experienced
+the ultimate reality and being pleased by one's humble demeanour and
+reverent questions will bless one with divine knowledge which they possess
+and will impart the transcendental knowledge one is so eager and
+enthusiastic to learn. If one has not practically realised there atma which
+is an act of actual perception and situates one in their true nature then
+such talk about it is merely a hypothesis.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+As to the answer to the question by what means is this  spiritual  knowledge
+available Lord Krishna is revealing how to attain this  knowledge  which  is
+altogether  different  from  actions  that  bestow  material   rewards.   He
+instructs everyone to fall at the feet of a self-realised  beings  rendering
+service to them with faith and devotion and inquire from them  with  a  pure
+heart about the purpose of life, the true nature of a living being  and  how
+to revive one's relationship with the Supreme Being? By these questions  and
+by being pleased by one's sincere service such a  self-realised  being  will
+guide and instruct one on matters related  to  the  ultimate  truth  because
+they have direct experience and wisdom of this  and  thus  will  remove  all
+doubts about: Who am I? Why was I born? What is  my  purpose  in  life?  The
+self-realised being will dispel all these questions by proper reasoning  and
+evidences from the Vedic scriptures and practical experience and reveal  the
+nature of  the  individual  consciousness  and  its  relationship  with  the
+ultimate consciousness which is the  goal  of  all  existence.  All  actions
+culminate in knowledge when instructed by a self-realised  being  but  never
+when instructed by those who  are  not  self-realised.  By  this  verse  the
+ancient scriptural adage of : Let one humbly seek a spiritual master who  is
+well learned in the Vedic scriptures and established  in  the  knowledge  of
+the <i>Brahman</i> or the spiritual substratum pervading all existence. The  plural
+sense of the words <i>jnaninah</i> meaning those expert  in  the  Vedic  scriptures
+and <i>darsinah</i> meaning those who realised the ultimate truth denotes that  all
+self realised being will possess this spiritual knowledge.  It  also  infers
+that if one approaches a person for enquiry and discovers that  this  person
+is not self-realised and cannot give this  spiritual knowledge then one  may
+approach a spiritual master who is self-realised to attain this knowledge.
 <p>
-Now Lord Krishna speaks of the characteristics and nature of the  <i>ksetra</i>  or
-field of activity beginning with the words  <i>maha-bhutani</i>  meaning  the  five
-fundamental elements being earth, water, fire, air and ether. These are  the
-elements comprising material existence  and  these  are  the  elements  that
-constitute the physical body.  <i>Ahankarah</i> is the false  ego,  <i>buddhi</i>  is  the
-intellect, <i>avyaktam</i> is the unmanifest nature known as <i>prakriti</i> the  material
-substratum pervading all physical existence. The five organs  of  perception
-for the senses being the five senses: eye, ears, nose, tongue and skin.  The
-five objects of the senses being sight, sound, smell, taste  and  touch  and
-the five organs of  action  being  the  hands,  the  legs,  the  voice,  the
-genitals for procreation and the anus for  evacuation.   These  24  elements
-have already been iterated by Lord Krishna millenniums before  in  His  <i>lila</i>
-<i>avatar</i> or pastime incarnation as Kapila deva; but here  He  also  names  the
-modifications such as desire and aversion as well. Desire is  attachment  to
-that which gives happiness and repugnance is aversion to  that  which  gives
-misery. Both are mental tendencies formed from a conditioned  perception  of
-what is favourable and unfavourable relegated by the <i>karma</i> or  reactions  to
-one's meritorious and unmeritorious actions and as they are  caused  by  the
-actions of the physical body they are experienced by the  <i>jiva</i>  or  embodied
-being through contact of the physical  body  as  it  is  the  receptacle  of
-feeling for all <i>jivas.</i> The word <i>cetana</i> meaning awareness is apparent in  all
-forms and species of life relative to their individual  consciousness.  This
-starts with being conscious of food only to being  conscious  of  life  with
-its six transformations of birth, infancy,  youth,  maturity,  old  age  and
-death; to being conscious of  the  <i>atma</i>  or  the  immortal  soul,  to  being
-conscious of a Supreme Lord to being conscious of  loving  devotion  to  the
-Supreme Lord Krishna. All these things  have  been  explained  in  brief  as
-being part of the <i>ksetra</i> along with the mind, the  senses,  the  objects  of
-the senses and the modifications of dsire  and  aversion  which  causes  the
-sensations of pleasure and pain for the <i>jivas.</i>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 13, verse 6, 7 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 6, 7<br><dt><center><dt><a href="verse-13-04.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-06.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 4, verse 34 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 34<br><dt><center><dt><a href="verse-04-33.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-04-35.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
