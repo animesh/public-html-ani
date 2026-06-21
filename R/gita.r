@@ -56,7 +56,7 @@ shlokaClean<-paste0("<head>
   <p>If you are not redirected, click source: <a href=",gURL,">",gURL,"</a>.</p>
   </body>")
 writeLines(shlokaClean,paste0("data.html"))
-gURLpng<-paste0("https://bhagavad-gita.org/Gita/png/verse-",chapter,"-",verse,"-4.png")
+gURLpng<-paste0("https://bhagavad-gita.org/Gita/png/verse-",chapter,"-",verse,"-1.png")
 download.file(gURLpng,"data.png", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
 # libpath fix
 #.libPaths(c(.libPaths(), "~/R/library"))
@@ -115,7 +115,19 @@ padded_img <- array(1, dim = c(target_height, target_width, 4)) # white backgrou
 padded_img[y_start:y_end, x_start:x_end, ] <- out_img
 out_img <- padded_img
 
-writePNG(out_img, "data_orange_on_white.png")
+# Overlay only the source link on the generated image
+source_label <- paste0("Source: ", gURL)
+
+png(filename = "data_orange_on_white.png", width = target_width, height = target_height,
+    units = "px", bg = "white", type = "cairo", res = 150)
+par(mar = c(0, 0, 0, 0), xpd = NA)
+plot.new()
+plot.window(xlim = c(0, 1), ylim = c(0, 1), asp = 1)
+rasterImage(out_img, 0, 0, 1, 1)
+# Draw a semi-transparent footer behind link text for readability
+rect(0, 0, 1, 0.1, col = rgb(1, 1, 1, 0.85), border = NA)
+text(0.05, 0.05, source_label, cex = 0.7, col = "black", adj = c(0, 0), font = 2, family = "sans")
+dev.off()
 
 getwd()
 download.file(gURL,"data_html.txt", mode = 'wb',headers = c("User-Agent" = "R"),method="auto")
