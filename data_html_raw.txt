@@ -1,129 +1,64 @@
-<html><head><title>Bhagavad-Gita: Chapter 3, Verse 32</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 1, Verse 12</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 3</font></b></td><td valign=middle align=center><b><font size=5>The Eternal Duties of a Human Beings</font></b></td><td valign=middle align=center><b><font size=5>Verse 32</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03-sel.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-03-32-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 1</font></b></td><td valign=middle align=center><b><font size=5>Lamenting the Consequence of War</font></b></td><td valign=middle align=center><b><font size=5>Verse 12</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01-sel.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-01-12-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/03-32.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-03-32-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/01-12.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-01-12-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-03-32-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-01-12-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-03-32-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-01-12-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-03-31.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-33.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/03-32.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/03-32.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-01-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/01-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/01-12.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Now  Lord  Krishna  gives  the  defects  in  not  believing  and   following
-prescribed Vedic activities. Those who are  inimical  to  the  teachings  of
-Bhagavad-Gita and are antagonistic to the injunction of the Vedas  that  all
-activities should be performed in <i>yagna</i> or worship for the  satisfaction  of
-the Supreme Lord. Such people should  be  known  as  fools  and  lacking  in
-discrimination and all of their activities contrary to this  are  doomed  to
-failure.
-<p>
+Bhishmadeva hearing such words of high esteem, roared like  a  lion  and  to
+gladden the heart of Duryodhana blew  a  thunderous  blast  from  his  conch
+shell.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+<i><u>Madhvacarya has no commentary so we present Baladeva Vidyabhusana's.</u></i>
 <p>
+Bhishma become elated hearing the praises given him by Duryodhana.  Thus  to
+eliminate the fear he knew Duryodhana was concealing in his heart he  roared
+like a lion,  <i>simha-nadam</i>  means  roaring  like  a  lion  and  then  blew  a
+thunderous blast on his conchshell. By only sounding a blast  on  his  conch
+shell without speaking Bhishma signified that true to  <i>ksatriya</i>  or  warrior
+code of warfare he would fight until death.
 <p>
+</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><font size=2>There is no commentary for this verse.</font>
+</td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+So Duryodhana full of internal anxiety deceptively addressed  the  preceptor
+Dronacarya attempting to conceal his fear at the might of the Pandava  army.
+Drona understanding the offensive innuendo by the words  inner  significance
+ignored Duryodhana  being  dissatisfied  by  the  subtle  sarcasm  concealed
+within the words. At this time  the  valiant  grandsire  Bhishma  perceiving
+Duryodhana's inner despondency, roared like a lion  and  blew  a  thunderous
+blast on his conch shell just to
+increase Duryodhana's joy.
 <p>
-<p>
-In these verses Lord Krishna is speaking about the merits one receives  from
-following the teachings of the Bhagavad-Gita. Those who  perform  prescribed
-Vedic activities with renunciation gradually achieve <i>moksa</i> or liberation  by
-<i>jnana yoga</i> the path of cultivating Vedic knowledge. Who then  can  calculate
-the position of one who has attained <i>atma-tattva</i> or  soul  realisation.  Now
-<i>karma yoga</i> the path of performing prescribed Vedic actions is not  given  as
-another medium of attainment. Renunciation and dedication of  one's  actions
-are  solely  for  the  sake  of  realising  the  Supreme  Being  only.   For
-realisation of the Supreme  Being,  liberation  does  not  depend  upon  one
-particular path. In the Narayana Shataksara it is  stated  that:  All  paths
-may or may not award <i>moksa</i> to the  dedicated  aspirant  treading  upon  them
-depending upon their level of renunciation in the performance of  unattached
-actions.  But renunciation by itself,  not  being  dependent  upon  anything
-else is capable of awarding <i>moksa</i> to those who fully perform  it<i>.</i>  Therefore
-the contention that <i>jnana yoga</i> and <i>karma yoga</i> alone are sufficient to  award
-<i>moksa</i> is not correct.
-<p>
-<p>
-<p>
-</div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-Lord Krishna is revealing the eternal truth that He  is  the  <i>atma</i>  or  soul
-within all beings in existence, be they human, animal, aquatic, plant, demi-
-gods or  any  other  species  of  life  that  was  not  cloned.  He  is  the
-maintainer, sustainer and monitor of all beings through the  medium  of  the
-<i>atma</i> and all of its impulses come from  Him.  All  souls  emanate  from  the
-Supreme Lord and because of Him are completely spiritual  and  eternal.  All
-the souls of all the living beings in creation everywhere in creation  as  a
-total  aggregate  comprise  the  form  of  the   Supreme   Lord's   eternal,
-transcendental  spiritual  body.  Whoever  does  not  avail  themselves  and
-conformably act to this eternal truth, or take this eternal truth  seriously
-in earnest, or who deems unnecessary and not worth the effort,  this  person
-should be understood to be completely destitute of knowledge and  unable  to
-evolve spiritually and are  incapable of achieving <i>atma tattva</i> or  knowledge
-of the soul become lost.  Spiritual  intelligence  is  what  determines  the
-light of knowledge in the material existence. In the  absence  of  spiritual
-knowledge, darkness and ignorance prevails and knowledge  becomes  erroneous
-and defective. Thus it has been illustrated that doership transpires due  to
-the union of <i>prakriti</i>  or  material  nature  and  the  physical  body  being
-influenced by the <i>gunas</i> or modes of  goodness,  passion  and  nescience  and
-this is dependent ultimately upon the Supreme Lord.
-<p>
-<p>
-<p>
-<p>
-<p>
-Reflecting in this manner it can be ascertained that <i>karma yoga</i> or the  path
-of performing prescribed Vedic actions is  appropriate  for  one  performing
-<i>jnana yoga</i> or the path of cultivating Vedic knowledge as  well.  <i>Karma  yoga</i>
-is appropriate on account of it being  easy  to  perform,  exempt  from  the
-danger of failure and requires no  assistance  from  other  methods  in  its
-application. Contrarily <i>jnana yoga</i> is difficult to practice, susceptible  to
-failure and must perform some <i>karma yoga</i> anyway in order to maintain  health
-and vigor which is essential for body maintenance if one is to  perform  any
-yoga at all. Also it has been pointed out how it is necessary for  a  person
-of distinction situated in Vedic wisdom to set an  example  to  inspire  the
-common man for the benefit and welfare of the world.
-<p>
-<p>
-<p>
-<p>
-<p>
-What difficulties and dangers are fraught for the performers of  <i>jnana  yoga</i>
-are now explained in the remainder of this chapter.
-<p>
-<p>
-</div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Here Lord Krishna points out that those persons who disrespect
-and ignore and refuse to follow the edicts and injunctions  of
-the Bhagavad-Gita that are for the benefit of all mankind  are
-fools, bereft of spiritual knowledge and in such  a  state  of
-ignorance  all  their  activities  are  fruitless   and   they
-hopelessly revolve in the cycle of birth and death, birth  and
-death, birth and death, ad infinitum.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 3, verse 32 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 32<br><dt><center><dt><a href="verse-03-31.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-03-33.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 1, verse 12 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 12<br><dt><center><dt><a href="verse-01-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-01-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
