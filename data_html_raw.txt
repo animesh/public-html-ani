@@ -1,89 +1,112 @@
-<html><head><title>Bhagavad-Gita: Chapter 16, Verse 10</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 13, Verse 29</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 10</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-08-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 13</font></b></td><td valign=middle align=center><b><font size=5>The Individual Consciousness and The Ultimate Consciousness</font></b></td><td valign=middle align=center><b><font size=5>Verse 29</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13-sel.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-13-23-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-08.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-16-08-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/13-23.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-13-23-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-16-08-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-13-23-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-16-08-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-13-23-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-16-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-08.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-08.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-13-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/13-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/13-23.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-Continuing further Lord Krishna describes that the demoniac  pursue  desires
-impossible to accomplish. Possessed of hypocrisy and mendacity the  demoniac
-resort to the worship of  discarnate  demons,  ghastly  ghosts  and  satanic
-spirits in their  attempts  to  increase  their  power  and  longevity.  The
-demoniac by executing such depraved  and  degraded  actions  are  completely
-ensnared by delusion and  obstinately  execute  degenerative  activities  of
-diabolical dimensions with impure minds, in  an  impure  state  with  impure
-ingredients such as blood and fat from the killing of  animals  as  well  as
-humans at inauspicious times such  at  midnight  on  inauspicious  days  and
-astrological alignments such as lunar eclipses and <i>amavasya</i> or new  moon  in
-their diabolical obsession and lust for power.
+Why is such an enlightened person said to see  <i>saman</i>  or  equally?  This  is
+being explained by Lord Krishna. By  seeing  the  resplendent  Supreme  Lord
+everywhere, within oneself, within all beings and  within  all  things;  one
+does not perform any activity that will degrade the <i>atma</i>  or  immortal  soul
+of themselves  nor  degrade  the  <i>atma</i>  of  others.  This  means  they  have
+recognised the Supreme Being within all beings and  does  not  deny  through
+capriciousness or  ignorance  the  presence  of  <i>paramatma</i>  or  the  Supreme
+immortal soul whose  very  nature  is  <i>sat</i>  or  eternal  existence,  <i>cit</i>  or
+unlimited consciouness and <i>ananda</i>  never ending bliss. Such  an  enlightened
+being is qualified to achieve <i>moksa</i> or liberation  from  material  existence
+and attain the eternal spiritual worlds which are  <i>param  gati</i>  the  supreme
+destination.  But  one  who  is  unable  to  see  equally  in  this   manner
+erroneously looks upon their physical body as being the  same  as  the  <i>atma</i>
+thinking that when the physical body perishes the <i>atma</i> perishes with it  and
+thus mistakenly sentence the to <i>atma</i> to be non-existent. The  Isa  Upanisad,
+verse III beginning <i>asurya nama te loka andhena</i> meaning:  The  demoniac  and
+the demons degrade the <i>atma,</i> totally ignorant of its eternal  divine  nature
+and are forced to enter the dark, gloomy hellish worlds in their next  life.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-Lord Krishna is reiterating  that  normal  desires  are  very  difficult  to
-satisfy while emphasizing that degraded and degenerative  desires  are  even
-more difficult to fulfill. Such vast  undertakings  and  prodigious  schemes
-which are so difficult to accomplish  create great distress and  frustration
-in the attempt. 
+<p>
+<p>
+<p>
+Lord Krishna is  explaining  that  one  who  perceives  and  recognises  the
+Supreme Being in every being is one who actually sees reality. The  <i>jiva</i>  or
+embodied being practically  witnesses  death  and  destruction  in  material
+existence everyday along  with  its  associated  misery.  The  Padma  Purana
+states that as a form of misery the <i>jiva</i> sees itself; yet devoid  of  misery
+is the Supreme Lord residing within  every  <i>jiva</i>  equally  from  Brahma  the
+highest material being down  to  an  ant.  The  Supreme  Lord  expansion  as
+<i>paramatma</i> or the Supreme Soul within all <i>jivas</i> throughout all dimensions  of
+creation  does  not  diminish  or  degrade   His   transcendental   position
+whatsoever, whether abiding in a demigod, human, animal etc. Perceiving  the
+reality of the Supreme Lord in this way one is not subject to illusion.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-Lord Krishna explains that the demoniac are  propelled  by  lust  and  greed
-that is insatiable and constantly seeking to be fulfilled  in  the  hope  of
-being gratified. The demoniac endeavour to procure such fulfilment is  <i>mohad</i>
-or  deluded  illusion  and  through  gross  improprieties  they   forcefully
-misappropriate and enjoy things which are not lawfully theirs. The  compound
-word <i>asuci-vratah</i> means the demoniac fiendishly   execute  devilish  rituals
-such as blood sacrifices and the killing  of  animals  and  even  humans  in
-following their diabolical rites. Specifically engaging  in  forbidden  acts
-prohibited by the Vedic scriptures which oppose all sense of  righteousness,
-morality and decency. By resorting to duplicity,  hypocrisy,  sorcery,  evil
-magic, and surreptitious deception the demoniac nature is  able  to  prevail
-and flourish.
+<p>
+The Supreme Lord Krishna is  known  as  <i>isvara</i>  is  residing  <i>saman</i>  equally
+<i>sarvatra</i> within all beings. This includes demigods,  humans,  animals,  etc.
+The word <i>pasyati</i> here meaning perceives denotes that the  <i>atma</i>  or  immortal
+soul is recognised wherever it may abide. By thus comprehending  the  actual
+nature of the <i>atma</i> one  never  degrades  themselves  and  <i>na  hinasti</i>  never
+causes harm to oneself. Contrarily if one insists on  identifying  the  <i>atma</i>
+in the same way as  the  physical  body  in  the  differentiating  light  of
+unlimited bodily forms one injures and degrades  their  eternal  self.  This
+understanding saves one from acquiring <i>karma</i> or reactions to  actions  which
+is the main cause of confinement to <i>samsara</i> or the perpetual cycle of  birth
+and death. By gaining this basic realisation one achieves the goal of  <i>atma-</i>
+<i>tattva</i> or soul realisation and then becomes eligible  for  <i>param  gatim</i>  the
+supreme destination and highest attainment.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
+Lord Krishna now presents the results of the afore stated realisations  that
+of perceiving the Supreme Lord present within  all  bodies  demigod,  human,
+animal, etc. and His imperishable nature present everywhere. Such a <i>jiva</i>  or
+embodied being <i>na hinasti</i> never degrades  <i>atmanam</i>  their  immortal  soul  by
+being attached to material  desire  and  prolonging  their  imprisonment  in
+material existence. The essence is one  who  sees  created  beings  separate
+from the Supreme Lord and separate from  themselves  will  be  compelled  to
+revolve in <i>samsara</i> the perpetual cycle of birth and death  in  the  material
+existence and continue to perform sinful and degraded activities that  keeps
+them shackled permanently in the  prison  of  material  existence.  This  is
+corroborated by Sakuntala's statement in Moksa Dharma that: Such a  one  who
+has not realised the <i>atma</i> or immortal soul inherent within all beings;  what
+sinful activity did such a cheater of themselves deign not  to  commit?  The
+Isa Upanisad, verse  III  reveals  the  resultant  consequence  due  to  the
+greatest ignorance for those that degrade their own <i>atma</i>  and  the  soul  of
+others living entities by engaging in  evil  activities  of  unrighteousness
+beginning: <i>asurya nama te loka andhena</i> meaning such sinful demons  oblivious
+of their inherent divine nature enter the dark, gloomy hellish planets  when
+their life has ended.
 <p>
-<p>
-<p>
-<p>
-Lord Krishna further  clarifies  that  the  demoniac  harbouring  insatiable
-lusts and desires  invent  false  doctrines  to  corroborate  their  heinous
-activities fostered by vile and diabolical vows of  deranged  depravity.  At
-inauspicious  times  such  as  midnight   and   during   thunderstorms,   on
-inauspicious days such as new moon and eclipses and at  inauspicious  places
-such as crematoriums and cemeteries; the demoniac exuding evil and  full  of
-impurity,    hypocrisy,    deviousness,    belligerence,    arrogance    and
-pretentiousness offer blood of animals and even humans in  their  diabolical
-worship of disincarnate ghosts, spirits, hobgoblins and demons.
-<p>
-<p>
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 10 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 10<br><dt><center><dt><a href="verse-16-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 13, verse 29 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 29<br><dt><center><dt><a href="verse-13-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
