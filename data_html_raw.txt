@@ -1,85 +1,199 @@
-<html><head><title>Bhagavad-Gita: Chapter 16, Verse 19</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 17, Verse 26,27</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 16</font></b></td><td valign=middle align=center><b><font size=5>The Divine and the Demoniac Natures Defined</font></b></td><td valign=middle align=center><b><font size=5>Verse 19</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16-sel.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-16-14-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 26,27</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-23-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/16-14.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-16-14-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-23.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-17-23-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-16-14-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-17-23-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-16-14-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-17-23-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-16-13.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-15.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/16-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/16-14.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-17-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-23.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-23.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-The  demoniac  never  deviate  from  their  diabolical  evil  nature.  These
-despisers of righteousness,  the  Supreme  Lord  Krishna  keeps  incessantly
-revolving in <i>samsara</i> the perpetual cycle of birth  and  death.  Because  the
-demoniac are a perpetual offence to all creation the Supreme Lord sees  that
-they are  hurled  into  ever  more  and  more  degraded  species  with  each
-successive birth until  they  take  birth  as  ferocious  beasts  and  cruel
-reptiles such as vicious tigers and envious  snakes.  This  is  the  factual
-result of the sinful activities of the demoniac.
-<p>
-<p>
-<p>
+The auspiciousness of the word SAT is being glorified by Lord  Krishna.  SAT
+is the sound vibration representing  the  <i>brahman</i>  or  spiritual  substratum
+pervading all existence and to exemplify eternal goodness and the purity  of
+creation. For any Vedic rite enjoined to be performed under  the  ordinances
+and  injunctions  of  the  Vedic  scriptures  by  authorised  Vaisnavas  and
+brahmanas; SAT will also  be  vibrated  in  conjunction  with  OM  and  TAT.
+Steadiness and concentration in <i>yagnas</i> or propitiation and worship  is  also
+deemed as SAT. All activities directly performed  for  the  satisfaction  of
+the Supreme Lord such as collection of articles for offering  like  <i>ghee</i>  or
+clarified butter from a  cow,  sweeping  and  cleaning  the  temple  of  the
+Supreme Lord, singing devotional  songs  in  glorification  of  the  Supreme
+Lord, making flower garlands for Lord Krishna or any authorised  incarnation
+and expansion as  revealed  in  Vedic  scriptures,  etc.  All  these  direct
+activities are deemed as  SAT.  Even  indirect  activities  that  assist  in
+accomplishing the direct activities such as establishing flower gardens  and
+agricultural fields, harvesting fruits, rice and  grains,  acquiring  wealth
+to be donated  to  the  Vaisnava  brahmana  devotees  of  the  Supreme  Lord
+Krishna, all these indirect activities are also deemed to be SAT.  Therefore
+since OM TAT SAT are transcendental nomenclatures connected to  the  Supreme
+Lord and eternally auspicious they are recited at all Vedic  rites  by  duly
+initiated Vaisnavas and brahmanas  from  one  of  the  four  <i>sampradayas</i>  or
+authorised channels of disciplic succession as revealed in Vedic  scriptures
+and by their efficacy perfect any defects or  errors.  To  consider  SAT  as
+only a  mere  laudatory  evocation  is  not  consistent  with  the  ultimate
+reality. SAT  denotes  creation,  the  eternal  existence  of  the  <i>atma</i>  or
+immortal soul and perpetual goodness. SAT is understood to be an  injunction
+with the maxim: SAT is  eternally  auspicious  and  always  to  be  praised,
+honoured and glorified.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+The word SAT denotes creation and eternal goodness. The  <i>pranava</i>  refers  to
+the first breath OM which is vibrated  at  the  commencement  of  all  Vedic
+rites from the root word <i>prana</i>  meaning  breath.  Properly  pronouncing  the
+<i>pranava</i>  OM  as  AH--OOOH--MMMMM  while  comprehensively  understanding  its
+meaning without the slightest desire for rewards, by  performing  <i>yagnas</i>  or
+propitiation and worship to the Supreme Lord  with  devotion  and  <i>tapah</i>  or
+austerities and <i>danam</i> or charity as matter of duty,  by  <i>japa</i>  chanting  the
+holy names of the Supreme Lord Krishna:
+Hare Krishna Hare Krishna Krishna Krishna Hare Hare
+Hare Rama Hare Rama Rama Rama Hare Hare
+With great respect and love as well as the names of any  of  His  authorised
+incarnations  and  expansions  as  revealed  in  Vedic  scriptures  are  all
+considered SAT. Thus  by  duly  initiated  Vaisnava  brahmanas  evoking  the
+sacred sound vibrations OM TAT SAT, the Supreme Lord is  verily  propitiated
+and worshipped.
+<p>
+The Rig Veda confirms that <i>yagnas</i>  that  are  performed  for  the  exclusive
+satisfaction  of  the  Supreme  Lord  without  the   slightest   trace   for
+expectation of rewards and are  designated OM TAT SAT. The Vedas call  these
+three divine sounds the performers of Vedic rites due to the fact  that  the
+potency of vibrating OM TAT SAT perfects any defects,  insures  success  and
+pleases the Supreme Lord granting communion with Him.
+<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
+The Supreme  Lord  Krishna  explains  that  the  word  SAT  denotes  eternal
+existence and perpetual goodness. The words  <i>sad-bhave</i>  exemplifies  eternal
+existence and the words <i>sadhu-bhave</i> exemplifies  perpetual  goodness.   This
+is the correct understanding in which SAT  is  to  be  comprehended  in  the
+Vedas as well as its utilisation by the  recitation  of  SAT  in  prescribed
+Vedic  rituals  performed  exclusively  by  the  Vaisnavas  and   brahmanas.
+Similarly the transcendental sound of SAT may be evoked for  any  auspicious
+activity ordained  by  the  Vedic  scriptures  by  duly  initiated  Vaisnava
+brahmanas in  any  of  the  480,000  types  of  humans  existing  throughout
+creation.
 <p>
+To follow the prescribed Vedic duties of <i>yagna</i> or propitiation  and  worship
+by the Vaisnava brahmanas, <i>tapah</i> or austerities by the <i>ksatriyas</i>  the  royal
+warrior class and <i>danam</i> or charity by the <i>vaisyas</i> or merchant class are  all
+considerd  in  <i>sattva  guna</i>  or  mode   of   goodness   because   they   are
+conscientiously following  the  ordinances  and  injunctions  of  the  Vedic
+scriptures. Thus all such activities are known  as  SAT  denoting  perpetual
+goodness and due to  being  dedicated  to  the  Supreme  Lord  they  possess
+auspicious attributes of an eternal nature and for this they are also  known
+as SAT.
 <p>
-<p>
-Wherever the demoniac may chance to take birth, these vile,  evil,  degraded
-living entities who blaspheme and spite the Supreme Lord are kept  revolving
-in <i>samsara</i> or the perpetual cycle of birth and death and  flung  into  lower
-and more degraded forms of life. Since the demoniac adamantly desire  to  be
-irreversibly opposed to the Supreme Lords Krishna's divine will, He  permits
-them to pursue their wishes and they are hurled into  demoniac  wombs  birth
-after birth in order that their aversion to Him will be increased.  Impelled
-by the Supreme Lord's sanction their desires are satisfied and they  receive
-the opportunity in a suitable demoniac environment to  exercise  their  free
-will and voraciously vent their vile, evil and degraded nature.
-<p>
+Thus the relationship of OM  TAT  SAT  to  the  Vedas,  the  performance  of
+prescribed Vedic activities performed by Vaisnava  brahmanas  and  protected
+by the <i>ksatriyas</i> while supported  by  the  <i>vaisyas</i>  clearly  and  succinctly
+demonstrates what is  factually  Vedic  in  society  and  what  is  actually
+situated in <i>sattva guna</i> while simultaneously clarifying  comprehensively  by
+the logic of opposing parallels what  is  not  Vedic  in  society  and  thus
+doomed to the perdition of exclusion from  the  ascending  orbit  of  <i>sattva</i>
+<i>guna.</i>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-After describing the activities and characteristics of  those  possessing  a
-demoniac nature; Lord Krishna explains  in  this  verse  and  the  next  the
-consequence of such. The demoniac are the vilest among created beings.  They
-are evil, diabolical,  devilish,  cruel,   sinful  and  spiteful;  executing
-abominable activities that are always opposed to Lord  Krishna  and  <i>sanatan</i>
-<i>dharma</i> the path of eternal righteousness. The  Supreme  Lord  who  is  fully
-cognizant of every aspect of His creation, continuously awards the  demoniac
-the opportunity to oppose Him by assuring that the demoniac are hurled  into
-demoniac wombs birth after birth after birth in order  that  their  venomous
-nature can increase against Him which is their innate compulsive obsession.
+Lord Krishna now reveals the glories of the divine sound SAT which  is  also
+a name for the <i>brahman</i> or spiritual substratum pervading all existence.  SAT
+is well established throughout the Vedic scriptures as the  epitome  of  the
+ultimate truth and  always  recited  in  Vedic  rituals.  SAT  confirms  the
+ultimate reality and extinguishes any doubt or misconception about the  non-
+existence of that  ultimate  reality  which  manifests  all  realities.  SAT
+represents perpetual goodness in the eternal spiritual  worlds  as  well  as
+the temporary material worlds.  The  performance  of  all  prescribed  Vedic
+activities such as marriage or birth ceremonies is known to be SAT.  SAT  is
+also devotion to the Supreme  Lord  in  the  form  of  planting  <i>Tulasi</i>  and
+offering her leaves unto the Supreme Lord<i>,</i> picking flowers for garlands  for
+the Supreme Lord. Constructing temples  for  the  Supreme  Lord,  collecting
+wealth for the Supreme Lord, cleaning  the  temple  floor  for  the  Supreme
+Lord, singing, dancing and playing  musical  instruments  before  the  diety
+form of the Supreme Lord Krishna or any of His aurthorised  incarnations  as
+revealed in Vedic scriptures is all SAT as well. Any  activity  directly  or
+indirectly related to the service, pleasure and satisfaction of the  Supreme
+Lord as revealed in Vedic scriptures is also deemed as SAT.    During  <i>yagna</i>
+or propitiation and worship by the  Vaisnavas  and  brahmanas  the  priestly
+class, <i>tapah</i> or austerities by the <i>ksatriyas</i> the  royal  warrior  class  and
+the <i>danam</i> or charity by the merchant class the absence of the conception  of
+rewards for services rendered is SAT.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 16, verse 19 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 19<br><dt><center><dt><a href="verse-16-13.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-16-15.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+Here the particles <i>sa iti ca</i> referring to  SAT  is  used  twice.  The  first
+usage denotes limitation by the words <i>karma ca eva</i> meaning matter  of  duty.
+The second usage denotes unlimited by the  words  <i>tad-arthyiam</i>  meaning  for
+the pleasure of the Supreme Lord.  Thus  it  has  been  established  by  the
+parallel logic of opposites that activities  devoted  to  the  Supreme  Lord
+Krishna or any of His authorised incarnations and expansions  always  follow
+<i>sanatan dharma</i> or  eternal  righteousness  and  can  never  be  unrighteous.
+Whereas activities not devoted to the Supreme  Lord  Krishna  regardless  of
+how noble and well meaning they may be are never situated  in  righteousness
+because they exclude Him.
+<p>
+The  Chandogya  Upanisad   VIII.I.VI   beginning   <i>tad   yatheha   karmajito</i>
+<i>lokah</i> states: Those who at the time of death  depart  their  bodies  without
+realising the <i>atma</i> or immortal soul which is the  goal  of  human  existence
+for them <i>moksa</i> or liberation does not exist anywhere. But those  who  depart
+their physical body at the time of  death  having  realised  the  <i>atma</i>  have
+achieved the goal of human existence and experience <i>moksa</i> everywhere in  all
+worlds.  What  could  be  more  pathetic  and  sorrowful   then   performing
+prodigious austerities for impermanent results and  wasting  one's  life  in
+the pursuit and acquisition of temporary materialistic  rewards  which  have
+absolutely no value longer then the moment of death in a brief span of  life
+not even reaching 100 years.
+<p>
+So  even  by  performing  prescribed  Vedic   activities   perfectly   while
+harbouring desires for fame, wealth, power and dominion  in  this  life;  or
+performed for entry into the heavenly planets in  the  next  life  to  enjoy
+without the burdens of old age and disease  and  fully  satisfy  the  senses
+with exquisite and beautiful heavenly maidens who want  to  enjoy  fully  as
+well. All these thingy are as ephemeral as mist in the sun. When the  merits
+of such activities are exhausted such <i>jivas</i>  or  embodied  beings  incarnate
+again in the material worlds of mortals to reap what they sow. In  this  way
+addicted to the rituals of the Vedic scriptures and attached to the  rewards
+of the heavenly planets they remain revolving in the orbit  of  <i>samsara</i>  the
+perpetual cycle of birth and death incessantly.  Contrarily  all  activities
+dedicated to the Supreme Lord for His  exclusive  satisfaction  without  the
+slightest desire for  any  reward  are  of  an  eternal  nature  and  bestow
+immeasurable  benefit.  Lord  Krishna  confirms  in  chapter  18  verse   56
+beginning:  <i>sarva-karmanyapi  sada</i>  meaning:  Although   always   performing
+unlimited activities, by the mercy of the Supreme Lord and protected by  Him
+one assuredly achieves the eternal, imperishable spiritual realm.
+<p>
+Thus it has been established that vibrating the  divine  and  transcendental
+sounds of OM TAT SAT at the commencement of all Vedic  activities  comprised
+in the ordinances and injunctions prescribed  in  the  Vedic  scriptures  is
+eternally  auspicious;  if  performed  with  devotion  for   the   exclusive
+satisfaction of the Supreme Lord Krishna with full faith in Him  or  any  of
+His authorised incarnations and expansions. In this way  by  the  power  and
+potency invested in OM TAT SAT all Vedic activities are insured success  and
+confer eternal benedictions for the highest good of creation and all  living
+entities.
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 26,27 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 26,27<br><dt><center><dt><a href="verse-17-22.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-24.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
