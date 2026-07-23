@@ -1,177 +1,133 @@
-<html><head><title>Bhagavad-Gita: Chapter 15, Verse 7</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 5, Verse 16</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 7</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-06-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 5</font></b></td><td valign=middle align=center><b><font size=5>Action and Renunciation</font></b></td><td valign=middle align=center><b><font size=5>Verse 16</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05-sel.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-05-15-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-06.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-15-06-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/05-15.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-05-15-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-15-06-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-05-15-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-15-06-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-05-15-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-15-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-06.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-06.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-05-14.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-16.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/05-15.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/05-15.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-The query may arise that  if  when  attaining  the  Supreme  Lord  Krishna's
-eternal abode the <i>jiva</i>  or  embodied  being  does  not  return  to  material
-existence then at the time of <i>pralaya</i> or  dissolution  when  all  <i>jivas</i>  are
-merged into  His  manifestation  of  the  <i>brahman</i>  or  spiritual  substratum
-pervading all  existence  they  become  one  essence  as  confirmed  in  the
-Chandogya Upanisad VI.IX.II beginning  <i>te  yatha  tatra  na  vivekamlabhante</i>
-meaning: As the pollen of different  flowers forms the essence of honey  and
-lose their individual identities in the same manner  all  <i>jivas</i>  lose  their
-individual existences when they merge into the <i>brahman</i>  although  they  know
-not in their varigated forms from whence they have come forth.  If  this  is
-the case then who really is  a  transmigrating  <i>jiva.</i>  Apprehending  such  a
-query Lord Krishna describes a  <i>samsarin</i>  or  transmigrating  <i>jiva</i>  in  this
-verse and the next four. Lord Krishna explains that an  eternal  portion  of
-Himself is within the etheric heart of every <i>jiva</i> in existence in  the  form
-of <i>paramatma</i> the eternal, omnipresent supreme soul which exists next to  the
-<i>atma</i> or individual immortal soul as a witness. The <i>jiva</i> although eternal  in
-essence having an eternal portion of the  Supreme  Lord,  through  ignorance
-and false identification of the physical body becomes a  <i>samsarin</i>  drawn  by
-the desires and attachments of the previous existence to suffer or enjoy  as
-precisely dictated by <i>karma</i> or the reactions to actions  performed  in  past
-lives. This is accomplished on the subtle plane  by  a  specifc  and  unique
-algorithm for every <i>jiva</i> along with senses,  mind  and  vital  force   which
-involuntarily draws them back down into mundane existence  on  the  physical
-plane automatically  adjusting  the  <i>karma</i>  and  tabulating  the  merits  or
-demerits from the exact same position by which they were merged at the  time
-of <i>pralaya.</i> So although it is true that all <i>jivas</i> attain the  state  of  the
-Supreme Lords <i>brahman</i> or spiritual substratum pervading  all  existence.  At
-the time of dissolution they are unconscious of it and of the  Supreme  Lord
-due to being covered in ignorance, over burdened  with  the  impressions  of
-past lives and overwhelmed by the <i>karma</i> of  the  previous  life.  Thus  with
-such consciousness they only  qualify  to  attain  His  transitory  external
-nature of <i>prakriti</i> or the material substratum pervading  physical  existence
-and not His eternal transcendental nature as <i>brahman.</i> Therefore  such  <i>jivas</i>
-revolve in <i>samsara</i> the perpetual cycle of birth and death due  to  ignorance
-of their eternal nature and attachment to the  desires  and  sense  objects.
-But for one situated in <i>atma tattva</i> or realisation of the immortal  soul  by
-<i>bhakti</i> or exclusive loving devotion unto the Supreme  Lord  there  is  never
-mandatory return to material existence.
+Here Lord Krishna is emphasising that persons whose spiritual knowledge has
+become awakened do not become deluded in the material existence. They are
+able to discriminate between the mundane material knowledge and the divine
+spiritual knowledge by knowledge of the atma or soul and knowledge of the
+Supreme. This spiritual knowledge destroys all ignorance and manifests
+illumination of the Supreme Lord within the etheric heart of a human being
+just as the sun destroying darkness and illuminates all things.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-Lord Krishna explains a manifestation of His divine form. Due  to  the  <i>atma</i>
-or immortal soul although distinctly different is similar in quality to  the
-Supreme Lord it is sometimes spoken  of  as  a  partial  manifestation.  The
-Supreme Lord when enveloping the physical body, energises  the  five  senses
-and  activates  the  mind  relative  to  <i>prakriti</i>  the  material  substratum
-pevading physical existence. The statement that the  mind  is  drawn  toards
-sound may give rise to the misnomer that  the  <i>jiva</i>  or  embodied  being  is
-independent. Lord Krishna clarifies this in the very next verse..
+Vedic knowledge alone destroys spiritual ignorance that is why Lord  Krishna
+uses the word <i>jnana</i> or knowledge referring to knowledge of the  Vedas  which
+gives actual awareness of the ultimate reality. Here the word <i>jnana</i>  denotes
+a supra-consciousness experience it does not mean expertise in  intellectual
+empirical knowledge nor does  it  mean  proficiency  in  mundane  analytical
+knowledge.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-The <i>atma</i> or immortal soul within all <i>jivas</i> or  embodied  beings  constitutes
-an eternal portion of Lord Krishna and thus is  also  eternal.  Yet  because
-the <i>jiva</i> is inextricably emeshed in material existence from time  immemorial
-it is enslaved by the nescience of its own <i>karma</i>  or  reactions  to  actions
-and revolves incessantly in  <i>samsara</i>  the  perpetrual  cycle  of  birth  and
-death. Precisely based on this <i>karma</i> a <i>jiva</i> is forced to accept  a  suitable
-body such as a demigod, human, animal etc., attracting with it  five  senses
-and a mind exactly appropriate to maximising the  chances  of  survival  for
-such a  <i>jiva.</i>  But  when  the  <i>jiva</i>  through  association  of  the  Vaisnava
-spiritual  master  becomes  enlightened   from   hearing   his   unequivocal
-instructions and surrenders fully unto the Supreme  Lord  Krishna  as  one's
-only refuge then Lord Krishna Himself releases the <i>jiva</i> from the bondage  of
-<i>samsara</i> and the <i>jiva</i> becomes situated in <i>atma-tattva</i>  or  soul  realisation.
-Other  than  taking  exclusive  shelter  of  Lord  Krishna  or  any  of  His
-authorised incarnations as revealed in Vedic sciptures it is impossible  for
-the <i>jiva</i> which is  very  much  handicapped  in  terms  of  intelligence  and
-potency to achieve <i>moksa</i> or liberation. This is due to the heavy  burden  of
-unresolved <i>karma</i> attached to the jiva that they must carry  with  them  life
-after life. But all actions performed for the satisfaction  of  the  Supreme
-Lord have no <i>karma</i> attached to them. This is the difference.
+<p>
+<p>
+<p>
+<p>
+Although the intelligence may be shrouded by the veil of ignorance still  it
+has been seen that there are  those  whose  consciousness  becomes  awakened
+upon receiving Vedic knowledge.   The  veil  of  ignorance  is  due  to  the
+endless mass of accumulated  reactions  to  previous  actions  in  incessant
+lifetimes since time immemorial. <i>Atma tattva</i> or realisation of the soul  and
+soul related knowledge derived from the Vedic scriptures  and  imbibed  from
+the teachings of the spiritual master increases virtue and quality in  one's
+daily life and is exceedingly pure. For this  it  is  necessary  to  achieve
+innate  extraordinary  intelligence  or  supra-consciousness  which  becomes
+resplendent like the sun unlimited and expansive,  illuminating  all  things
+by the reality of their exact nature. The word <i>jnanam</i> meaning  by  knowledge
+and <i>atmanah</i> denoting plurality of souls confirms that by such knowledge  one
+realises the Supreme Being.  It should not be contended that  the  plurality
+of unlimited <i>atmas</i> is <i>upadhi</i> or limited because no trace of  limitation  can
+exist once one's ignorance has been dispelled by  <i>atma  tattva.</i>    Spiritual
+intelligence in  itself  is  an  attribute  of  one  who  possesses  and  is
+dependent upon existence. The <i>atma</i> which is eternal is not an attribute  and
+is independent in relation to existence.  The  analogy  of  the  sun  as  an
+illuminator is to illustrate the relation between cognisance  and  cognition
+or the relationship between the knower and the known shown  by  the  sun  as
+the source of light and emanation of light. Hence it can be  discerned  that
+in <i>samsara</i> or the endless cycle of birth and death in the conditioned  state
+there is extreme limitation due to <i>karma</i> or  reactions  to  actions  and  in
+<i>moksa</i> or the emancipated state there is an absence of limitation  due  to  a
+lack of <i>karma.</i>.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-It might be asked that since the attributes and potencies  manifesting  from
-the Supreme Lord Krishna are His eternal portions; then why  does  the  <i>atma</i>
-or immortal soul which also manifests from Him and  is  an  eternal  portion
-subject  to  the  forced  incarceration  of  transmigration.  Lord   Krishna
-clarifies this point by stating that finite reflections cannot be proved  of
-having eternality neither that they are  beginningless  .  This  is  because
-they are generated due to accessories and adjuncts such as water  reflecting
-the sunlight. The sun is always present but it may  be  obscured  by  clouds
-and then again there is no reflection at all during night. Because  the  sun
-is perceived externally by reflection it is known to exist  but  to  peceive
-the <i>atma</i> in its eternal state it must be perceived internally. In  this  way
-due to limitations of the <i>jiva</i> or embodied being, there are some  conditions
-which cannot be seen, experienced or perceived  attached  to  realising  the
-<i>atmas</i> eternality which is beyond the purview of the mind  and  senses.  Thus
-the <i>atma</i> cannot be proved by reflection. One in nescience and  ignorance  by
-the obscuration of knowledge is  unable  to  ever  understand  the  <i>atma</i>  or
-comprehend its infinite nature; so  how  can  one  imagine  its  reflection.
-Contrarily if the finite nature of the  <i>atma</i>  is  accepted  the  <i>atma</i>  still
-cannot be proved  as  a  reflection  because  of  the  established  doctrine
-confirmed in the Mundaka Upanisad III.I.IX beginning:  <i>eso  anuratma  cetasi</i>
-<i>veditavyo</i> meaning: The <i>atma</i> or immortal soul is infinitesimal and  difficult
-to  realise  but  when  one  achieves  spiritual  enlightenment   by   self-
-realisation the <i>atma</i> shines within  the  etheric  heart.  Also  the  Vedanta
-Sutras II.III.XVIII beginning <i>utcranti gat yagatinam</i>  states:  The  <i>atma</i>  is
-infintesimal, sub-atomic and able to pass in and  out  from  body  to  body.
-Also in II.III.XXII beginning <i>guna dva lokavat</i> meaning: The <i>atma</i> resides  in
-the heart but by its potency of consciousness pervades  all  the  body  like
-candle light pervading a room. So although the individual  soul  is  eternal
-it is infintesimal; but <i>paramatma</i> the Supreme  soul  is  eternal,  unlimited
-and infinite.
+Knowledge is of two types mundane  and  transitory  and  transcendental  and
+eternal; but why is it that all those whose minds  have  been  enveloped  in
+ignorance since time immemorial are so infatuated while others are  able  to
+free themselves from delusion? It is do to the Supreme Lords  grace  through
+the mercy of His devotee that those are able to  free  themselves  from  the
+infatuation of delusion. Only be the grace of the Supreme Lords  devotee  is
+one able to reverse the envelopment of ignorance constituted by the  mindset
+fashioned from reactions to one's  actions  and  flow  towards  the  eternal
+nature of the <i>atma</i> or soul  which  is  realised  by  continuous  reflection,
+contemplation and meditation upon the  teachings  of  the  Vedic  scriptures
+received through the mouth of the spiritual master and the following of  His
+instructions who has himself realised the essence of  the  Vedic  scriptures
+and who has achieved  <i>atma  tattva</i>  or  realisation  of  the  soul  and  has
+attained the Supreme Being which is completely transcendental to all  things
+material and is like the rising of the sun  illuminating  the  consciousness
+in all directions to those who have knowledge of . This is why  such  beings
+do not get infatuated and become deluded.
 <p>
-The conclusion is that if an adjunct is infinite it  can  not  be  reflected
-because it is beyond perception. Thus any conception of  the  <i>atma</i>  being  a
-reflecion of the Supreme Lord is illusion and would be like considering  the
-suns rays to be a reflection of the sun.  Such  ideas  and  conceptions  are
-false and  delusory  and  contradict  Vedic  scriptures.  So  whenever  Lord
-Krishna speaks of His portion or His potency, it always  denotes  eternality
-as  every  part  of  Him  is  eternal  and  is  not  a  seperate  entity  or
-consciousness. Lord Krishna already declared in chapter 7, verse 5  that  he
-has an internal and external nature. Although the  power  and  the  powerful
-appear as seperate energies they cannot  exist  independent  of  each  other
-even though eternally exemplifying unity in diversity  as  is  evidenced  by
-the <i>jiva</i> or embodied being, which is confined to inhaling air  or  water  as
-the case may be in various organisms. The <i>jiva</i> has been  bewildered  by  the
-latent  tendncy  of  enjoying  sense  objects  since  time  immemorial   and
-subsequently ensnared by their actions to the law of <i>karma</i> or  reactions  to
-actions from such material enjoyment and exploitation  by  the  five  senses
-which awards every <i>jiva</i> the appropriate body  to  inhabit  corresponding  to
-what one eats and what reactions one has acquired in te form of  the  effect
-called the indivual flase ego.
+With the statement in the possessive  case  <i>adityavit  jnanam</i>  meaning  true
+knowledge shining like the sun  and  the  statement  <i>prakasayati  tat  param</i>
+meaning reveals the supreme being, Lord Krishna  refutes  the  adherents  of
+absolute monism because it is not possible to have even an iota  of  contact
+with it because of the plural inference of the word  <i>atmanah</i>  meaning  souls
+even after their ignorance is dispelled. This refutes those  who  deny  that
+knowledge is different from its nature and also refutes those  who  propound
+oneness of the quality and the qualified  trying  to  establish  a  relation
+with the knower and knowledge like light  and  its  source.  Because  it  is
+known that knowledge is distinctively different from the nature of the  <i>atma</i>
+or soul. This infers that gross and subtle embodied beings  created  in  the
+material existence due to  reactions  from  past  life  activities  obscures
+knowledge into a lesser quality like the light of a lamp  is  lessened  when
+covered  by  a  shaded  glass  although  it  does  not  change  its  nature.
+Contrarily when one has achieved <i>atma tattva</i> then in the state of  <i>moksa</i>  or
+liberation the destruction of the physical and  subtle  bodies  reveals  the
+knowledge of the <i>atmas</i> quality as the light of a lamp is  more  illuminating
+when the shaded glass cover is removed; yet there is no  difference  in  its
+nature but only in its perception. As  by  the  removal  of  the  impurities
+obscuring a jewel allows its radiance to be seen; in the same way  when  the
+impurity of undesirable mundane qualities like  lust  and  fruitiveness  are
+removed  and  abandoned  then  the  transcendental  qualities   of   wisdom,
+renunciation and compassion reveal themselves in all their splendour.  These
+qualities  are  always  present  without  being  created  because  they  are
+eternally manifest as qualities of the <i>atma.</i>
 <p>
-Those not fully situated in spiritual knowledge have the  opinion  that  the
-<i>atma</i> is the highest self and  that  it  only  appears  limited  due  to  the
-covering of nescience which is like ether  appearing limited in  a  pitcher.
-When the limiting adjuncts are no longer in contact  with  each  other  then
-the ether is perceived without limitations and in  the  same  way  when  the
-adjunct of nescience is removed the true nature of  the  <i>atma</i>  is  revealed.
-But this supposition is directly refuted in this verse by the word  <i>sanatana</i>
-meaning eternal because it is a part of Lord Krishna. The singular usage  of
-the compound words <i>jiva-bhuta</i> refers to the category of  <i>jiva</i>  and  includes
-all <i>jivas</i> in every dimension throughout all creation.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 7 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 7<br><dt><center><dt><a href="verse-15-05.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-07.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 5, verse 16 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 16<br><dt><center><dt><a href="verse-05-14.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-16.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
