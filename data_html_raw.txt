@@ -1,75 +1,100 @@
-<html><head><title>Bhagavad-Gita: Chapter 12, Verse 9</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 8, Verse 2</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 12</font></b></td><td valign=middle align=center><b><font size=5>The Path of Devotion</font></b></td><td valign=middle align=center><b><font size=5>Verse 9</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12-sel.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-12-07-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 8</font></b></td><td valign=middle align=center><b><font size=5>Attainment of Salvation</font></b></td><td valign=middle align=center><b><font size=5>Verse 2</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08-sel.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-08-02-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/12-07.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-12-07-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/08-02.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-08-02-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-12-07-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-08-02-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-12-07-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-08-02-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-12-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-12-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/12-07.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/12-07.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-08-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/08-02.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/08-02.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-If one is however unable to focus their consciousness on  the  Supreme  Lord
-Krishna in unmotivated devotion in a steady manner then there is  an  easier
-method to reach Him and that is to gently bring the distracted mind back  to
-focus on Lord Krishna everytime it seeks to wander and  roam  towards  other
-objects and ideas. Again and again continuously one must seek and strive  to
-attain Him through this <i>yoga</i> or the science of the individual  consciousness
-attaining  communion  with  the   utlimate   consciousness   by   constantly
-attempting to remember of the Supreme Lord.
+<p>
+<p>
+<p>
+<p>
+Arjuna further wants to know who is the <i>adhiyagna</i> or the  Supreme  Being  in
+which to give propitiation and worship  to?  Who  is  the  director  of  all
+actions and  the  ultimate  bestower  of  the  rewards  of  action  in  this
+propitiation that is constantly going on in  the  physical  body.  First  he
+asked about the nature of <i>adhiyagna,</i> now he wants to know about  the  manner
+in which it operates within the physical body.  As  the  indwelling  monitor
+how does He preside over <i>yagna</i> or propitiation and worship. The  word  <i>yagna</i>
+implies all authorised Vedic rituals and worship. Finally  Arjuna  wants  to
+know by what means is the Supreme Lord to be known  and  remembered  at  the
+moment of death to those of controlled minds and senses.
+<p>
+<p>
+<p>
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-If one is unable to focus their mind steadily on the  Supreme  Lord  Krishna
-without distraction and interruption then one should continuously  endeavour
-to perform <i>abhyasa yoga</i> which is repeatedly fixing the mind on  the  Supreme
-Lord while simultaneously restraining  oneself  from  all  worldly  affairs.
-Reflecting  on  Lord  Krishna  being  the  quintessence  of  all   wonderful
-qualities  and  exalted  attributes  such  as  love,   beauty,   compassion,
-sweetness, wisdom, majesty, courage, valour, etc. while  realising  that  He
-alone is the Supreme Lord of the spiritual kingdom and the  material  worlds
-being the ultimate source and the ultimate goal of all things  at  the  same
-time being  the  antithesis  and  antidote  of  all  that  is  demoniac  and
-unrighteous. True endeavour for the Supreme  Lord  is  <i>bhakti</i>  or  exclusive
-loving devotion to Lord Krishna. By remembering  and  meditating  constantly
-on Him in this way, steadiness and equanimity of mind is  achieved  and  one
-will directly realise themselves how to attain Him.
+<p>
+<p>
+<p>
+<p>
+What is the <i>tad brahma</i> or the  supreme,spiritual  substratum  pervading  all
+existence? What is <i>adhiyatma</i> or the soul within all  embodied  beings?  What
+is <i>karma</i> or the equal reaction to any action? How is it possible  to  effect
+<i>moksa</i> or liberation from the cycle of  birth  and  death  by  knowing  these
+things and taking shelter of <i>Bhagavan</i> or the possessor  of  full  knowledge,
+full power, full fame, full wealth, full beauty and full  renunciation,  who
+is the Supreme Lord Krishna? What is the  <i>adhibhuta</i>  referring  to  embodied
+beings and <i>adhidaivas</i> referring to  the  demigods  which  the  <i>atharthis</i>  or
+seekers of wealth must know? What also is indicated by  the  term  <i>adhiyagna</i>
+which all three  classes  of  aspirants  have  to  be  cognisant  of  beings
+<i>atharthis, jijnasurs</i> or those  desiring  soul  realisation  and  <i>jnani's</i>  or
+those  exclusively  seeking  the  Supreme  Lord  and  why  is  it  specially
+characterised? Finally Arjuna wanted to know specifically  in  what  way  is
+the Supreme Lord Krishna to be realised by persons of  controlled  mind  and
+senses at the time of death.
+<p>
+<p>
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Now Lord Krishna presents an alternative method for those who have  not  the
-equanimity of mind to continuously think  of  Him  without  distraction.  He
-instructs to  strive  to  remember  Him  while  restraining  the  mind  from
-pursuing worldly affairs through repeated  practice  of  meditating  on  His
-divine glories such as His infinite  beauty,  sweetness,  power,  compassion
-etc. or by chanting His holy names with  affection  and  blissfully  singing
-hymns to His glories. The particle <i>atha</i> meaning and if emphasises  there  is
-another option.
+What is <i>adhiyagna</i> that is entitled for propitiation  and  to  whom  is  this
+propitiation offered? Who is the specific god? Who is the receiver  of  this
+<i>yagna</i> or propitiation offered in worship? Is it Indra the chief of  all  the
+demigods or is it to the Supreme Lord? If the Supreme Lord is  the  receiver
+then is <i>yagna</i> offerred to Him internally residing inside the  physical  body
+or is it offered externally to His manifestation outside the physical  body?
+If the <i>yagna</i> is offered internally then in what way does  the  Supreme  Lord
+accept the offering? Finally it is asked how and in what way is the  Supreme
+Lord Krishna to be realised at the time  of  death  of  the  physical  body?
+Arjuna addresses  Lord  Krishna  in  the  vocative  case  using  the  anonym
+<i>Madhusudana,</i> the killer of the Madhu demon. The  purport  of  this  is  that
+just as it is easy for Lord Krishna to terminate demons,  it  is  also  easy
+for Him to terminate the doubts in Arjuna's mind concerning these subjects.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 12, verse 9 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 9<br><dt><center><dt><a href="verse-12-06.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-12-08.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 8, verse 2 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 2<br><dt><center><dt><a href="verse-08-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
