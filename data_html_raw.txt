@@ -1,134 +1,116 @@
-<html><head><title>Bhagavad-Gita: Chapter 5, Verse 15</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 17, Verse 24</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 5</font></b></td><td valign=middle align=center><b><font size=5>Action and Renunciation</font></b></td><td valign=middle align=center><b><font size=5>Verse 15</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05-sel.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-05-14-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 17</font></b></td><td valign=middle align=center><b><font size=5>The Threefold Divisions of Material Existance</font></b></td><td valign=middle align=center><b><font size=5>Verse 24</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17-sel.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-17-21-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/05-14.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-05-14-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/17-21.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-17-21-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-05-14-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-17-21-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-05-14-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-17-21-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-05-13.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-15.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/05-14.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/05-14.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-17-20.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-22.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/17-21.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/17-21.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
 <p>
-The  sublime,  transcendental  Supreme  Lord  although  the  energiser   and
-controller of all living beings in creation does not partake of  the  merits
-of piety or the demerits of sins from any living entity.  The  reason  being
-He is all pervasive, omniscient, eternal and thus He  is  always  completely
-fulfilled  directing  the  living  entities  precisely  according  to  their
-previous actions by His external  potency  known  as  <i>Maya</i>  the  inscrutable
-illusory energy.
 <p>
-A question may be raised that it is seen that the Supreme Lord  is  merciful
-to His devotees and blesses them; but  is  unmerciful  to  non-devotees  and
-chastises them which denotes partiality. So how does this exemplify that  He
-is always completely fulfilled. Lord Krishna clarifies this doubt  with  the
-word <i>jnanam</i> meaning knowledge. Cognisance  is  the  intrinsic  nature  of  a
-human being and without it discrimination cannot manifest and the  knowledge
-that the Supreme Lord is equal to all will be enveloped in ignorance.   Thus
-one enveloped in ignorance is unable to discern that chastisement  from  the
-Supreme Lord for sinful activities is also  His  mercy  and  a  blessing  as
-well. Because of misconceptions beings become deluded from  time  immemorial
-and attribute partiality to the Supreme Lord.
+<p>
+<p>
+In order to convey the supreme, eternal auspiciousness of OM TAT  SAT,  Lord
+Krishna first glorifies the <i>pranava</i> OM. <i>Pranava</i> from  the  root  word  <i>prana</i>
+meaning breath, refers to the first breath and is the sound of OM  beginning
+all Vedic rites. In the performance of all Vedic  rites  such  as  <i>yagna</i>  or
+propitiation, <i>tapah</i> or austerities and <i>danam</i> or charity; the <i>pranava</i>  OM  is
+always reverently vibrated as the first audible  sound.  The  transcendental
+sound of OM is the personalised vibration of the Supreme Lord,  it  is  most
+auspicious  and  eternal.  By  its  transcendental  potency  all  activities
+performed by the Vaisnavas and brahmanas enjoined by the ordinances  of  the
+Vedic scriptures are auspiciously begun with OM exclusively and by doing  so
+insures that whatever may be defective becomes efficacious.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-The Supreme Lord being completely  transcendental  and  independent  to  the
-material existence does not accept the pious merits or the  sinful  demerits
-of any human being and although He energises all of their activities  He  is
-never affected by them. This  is  because  human  beings  are  endowed  with
-freewill and <i>viveka</i> or  a  sense  of  discrimination  and  this  unlike  the
-animals gives them a limited independence regarding their  own  actions  and
-the choice of their activities.  But  when  their  sense  of  discrimination
-becomes shrouded by ignorance  in  the  absence  of  Vedic  knowledge  their
-awareness  becomes   obscured   and   they   become   deluded   and   assume
-responsibility or authorship for their  individual  actions  and  thus  they
-assume also the reactions that accompany their actions binding them  tightly
-to <i>samara</i> or the cycle of birth and death. If by chance an awareness  arises
-in their consciousness that they are enveloped and shrouded in the  delusion
-of illusion they do not consider  that  they  have  the  ability  to  change
-anything because they do not realise that it is  Supreme Lord who  initiates
-all actions. The resplendent Supreme Lord Krishna is like  the  sun  in  the
-sky illuminates His light on the noble and the  vile,  the  sinful  and  the
-pious impartially. And as  although  sunlight  touching  the  Earth  is  not
-affected by events that happen in the world similarly the  Supreme  Lord  is
-not affected by the events which transpire in the life of  human  beings  or
-any other being.
-<p>
+Once again the Supreme Lord Krishna  describes  the  modalities  of  actions
+that are essential to be performed by revealing  OM  TAT  SAT.  These  three
+divine syllables headed by the transcendental sound  vibration  OM  are  all
+verily nomenclatures of the Supreme Lord.  All  over  creation  the  Supreme
+Lord pervades by His internal potency with the omnipresence of  OM.  As  the
+Supreme Lord is glorified  with  the  greatest  respect  in  all  the  Vedic
+scriptures, He is known as TAT. Since the Supreme Lord  is  perfect  without
+any defects and completely auspicious, He is known  as  SAT.  The  following
+information is confirmed in the  Rig  Veda:  OM  TAT  SAT  is  vibrated  for
+propitiation to the Supreme Lord, adherence  to  the  Vedic  ordinances  and
+injunctions and honouring creation,  the  <i>brahman</i>  or  spiritual  substratum
+pervading all existence and the <i>atma</i> or immortal soul within  all  <i>jivas</i>  or
+embodied beings.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
-The <i>atma</i> or eternal soul never accepts anyone's sins  or  mitigate  anyone's
-misery or suffering although the person may be dearly beloved. Nor does  the
-<i>atma</i> take the pious merit and happiness which may come to a person  that  is
-hated. The <i>atma</i> is transcendental to material nature and not limited to  the
-physical body.  The  <i>atma</i>  knows  not  the  relationship  of  the  amity  of
-friendliness nor the enmity of antagonism. All  conceptions  of  friend  and
-foe are material designations caused by <i>vasana</i> which is  physical  instincts
-created from material association. How then is it  that  the  <i>atma</i>  is  thus
-shrouded by this  <i>vasana</i>.  Lord  Krishna  reveals  that  it  is  because  of
-ignorance. It is ignorance which shrouds and obscures  spiritual  knowledge.
-Ignorance and nescience is that which is opposed to spiritual knowledge  and
-wisdom. By the shrouding of ignorance due to  reactions  from  past  actions
-the  consciousness  of  the  <i>atma</i>  becomes  obscured  and  the  intelligence
-compromised allowing the living entity to enter the perilous predicament  of
-believing they are the enjoyer of the rewards of actions thereby  recipients
-of the reactions. Thus by the <i>karma</i> or  the  reactions  from  attachment  to
-actions one forges a material link in the appropriate  physical  body.  This
-love of one's body forges  links  with  other  bodies  kindling  a  ironclad
-infatuation for the bodily conception.  This  infatuation  maturing  becomes
-<i>vasana</i> which constitutes  the  seed  for  further  births  in  the  material
-creation.  This  perpetuates  more  and  more  actions  and  reactions   and
-infatuations for bodily  connections  and  more  seeds  and  more  increased
-<i>vasana</i> which perpetually keeps an embodied  being  locked  in  the  material
-existence engendering unlimited  births  and  rebirths.  Next  Lord  Krishna
-propounds the topic of spiritual intelligence.
+<p>
+<p>
+<p>
+Lord Krishna elaborates the  ontology  of  OM  TAT  SAT  and  how  they  are
+interrelated. The words <i>brahma-vadinam</i> are those who follow the  injunctions
+and ordinances of the Vedic  scriptures  and  refers  to  the  three  higher
+<i>varnas</i>  or  castes  beginning  with  the   brahmins   or   priestly   class,
+<i>ksatriyas</i> the royal and warrior class and <i>vaisyas</i> the merchant class.  <i>Yagna</i>
+or propitiation and worship to the Supreme  Lord  is  performed  exclusively
+by the Vaisnavas and Brahmins. <i>Tapah</i> or  austerities  is  performed  by  the
+Vaisnava brahmins and the <i>ksatriyas. Danam</i> or charity is  performed  by  the
+<i>ksatriyas and vaisyas</i> and is offered to the Vaisnavas and  brahmanas  to  be
+utilised for the service of the Supreme Lord Krishna or any of  His  <i>avatars</i>
+or authorised incarnations and expansions  according  to  vedic  scriptures.
+Thus the relationship between the three higher <i>varnas</i>  has  been  clarified.
+All prescribed Vedic rituals must be performed exclusively by the  Vaisnavas
+and brahmanas and always commence with the  transcendental  sound  vibration
+OM. The Vedas begin with OM as well. Thus the eternal connection between  OM
+and  the  Vedas  and  OM  and  <i>yagnas</i>  has  been  demonstrated  and   firmly
+established as only in conjunction with the transcendental sound  of  OM  at
+the commencement are the Vedas recited and  the  performance  of  <i>yagnas</i>  is
+bonafide.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Lord Krishna begins stating <i>nadatte kasyacit papam</i>  meaning  that  He  never
-accepts the sins of any being. He also never accepts the piety of any  being
-either. So He is not connected to any merit or demerit  they  may  incur  by
-their actions. But as the energising principle  of  all  creation  naturally
-all beings are impelled according to  their  own  natures  by  Him.  If  the
-Supreme Lord, the impeller of all beings is not  involved  in  the  doership
-and activities of the embodied beings and He is not a recipient  of  any  of
-their merits and demerits then  why  is  it  that  embodied  beings  perform
-actions that bind them to material existence. The word <i>jnanam</i>  or  knowledge
-denoting cognisance is used here. One's  natural  cognisance  and  spiritual
-discrimination is enveloped in ignorance since time immemorial  and  so  the
-embodied  being  is  infatuated  by  delusion.  Hence  they  perform  sinful
-activities  believing  them  to  be  good  and  when  they  receive   severe
-repercussions as  reactions  for  such  sinful  activities  they  blame  the
-Supreme Lord for injustice or for being partial and by making offences  they
-sink further into nescience.
+The transcendental evocation OM TAT SAT denotes  the  Supreme  Lord  Krishna
+through His abstract auxiliary potency the <i>brahman</i> or  spiritual  substratum
+pervading all existence and is all auspiciousness. Due to  this  interaction
+the recitation of OM TAT SAT by duly initiated Vaisnavas  and  brahmanas  at
+the commencement of all Vedic rites insures success and  is  ascertained  as
+the cause of accomplishing  all  Vedic  rituals  successfully  causing  well
+being and attainment to the Vaisnavas and  brahmanas  who  are  the  topmost
+members of creation. Now in order to delineate the proper  actions  involved
+with each for achieving the  desired  goal,  Lord  Krishna  begins  with  OM
+explaining that it is a name for  the  <i>brahman</i>  and  is  a  potency  of  the
+Supreme Lord as it is connected  to  the  prime  source  of  all  the  Vedic
+scriptures. Therefore by vibrating the  transcendental  <i>pranava</i>  OM  at  the
+commencement  of  any  prescribed  Vedic  activity  without  any  pause   or
+digression stabilises the  continuity  and  connection  insuring  successful
+accomplishment of  <i>yagna</i>  or  propitiation  and  worship  by  Vaisnavas  and
+brahmanas, <i>tapah</i> or austerities by the <i>ksatriyas</i> or royal warrior class  and
+<i>danam</i> or charity by the <i>vaisyas</i> or merchant class.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 5, verse 15 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 15<br><dt><center><dt><a href="verse-05-13.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-05-15.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 17, verse 24 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 24<br><dt><center><dt><a href="verse-17-20.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-17-22.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
