@@ -1,182 +1,76 @@
-<html><head><title>Bhagavad-Gita: Chapter 15, Verse 2</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 12, Verse 15</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 15</font></b></td><td valign=middle align=center><b><font size=5>Realization of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 2</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15-sel.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-15-02-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 12</font></b></td><td valign=middle align=center><b><font size=5>The Path of Devotion</font></b></td><td valign=middle align=center><b><font size=5>Verse 15</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12-sel.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-12-12-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/15-02.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-15-02-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/12-12.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-12-12-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-15-02-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-12-12-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-15-02-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-12-12-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-15-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/15-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/15-02.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-12-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-12-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/12-12.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/12-12.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
 <p>
+4
 <p>
 <p>
-The branches of this  ancient  banyan  tree  are  the  perishable  <i>jivas</i>  or
-embodied beings from Brahma the secondary creator who  lives  for  trillions
-of years down to humans who may live for a hundred years down to  an  insect
-that may live only for some hours. All regardless  of  their  span  of  life
-have their limiting  adjuncts  and  restricted  effects  and  represent  the
-branches of this tree. Of those <i>jivas</i> who have the inclination for evil  and
-demoniac activities their births will be in the reptile and insect  species.
-Those <i>jivas</i> who are oblivious to their divine nature  and  act  like  beasts
-will correspondingly take birth in the animal kingdom  and  those  <i>jivas</i>  of
-virtuous and pious  nature  nature  will  take  birth  among  the  Brahmins,
-Vaisnavas and demigods. All <i>jivas</i> constitute the unlimited branches of  this
-ancient  banyan  tree  represented  in  the  mundane   material   existence.
-Furthermore it should be understood that  they  are  nutured  by  the  three
-<i>gunas</i> or modes  of  goodness,  passion  and  nescience  according  to  their
-qualifications and propensities. The tips of the  branches  are  the  senses
-and the innumerable sprouts and shoots are the sense objects. The roots  are
-spread out above and below with the central primary  tap  root  representing
-the Supreme Lord  alone  with  the  roots  below  representing  desires  for
-enjoyment and the roots  above  representing   subtle  impressions  of  past
-enjoyments.  The  effects  of  such  are  specifird  by  the   words   <i>karma</i>
-<i>anubandhani</i> which refers to actions according to the proclivity  to  perform
-righteous  or  unrighteous  activities  which   results   in   corresponding
-reactions some positive, some benign and some negative. When past  reactions
-eventually have been finally exhausted the <i>jiva</i> once  more  takes  birth  in
-the world of  humans  directly  related  to  the  influence  of  the  subtle
-impressions accumalated from enjoyments experienced in  the  previous  lives
-and worlds which are the subtle motivating impetus for the inclinations  and
-propensity to experience these activities again. The ability  to  experience
-these actions is limited to the worlds of humans alone and so  Lord  Krishna
-states <i>manusya-loke</i> meaning the world of men.
-<p>
-<p>
+5 From whom the world gets no disturbance and to whom is never disturbed  by
+the world, to who is free from mundane pleasure  is  free  from
+attachment and to who is free from elation is free from  desire
+and to who is free from jealousy is free from envy at another's
+gain. Fear is terror  coming  from  apprehension  from  danger.
+Anxiety is the agitation  of  the  mind  because  of  it.  Lord
+Krishna's devotee who is free from all  these  things  is  very
+dear to Him.
 <p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Since the unmanifest <i>atma</i> or immortal soul exists in an  impreceptible  sub-
-atomic form within the bodies of all <i>jivas</i>  or  embodied  beings,  they  are
-described as spread upwards and downwards. The attributes are the  modes  of
-material nature, the three <i>gunas</i> of <i>sattva</i> or  goodness,  <i>rajas</i>  or  passion
-and <i>tamas</i> or ignorance. The pleasurable  experiences  are  the  sprouts  and
-desires are the buds. The main  central  root  is  the  divine  resplendence
-representing the Supreme Lord  and  the  subsidary  roots  are  the  results
-acquired  due  to  following  righteousness  or  unrighteousness.  This   is
-described in the Ballava section.
-<p>
-<p>
-In this ancient <i>asvattha</i> or banyan tree representing material existence  the
-<i>brahman</i> or spiritual substratum pervading all existence as manifestation  of
-the Supreme Lord is the primary and central  root.  The  subsidary  root  is
-<i>prakriti</i> the material substratum pervading physical existence and the  three
-<i>gunas</i> are its attributes. The elements earth, water,  fire,  air  and  ether
-are the branches and the leaves  are  the  Vedic  hymns.  The  demigods  who
-administer universal management are the smaller branches  and  human  beings
-are  the  twigs.  From  adherance  or  rejection  of  the  injunctions   and
-prohibitions defined in the Vedic scriptures  do  sweet  and  bitter  fruits
-results which are the <i>karmas</i> or reactions to the previous actions   one  has
-performed.  Righteous  actions  bestow  pleasant  rewards  and   unrighteous
-actions  bestow  unpleasant  rewards.   This  ancient  banyan  tree  rewards
-liberation and bondage as well depending upon  the  merit  of  righteousness
-enacted. It also has fruits, branches and roots that are unmanifest as  well
-as those that are apparent and manifest.  This does not  otherwise  come  to
-happen neither does it not come not to happen. This means that the cause  is
-enveloped in the effect and that the effect  is  containing  the  cause.  In
-this way as a tiny seed contains an entire tree and a tree contains  a  tiny
-seed the roots and the branches are intertwined eternally.
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
+10
 <p>
 <p>
-The branches on this <i>asvattha</i>  tree symbolise  all  the  <i>jivas</i>  or  embodied
-beings who arise  due  to  <i>karma</i>  or  reactions  to  actions.  The  downward
-branches symbolise humans, animals, plants, etc.  and  the  upward  branches
-symbolise the 300 million demigods administering universal management.   All
-the branches are part of <i>prakriti</i> thematerial substratum pervading  physical
-existence and all are nourished  by  the  three  <i>gunas</i>  or  three  modes  of
-material nature which are <i>sattva</i> or goodness, <i>rajas</i> or passion and <i>tamas</i>  or
-ignorance. The sprouts on the branches symbolises  desires  for  objects  of
-the senses. This <i>asvattha</i> tree has its  roots  in  Brahma-loka  the  highest
-material planet and its branches end in the worlds of humans but  there  the
-humans are constantly creating new rootlets which are  the  <i>karmas</i>  acquired
-from performing actions which are  enjoined  and  prohibited  in  the  Vedic
-scriptures.The activities performed as <i>jivas</i>  while  in  bodies  of   humans
-exclusively results in higher level or lower level births. By  ignoring  the
-injunctions and prohibitions of the Vedic scriptures the results  are  lower
-level births such as animals, reptiles, insects, plants.  The  adherance  to
-the injunctions and prohibitions of the Vedic scriptures results  in  higher
-level births such as the demigods and also human births which still  affords
-a <i>jiva</i> the golden opportunity to  spiritually  evolve  and  grow;  sometimes
-even achieving <i>moksa</i> or liberation from material  existence  in  their  very
-next lifetime.
+11 That person who by their actions  do  not  become  a  cause  of  fear  or
+trouble in their life and  causing no affliction to the world has
+no cause to feel afflicted  by  the  world.  As  no  elements  of
+antagonism exist in such a one, no action received from the world
+can be taken as being aggression at any time.  One  who  is  free
+from giving or receiving joy and grief to any being who  is  free
+from all conceptions of being the bestower  of  anything  or  the
+recipient of anything is very dear to the Supreme Lord Krishna.
+<p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-Describing  the  roots  and  branches  of  the  <i>asvattha</i>  or   banyan   tree
-allegorically  to  symbolise  material  existence.  Lord   Krishna   further
-explains that the branches that rise  upwards  symbolise  the  higher  level
-<i>jivas</i> or embodied beings such as the  demigods  and  humans.  The   branches
-that turn downwards are lower level <i>jivas</i> such as animals, birds,  fish  and
-plants. The roots extend upwards to Satya loka the highest  material  planet
-of Brahma and extends  downwards  also  into  the  worlds  of  humans  where
-innumerable new sub-roots manifest which  are  the  <i>karma</i>  or  reactions  to
-actions performed by every  human.  The  twigs  are  impressions  from  past
-desires and the sprouts are the desired sense objects.  All  parts  of  this
-tree  are  within  <i>prakriti</i>  the  material  substratum  pervading   physical
-existence and are nourished by the three <i>gunas</i> or modes of  material  nature
-which are <i>sattva</i> or goodness, <i>rajas</i>  or  passion  and  <i>tamas</i>  or  nescience.
-Those lower level <i>jivas</i> who have degenerated into various forms of  demoniac
-entities due to performing evil activities to others  as  well  as  degraded
-activities unto themselves inevitably sink into  the  fiery  hellish  worlds
-for aeons and aeons of atonement. Contrarily  the  higher  level  <i>jivas</i>  who
-adhered to the injunctions and prohibitions of the Veidc scriptures  receive
-meritorious births in the heavenly worlds of the  demigods.  Possessing  the
-nature of good or evil each <i>jivas karma</i> binds them in <i>samsara</i> the  perpetual
-cycle of birth and death and is manifested in <i>manusya</i> the worlds of  humans.
+One who is not an annoyance or disturbance to anyone  or  anything  and  who
+also does not feel any annoyance or disturbance from  anybody  or  anything,
+being antagonistic to no one is equal to all and thus freed from the  mental
+fluctuations of elation, intolerance, fear and anxiety is very dear  to  the
+Supreme Lord Krishna.
 <p>
-<p>
-The purport is that after exhaustion of all <i>karma</i> and  its  residue  of  the
-<i>jiva</i> enjoying ecstatically in the heavenly worlds or suffering in misery  in
-the hellish worlds due to either following or ignoring the  injunctions  and
-prohibitions of the  Vedic  scriptures.  One  is  rewarded  after  death  by
-performing meritorious  deeds  or  punished  by  performing  degraded  deeds
-during each human lifetime in pursuit of pleasure and  sense  gratification.
-After hundreds of thousands of such lifetimes  these  desires  for  pleasure
-become  deep  rooted  tendencies  that  causes   subtle  impressions  to  be
-imprinted upon the subtle body of the <i>jiva</i> who takes birth in the worlds  of
-humans. These impressions are  so  resolute  that  subconsciously  the  <i>jiva</i>
-craves and seeks the  same  pleasures  enjoyed  in  the  previous  life  and
-performs the  same  and  similar  activities  in  which  they  had  achieved
-fulfillment before.
-<p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 15, verse 2 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 2<br><dt><center><dt><a href="verse-15-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-15-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+</div></td></tr></table><center>Thus ends commentaries of chapter 12, verse 15 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 15<br><dt><center><dt><a href="verse-12-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-12-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
