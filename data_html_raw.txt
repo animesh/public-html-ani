@@ -1,100 +1,175 @@
-<html><head><title>Bhagavad-Gita: Chapter 8, Verse 2</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 18, Verse 1</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 8</font></b></td><td valign=middle align=center><b><font size=5>Attainment of Salvation</font></b></td><td valign=middle align=center><b><font size=5>Verse 2</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08-sel.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-08-02-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 18</font></b></td><td valign=middle align=center><b><font size=5>Final Revelations of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 1</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18-sel.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-18-01-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/08-02.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-08-02-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/18-01.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-18-01-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-08-02-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-18-01-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-08-02-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-18-01-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-08-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/08-02.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/08-02.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="chapter-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/18-01.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/18-01.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-Arjuna further wants to know who is the <i>adhiyagna</i> or the  Supreme  Being  in
-which to give propitiation and worship  to?  Who  is  the  director  of  all
-actions and  the  ultimate  bestower  of  the  rewards  of  action  in  this
-propitiation that is constantly going on in  the  physical  body.  First  he
-asked about the nature of <i>adhiyagna,</i> now he wants to know about  the  manner
-in which it operates within the physical body.  As  the  indwelling  monitor
-how does He preside over <i>yagna</i> or propitiation and worship. The  word  <i>yagna</i>
-implies all authorised Vedic rituals and worship. Finally  Arjuna  wants  to
-know by what means is the Supreme Lord to be known  and  remembered  at  the
-moment of death to those of controlled minds and senses.
-<p>
-<p>
-<p>
-<p>
+In order to ascertain exactly what  is  the  final  conclusion  of  all  the
+teachings and instructions  that  have  been  imparted  up  until  now;  the
+Supreme Lord Krishna concisely summarises the entire Bhagavad-Gita  in  this
+concluding  chapter  by  clearly  distinguishing  the   difference   between
+renunciation of actions caused by the impulses of  desire  and  renunciation
+of the desire for rewards for  one's  actions.  In  previous  chapters  Lord
+Krishna has elaborated on the mental renunciation of all actions in  chapter
+5, verse 13  as  well  as  renunciation  of  actions  through  <i>yoga</i>  or  the
+individual   consciousness   attaining   communion   with    the    ultimate
+consciousness in chapter 9, verse  28.  He  has  also  explained  renouncing
+attachment to actions while renouncing their rewards in chapter 4, verse  20
+and likewise explained  the  renunciation  of  the  rewards  resulting  from
+actions  in  chapter  12,  verse  11.  It  should  be  understood  that  the
+infinitely merciful  and  totally  omniscient  Supreme  Lord  Krishna  never
+teaches or exemplifies contradictory knowledge. Whatever  and  wherever  His
+divine <i>lila</i> or pastimes are manifesting they are always perfection  and  the
+epitome of <i>dharma</i> or eternal righteousness.  Everything He does or  expounds
+upon whether instructional or by example is  always  fully  harmonious  with
+the Vedas and in completely complimentary to  the  conclusions  of  all  the
+Vedic scriptures. So to distinctly know the difference between  renunciation
+of performing actions and to reconcile  it  harmoniously  with  renunciation
+for the  results  of  actions  is  the  poignant  and  penetrating  question
+requested to be answered here.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
+Hari OM! In this final chapter the Supreme Lord Krishna summarises in  brief
+all of the perennial principles and eternal truths that  were  presented  in
+the previous 17 chapters and establishes the collective  conclusion  to  all
+of them.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
+The preceding chapters 16 and 17 elaborated the following subjects  by  Lord
+Krishna:
+1) The only means of achieving the four <i>purusarthas</i>  or  goals  of  human
+existence which are <i>kama</i> or  pleasure,  <i>artha</i>  or  wealth<i>,  dharma</i>  or
+righteousness and <i>moksa</i> or liberation from material existence which is
+the quintessence of them all is to adhere to and follow the ordinances
+and injunctions of the Vedic scriptures by the performance of <i>yagna</i> or
+ritualistic propitiation and worship  to  the  Supreme  Lord  Krishna,
+<i>tapah</i> or austerities and penance authorised in  the  Vedic  scriptures
+and <i>danam</i> or charity to the Vaisnava Brahmins from  one  of  the  four
+bonafide sampradayas as revealed in Vedic scriptures.
+2) That all Vedic rituals and observances  are  always  predicated  first
+with the <i>pranava</i> OM the transcendental sound vibration of the  Supreme
+Lord denoting the first breath making this reverberating hum which the
+Sanskrit root is <i>pranu.</i>
+3)  The  distinction  of  that  representing  the  <i>brahman</i>  or  spiritual
+substratum pervading all existence and leading to <i>moksa</i> is  symbolised
+by TAT and that  representing  <i>prakriti</i>  or  the  material  substratum
+pervading physical existence  confering  <i>kama,  artha</i>  and  <i>dharma</i>  is
+symbolised by SAT.
+4) That <i>yagna</i> or ritualistic propitiation and worship performed  for  the
+satisfaction of the Supreme  Lord  when  devoid  of  any  desires  for
+rewards becomes successful
+5) That those initiated Vaisnava  brahmanas  performing  <i>yagnas</i>  achieved
+their  ordainment as a result of the prominence of <i>sattva guna</i> or mode
+of goodness permeating their character enhanced by the sole intake  of
+only <i>sattvic</i> foods.
 <p>
 <p>
+In this final chapter Lord Krishna  concisely  delineates  the  following
+subject matters:
+<i>1) Sannyasa</i> the renunciation of action  and  <i>tyaja</i>  the  renunciation  of
+actions rewards
+2) The exact nature and mood of <i>tyaja.</i>
+3) The comprehension that the Supreme Lord Krishna is the repository  and
+agency of everything.
+4) A description of the effects of the three <i>gunas</i> or modes  of  material
+nature  illustrating  that  <i>sattva  guna</i>  alone  leads  to  <i>moksa</i>   or
+liberation from material existence and is thus the only <i>guna</i> worthy of
+cultivation.
+5) How activities  appropriated  in  the  <i>varnas</i>  or  four  caste  system
+indicates the natural propensities of a <i>jiva</i> or embodied  being  based
+on <i>karma</i> or reactions to past actions are actually authorised acts  of
+worship to the Supreme Lord accomplishing His attainment.
+6) The quintessential conclusion of the divine discourse Srimad Bhagavad-
+Gita is that <i>bhakti</i> or exclusive loving devotion to the  Supreme  Lord
+Krishna or any  of  His  authorised  incarnations  and  expansions  as
+revealed in Vedic scriptures is the paramount goal of all existence.
 <p>
 <p>
-What is the <i>tad brahma</i> or the  supreme,spiritual  substratum  pervading  all
-existence? What is <i>adhiyatma</i> or the soul within all  embodied  beings?  What
-is <i>karma</i> or the equal reaction to any action? How is it possible  to  effect
-<i>moksa</i> or liberation from the cycle of  birth  and  death  by  knowing  these
-things and taking shelter of <i>Bhagavan</i> or the possessor  of  full  knowledge,
-full power, full fame, full wealth, full beauty and full  renunciation,  who
-is the Supreme Lord Krishna? What is the  <i>adhibhuta</i>  referring  to  embodied
-beings and <i>adhidaivas</i> referring to  the  demigods  which  the  <i>atharthis</i>  or
-seekers of wealth must know? What also is indicated by  the  term  <i>adhiyagna</i>
-which all three  classes  of  aspirants  have  to  be  cognisant  of  beings
-<i>atharthis, jijnasurs</i> or those  desiring  soul  realisation  and  <i>jnani's</i>  or
-those  exclusively  seeking  the  Supreme  Lord  and  why  is  it  specially
-characterised? Finally Arjuna wanted to know specifically  in  what  way  is
-the Supreme Lord Krishna to be realised by persons of  controlled  mind  and
-senses at the time of death.
-<p>
-<p>
+The question enquired about is the distinct difference  between  <i>sannyasa</i>
+and <i>tyaja</i> as well as their similarities. Both  are  subtle  not  easy  to
+understand. Both are situated in renunciation and  both  lead  to  <i>moksa.</i>
+Literally <i>sannyasa</i> means putting away and literally  <i>tyaja</i>  means  giving
+up. <i>Sannyasa</i> expresses abandonment  of  desires  for  actions  and  <i>tyaja</i>
+exhibits the abandonment for the rewards of actions. The Mundaka Upanisad
+III.II.VI beginning <i>veda ta vijnano sunisch</i> means:  Those  of  restrained
+senses who lead a life  of  renunciation  with  Vedic  knowledge  achieve
+liberation. Not by action, not by wealth, not  by  progeny  can  this  be
+achieved. Those enlightened  <i>jivas</i>  who  have  ascertained  what  is  the
+essence of the Vedic scriptures and assimilating it within  their  hearts
+by renunciation dissolve all their <i>karmas</i> and achieve <i>moksa</i> and the final
+beatitude. In order to illustrate the nature of both  <i>sannyasa</i> and  <i>tyaja</i>
+and prove that they are one and the same Lord Krishna first corrects  the
+misapprehension that they are different.
 <p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-What is <i>adhiyagna</i> that is entitled for propitiation  and  to  whom  is  this
-propitiation offered? Who is the specific god? Who is the receiver  of  this
-<i>yagna</i> or propitiation offered in worship? Is it Indra the chief of  all  the
-demigods or is it to the Supreme Lord? If the Supreme Lord is  the  receiver
-then is <i>yagna</i> offerred to Him internally residing inside the  physical  body
-or is it offered externally to His manifestation outside the physical  body?
-If the <i>yagna</i> is offered internally then in what way does  the  Supreme  Lord
-accept the offering? Finally it is asked how and in what way is the  Supreme
-Lord Krishna to be realised at the time  of  death  of  the  physical  body?
-Arjuna addresses  Lord  Krishna  in  the  vocative  case  using  the  anonym
-<i>Madhusudana,</i> the killer of the Madhu demon. The  purport  of  this  is  that
-just as it is easy for Lord Krishna to terminate demons,  it  is  also  easy
-for Him to terminate the doubts in Arjuna's mind concerning these subjects.
+This is the final chapter of Srimad Bhagavad-Gita  and  in  it  the  Supreme
+Lord Krishna gives a concise synopsis of all the subjects presented  in  the
+previous 17 chapters. This He does in order to  impress  upon  our  memories
+the topics  elaborated  upon  earlier  and  to  clearly  delineate  how  all
+conceptions harmoniously unite in  the  marvellous  sublime  beauty  of  the
+final conclusion. At the end of the  last  chapter  it  was  explained  that
+actions were  only  declared  righteous  if  they  were  performed  for  the
+exclusive satisfaction of the Supreme Lord Krishna or any of His  authorised
+incarnations  revealed  in  Vedic  scriptures.  Such   actions   exclusively
+dedicated in chapter 17, verse 27 for His satisfaction alone  are  known  as
+SAT and clearly denote that  the  desire  for  rewards  is  what  is  to  be
+abandoned and not the activity. This was also confirmed earlier  in  chapter
+12, verse 11 where Lord  Krishna  advises  that  controlling  the  mind  one
+should relinquish the desire for the rewards of  actions.  Even  earlier  in
+chapter 5, verse  13  Lord  Krishna  had  advised  mentally  renouncing  all
+actions.
 <p>
+Why then do these two  instructions  seem  contradictory  and  what  is  the
+correct understanding regarding the renunciation  of  all  actions  and  the
+renunciation of desire for the receiving the rewards of  actions?  The  true
+nature of abandonment of actions and  the  abandonment  of  the  desire  for
+rewards and the distinction between  the  two  is  what  Lord  Krishna  will
+address. In this context it must be taken into consideration whether or  not
+<i>sannyasa</i> or renunciation and <i>tyaja</i> or abandonment  are  actually  different.
+The Mundaka Upanisad III.II.VI beginning <i>veda tat vijnano  sunisch</i>  meaning:
+Those  who  have  purified  themselves   through   renunciation   and   have
+ascertained and comprehended the Vedic  scriptures  will  achieve  <i>moksa</i>  or
+liberation from material existence. Neither  through  actions,  nor  wealth,
+nor progeny but only by renunciation is immortality gained.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 8, verse 2 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 2<br><dt><center><dt><a href="verse-08-01.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-03.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+The  evocatives  <i>mahabaho</i>  meaning  mighty  armed  denotes  Lord   Krishna's
+indomitable might and <i>kesinisudana</i> refers to His destroying a mighty  demon.
+So He is requested to by His supreme power to destroy  the  misunderstanding
+of renunciation along with destroying the enemies on  the  battlefield.  The
+evocative <i>Hrsikesa</i> acknowledges that Lord Krishna is the  inner  monitor  of
+the mind and that only He can remove all doubts.
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 18, verse 1 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 1<br><dt><center><dt><a href="chapter-17.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-18-02.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
