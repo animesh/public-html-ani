@@ -1,133 +1,143 @@
-<html><head><title>Bhagavad-Gita: Chapter 13, Verse 18</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 7, Verse 16</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 13</font></b></td><td valign=middle align=center><b><font size=5>The Individual Consciousness and The Ultimate Consciousness</font></b></td><td valign=middle align=center><b><font size=5>Verse 18</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13-sel.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-13-12-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 7</font></b></td><td valign=middle align=center><b><font size=5>Knowledge of the Ultimate Truth</font></b></td><td valign=middle align=center><b><font size=5>Verse 16</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07-sel.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-07-16-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/13-12.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-13-12-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/07-16.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-07-16-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-13-12-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-07-16-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-13-12-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-07-16-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-13-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/13-12.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/13-12.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-07-15.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-17.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/07-16.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/07-16.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
+Only those who  are  virtuous  and  righteous  have  the  qualification  for
+devotion to the Supreme Lord. There are four categories  of  such  qualified
+beings according  to  differences  in  their  virtue.  Those  who  performed
+virtuous deeds in previous lives worship Lord Krishna  and  fall  into  four
+categories:
+<i>1) artto</i> are those  distressed  such  as  persecuted  by  disease.  If  they
+performed virtuous activities in past  lives  then  they  will  have  the
+opportunity to worship Lord Krishna otherwise they  will  be  limited  to
+worshipping minor gods and formless illusionary gods.
+<i>2) atharthi</i> are the seekers of wealth who desire to have full  facility  for
+enjoyment in this life and their next. If they performed  virtuous  deeds
+in their past lives then they too will have the  opportunity  to  worship
+Lord Krishna. 
+<i>3) jijnasuh</i> are those who desire self realisation to end the cycle of  birth
+and death. If they performed virtuous actions in their  past  lives  they
+will also have the opportunity to worship Lord Krishna.
+<i>4) jnanis</i> are those who have achieved <i>atma  tattva</i>  or  realisation  of  the
+soul  and  know  the  Supreme  Lord.  If  they  have  performed  virtuous
+activities in their past lives then they will  have  the  opportunity  of
+advancing further and worshipping Lord Krishna.
 <p>
-<p>
-<p>
-<p>
-The Supreme Lord Krishna known as <i>Parabrahma</i> the source of  the  <i>brahman</i>  or
-spiritual substratum pervading all existence, is the light  of  all  lights,
-the illuminator of even the sun and the stars. He is shining,  resplendently
-effulgent all things shine from Him, by His light all creation  is  full  of
-light.  Therefore  <i>Parabrahma</i>  is  intouched  by  darkness  and  beyond  all
-nescience  untouched  by  ignorance.  The  Svetasvatara  Upanisad   III.VII.
-beginning <i>veda  hametam  purusam</i>  meaning:  The  Supreme  Lord  shines  more
-brilliantly then the sun and by realising Him  only  one  attains  <i>moksa</i>  or
-liberation there is no other way to accomplish this. It  is  this  knowledge
-that is to manifest in the functions  of  the  intellect  regarding  the  20
-superlative virtues given in verses 8 to 12. It  is  also  knowable  in  the
-form of sound by <i>OM</i> the primordial sound frequency of the Supreme  Lord.  It
-is also accessible through spiritual  practices  and  easily  attainable  by
-<i>bhakti</i> or exclusive loving devotion to the Supreme Lord.  The  discovery  of
-the <i>atma</i> or immortal soul within the etheric heart is  being  emphasised  by
-acquiring knowledge and performing appropriately for self- realisation.
-<p>
-<p>
-<p>
+It should be understood that  aspirants  in  all  four  categories  will  be
+forced to experience endless reincarnation  until  one  finally  evolves  to
+attainment of devotion to Lord Krishna.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-Since the  Supreme  Lord  Krishna  is  achieved  by  experiencing  spiritual
-knowledge, He is understood to be the goal of all knowledge. Know  the  <i>atma</i>
-or immortal soul by experiencing the  <i>atma</i>.  As  the  Supreme  Lord  is  the
-bestower of the <i>atma</i> and the <i>atma</i> is only knowable through Him  then  He  is
-the most worthy object of knowledge. If the  Supreme  Lord  is  knowable  by
-other means then the words He spoke earlier  in  verse  13  <i>jneyam  yat  tat</i>
-meaning all that which is worth knowing would make  this  verse  repetitive.
-Now He affirms here the means to achieve what He revealed  as  the  goal  in
-verse 13 negating any contradiction. The Supreme Lord knows Himself  by  His
-Self alone. His knowing is not dependent on any external source  outside  of
-Himself. In special cases He is  able  to  be  known  by  others  as  it  is
-possible to know Him by His desire and also by realization of the <i>atma.</i>  But
-only by His grace can this manifest and without His grace knowledge  of  Him
-can never manifest. The  Supreme  Lord  is  self  illuminated,  He  is  self
-contented and He is equal towards all. Therefore as He is  the  foremost  of
-all, He is the object of attainment  for  all  and  all  <i>jivas</i>  or  embodied
-beings should seek His grace for only by His grace can He be known.
-<p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
 <p>
 <p>
 <p>
 <p>
-Lights are those found in the sun, the stars, fire, gems, etc. The light  of
-these lights denotes that which illuminates all these or that by which  they
-are perceived denoting the light of consciousness by  which  all  luminaries
-such as the sun and the stars are seen to shine. As for  human  made  lights
-such as  lamps,  torches  and  the  rest,  they  only  dispel  the  darkness
-intervening  between  the  sense  of  sight  and  its   object   and   their
-illuminating power is limited to the sense perception of  sight.  But  there
-is no limitation with the light and sight of  the  <i>atma</i>  once  it  has  been
-realised. The words <i>tamasah param</i> means beyond  darkness  referring  to  the
-darkness  of  <i>tamas</i>  or  ignorance  designating  the  subtle   but   limited
-conditions  of  <i>prakriti</i>  or  the  material  substratum  pervading  physical
-existence; but the <i>atma</i> or immortal soul being eternal is transcendental  to
-any conditions or limitations.  The  words  <i>jnanam  jneyam</i>  means  knowledge
-worthy of being known comprehensible by the intellect and  characterised  by
-consciousness. The words <i>jnana  gamyam</i>    means  wisdom  accessible  through
-knowledge or that wisdom gained from embodying and  living  the  20  virtues
-given in verses 8 through 12 beginning with <i>amanitvam</i>  or  reverence.  These
-exalted virtues which  constitute  spiritual  knowledge  are  the  means  to
-achieve the wisdom of the <i>atma</i>. As the <i>atma</i> is situated within the heart  of
-all sentient beings, the Supreme Lord Krishna known as  <i>Parabrahma</i>  is  <i>hrdi</i>
-<i>sarvasy dhisthitam</i> situated in the heart of all sentient beings.
+Only humans who are <i>sukritino</i> meaning righteous and  virtuous  surrender  to
+the Supreme Lord Krishna becoming exclusively devoted to  Him.  Such  humans
+are of four classes distinguished by their different grades  of  virtue.  In
+the order they are given each succeeding  class  is  more  superior  to  the
+preceding one due  to  being  more  elevated  and  exalted  making  it  more
+meritorious. The four are:
+<p>
+<p>
+<p>
+<p>
+<p>
+<i>artto</i> are those impoverished and distressed after losing all  wealth  and
+power and desires to have the Supreme Lord recover it for  them  and  re-
+instate it.
+<p>
+<p>
+<i>atharthi</i> are those who having never enjoyed power and fortune desire  the
+Supreme Lord to give them the ability to acquire them.
+<p>
+<p>
+<i>jijnasur</i> are the seekers of self-realisation who are anxious to know  the
+<i>atma</i> or soul in its  state  separate  from  matter  for  the  benefit  of
+escaping transmigration the cycle of birth and  death  and  pray  to  the
+Supreme Lord for the benediction to discover this.
+<p>
+<p>
+<i>jnani</i> are the seekers  of  knowledge  concerning  the  Supreme  Lord  who
+realise that the <i>atma</i>  is  essentially  characterised  by  its  being  an
+eternal ingredient of the  Supreme  Lord  residing  within  all  embodied
+beings. Such a one considers the Supreme Lord as their goal of  life  and
+attainment of Him the fulfilment of all ambitions.
 <p>
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-The Supreme Lord Krishna known as <i>Parabrahma</i> is the source  of  the  <i>brahman</i>
-or  spiritual  substratum  pervading  all  existence.   It  is  solely   His
-effulgence that illuminates all luminaries  such  as  the  sun,  the  stars,
-lightning, jewels,  etc.  with  light.  These  luminaries  only  dispel  the
-darkness hindering the vision between the eyes  and  their  objects  whereas
-the knowledge of a mere  spark  of  the  Supreme  Lord  being  the  <i>atma</i>  or
-immortal  soul  illuminates  all  physical  lights  and  without  the   <i>atma</i>
-knowledge of illumination is not possible. That is why the <i>atma</i> is  said  to
-be totally beyond the darkness of <i>maya</i> which  is   the  deluding,  external,
-illusory potency of the Supreme Lord. The illusory nature of  <i>maya</i>  is  ever
-changing by nature whereas the <i>atma</i> is eternal and unchanging. The  <i>atma</i>  is
-itself  knowledge as well as the goal of all knowledge and  is  most  worthy
-of attaining by the acquisition of knowledge. The qualifications  to  obtain
-this knowledge is found in the 20 excellent  virtues  expounded  earlier  in
-verse 8 to 12 beginning with reverence,  humility  etc.  which  are  in  the
-hearts  of  all  human  beings  albeit  dormant   or   active.   The   words
-<i>hrdi</i> <i>sarvasya  dhisthitam</i>  emphasises  that  the  Supreme  Lord  Krishna  is
-specially situated in the etheric heart of all living entities.
+The  righteous  and  virtuous  worship  the  Supreme  Lord  with  faith  and
+devotion. What Lord Krishna is saying is that four types of virtuous  humans
+who have accumulated merit from righteous deeds from previous lives  worship
+Him according to the gradation of the merits.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 13, verse 18 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 18<br><dt><center><dt><a href="verse-13-11.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-13-13.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<i>1) artto</i> are those afflicted by problems such as disease or enemies. If  one
+has enough accumulated merit then  they  will  have  the  opportunity  to
+worship the Supreme Lord to alleviate their distress.  Examples  of  this
+from Vedic scriptures were the  many  pious  kings   imprisoned  by  King
+Jarasandha who prayed to the  Supreme  Lord  to  be  delivered  and  Lord
+Krishna rescued them. Also Queen Draupadi  prayed  to  Lord  Krishna  for
+succour when she was being disrobed at the Kaurava  assembly  hall  under
+the insistence of Duryodhana and Lord Krishna protected  her  honor.  The
+elephant king Gajendra was seized by a terrible crocodile and just before
+succumbing he prayed to the Supreme Lord for aid and was saved  and  last
+but not least when Shiva gave the head exploding benediction to the demon
+Vkra who immediately began pursuing  him  to  test  it  then  Shiva  took
+shelter of Lord Krishna who terminated the demons  life.  All  these  are
+examples of those whose previous merit qualified  them  to  pray  to  the
+Supreme Lord. Otherwise not having sufficient merit they  would  only  be
+able to pray to Rudra or Ganesh or Kali or even some impersonal  phantasm
+god.
+<i>2) jijnasur</i> or liberation seekers like Videha, Mucukunda and King Yadu  also
+had enough acquired merit from prvious lives to qualify  for  worship  of
+the Supreme Lord.
+<i>3) artharthi</i> or the seekers of wealth who desire to  regain  the  rulership,
+position of power and enjoyments from which they had  before  and  became
+deprived. Examples of these from Vedic scriptures are Dhruva, Sugriva and
+Vibhisana. The worship of these three is tinged with selfish  motivations
+but as soon as  their  wishes  were  fulfilled  they  achieved  <i>moksa</i>  or
+liberatiion from material existence and overcame the cycle of  birth  and
+death.
+<i>4) jnani's</i> or those of spiritual wisdom who  have  no  selfish  motives  are
+endowed with discriminative intelligence from ascertaining the reality of
+the <i>atma</i> or soul and its  relationship  as  an  eternal  portion  of  the
+Supreme Lord. They also achieve <i>moksa</i> but they continue on to worship the
+Supreme Lord joining Him in His eternal pastimes. Great  beings  of  this
+calibre are the Kumaras, Narada Muni, Sukadeva, Bhishma and Uddhava.
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 7, verse 16 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 16<br><dt><center><dt><a href="verse-07-15.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-07-17.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
