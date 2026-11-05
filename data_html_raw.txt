@@ -1,184 +1,92 @@
-<html><head><title>Bhagavad-Gita: Chapter 8, Verse 3</title></head>
+<html><head><title>Bhagavad-Gita: Chapter 14, Verse 8</title></head>
 <body text=#f8e7cd bgcolor=#000066 link=#e8e7fd vlink=#f0e0c0>
-<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 8</font></b></td><td valign=middle align=center><b><font size=5>Attainment of Salvation</font></b></td><td valign=middle align=center><b><font size=5>Verse 3</font></b></td></tr><tr>
-<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08-sel.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-08-03-1.png" width=350></center>
+<table cellpadding=0 cellspacing=6 border=0 width=100%><tr bgcolor=#8080c0><td align=center width=140><b><font size=5>Chapter 14</font></b></td><td valign=middle align=center><b><font size=5>The Three Qualities of Material Nature</font></b></td><td valign=middle align=center><b><font size=5>Verse 8</font></b></td></tr><tr>
+<td valign=top><a href="../"><img src="../Images/header-icon-120x50.jpg" border=0></a><p><dt><center><h2>Chapters</h2></center><p><center><a href="chapter-01.html"><img src="chapter-button-01.gif" border=0></a> <dt><a href="chapter-02.html"><img src="chapter-button-02.gif" border=0></a> <dt><a href="chapter-03.html"><img src="chapter-button-03.gif" border=0></a> <dt><a href="chapter-04.html"><img src="chapter-button-04.gif" border=0></a> <dt><a href="chapter-05.html"><img src="chapter-button-05.gif" border=0></a> <dt><a href="chapter-06.html"><img src="chapter-button-06.gif" border=0></a> <dt><a href="chapter-07.html"><img src="chapter-button-07.gif" border=0></a> <dt><a href="chapter-08.html"><img src="chapter-button-08.gif" border=0></a> <dt><a href="chapter-09.html"><img src="chapter-button-09.gif" border=0></a> <dt><a href="chapter-10.html"><img src="chapter-button-10.gif" border=0></a> <dt><a href="chapter-11.html"><img src="chapter-button-11.gif" border=0></a> <dt><a href="chapter-12.html"><img src="chapter-button-12.gif" border=0></a> <dt><a href="chapter-13.html"><img src="chapter-button-13.gif" border=0></a> <dt><a href="chapter-14.html"><img src="chapter-button-14-sel.gif" border=0></a> <dt><a href="chapter-15.html"><img src="chapter-button-15.gif" border=0></a> <dt><a href="chapter-16.html"><img src="chapter-button-16.gif" border=0></a> <dt><a href="chapter-17.html"><img src="chapter-button-17.gif" border=0></a> <dt><a href="chapter-18.html"><img src="chapter-button-18.gif" border=0></a> <dt></center></td><td valign=top><p><center><p><img src="png/verse-14-08-1.png" width=350></center>
 
-<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/08-03.mp3">Your browser does not support audio element</audio></div>
-<p><center><h2>Transliteration</h2><p><img src="png/verse-08-03-2.png" width=400></center>
+<div align=center>Sanskrit Vocal<br><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Sanskrit/verses/14-08.mp3">Your browser does not support audio element</audio></div>
+<p><center><h2>Transliteration</h2><p><img src="png/verse-14-08-2.png" width=400></center>
 
-<p><center><h2>Anvaya</h2><p><img src="png/verse-08-03-3.png" width=550></center>
+<p><center><h2>Anvaya</h2><p><img src="png/verse-14-08-3.png" width=550></center>
 
-<p><center><h2>Translation</h2><p><img src="png/verse-08-03-4.png" width=550></center>
+<p><center><h2>Translation</h2><p><img src="png/verse-14-08-4.png" width=550></center>
 
-</td><td width=100 valign=top><dt><center><dt><a href="verse-08-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
-<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/08-03.mp3"></audio></td></tr>
-<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/08-03.mp3"></audio></td></tr>
+</td><td width=100 valign=top><dt><center><dt><a href="verse-14-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+<p><br><br><div align=center>Audio</div><table><tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Hindi</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hindi/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/india-small.jpg" border=1 width=15 height=12></td><td>Bengali</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Bengali/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/usa-small.jpg" border=1 width=15 height=12></td><td>English</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/English/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/nethland-small.jpg" border=1 width=15 height=12></td><td>Dutch</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Dutch/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/germany-small.jpg" border=1 width=15 height=12></td><td>German</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/German/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/greece-small.jpg" border=1 width=15 height=12></td><td>Greek</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Greek/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/china-small.jpg" border=1 width=15 height=12></td><td>Chinese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Chinese/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/japan-small.jpg" border=1 width=15 height=12></td><td>Japanese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Japanese/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/france-small.jpg" border=1 width=15 height=12></td><td>French</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/French/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/spain-small.jpg" border=1 width=15 height=12></td><td>Spanish</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Spanish/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/italy-small.jpg" border=1 width=15 height=12></td><td>Italian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Italian/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/brazil-small.jpg" border=1 width=15 height=12></td><td>Portuguese</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Portuguese/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/israel-small.jpg" border=1 width=15 height=12></td><td>Hebrew</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Hebrew/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/saudi-small.jpg" border=1 width=15 height=12></td><td>Arabic</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Arabic/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/serbia-small.jpg" border=1 width=15 height=12></td><td>Serbian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Serbian/verses/14-08.mp3"></audio></td></tr>
+<tr><td><img src="Images/russia-small.jpg" border=1 width=15 height=12></td><td>Russian</td><td><audio controls><source type="audio/mpeg" src="/AudioArchive/Gita/Russian/verses/14-08.mp3"></audio></td></tr>
 </table><p>
 </td></tr>
 </table></center>
 </td></tr></table>
 <br><div align=center><h2>Commentaries of the Four Authorized Vaisnava Sampradayas</h2><b>as confirmed in the Garga Samhita Canto 10, Chapter 61, Verses 23, 24, 25, 26</b></div><table width=100% cellspacing=16 cellpadding=6><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Rudra Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic06-2.jpg" width=60><br><font size=1>Visnuswami</font></td></tr></table><center>Sridhara Swami's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-In response to the questions inquired about  in  the  previous  two  verses,
-Lord Krishna answers them in the order in which  they  were  asked  in  this
-verse an the next two  beginning  with  the  words  <i>aksaram  paramam  brahma</i>
-meaning the supreme, imperishable ultimate truth. That which  is  immutable,
-which is constant, which is indestructible. The indestructible principle  is
-the highest because it is eternal, it is the primal cause  of  all  creation
-and is known as the  <i>brahman</i>  or  the  spiritual  substratum  pervading  all
-existence. In  the  Brihad-aranyaka  Upanisad  III.VIII.VIII  we  find:  The
-knowers of the <i>brahman</i> state that the immutable <i>brahman</i> is that which is  to
-be known. This  immutable  <i>brahman</i>  manifests  itself  within  the  <i>atma</i>  or
-individual soul residing  within  all  sentient  beings  and  is  called  as
-<i>svabhava.</i> The same principle existing as  the  monitor  presiding  over  the
-physical body is designated by the term <i>adhyatma</i> which is the origin of  all
-created beings and their development as well as  their  evolution  from  one
-lifetime to the next  lifetime.  The  Manu  Samhita  III.LXXVI  states:  The
-oblations of <i>ghee</i> or clarified butter offered into the  sacred  fire  ascend
-up and reach <i>Surya,</i> the sun god in full, from which results in  rains,  from
-rains grow grains and  from  grains  beings.  That  <i>yagna</i>  or  offerings  in
-propitiation consisting of putting <i>ghee</i> and <i>havi</i> or sanctified  seed  grains
-into the sacred  fire  with  sanctified  Vedic  mantras  to  propitiate  the
-demigods causing the development and benefit  of  all  beings  is  known  as
-<i>karma</i> or  actions.  This  includes  by  implication  all  ritualistic  Vedic
-activities.
-<p>
-<p>
-<p>
+The binding nature of <i>tamas</i> or mode of  ignorance  and  its  characteristics
+are now stated by Lord Krishna. The word <i>tamas</i> means darkness and is  arises
+from that  part  of  <i>prakriti</i>  or  the  material  substratum  that  pervades
+physical existence, that possesses the power of <i>mohanam</i>   being  that  which
+deludes into illusion, concealing the true perception. This  power  has  the
+ability to confound and bewilder all <i>jivas</i> or embodied beings.  Hence  <i>tamas</i>
+binds imperiously the <i>jivas</i> through <i>pramada</i> or madness, <i>alasya</i> or  indolence
+and <i>nidrabhis</i> or sleep. <i>Pramada</i> can also includes  listlessness  and  mental
+fragmentation. <i>Alasya</i> can also include laziness and dullness  and  <i>nidrabhis</i>
+can also include inaction of the mind due to inebriation or exhaustion.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Brahma Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic05-2.jpg" width=60><br><font size=1>Madhvacarya</font></td></tr></table><center>Madhvacarya's Commentary</center><p><div align=justify><p>
 <p>
-<p>
-<p>
-<p>
-Hari Om! The renunciation of action and the  focused  concentration  of  the
-mind at the time  of  death  is  discussed  in  this  chapter.  The  supreme
-absolute  and  immutable  truth  is  the  <i>brahman</i>  or  spiritual  substratum
-pervading all existence and without changing its   <i>svabhavah</i> or  the  nature
-which causes development and evolution which also manifests as the  <i>atma</i>  or
-soul. Thus to remove any doubts about the paramount importance of the  Vedic
-scriptures it is sometimes referred to as <i>adhyatman</i> or that  which  elevates
-the <i>atma</i> or soul, also that by which the <i>atma</i>  is  revealed.  Similarly  the
-<i>jivas</i> or embodied beings are also potentially <i>svabhavah</i> by  helping  oneself
-to elevate themselves. Therefore the <i>jiva</i> that  which  is  made  up  of  its
-innate nature. Since the attitude of  the  <i>jiva</i>  is  always  to  evolve  the
-innate nature it is very beneficial. Associated  with  internal  organs  the
-word <i>bhavah</i> indicating gross  material  elements  is  used;  but  since  the
-internal organs do not all respond similarly  in  the  same  manner  another
-interpretation of <i>bhava</i> could be not connected to  gross  material  elements
-and that would fits with the word <i>svabhavo</i> which  refers  to  the  eternally
-pure <i>atma</i> or soul and connotes our eternal  relationship  with  the  Supreme
-Lord Krishna. The potency of the Supreme Lord which manifests  the  creation
-of gross material elements and the living entities to be elevated  is  known
-as <i>visargah</i> and is the special creative activity of the Supreme Lord.
-<p>
-<p>
-<p>
+That by which  one  becomes  obscure  is  called  born  of  <i>ajnana</i>  or  non-
+awareness. This is what is indicated by the words <i>alasya</i>  or  indolence  and
+<i>nibhadhnati</i> or iertia.
 <p>
 </div></td></tr><tr><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Sri Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic07-2.jpg" width=60><br><font size=1>Ramanuja</font></td></tr></table><center>Ramanuja's Commentary</center><p><div align=justify><p>
-<p>
-<p>
-<p>
-<p>
-What is designated in verse one as  <i>tad  brahma</i>  or  the  supreme  spiritual
-substratum pervading all existence is the <i>aksaram  paramam</i>  or  the  supreme
-indestructible <i>atma</i> or soul.  <i>Aksaram</i> is that which is not subject to  decay
-or imperishable and is the collective given by  the  <i>ksetrajnanis</i>  or  those
-knowledgeable of the field of action or the informers of  uninformed  matter
-and <i>atma</i>  embodied  beings.  The  Subala  Upanisad  II  states  <i>avyakta</i>  the
-indiscernible compound of spirit and  matter  merges  into  the  <i>aksara</i>  the
-indivisible compound which descends into <i>tamas</i> or nescience. <i>Parama  aksaram</i>
-is the superior indestructible <i>atma</i> nature which  is  completely  disengaged
-from <i>prakriti</i> or the material substratum  and  not  connected  to  even  the
-<i>aksaram</i>  which  comprises  embodied  beings  and  combines  both.  The  word
-<i>svabhavo</i> is also called <i>adhyatma</i> and indicates subtle material elements  and
-its accompanying erratic tendencies. These subtle elements are what  adheres
-to the <i>atma</i> in the descent of  the  supra  subtle  quintuple  process  from
-spirit to matter, the last being the fifth stage which becomes  the  seminal
-fluids referred to in the <i>Panca-agni-vidva</i> or  five-fold  sacrificial  fires
-which are described in the Chandogya  Upanisad:V.III-X  which  is  essential
-and has to be known by all aspirants.  Both  <i>aksara</i>  and  <i>adhyatma</i>  must  be
-realised by the <i>mumumkshus</i> or emancipation seekers for <i>moksa</i>  or  liberation
-from material existence as <i>aksara</i> the immortal soul is that what  is  worthy
-of selection and <i>adhyatma</i> the  embodied  being  incarcerated  in  matter  is
-worthy of rejection. The sequence which manifests this descent  into  matter
-by the <i>jiva</i> or embodied being is called <i>visargah</i> and <i>karma</i>  refers  to  that
-specific action which activates a corresponding reaction and determines  the
-destination and manifestation of all creatures into embodied states  whether
-human,  animal,  fish  etc.  The  final   action   which   actually   causes
-manifestation into material existence is known as procreation between  males
-and females of different species. The Vedic scriptures declare that  in  the
-fifth stage the male discharges  the  sacrificial  water  into  the  females
-sacrificial fire and a new embodied being is created. This act is  known  as
-<i>karma.</i> The knowledge of <i>karma, aksara</i> and <i>adhyatma</i> are all prerequisites  of
-knowledge absolutely essential for those seeking <i>moksa</i>  or  liberation  from
-the material existence. Otherwise one will be ignorant of what is worthy  of
-rejection and what is worthy of attention and unable  to  properly  interact
-accordingly. An example is following in verse 11 concerning  <i>brahmacarya</i>  or
-celibacy.
-<p>
-<p>
-<p>
+Lord Krishna describes the  word  <i>ajnana</i>  meaning  ignorance  which  is  the
+antithesis of wisdom. The word  <i>jnana</i>  meaning  knowledge  is  the  precise,
+accurate perception whereas <i>ajnana</i> is the perverted, inaccurate  perception.
+The word <i>tamas</i> means darkness denoting the  darkness  of  ignorance  and  is
+diametrically opposite to the light of knowledge. The word <i>mohanam</i>  is  that
+which deludes into illusion and the darkness of  ignorance.  This  <i>tamas</i>  is
+also the  cause  of  <i>pramada</i>  or  madness  and  listlessness  which  is  the
+inability to focus having a fragmented attention span. It is also the  cause
+of  <i>alasya</i> or  indolence  slothlike  laziness  which  is  the  inability  to
+properly execute any  endeavor  properly  and  <i>nidrabhih</i>  or  sleep  is  the
+disinclination of the senses to function  terminating  all  activities.  All
+these things <i>nibadhanti</i> or binds  one  to  the  material  existence  without
+reprieve.The  sublation  of  the  external  senses  constitutes  the   dream
+state;but when the mind is  also  sublated  then  the  dream  state  becomes
+sleep.
 <p>
 </div></td><td style="border: 1px solid" bgcolor=#404080 valign=top width=50%><div align=center><u>Kumara Vaisnava Sampradaya:</u></div><p><table align=left hspace=20 vspace=8 ><tr><td align=center><img hspace=8 src="/DiscipleSuccession/pics/icons/pic08-2.jpg" width=60><br><font size=1>Nimbaditya</font></td></tr></table><center>Kesava Kasmiri's Commentary</center><p><div align=justify><p>
-In answer to these questions the  Supreme  Lord  Krishna  replies  in  three
-verses. He answers three of the questions with  the  words  <i>aksaram  paramam</i>
-meaning the supreme indestructible reality which is imperishable  and  never
-is destroyed and is the essence in  totality of all <i>atmas</i> or  souls  of  all
-embodied beings. The Brhadaranyaka Upanisad IV.V.XIV states  that  the  <i>atma</i>
-is eternal and verily indestructible. The <i>jiva</i> or embodied  being  is  in  a
-perpetual state of bondage and is explained in the Subala Upanisad as  such:
-The unmanifest descends into the embodied soul and the embodied  soul  sinks
-into the darkness of nescience. But in this verse the word  <i>paramam</i>  meaning
-supreme qualifies the term <i>aksaram</i>  and so its  imperishable  nature  refers
-to the <i>atma</i> not associated with or disconnected from primordial  matter  and
-as such the only perception manifesting is realisation of the <i>atma</i>  and  one
-becomes  omniscient. Although in scriptural passages such  as  Brhadaranyaka
-Upanisad IV.IV.XXII stating O`Garga the  <i>brahman</i>  or  spirirtual  substratum
-pervading all existence is verily indestructible. In this case it refers  to
-the ultimate reality; but not here because Lord Krishna Himself  will  speak
-later in chapter  15,  verse  16  and  17of  this  indestructible  as  being
-different from the two types of created beings those who are perishable  and
-those who are imperishable as He is exalted and being  distinctly  different
-from both is designated as the Supreme Being  and  Supreme  Personality.  So
-here <i>akarsam</i> refers to the individual <i>atma</i> and when matter  merges  with  it
-then it becomes embodied  and  is  referred  to  as  <i>adhyatma</i>  which  is   a
-combination of matter, senses, intelligence and subtle elements  surrounding
-enveloping the <i>atma.</i> Both the <i>atma</i> and matter should  be  well  comprehended
-by those aspirants for <i>moksa</i> or liberation from material existence in  order
-to know what in  life  should  be  accepted  and  what  in  life  should  be
-rejected. Also one should be clear  as  to  the  discharge  of  one's  daily
-duties and <i>yagna</i> or worship in propitiation and  whether  such  propitiation
-should be offered to demigods like <i>Indra</i> the celestial chief  of  <i>Surya</i>  the
-sungod or exclusively to the Supreme Lord.  All  actions  of  various  types
-offered to anything other than the Supreme Lord have a reaction attached  to
-them and are known as <i>karma</i> or reactions to actions  and  by  these  actions
-all types of movable and immovable beings are  coming  into  existence.  The
-Manu Samhita III. LXXVI states that  the  oblations  of  <i>ghee</i>  or  clarified
-butter and <i>havi</i> or seed grains reach unto the sun where results in rain  and
-from rain grows food and from food human beings. This should  be  understood
-by the aspirants for <i>moksa</i> with discrimination as one of the  Vedic  rituals
-not required for them to accept.
 <p>
-</div></td></tr></table><center>Thus ends commentaries of chapter 8, verse 3 of the Srimad Bhagavad-Gita.</center>
-<p><center>Verse 3<br><dt><center><dt><a href="verse-08-02.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-08-04.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
+Now Lord Krishna defines <i>tama guna</i> or the mode of ignorance. The word  <i>tamas</i>
+means darkness  and is  typified by nescience and inertia. It is subject  to
+the greatest delusion that imagines a permanent and pleasant  experience  in
+a  temporary  and  unpleasant  existence.  Those  humans  that   look   upon
+themselves as being their physical body like the animals do and  who  accept
+their physical body as being all that they are all  hopelessly  situated  in
+<i>ajnana</i> or absence of knowledge which is the antithesis of <i>jnana</i>  or  wisdom.
+<i>Jnana</i>  is  the  accurate  precise  understanding  whereas  <i>ajnana</i>   is   the
+inaccurate perverted understanding. The inaccurate  perverted  understanding
+binds the <i>jiva</i> or embodied being through <i>pramada</i> or madness  which  includes
+listlessness  and  bewilderment,  <i>alasya</i>   or   indolence   which   includes
+sluggishness and laziness and <i>nidrbhis</i> or sleep which includes  inebriation.
+Sleep is the cessation of bodily organs arising  from  mental  and  physical
+exhaustion. All of these are permanently situated in <i>tama guna</i> and  invoking
+ignorance tightly bind the <i>jiva.</i>
+<p>
+<p>
+</div></td></tr></table><center>Thus ends commentaries of chapter 14, verse 8 of the Srimad Bhagavad-Gita.</center>
+<p><center>Verse 8<br><dt><center><dt><a href="verse-14-07.html"><img src="chapter-button-prev3-small.gif" border=0></a> <a href="verse-14-09.html"><img border=0 src="chapter-button-next3-small.gif"></a></center>
 </center><br><br><center>Copyright &copy; Bhagavad-Gita Trust 1998-2015</center>
 </td></tr></table>
 </body></html>
